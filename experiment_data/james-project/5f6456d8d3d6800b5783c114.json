@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/core/src/main/java/org/apache/james/core/MimeMessageCopyOnWriteProxy.java",
+ "prod_sha1": "ec72dbfade66d7d4a642c2036a28b95dd03b9824",
+ "repository": "james-project",
+ "test_path": "server/container/core/src/test/java/org/apache/james/core/MimeMessageCopyOnWriteProxyTest.java",
+ "test_sha1": "73426233fe193517275814337a6c042c30040340",
+ "commit_between": 18,
+ "prod_qual": "org/apache/james/core/MimeMessageCopyOnWriteProxy.java",
+ "prod_time": {
+  "$date": 1499071233000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/core/MimeMessageCopyOnWriteProxyTest.java",
+ "test_time": {
+  "$date": 1499079051000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 2
+}

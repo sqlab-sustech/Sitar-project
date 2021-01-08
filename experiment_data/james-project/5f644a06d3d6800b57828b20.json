@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/webadmin/src/main/java/org/apache/james/webadmin/WebAdminConfiguration.java",
+ "prod_sha1": "9db1633a54787945706da2a4b3edd746f4757f74",
+ "repository": "james-project",
+ "test_path": "server/protocols/webadmin/src/test/java/org/apache/james/webadmin/WebAdminConfigurationTest.java",
+ "test_sha1": "9db1633a54787945706da2a4b3edd746f4757f74",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/webadmin/WebAdminConfiguration.java",
+ "prod_time": {
+  "$date": 1489401086000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/webadmin/WebAdminConfigurationTest.java",
+ "test_time": {
+  "$date": 1489401086000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 4
+}

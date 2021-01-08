@@ -1,0 +1,32 @@
+{
+ "prod_path": "api/src/org/apache/cloudstack/api/BaseCmd.java",
+ "prod_sha1": "dd55095fd5a1e3b9ea4e6f10f00e47495d7fb167",
+ "repository": "cloudstack",
+ "prod_qual": "org/apache/cloudstack/api/BaseCmd.java",
+ "prod_time": {
+  "$date": 1398734173000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "api/test/org/apache/cloudstack/api/BaseCmdTest.java",
+ "test_qual": "org/apache/cloudstack/api/BaseCmdTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

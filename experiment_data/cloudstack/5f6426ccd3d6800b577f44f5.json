@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/network/vpc/VpcManagerImpl.java",
+ "prod_sha1": "fa74b3a300a679f3e47a3fac13fab323cda34cf3",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/network/vpc/VpcManagerImpl.java",
+ "prod_time": {
+  "$date": 1406583710000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/network/vpc/VpcManagerImplTest.java",
+ "test_qual": "com/cloud/network/vpc/VpcManagerImplTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

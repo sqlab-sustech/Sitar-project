@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/backtype/storm/spout/CheckpointSpout.java",
+ "prod_sha1": "4623d8f87f044a9a8737a55bd32f955485900ce1",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/backtype/storm/spout/CheckpointSpoutTest.java",
+ "test_sha1": "4623d8f87f044a9a8737a55bd32f955485900ce1",
+ "commit_between": 0,
+ "prod_qual": "jvm/backtype/storm/spout/CheckpointSpout.java",
+ "prod_time": {
+  "$date": 1448881570000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/backtype/storm/spout/CheckpointSpoutTest.java",
+ "test_time": {
+  "$date": 1448881570000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 6,
+ "add_call_line": 68,
+ "add_classname_line": 1,
+ "add_condition_line": 19,
+ "add_field_line": 19,
+ "add_import_line": 15,
+ "add_packageid_line": 1,
+ "add_parameter_line": 24,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

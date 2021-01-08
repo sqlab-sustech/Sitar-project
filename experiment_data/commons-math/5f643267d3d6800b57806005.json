@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/random/Well44497b.java",
+ "prod_sha1": "669cdc671975b32a8d052bcdffb284ba27d508fe",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/random/Well44497b.java",
+ "prod_time": {
+  "$date": 1285020367000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/random/Well44497bTest.java",
+ "test_qual": "org/apache/commons/math/random/Well44497bTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

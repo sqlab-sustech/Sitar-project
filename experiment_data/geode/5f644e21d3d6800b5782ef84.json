@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/web/shell/HttpOperationInvoker.java",
+ "prod_sha1": "db4a493efc09600bf0a9778d5274c09b23b16644",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/management/internal/web/shell/HttpOperationInvoker.java",
+ "prod_time": {
+  "$date": 1506635091000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/web/shell/HttpOperationInvokerTest.java",
+ "test_qual": "org/apache/geode/management/internal/web/shell/HttpOperationInvokerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 9,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 18,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 5,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

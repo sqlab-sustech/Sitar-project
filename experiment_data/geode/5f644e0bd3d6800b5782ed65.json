@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/result/DownloadFileResult.java",
+ "prod_sha1": "9b308b6cc2fa9b7324ea62622906bdf0913db768",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/management/internal/cli/result/DownloadFileResult.java",
+ "prod_time": {
+  "$date": 1502397193000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/result/DownloadFileResultTest.java",
+ "test_qual": "org/apache/geode/management/internal/cli/result/DownloadFileResultTest.java",
+ "add_annotation_line": 8,
+ "add_call_line": 1,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 2,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 9,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

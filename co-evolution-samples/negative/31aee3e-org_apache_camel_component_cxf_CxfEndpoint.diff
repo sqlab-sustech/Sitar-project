@@ -1,0 +1,31 @@
+diff --git a/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java b/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java
+index 52035d1778e..2369c2dacd4 100644
+--- a/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java
++++ b/components/camel-cxf/src/main/java/org/apache/camel/component/cxf/CxfEndpoint.java
+@@ -549,6 +549,10 @@ public class CxfEndpoint extends DefaultEndpoint implements HeaderFilterStrategy
+         serviceName = service;
+     }
+ 
++    public void setServiceName(String service) {
++        setServiceName(QName.valueOf(service));
++    }
++
+     public QName getServiceName() {
+         return serviceName;
+     }
+@@ -560,10 +564,15 @@ public class CxfEndpoint extends DefaultEndpoint implements HeaderFilterStrategy
+     public void setPortName(QName port) {
+         portName = port;
+     }
++
+     public void setEndpointName(QName port) {
+         portName = port;
+     }
+ 
++    public void setEndpointName(String port) {
++        setEndpointName(QName.valueOf(port));
++    }
++
+     public String getDefaultOperationName() {
+         return defaultOperationName;
+     }

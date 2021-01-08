@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/services/src/main/java/org/usergrid/security/providers/PingIdentityProvider.java",
+ "prod_sha1": "d1f0223ee0292f03635acd8fc2b069d98ba18fc6",
+ "repository": "usergrid",
+ "test_path": "stack/services/src/test/java/org/usergrid/security/providers/PingIdentityProviderTest.java",
+ "test_sha1": "d1f0223ee0292f03635acd8fc2b069d98ba18fc6",
+ "commit_between": 0,
+ "prod_qual": "org/usergrid/security/providers/PingIdentityProvider.java",
+ "prod_time": {
+  "$date": 1371594580000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/usergrid/security/providers/PingIdentityProviderTest.java",
+ "test_time": {
+  "$date": 1371594580000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 33,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 4,
+ "add_import_line": 14,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

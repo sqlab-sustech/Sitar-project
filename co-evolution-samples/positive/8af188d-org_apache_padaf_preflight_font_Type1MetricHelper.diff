@@ -1,0 +1,16 @@
+diff --git a/preflight/src/main/java/org/apache/padaf/preflight/font/Type1MetricHelper.java b/preflight/src/main/java/org/apache/padaf/preflight/font/Type1MetricHelper.java
+index e582878c5..ea144359d 100644
+--- a/preflight/src/main/java/org/apache/padaf/preflight/font/Type1MetricHelper.java
++++ b/preflight/src/main/java/org/apache/padaf/preflight/font/Type1MetricHelper.java
+@@ -1019,6 +1019,11 @@ public class Type1MetricHelper {
+ 		Type1GlyphDescription glyph = this.labelToMetric.get(label);
+ 		if (glyph != null) {
+ 			return glyph.getWidth();
++		} else {
++			glyph = this.labelToMetric.get(NOTDEF);
++			if (glyph != null) {
++				return glyph.getWidth();
++			} 	
+ 		}
+ 
+ 		return 0;

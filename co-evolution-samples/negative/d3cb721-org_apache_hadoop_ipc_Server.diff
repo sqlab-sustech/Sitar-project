@@ -1,0 +1,15 @@
+diff --git a/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Server.java b/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Server.java
+index 90532628915..8c578fd107e 100644
+--- a/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Server.java
++++ b/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/ipc/Server.java
+@@ -2021,6 +2021,10 @@ public void run() {
+           if (LOG.isDebugEnabled()) {
+             LOG.debug(Thread.currentThread().getName() + ": " + call + " for RpcKind " + call.rpcKind);
+           }
++          if (!call.connection.channel.isOpen()) {
++            LOG.info(Thread.currentThread().getName() + ": skipped " + call);
++            continue;
++          }
+           String errorClass = null;
+           String error = null;
+           RpcStatusProto returnStatus = RpcStatusProto.SUCCESS;

@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-cassandra/src/main/java/org/apache/james/domainlist/cassandra/CassandraDomainList.java",
+ "prod_sha1": "1dafd8849c45d79f908a63efe8dbb789bf7dfad2",
+ "repository": "james-project",
+ "test_path": "server/data/data-cassandra/src/test/java/org/apache/james/domainlist/cassandra/CassandraDomainListTest.java",
+ "test_sha1": "1dafd8849c45d79f908a63efe8dbb789bf7dfad2",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/domainlist/cassandra/CassandraDomainList.java",
+ "prod_time": {
+  "$date": 1499343171000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/domainlist/cassandra/CassandraDomainListTest.java",
+ "test_time": {
+  "$date": 1499343171000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 32,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 6,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 6,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 3,
+ "del_import_line": 5,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 6
+}

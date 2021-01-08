@@ -1,0 +1,12 @@
+diff --git a/hbase-client/src/main/java/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.java b/hbase-client/src/main/java/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.java
+index eebe4bdb12..b1b52b1a95 100644
+--- a/hbase-client/src/main/java/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.java
++++ b/hbase-client/src/main/java/org/apache/hadoop/hbase/shaded/protobuf/ProtobufUtil.java
+@@ -3211,7 +3211,6 @@ public final class ProtobufUtil {
+       for (ServerName serverName : status.getServers()) {
+         LiveServerInfo.Builder lsi =
+             LiveServerInfo.newBuilder().setServer(ProtobufUtil.toServerName(serverName));
+-        status.getLoad(serverName);
+         lsi.setServerLoad(status.getLoad(serverName).obtainServerLoadPB());
+         builder.addLiveServers(lsi.build());
+       }

@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-server/src/main/java/org/apache/storm/scheduler/resource/normalization/NormalizedResourceRequest.java",
+ "prod_sha1": "4f110e3a0934f427573f81f1922562a6a1910e77",
+ "repository": "storm",
+ "test_path": "storm-server/src/test/java/org/apache/storm/scheduler/resource/normalization/NormalizedResourceRequestTest.java",
+ "test_sha1": "4f110e3a0934f427573f81f1922562a6a1910e77",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/scheduler/resource/normalization/NormalizedResourceRequest.java",
+ "prod_time": {
+  "$date": 1526916651000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/scheduler/resource/normalization/NormalizedResourceRequestTest.java",
+ "test_time": {
+  "$date": 1526916651000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 22,
+ "add_classname_line": 0,
+ "add_condition_line": 9,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 0
+}

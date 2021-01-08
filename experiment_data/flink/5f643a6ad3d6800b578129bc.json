@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/DataSinkTask.java",
+ "prod_sha1": "3d45d2539c0debc0b817210f11847567093d772d",
+ "repository": "flink",
+ "test_path": "pact/pact-runtime/src/test/java/eu/stratosphere/pact/runtime/task/DataSinkTaskTest.java",
+ "test_sha1": "3d45d2539c0debc0b817210f11847567093d772d",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/pact/runtime/task/DataSinkTask.java",
+ "prod_time": {
+  "$date": 1311784317000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/pact/runtime/task/DataSinkTaskTest.java",
+ "test_time": {
+  "$date": 1311784317000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 35,
+ "add_classname_line": 1,
+ "add_condition_line": 11,
+ "add_field_line": 3,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 10,
+ "del_annotation_line": 2,
+ "del_call_line": 32,
+ "del_classname_line": 1,
+ "del_condition_line": 13,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 12
+}

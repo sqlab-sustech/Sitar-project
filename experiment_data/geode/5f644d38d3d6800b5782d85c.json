@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/GemFireCacheImpl.java",
+ "prod_sha1": "ba2a2d2ceebd7f69eb04824d4fda6cb3ea8c16f5",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/GemFireCacheImpl.java",
+ "prod_time": {
+  "$date": 1493055517000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/GemFireCacheImplTest.java",
+ "test_qual": "org/apache/geode/internal/cache/GemFireCacheImplTest.java",
+ "add_annotation_line": 6,
+ "add_call_line": 430,
+ "add_classname_line": 1,
+ "add_condition_line": 131,
+ "add_field_line": 56,
+ "add_import_line": 58,
+ "add_packageid_line": 0,
+ "add_parameter_line": 71,
+ "add_return_line": 68,
+ "del_annotation_line": 36,
+ "del_call_line": 310,
+ "del_classname_line": 1,
+ "del_condition_line": 78,
+ "del_field_line": 32,
+ "del_import_line": 57,
+ "del_packageid_line": 1,
+ "del_parameter_line": 80,
+ "del_return_line": 69,
+ "test_typ": "Non"
+}

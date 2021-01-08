@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/SocketAppender.java",
+ "prod_sha1": "6e858b02f9f5513987788ab1120ca64c555cc989",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/SocketAppenderTest.java",
+ "test_sha1": "6e858b02f9f5513987788ab1120ca64c555cc989",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/appender/SocketAppender.java",
+ "prod_time": {
+  "$date": 1452617271000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/appender/SocketAppenderTest.java",
+ "test_time": {
+  "$date": 1452617271000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 9,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 25,
+ "add_return_line": 4,
+ "del_annotation_line": 7,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 7,
+ "del_return_line": 0
+}

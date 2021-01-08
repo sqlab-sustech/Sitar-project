@@ -1,0 +1,3 @@
+cayenne-modeler EE e612d874bcba445040398d54bd4fd37352845c02 e612d874bcba445040398d54bd4fd37352845c02 src/main/java/org/apache/cayenne/modeler/adapters/DataDomainAdapter.java src/test/java/org/apache/cayenne/modeler/adapters/TestDataDomainAdapter.java
+cayenne-modeler EC a38a62d7c8965d83190f73158a4ea6bd009d3728 a29096d7c82921ff423ce6ab7c454acaf78658e8 src/main/java/org/apache/cayenne/modeler/adapters/DataDomainAdapter.java src/test/java/org/apache/cayenne/modeler/adapters/TestDataDomainAdapter.java
+cayenne-modeler EE a38a62d7c8965d83190f73158a4ea6bd009d3728 8a569dbc59a235a1f9b125bb9ef956239bb22c96 src/main/java/org/apache/cayenne/modeler/adapters/DataDomainAdapter.java src/test/java/org/apache/cayenne/modeler/adapters/TestDataDomainAdapter.java

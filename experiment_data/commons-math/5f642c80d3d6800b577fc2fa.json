@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/optimization/direct/CMAESOptimizer.java",
+ "prod_sha1": "74bcc0b170ec03975558a06726f0f990c1189bf1",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/optimization/direct/CMAESOptimizerTest.java",
+ "test_sha1": "74bcc0b170ec03975558a06726f0f990c1189bf1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/optimization/direct/CMAESOptimizer.java",
+ "prod_time": {
+  "$date": 1296837368000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/optimization/direct/CMAESOptimizerTest.java",
+ "test_time": {
+  "$date": 1296837368000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 221,
+ "add_classname_line": 5,
+ "add_condition_line": 117,
+ "add_field_line": 58,
+ "add_import_line": 19,
+ "add_packageid_line": 1,
+ "add_parameter_line": 58,
+ "add_return_line": 43,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

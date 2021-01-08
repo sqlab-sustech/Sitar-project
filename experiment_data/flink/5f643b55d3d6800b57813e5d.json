@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/pact/CsvInputFormat.java",
+ "prod_sha1": "fb914cdc5d1400d30d2fe5c18e391397c83804ee",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/pact/CsvInputFormatTest.java",
+ "test_sha1": "fb914cdc5d1400d30d2fe5c18e391397c83804ee",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/sopremo/pact/CsvInputFormat.java",
+ "prod_time": {
+  "$date": 1314274809000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/sopremo/pact/CsvInputFormatTest.java",
+ "test_time": {
+  "$date": 1314274809000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 10,
+ "add_classname_line": 1,
+ "add_condition_line": 5,
+ "add_field_line": 6,
+ "add_import_line": 13,
+ "add_packageid_line": 1,
+ "add_parameter_line": 7,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

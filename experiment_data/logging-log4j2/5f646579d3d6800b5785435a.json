@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/layout/CsvParameterLayout.java",
+ "prod_sha1": "ea6e1808b57a133a7fd802522769bacd169c5a3f",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/layout/CsvParameterLayout.java",
+ "prod_time": {
+  "$date": 1460986787000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/layout/CsvParameterLayoutTest.java",
+ "test_qual": "org/apache/logging/log4j/core/layout/CsvParameterLayoutTest.java",
+ "add_annotation_line": 14,
+ "add_call_line": 12,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 15,
+ "add_packageid_line": 1,
+ "add_parameter_line": 17,
+ "add_return_line": 5,
+ "del_annotation_line": 14,
+ "del_call_line": 12,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 15,
+ "del_packageid_line": 1,
+ "del_parameter_line": 17,
+ "del_return_line": 5,
+ "test_typ": "Non"
+}

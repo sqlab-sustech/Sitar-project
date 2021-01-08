@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/ExportLogsCommand.java",
+ "prod_sha1": "c5962aa9308764bb964e4b4160e969f2dfae062d",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/commands/ExportLogsCommandTest.java",
+ "test_sha1": "c5962aa9308764bb964e4b4160e969f2dfae062d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/management/internal/cli/commands/ExportLogsCommand.java",
+ "prod_time": {
+  "$date": 1494885600000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/management/internal/cli/commands/ExportLogsCommandTest.java",
+ "test_time": {
+  "$date": 1494885600000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 46,
+ "add_classname_line": 0,
+ "add_condition_line": 10,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 40,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 4,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 11
+}

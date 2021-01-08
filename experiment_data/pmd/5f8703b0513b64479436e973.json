@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/UnusedPrivateInstanceVariableRule.java",
+ "prod_sha1": "0bf64b571ad52a7d78b90cfc9e51a17e511d3449",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/UnusedPrivateInstanceVariableRule.java",
+ "prod_time": {
+  "$date": 1035213589000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/UnusedPrivateInstanceVariableRuleTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/UnusedPrivateInstanceVariableRuleTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

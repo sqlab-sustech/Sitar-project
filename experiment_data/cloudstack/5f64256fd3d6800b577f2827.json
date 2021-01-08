@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/api/ApiDispatcher.java",
+ "prod_sha1": "96a64b933eb8ef651d5c106b70dba59ae4f2fa96",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/api/ApiDispatcher.java",
+ "prod_time": {
+  "$date": 1390528259000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/api/ApiDispatcherTest.java",
+ "test_qual": "com/cloud/api/ApiDispatcherTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/backtype/storm/blobstore/BlobSynchronizer.java",
+ "prod_sha1": "d5a31fc16abe4fb2543e827a30e33a864e9ccfa1",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/backtype/storm/blobstore/BlobSynchronizerTest.java",
+ "test_sha1": "d5a31fc16abe4fb2543e827a30e33a864e9ccfa1",
+ "commit_between": 0,
+ "prod_qual": "jvm/backtype/storm/blobstore/BlobSynchronizer.java",
+ "prod_time": {
+  "$date": 1454637336000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/backtype/storm/blobstore/BlobSynchronizerTest.java",
+ "test_time": {
+  "$date": 1454637336000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 22,
+ "del_classname_line": 1,
+ "del_condition_line": 7,
+ "del_field_line": 7,
+ "del_import_line": 7,
+ "del_packageid_line": 1,
+ "del_parameter_line": 10,
+ "del_return_line": 3
+}

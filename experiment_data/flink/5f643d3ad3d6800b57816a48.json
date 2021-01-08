@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-server/src/main/java/eu/stratosphere/nephele/discovery/DiscoveryService.java",
+ "prod_sha1": "4af1d2e738ee5fd62b2c64c253d7b073d21c785a",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/discovery/DiscoveryService.java",
+ "prod_time": {
+  "$date": 1309798873000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-server/src/test/java/eu/stratosphere/nephele/discovery/DiscoveryServiceTest.java",
+ "test_qual": "eu/stratosphere/nephele/discovery/DiscoveryServiceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

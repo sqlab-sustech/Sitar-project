@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/store/src/main/java/org/apache/james/mailbox/store/mail/model/impl/Cid.java",
+ "prod_sha1": "b87c93905cd3e0c79e8d859bc4e49ebc59db2a4b",
+ "repository": "james-project",
+ "test_path": "mailbox/store/src/test/java/org/apache/james/mailbox/store/mail/model/impl/CidTest.java",
+ "test_sha1": "b87c93905cd3e0c79e8d859bc4e49ebc59db2a4b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/store/mail/model/impl/Cid.java",
+ "prod_time": {
+  "$date": 1468230657000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/store/mail/model/impl/CidTest.java",
+ "test_time": {
+  "$date": 1468230657000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 2,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

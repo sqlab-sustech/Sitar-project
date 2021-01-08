@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/CouplingBetweenObjectsRule.java",
+ "prod_sha1": "d11f0a1f172aadb7c47c746d69805575de845bdf",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/CouplingBetweenObjectsRuleTest.java",
+ "test_sha1": "d11f0a1f172aadb7c47c746d69805575de845bdf",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/CouplingBetweenObjectsRule.java",
+ "prod_time": {
+  "$date": 1098991873000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/CouplingBetweenObjectsRuleTest.java",
+ "test_time": {
+  "$date": 1098991873000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

@@ -1,0 +1,22 @@
+diff --git a/mailet/standard/src/main/java/org/apache/james/transport/matchers/SubjectIs.java b/mailet/standard/src/main/java/org/apache/james/transport/matchers/SubjectIs.java
+index 8be75169d..874a6bdd7 100644
+--- a/mailet/standard/src/main/java/org/apache/james/transport/matchers/SubjectIs.java
++++ b/mailet/standard/src/main/java/org/apache/james/transport/matchers/SubjectIs.java
+@@ -21,12 +21,13 @@
+ 
+ package org.apache.james.transport.matchers;
+ 
+-import org.apache.mailet.base.GenericMatcher;
+-import org.apache.mailet.Mail;
+-import org.apache.james.core.MailAddress;
++import java.util.Collection;
+ 
+ import javax.mail.internet.MimeMessage;
+-import java.util.Collection;
++
++import org.apache.james.core.MailAddress;
++import org.apache.mailet.Mail;
++import org.apache.mailet.base.GenericMatcher;
+ 
+ /**
+  * Matches mail where the subject is contained in a configurable list.

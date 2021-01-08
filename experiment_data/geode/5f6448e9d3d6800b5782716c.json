@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-dunit/src/main/java/org/apache/geode/test/dunit/internal/MethodInvoker.java",
+ "prod_sha1": "9918f9b13621a6318346c795d127ba94d718953f",
+ "repository": "geode",
+ "test_path": "geode-dunit/src/test/java/org/apache/geode/test/dunit/internal/MethodInvokerTest.java",
+ "test_sha1": "9918f9b13621a6318346c795d127ba94d718953f",
+ "commit_between": 0,
+ "prod_qual": "dunit/internal/MethodInvoker.java",
+ "prod_time": {
+  "$date": 1543600201000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "dunit/internal/MethodInvokerTest.java",
+ "test_time": {
+  "$date": 1543600201000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 59,
+ "add_classname_line": 1,
+ "add_condition_line": 32,
+ "add_field_line": 0,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 5,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

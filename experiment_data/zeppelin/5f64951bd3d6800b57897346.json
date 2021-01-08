@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-plugins/launcher/docker/src/main/java/org/apache/zeppelin/interpreter/launcher/DockerInterpreterProcess.java",
+ "prod_sha1": "c8a82bce2bc9fe6a98f99824bdbddcc06b054742",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-plugins/launcher/docker/src/test/java/org/apache/zeppelin/interpreter/launcher/DockerInterpreterProcessTest.java",
+ "test_sha1": "c8a82bce2bc9fe6a98f99824bdbddcc06b054742",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/interpreter/launcher/DockerInterpreterProcess.java",
+ "prod_time": {
+  "$date": 1560564406000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/interpreter/launcher/DockerInterpreterProcessTest.java",
+ "test_time": {
+  "$date": 1560564406000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 16,
+ "add_call_line": 173,
+ "add_classname_line": 1,
+ "add_condition_line": 27,
+ "add_field_line": 23,
+ "add_import_line": 42,
+ "add_packageid_line": 1,
+ "add_parameter_line": 34,
+ "add_return_line": 13,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

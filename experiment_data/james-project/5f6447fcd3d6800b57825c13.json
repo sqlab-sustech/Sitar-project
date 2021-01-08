@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-library/src/main/java/org/apache/james/user/lib/AbstractUsersRepository.java",
+ "prod_sha1": "def450ba2c76f34bbd2929811488f913a86399e9",
+ "repository": "james-project",
+ "test_path": "server/data/data-library/src/test/java/org/apache/james/user/lib/AbstractUsersRepositoryTest.java",
+ "test_sha1": "def450ba2c76f34bbd2929811488f913a86399e9",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/user/lib/AbstractUsersRepository.java",
+ "prod_time": {
+  "$date": 1479908869000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/user/lib/AbstractUsersRepositoryTest.java",
+ "test_time": {
+  "$date": 1479908869000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

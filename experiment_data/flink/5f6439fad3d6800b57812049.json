@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/base/Source.java",
+ "prod_sha1": "3cbdeb689e01a1fe7826ef38ea3ba665f7a8a94a",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/base/SourceTest.java",
+ "test_sha1": "3cbdeb689e01a1fe7826ef38ea3ba665f7a8a94a",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/sopremo/base/Source.java",
+ "prod_time": {
+  "$date": 1309179090000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/sopremo/base/SourceTest.java",
+ "test_time": {
+  "$date": 1309179090000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 3,
+ "del_annotation_line": 1,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 6
+}

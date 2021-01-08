@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/proxy/ProxyConnector.java",
+ "prod_sha1": "86cbdfd5db5b1c90c4a5f4dcdef702b0cf4901ce",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/proxy/ProxyConnector.java",
+ "prod_time": {
+  "$date": 1163723343000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/proxy/ProxyConnectorTest.java",
+ "test_qual": "org/apache/activemq/proxy/ProxyConnectorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

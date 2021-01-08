@@ -1,0 +1,13 @@
+diff --git a/sdks/java/core/src/main/java/org/apache/beam/sdk/values/PCollectionTuple.java b/sdks/java/core/src/main/java/org/apache/beam/sdk/values/PCollectionTuple.java
+index f6776f0797..727d882d74 100644
+--- a/sdks/java/core/src/main/java/org/apache/beam/sdk/values/PCollectionTuple.java
++++ b/sdks/java/core/src/main/java/org/apache/beam/sdk/values/PCollectionTuple.java
+@@ -219,7 +219,7 @@ public class PCollectionTuple implements PInput, POutput {
+       TypeDescriptor<Object> token = (TypeDescriptor<Object>) outputTag.getTypeDescriptor();
+       PCollection<Object> outputCollection = PCollection
+           .createPrimitiveOutputInternal(pipeline, windowingStrategy, isBounded)
+-          .setTypeDescriptorInternal(token);
++          .setTypeDescriptor(token);
+ 
+       pcollectionMap.put(outputTag, outputCollection);
+     }

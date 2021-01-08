@@ -1,0 +1,37 @@
+{
+ "prod_path": "nephele/nephele-s3/src/main/java/eu/stratosphere/nephele/fs/s3/S3FileSystem.java",
+ "prod_sha1": "b27a112add2f4c221f9bfd8e4e953a750e8d64b3",
+ "repository": "flink",
+ "test_path": "nephele/nephele-s3/src/test/java/eu/stratosphere/nephele/fs/s3/S3FileSystemTest.java",
+ "test_sha1": "b27a112add2f4c221f9bfd8e4e953a750e8d64b3",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/nephele/fs/s3/S3FileSystem.java",
+ "prod_time": {
+  "$date": 1308241611000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/nephele/fs/s3/S3FileSystemTest.java",
+ "test_time": {
+  "$date": 1308241611000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 18,
+ "add_classname_line": 0,
+ "add_condition_line": 10,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 4,
+ "del_annotation_line": 1,
+ "del_call_line": 6,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 2
+}

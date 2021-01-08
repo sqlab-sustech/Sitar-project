@@ -1,0 +1,14 @@
+diff --git a/ql/src/java/org/apache/hadoop/hive/ql/io/AcidUtils.java b/ql/src/java/org/apache/hadoop/hive/ql/io/AcidUtils.java
+index 1828f0a531..a9ebc90b5b 100644
+--- a/ql/src/java/org/apache/hadoop/hive/ql/io/AcidUtils.java
++++ b/ql/src/java/org/apache/hadoop/hive/ql/io/AcidUtils.java
+@@ -1653,6 +1653,9 @@ public static boolean isRawFormat(Path baseOrDeltaDir, FileSystem fs) throws IOE
+         //directory is empty or doesn't have any that could have been produced by load data
+         return false;
+       }
++      return isRawFormatFile(dataFile, fs);
++    }
++    public static boolean isRawFormatFile(Path dataFile, FileSystem fs) throws IOException {
+       try {
+         Reader reader = OrcFile.createReader(dataFile, OrcFile.readerOptions(fs.getConf()));
+         /*

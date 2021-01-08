@@ -1,0 +1,31 @@
+diff --git a/contrib/views/files/src/main/java/org/apache/ambari/view/filebrowser/PropertyValidator.java b/contrib/views/files/src/main/java/org/apache/ambari/view/filebrowser/PropertyValidator.java
+index 41b9b057ca..2ad779c5a1 100644
+--- a/contrib/views/files/src/main/java/org/apache/ambari/view/filebrowser/PropertyValidator.java
++++ b/contrib/views/files/src/main/java/org/apache/ambari/view/filebrowser/PropertyValidator.java
+@@ -19,14 +19,10 @@
+ package org.apache.ambari.view.filebrowser;
+ 
+ import org.apache.ambari.view.ViewInstanceDefinition;
++import org.apache.ambari.view.utils.ambari.ValidatorUtils;
+ import org.apache.ambari.view.validation.ValidationResult;
+ import org.apache.ambari.view.validation.Validator;
+ 
+-import java.net.MalformedURLException;
+-import java.net.URI;
+-import java.net.URISyntaxException;
+-import java.net.URL;
+-
+ public class PropertyValidator implements Validator {
+ 
+   public static final String WEBHDFS_URL = "webhdfs.url";
+@@ -41,9 +37,7 @@ public class PropertyValidator implements Validator {
+     if (property.equals(WEBHDFS_URL)) {
+       String webhdfsUrl = viewInstanceDefinition.getPropertyMap().get(WEBHDFS_URL);
+       if (webhdfsUrl != null) {
+-        try {
+-          new URI(webhdfsUrl);
+-        } catch (URISyntaxException e) {
++        if (!ValidatorUtils.validateHdfsURL(webhdfsUrl)) {
+           return new InvalidPropertyValidationResult(false, "Must be valid URL");
+         }
+       }

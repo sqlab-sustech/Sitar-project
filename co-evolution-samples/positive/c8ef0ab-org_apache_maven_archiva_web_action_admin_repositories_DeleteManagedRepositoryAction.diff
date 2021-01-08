@@ -1,0 +1,15 @@
+diff --git a/archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/admin/repositories/DeleteManagedRepositoryAction.java b/archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/admin/repositories/DeleteManagedRepositoryAction.java
+index 9b2113afb..5e523d489 100644
+--- a/archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/admin/repositories/DeleteManagedRepositoryAction.java
++++ b/archiva-modules/archiva-web/archiva-webapp/src/main/java/org/apache/maven/archiva/web/action/admin/repositories/DeleteManagedRepositoryAction.java
+@@ -21,9 +21,8 @@
+ 
+ import com.opensymphony.xwork2.Preparable;
+ import org.apache.archiva.admin.model.RepositoryAdminException;
+-import org.apache.archiva.admin.model.managed.ManagedRepository;
++import org.apache.archiva.admin.model.beans.ManagedRepository;
+ import org.apache.commons.lang.StringUtils;
+-import org.apache.maven.archiva.configuration.ManagedRepositoryConfiguration;
+ import org.springframework.context.annotation.Scope;
+ import org.springframework.stereotype.Controller;
+ 

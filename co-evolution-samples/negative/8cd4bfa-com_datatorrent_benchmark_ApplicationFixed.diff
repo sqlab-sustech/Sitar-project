@@ -1,0 +1,11 @@
+diff --git a/benchmark/src/main/java/com/datatorrent/benchmark/ApplicationFixed.java b/benchmark/src/main/java/com/datatorrent/benchmark/ApplicationFixed.java
+index 3a6e6f30c..e19c1f2fd 100644
+--- a/benchmark/src/main/java/com/datatorrent/benchmark/ApplicationFixed.java
++++ b/benchmark/src/main/java/com/datatorrent/benchmark/ApplicationFixed.java
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2013 DataTorrent, Inc. ALL Rights Reserved.
++ * Copyright (c) 2014 DataTorrent, Inc. ALL Rights Reserved.
+  *
+  * Licensed under the Apache License, Version 2.0 (the "License");
+  * you may not use this file except in compliance with the License.

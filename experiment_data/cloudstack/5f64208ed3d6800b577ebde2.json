@@ -1,0 +1,37 @@
+{
+ "prod_path": "plugins/network-elements/elastic-loadbalancer/src/com/cloud/network/lb/ElasticLoadBalancerManagerImpl.java",
+ "prod_sha1": "0e223d6787ac7207357b9173d825c4a447c16e40",
+ "repository": "cloudstack",
+ "test_path": "plugins/network-elements/elastic-loadbalancer/test/com/cloud/network/lb/ElasticLoadBalancerManagerImplTest.java",
+ "test_sha1": "0e223d6787ac7207357b9173d825c4a447c16e40",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/network/lb/ElasticLoadBalancerManagerImpl.java",
+ "prod_time": {
+  "$date": 1396959817000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/network/lb/ElasticLoadBalancerManagerImplTest.java",
+ "test_time": {
+  "$date": 1396959817000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 23,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 13,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 15,
+ "del_call_line": 84,
+ "del_classname_line": 1,
+ "del_condition_line": 31,
+ "del_field_line": 14,
+ "del_import_line": 24,
+ "del_packageid_line": 0,
+ "del_parameter_line": 11,
+ "del_return_line": 13
+}

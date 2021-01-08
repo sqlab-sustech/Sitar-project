@@ -1,0 +1,37 @@
+{
+ "prod_path": "api/src/com/cloud/agent/api/SnapshotCommand.java",
+ "prod_sha1": "17b11d7356a05ef36a2b9263ab9456726d65c146",
+ "repository": "cloudstack",
+ "test_path": "api/test/com/cloud/agent/api/SnapshotCommandTest.java",
+ "test_sha1": "17b11d7356a05ef36a2b9263ab9456726d65c146",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/agent/api/SnapshotCommand.java",
+ "prod_time": {
+  "$date": 1353965351000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/agent/api/SnapshotCommandTest.java",
+ "test_time": {
+  "$date": 1353965351000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 1
+}

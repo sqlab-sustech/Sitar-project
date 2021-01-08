@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-server/src/main/java/org/apache/storm/daemon/supervisor/Slot.java",
+ "prod_sha1": "81307a50528f71c39786cab577edafe7151d18a0",
+ "repository": "storm",
+ "test_path": "storm-server/src/test/java/org/apache/storm/daemon/supervisor/SlotTest.java",
+ "test_sha1": "81307a50528f71c39786cab577edafe7151d18a0",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/daemon/supervisor/Slot.java",
+ "prod_time": {
+  "$date": 1529336659000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/daemon/supervisor/SlotTest.java",
+ "test_time": {
+  "$date": 1529336659000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 34,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 9,
+ "add_return_line": 11,
+ "del_annotation_line": 1,
+ "del_call_line": 38,
+ "del_classname_line": 0,
+ "del_condition_line": 7,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 6
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/Interpreter.java",
+ "prod_sha1": "2a3791020fc74700b3310bef5dea2bb6842d9de1",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/InterpreterTest.java",
+ "test_sha1": "2a3791020fc74700b3310bef5dea2bb6842d9de1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/interpreter/Interpreter.java",
+ "prod_time": {
+  "$date": 1503899517000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/interpreter/InterpreterTest.java",
+ "test_time": {
+  "$date": 1503899517000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

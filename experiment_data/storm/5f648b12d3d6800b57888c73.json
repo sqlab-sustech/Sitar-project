@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-core/src/jvm/org/apache/storm/command/CLI.java",
+ "prod_sha1": "aca76e0db96bd34b9f9d52ccb71fd89a27e97b70",
+ "repository": "storm",
+ "prod_qual": "jvm/org/apache/storm/command/CLI.java",
+ "prod_time": {
+  "$date": 1455566485000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-core/test/jvm/org/apache/storm/command/TestCLI.java",
+ "test_qual": "jvm/org/apache/storm/command/TestCLI.java",
+ "add_annotation_line": 0,
+ "add_call_line": 11,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 5,
+ "del_annotation_line": 1,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 9,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

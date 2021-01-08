@@ -1,0 +1,32 @@
+{
+ "prod_path": "izpack-compiler/src/main/java/com/izforge/izpack/compiler/CompilerConfig.java",
+ "prod_sha1": "1d203c9fec2ac6ebf7e2148db3e32b0c301c4450",
+ "repository": "izpack",
+ "prod_qual": "com/izforge/izpack/compiler/CompilerConfig.java",
+ "prod_time": {
+  "$date": 1267687608000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "izpack-compiler/src/test/java/com/izforge/izpack/compiler/CompilerConfigTest.java",
+ "test_qual": "com/izforge/izpack/compiler/CompilerConfigTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "izpack-core/src/main/java/com/izforge/izpack/installer/AutomatedInstallData.java",
+ "prod_sha1": "b417113d06663c9758db43dbb3d1ebb56083fff4",
+ "repository": "izpack",
+ "test_path": "izpack-core/src/test/java/com/izforge/izpack/installer/AutomatedInstallDataTest.java",
+ "test_sha1": "b417113d06663c9758db43dbb3d1ebb56083fff4",
+ "commit_between": 0,
+ "prod_qual": "com/izforge/izpack/installer/AutomatedInstallData.java",
+ "prod_time": {
+  "$date": 1259045694000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/izforge/izpack/installer/AutomatedInstallDataTest.java",
+ "test_time": {
+  "$date": 1259045694000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 18,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 35,
+ "add_return_line": 19,
+ "del_annotation_line": 0,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 18,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 2
+}

@@ -1,0 +1,12 @@
+diff --git a/juneau-core/juneau-marshall-rdf/src/main/java/org/apache/juneau/jena/RdfParser.java b/juneau-core/juneau-marshall-rdf/src/main/java/org/apache/juneau/jena/RdfParser.java
+index 05df67609..2fa67ebba 100644
+--- a/juneau-core/juneau-marshall-rdf/src/main/java/org/apache/juneau/jena/RdfParser.java
++++ b/juneau-core/juneau-marshall-rdf/src/main/java/org/apache/juneau/jena/RdfParser.java
+@@ -65,6 +65,7 @@ public class RdfParser extends ReaderParser implements RdfCommon {
+ 	 * 	<li><b>Methods:</b> 
+ 	 * 		<ul>
+ 	 * 			<li class='jm'>{@link RdfParserBuilder#trimWhitespace(boolean)}
++	 * 			<li class='jm'>{@link RdfParserBuilder#trimWhitespace()}
+ 	 * 		</ul>
+ 	 * </ul>
+ 	 * 

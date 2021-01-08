@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/MemoryMappedFileManager.java",
+ "prod_sha1": "467142097fb973900a9dc6e31c3c019d6a9a82a6",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/appender/MemoryMappedFileManager.java",
+ "prod_time": {
+  "$date": 1473346366000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/MemoryMappedFileManagerTest.java",
+ "test_qual": "org/apache/logging/log4j/core/appender/MemoryMappedFileManagerTest.java",
+ "add_annotation_line": 10,
+ "add_call_line": 75,
+ "add_classname_line": 4,
+ "add_condition_line": 6,
+ "add_field_line": 16,
+ "add_import_line": 19,
+ "add_packageid_line": 1,
+ "add_parameter_line": 26,
+ "add_return_line": 16,
+ "del_annotation_line": 10,
+ "del_call_line": 75,
+ "del_classname_line": 4,
+ "del_condition_line": 6,
+ "del_field_line": 16,
+ "del_import_line": 19,
+ "del_packageid_line": 1,
+ "del_parameter_line": 26,
+ "del_return_line": 16,
+ "test_typ": "Non"
+}

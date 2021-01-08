@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/view/cassandra/DeletedMailsDAO.java",
+ "prod_sha1": "9c96e60d8cc098da07bb49e63008a3a8fa3565fa",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/queue/rabbitmq/view/cassandra/DeletedMailsDAO.java",
+ "prod_time": {
+  "$date": 1544620906000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/view/cassandra/DeletedMailsDAOTest.java",
+ "test_qual": "org/apache/james/queue/rabbitmq/view/cassandra/DeletedMailsDAOTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

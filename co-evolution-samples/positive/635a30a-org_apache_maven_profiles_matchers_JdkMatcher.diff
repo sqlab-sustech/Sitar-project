@@ -1,0 +1,13 @@
+diff --git a/maven-model-builder/src/main/java/org/apache/maven/profiles/matchers/JdkMatcher.java b/maven-model-builder/src/main/java/org/apache/maven/profiles/matchers/JdkMatcher.java
+index 922d7aa19..80e817fc2 100644
+--- a/maven-model-builder/src/main/java/org/apache/maven/profiles/matchers/JdkMatcher.java
++++ b/maven-model-builder/src/main/java/org/apache/maven/profiles/matchers/JdkMatcher.java
+@@ -5,7 +5,7 @@
+ import java.util.List;
+ 
+ import org.apache.maven.model.Profile;
+-import org.apache.maven.project.builder.InterpolatorProperty;
++import org.apache.maven.model.interpolator.InterpolatorProperty;
+ 
+ public class JdkMatcher
+ 	implements ProfileMatcher 

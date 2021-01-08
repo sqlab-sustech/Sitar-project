@@ -1,0 +1,32 @@
+{
+ "prod_path": "usage/src/com/cloud/usage/UsageSanityChecker.java",
+ "prod_sha1": "1c80185170235eca6ac26c72b4145b1b46313ed1",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/usage/UsageSanityChecker.java",
+ "prod_time": {
+  "$date": 1403292009000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "usage/test/com/cloud/usage/UsageSanityCheckerTest.java",
+ "test_qual": "com/cloud/usage/UsageSanityCheckerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 22,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 18,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

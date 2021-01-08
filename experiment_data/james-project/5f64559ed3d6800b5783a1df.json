@@ -1,0 +1,37 @@
+{
+ "prod_path": "third-party/linshare/src/main/java/org/apache/james/linshare/AuthorizationToken.java",
+ "prod_sha1": "50f6fd51af9ed797cf92595f849a7bdf3c2841c0",
+ "repository": "james-project",
+ "test_path": "third-party/linshare/src/test/java/org/apache/james/linshare/AuthorizationTokenTest.java",
+ "test_sha1": "50f6fd51af9ed797cf92595f849a7bdf3c2841c0",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/linshare/AuthorizationToken.java",
+ "prod_time": {
+  "$date": 1554699557000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/linshare/AuthorizationTokenTest.java",
+ "test_time": {
+  "$date": 1554699557000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 3,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 4,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

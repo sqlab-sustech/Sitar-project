@@ -1,0 +1,37 @@
+{
+ "prod_path": "plugins/user-authenticators/saml2/src/org/apache/cloudstack/api/command/SAML2LogoutAPIAuthenticatorCmd.java",
+ "prod_sha1": "4bd49df3f537d1781db1d15775bfa21b323c813e",
+ "repository": "cloudstack",
+ "test_path": "plugins/user-authenticators/saml2/test/org/apache/cloudstack/api/command/SAML2LogoutAPIAuthenticatorCmdTest.java",
+ "test_sha1": "4bd49df3f537d1781db1d15775bfa21b323c813e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/cloudstack/api/command/SAML2LogoutAPIAuthenticatorCmd.java",
+ "prod_time": {
+  "$date": 1416568235000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/cloudstack/api/command/SAML2LogoutAPIAuthenticatorCmdTest.java",
+ "test_time": {
+  "$date": 1416568235000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

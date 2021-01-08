@@ -1,0 +1,4 @@
+fineract-cn-template EC ec0791dcdfd7fc91c0a5876f9810d5c349407aaf ec0791dcdfd7fc91c0a5876f9810d5c349407aaf api/src/main/java/io/mifos/template/api/v1/domain/Sample.java api/src/test/java/io/mifos/template/api/v1/domain/SampleTest.java
+fineract-cn-template EE d57f5e32720b4feb78dbdfd286eca704fdaf26ab d57f5e32720b4feb78dbdfd286eca704fdaf26ab api/src/main/java/io/mifos/template/api/v1/domain/Sample.java api/src/test/java/io/mifos/template/api/v1/domain/SampleTest.java
+fineract-cn-template EE bb33cd281400b4c3b72bd4fbb91901d3e6c734fd bb33cd281400b4c3b72bd4fbb91901d3e6c734fd api/src/main/java/io/mifos/template/api/v1/domain/Sample.java api/src/test/java/io/mifos/template/api/v1/domain/SampleTest.java
+fineract-cn-template EE c6b23d9f89d5e3412ac7e94721fdc01e5ee2eeb6 c6b23d9f89d5e3412ac7e94721fdc01e5ee2eeb6 api/src/main/java/io/mifos/template/api/v1/domain/Sample.java api/src/test/java/io/mifos/template/api/v1/domain/SampleTest.java

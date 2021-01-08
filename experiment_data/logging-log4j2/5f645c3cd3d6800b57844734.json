@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/filter/ScriptFilter.java",
+ "prod_sha1": "e294d26576e2c1da9b39300a56bf2ffb1c36a765",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/filter/ScriptFilterTest.java",
+ "test_sha1": "e294d26576e2c1da9b39300a56bf2ffb1c36a765",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/filter/ScriptFilter.java",
+ "prod_time": {
+  "$date": 1444720652000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/filter/ScriptFilterTest.java",
+ "test_time": {
+  "$date": 1444720652000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 11,
+ "add_call_line": 42,
+ "add_classname_line": 1,
+ "add_condition_line": 4,
+ "add_field_line": 4,
+ "add_import_line": 19,
+ "add_packageid_line": 1,
+ "add_parameter_line": 15,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

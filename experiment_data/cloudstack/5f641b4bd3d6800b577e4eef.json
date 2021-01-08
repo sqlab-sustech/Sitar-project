@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/src/com/cloud/network/NetworkManager.java",
+ "prod_sha1": "04f82623f65f851256876ecda83905791d6e51a2",
+ "repository": "cloudstack",
+ "test_path": "server/test/com/cloud/network/NetworkManagerTest.java",
+ "test_sha1": "04f82623f65f851256876ecda83905791d6e51a2",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/network/NetworkManager.java",
+ "prod_time": {
+  "$date": 1358767101000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/network/NetworkManagerTest.java",
+ "test_time": {
+  "$date": 1358767101000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 17,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 9,
+ "del_packageid_line": 0,
+ "del_parameter_line": 33,
+ "del_return_line": 0
+}

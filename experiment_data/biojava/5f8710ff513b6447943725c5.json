@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-alignment/src/main/java/org/biojava3/alignment/GuideTree.java",
+ "prod_sha1": "7c64af3659a31b751d0e323f614fb334483efa72",
+ "repository": "biojava",
+ "test_path": "biojava3-alignment/src/test/java/org/biojava3/alignment/GuideTreeTest.java",
+ "test_sha1": "7c64af3659a31b751d0e323f614fb334483efa72",
+ "commit_between": 0,
+ "prod_qual": "org/biojava3/alignment/GuideTree.java",
+ "prod_time": {
+  "$date": 1278650760000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava3/alignment/GuideTreeTest.java",
+ "test_time": {
+  "$date": 1278650760000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 12,
+ "add_call_line": 30,
+ "add_classname_line": 3,
+ "add_condition_line": 7,
+ "add_field_line": 6,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 20,
+ "add_return_line": 17,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 2,
+ "del_condition_line": 2,
+ "del_field_line": 3,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 2
+}

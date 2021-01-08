@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/CloseConnectionRule.java",
+ "prod_sha1": "5b4dc5d3cc6c11c52bac3c9e3070d1bd24f77c80",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/CloseConnectionRuleTest.java",
+ "test_sha1": "5b4dc5d3cc6c11c52bac3c9e3070d1bd24f77c80",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/CloseConnectionRule.java",
+ "prod_time": {
+  "$date": 1090956402000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/CloseConnectionRuleTest.java",
+ "test_time": {
+  "$date": 1090956402000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 24,
+ "add_classname_line": 0,
+ "add_condition_line": 11,
+ "add_field_line": 1,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 16,
+ "del_classname_line": 1,
+ "del_condition_line": 6,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 4
+}

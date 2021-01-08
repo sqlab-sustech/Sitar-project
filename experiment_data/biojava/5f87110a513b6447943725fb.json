@@ -1,0 +1,37 @@
+{
+ "prod_path": "structure/src/main/java/org/biojava/bio/structure/ResidueNumber.java",
+ "prod_sha1": "b09c537a65e8ec016a36fa1c6157940b94f684a7",
+ "repository": "biojava",
+ "test_path": "structure/src/test/java/org/biojava/bio/structure/ResidueNumberTest.java",
+ "test_sha1": "b09c537a65e8ec016a36fa1c6157940b94f684a7",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/bio/structure/ResidueNumber.java",
+ "prod_time": {
+  "$date": 1286371643000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/bio/structure/ResidueNumberTest.java",
+ "test_time": {
+  "$date": 1286371643000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 8,
+ "add_classname_line": 1,
+ "add_condition_line": 7,
+ "add_field_line": 4,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 12,
+ "add_return_line": 13,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

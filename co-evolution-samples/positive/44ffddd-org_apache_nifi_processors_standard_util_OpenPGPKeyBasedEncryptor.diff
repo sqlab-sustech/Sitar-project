@@ -1,0 +1,14 @@
+diff --git a/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/util/OpenPGPKeyBasedEncryptor.java b/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/util/OpenPGPKeyBasedEncryptor.java
+index b97e41610..0364f1c79 100644
+--- a/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/util/OpenPGPKeyBasedEncryptor.java
++++ b/nifi-nar-bundles/nifi-standard-bundle/nifi-standard-processors/src/main/java/org/apache/nifi/processors/standard/util/OpenPGPKeyBasedEncryptor.java
+@@ -97,7 +97,8 @@ public class OpenPGPKeyBasedEncryptor implements Encryptor {
+     /**
+      * Returns true if the passphrase is valid.
+      * <p>
+-     * This is used in the EncryptContent custom validation to check if the passphrase can extract a private key from the secret key ring. After BC was upgraded from 1.46 to 1.53, the API changed so this is performed differently but the functionality is equivalent.
++     * This is used in the EncryptContent custom validation to check if the passphrase can extract a private key from the secret key ring. After BC was upgraded from 1.46 to 1.53, the API changed
++     * so this is performed differently but the functionality is equivalent.
+      *
+      * @param provider the provider name
+      * @param secretKeyringFile the file path to the keyring

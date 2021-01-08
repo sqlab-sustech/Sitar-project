@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/ExpandableDoubleArray.java",
+ "prod_sha1": "437e275a504d5d2de36365419e048ad9a05d83df",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/ExpandableDoubleArray.java",
+ "prod_time": {
+  "$date": 1053454529000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/ExpandableDoubleArrayTest.java",
+ "test_qual": "org/apache/commons/math/ExpandableDoubleArrayTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 16,
+ "add_field_line": 5,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 21,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 14,
+ "del_field_line": 5,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 19,
+ "del_return_line": 8,
+ "test_typ": "Non"
+}

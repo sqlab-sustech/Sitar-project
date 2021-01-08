@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/org/apache/storm/topology/StatefulBoltExecutor.java",
+ "prod_sha1": "56f27e5d58d7abd1bdd9aff95dfb862540b166ef",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/org/apache/storm/topology/StatefulBoltExecutorTest.java",
+ "test_sha1": "56f27e5d58d7abd1bdd9aff95dfb862540b166ef",
+ "commit_between": 0,
+ "prod_qual": "jvm/org/apache/storm/topology/StatefulBoltExecutor.java",
+ "prod_time": {
+  "$date": 1458108130000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/org/apache/storm/topology/StatefulBoltExecutorTest.java",
+ "test_time": {
+  "$date": 1458108130000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 12,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 3,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

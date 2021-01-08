@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/linear/SparseRealVector.java",
+ "prod_sha1": "117175bc83968ef40e2e6ace39d598c9d87b2faa",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/linear/SparseRealVector.java",
+ "prod_time": {
+  "$date": 1233542427000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/linear/SparseRealVectorTest.java",
+ "test_qual": "org/apache/commons/math/linear/SparseRealVectorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 344,
+ "add_classname_line": 1,
+ "add_condition_line": 95,
+ "add_field_line": 3,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 122,
+ "add_return_line": 110,
+ "del_annotation_line": 0,
+ "del_call_line": 344,
+ "del_classname_line": 1,
+ "del_condition_line": 95,
+ "del_field_line": 3,
+ "del_import_line": 3,
+ "del_packageid_line": 1,
+ "del_parameter_line": 122,
+ "del_return_line": 110,
+ "test_typ": "Non"
+}

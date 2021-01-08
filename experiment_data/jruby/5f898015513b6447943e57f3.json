@@ -1,0 +1,37 @@
+{
+ "prod_path": "ext/openssl/src/main/java/org/jruby/ext/openssl/SecurityHelper.java",
+ "prod_sha1": "907fc59c8acdfa6fe8765602f7b56f5e6242299e",
+ "repository": "jruby",
+ "test_path": "ext/openssl/src/test/java/org/jruby/ext/openssl/SecurityHelperTest.java",
+ "test_sha1": "907fc59c8acdfa6fe8765602f7b56f5e6242299e",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/ext/openssl/SecurityHelper.java",
+ "prod_time": {
+  "$date": 1393929585000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/ext/openssl/SecurityHelperTest.java",
+ "test_time": {
+  "$date": 1393929585000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 88,
+ "add_classname_line": 1,
+ "add_condition_line": 29,
+ "add_field_line": 4,
+ "add_import_line": 24,
+ "add_packageid_line": 1,
+ "add_parameter_line": 26,
+ "add_return_line": 44,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

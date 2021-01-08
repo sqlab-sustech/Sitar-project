@@ -1,0 +1,32 @@
+{
+ "prod_path": "java/src/main/java/org/apache/zeppelin/java/JavaInterpreter.java",
+ "prod_sha1": "1d10625598989fc2282318ccdd1294a4fbc36a1e",
+ "repository": "zeppelin",
+ "prod_qual": "JavaInterpreter.java",
+ "prod_time": {
+  "$date": 1543096962000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "java/src/test/org/apache/zeppelin/java/JavaInterpreterTest.java",
+ "test_qual": "JavaInterpreterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 6,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

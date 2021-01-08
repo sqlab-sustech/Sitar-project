@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/optimization/general/PowellOptimizer.java",
+ "prod_sha1": "c917b3b3fa7b0b3e3288f6529835028f82c6f88a",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/optimization/general/PowellOptimizerTest.java",
+ "test_sha1": "c917b3b3fa7b0b3e3288f6529835028f82c6f88a",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/optimization/general/PowellOptimizer.java",
+ "prod_time": {
+  "$date": 1280180852000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/optimization/general/PowellOptimizerTest.java",
+ "test_time": {
+  "$date": 1280180852000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 27,
+ "add_classname_line": 3,
+ "add_condition_line": 10,
+ "add_field_line": 6,
+ "add_import_line": 12,
+ "add_packageid_line": 1,
+ "add_parameter_line": 12,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

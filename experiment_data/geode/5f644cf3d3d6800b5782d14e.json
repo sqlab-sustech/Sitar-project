@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/com/gemstone/gemfire/internal/security/GeodeSecurityUtil.java",
+ "prod_sha1": "a325d074fd676e520dd9f7e565c77017de48d243",
+ "repository": "geode",
+ "prod_qual": "com/gemstone/gemfire/internal/security/GeodeSecurityUtil.java",
+ "prod_time": {
+  "$date": 1473793759000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/com/gemstone/gemfire/internal/security/GeodeSecurityUtilTest.java",
+ "test_qual": "com/gemstone/gemfire/internal/security/GeodeSecurityUtilTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

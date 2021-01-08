@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/io/MergedStream.java",
+ "prod_sha1": "fedd7950785eb43e4c6a815a44cbd0d8c34adc2c",
+ "repository": "jackson-core",
+ "prod_qual": "com/fasterxml/jackson/core/io/MergedStream.java",
+ "prod_time": {
+  "$date": 1389760864000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/io/TestMergedStream.java",
+ "test_qual": "com/fasterxml/jackson/core/io/TestMergedStream.java",
+ "add_annotation_line": 5,
+ "add_call_line": 10,
+ "add_classname_line": 1,
+ "add_condition_line": 8,
+ "add_field_line": 5,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 11,
+ "add_return_line": 1,
+ "del_annotation_line": 4,
+ "del_call_line": 8,
+ "del_classname_line": 1,
+ "del_condition_line": 5,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 6,
+ "test_typ": "Non"
+}

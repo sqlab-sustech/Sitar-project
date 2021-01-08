@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/ConstructorCallsOverridableMethodRule.java",
+ "prod_sha1": "da39500bcc47ef9a4c515fd71cd6d68f0e8cd4d9",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/ConstructorCallsOverridableMethodRule.java",
+ "prod_time": {
+  "$date": 1047306242000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/ConstructorCallsOverridableMethodRuleTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/ConstructorCallsOverridableMethodRuleTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

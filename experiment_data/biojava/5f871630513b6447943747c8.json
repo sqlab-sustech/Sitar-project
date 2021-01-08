@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/PDBStatus.java",
+ "prod_sha1": "0e4c1f0dc03a1b127cc4db9e8362257e8819c61a",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/structure/PDBStatus.java",
+ "prod_time": {
+  "$date": 1355183417000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/PDBStatusTest.java",
+ "test_qual": "org/biojava/bio/structure/PDBStatusTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,13 @@
+diff --git a/geode-core/src/main/java/com/gemstone/gemfire/internal/security/GeodeSecurityUtil.java b/geode-core/src/main/java/com/gemstone/gemfire/internal/security/GeodeSecurityUtil.java
+index 958fc7a88a..a9c2162948 100644
+--- a/geode-core/src/main/java/com/gemstone/gemfire/internal/security/GeodeSecurityUtil.java
++++ b/geode-core/src/main/java/com/gemstone/gemfire/internal/security/GeodeSecurityUtil.java
+@@ -60,7 +60,7 @@ import com.gemstone.gemfire.security.NotAuthorizedException;
+ 
+ public class GeodeSecurityUtil {
+ 
+-  private static Logger logger = LogService.getLogger();
++  private static Logger logger = LogService.getLogger(LogService.SECURITY_LOGGER_NAME);
+ 
+   private static PostProcessor postProcessor;
+   private static SecurityManager securityManager;

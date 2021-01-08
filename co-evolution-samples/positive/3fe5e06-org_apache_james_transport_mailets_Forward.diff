@@ -1,0 +1,15 @@
+diff --git a/server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/Forward.java b/server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/Forward.java
+index 2b57c0a58..018ef9e3b 100644
+--- a/server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/Forward.java
++++ b/server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/Forward.java
+@@ -201,8 +201,8 @@ public class Forward extends GenericMailet implements RedirectNotify {
+     }
+ 
+     @Override
+-    public MailAddress getReplyTo() throws MessagingException {
+-        return null;
++    public Optional<MailAddress> getReplyTo() throws MessagingException {
++        return Optional.absent();
+     }
+ 
+     @Override

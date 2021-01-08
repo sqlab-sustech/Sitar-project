@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterEventPoller.java",
+ "prod_sha1": "8d4902e717ba2932ddb0f7110f2a669811f5d1af",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/interpreter/remote/RemoteInterpreterEventPoller.java",
+ "prod_time": {
+  "$date": 1495525935000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterEventPollerTest.java",
+ "test_qual": "org/apache/zeppelin/interpreter/remote/RemoteInterpreterEventPollerTest.java",
+ "add_annotation_line": 8,
+ "add_call_line": 102,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 14,
+ "add_return_line": 19,
+ "del_annotation_line": 6,
+ "del_call_line": 89,
+ "del_classname_line": 0,
+ "del_condition_line": 13,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 9,
+ "del_return_line": 19,
+ "test_typ": "Non"
+}

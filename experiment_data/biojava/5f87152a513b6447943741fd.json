@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/geometry/UnitQuaternions.java",
+ "prod_sha1": "c34385aa52cff02c67030b63550b43deb29a3988",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/geometry/TestUnitQuaternions.java",
+ "test_sha1": "c34385aa52cff02c67030b63550b43deb29a3988",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/geometry/UnitQuaternions.java",
+ "prod_time": {
+  "$date": 1474501945000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/geometry/TestUnitQuaternions.java",
+ "test_time": {
+  "$date": 1474501945000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 10,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

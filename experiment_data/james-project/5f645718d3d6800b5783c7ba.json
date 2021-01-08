@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/base/src/main/java/org/apache/mailet/base/MailetUtil.java",
+ "prod_sha1": "fe712f1a3bb698135485590427f643da25680e4e",
+ "repository": "james-project",
+ "test_path": "mailet/base/src/test/java/org/apache/mailet/base/MailetUtilTest.java",
+ "test_sha1": "43fdedc3fffa07f43a596cc1a9543a7ebaa1d47c",
+ "commit_between": 3,
+ "prod_qual": "org/apache/mailet/base/MailetUtil.java",
+ "prod_time": {
+  "$date": 1514302235000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/mailet/base/MailetUtilTest.java",
+ "test_time": {
+  "$date": 1514306899000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

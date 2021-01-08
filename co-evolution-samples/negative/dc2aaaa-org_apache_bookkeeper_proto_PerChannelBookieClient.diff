@@ -1,0 +1,13 @@
+diff --git a/bookkeeper-server/src/main/java/org/apache/bookkeeper/proto/PerChannelBookieClient.java b/bookkeeper-server/src/main/java/org/apache/bookkeeper/proto/PerChannelBookieClient.java
+index 071b8395b..917f6f332 100644
+--- a/bookkeeper-server/src/main/java/org/apache/bookkeeper/proto/PerChannelBookieClient.java
++++ b/bookkeeper-server/src/main/java/org/apache/bookkeeper/proto/PerChannelBookieClient.java
+@@ -462,7 +462,7 @@ public class PerChannelBookieClient extends ChannelInboundHandlerAdapter {
+                     "bookieProtoDecoder",
+                     new BookieProtoEncoding.ResponseDecoder(extRegistry, useV2WireProtocol));
+                 pipeline.addLast("authHandler", new AuthHandler.ClientSideHandler(authProviderFactory, txnIdGenerator,
+-                            connectionPeer));
++                            connectionPeer, useV2WireProtocol));
+                 pipeline.addLast("mainhandler", PerChannelBookieClient.this);
+             }
+         });

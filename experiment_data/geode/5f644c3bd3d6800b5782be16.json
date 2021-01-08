@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/pdx/internal/PdxType.java",
+ "prod_sha1": "2f9258fa2c2f4dab260c71ab683b1b2ae831d3af",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/pdx/internal/PdxTypeTest.java",
+ "test_sha1": "b97b3e2551e800deb0ed1e0e990bb195da0b455c",
+ "commit_between": 1,
+ "prod_qual": "org/apache/geode/pdx/internal/PdxType.java",
+ "prod_time": {
+  "$date": 1530287394000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/pdx/internal/PdxTypeTest.java",
+ "test_time": {
+  "$date": 1530300603000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 3
+}

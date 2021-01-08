@@ -1,0 +1,30 @@
+diff --git a/modules/axiom-impl/src/main/java/org/apache/axiom/om/impl/llom/OMDocumentImpl.java b/modules/axiom-impl/src/main/java/org/apache/axiom/om/impl/llom/OMDocumentImpl.java
+index 1200d028e..6085d18a1 100644
+--- a/modules/axiom-impl/src/main/java/org/apache/axiom/om/impl/llom/OMDocumentImpl.java
++++ b/modules/axiom-impl/src/main/java/org/apache/axiom/om/impl/llom/OMDocumentImpl.java
+@@ -149,12 +149,22 @@ public class OMDocumentImpl extends OMSerializableImpl implements OMDocument, IC
+     }
+ 
+     public void addChild(OMNode omNode, boolean fromBuilder) {
+-        if (!fromBuilder && omNode instanceof OMElement && getOMDocumentElement() != null) {
+-            throw new OMException("Document element already exists");
+-        }
+         OMContainerHelper.addChild(this, omNode, fromBuilder);
+     }
+ 
++    public final void checkChild(OMNode child) {
++        if (child instanceof OMElement) {
++            if (getOMDocumentElement() != null) {
++                throw new OMException("Document element already exists");
++            } else {
++                checkDocumentElement((OMElement)child);
++            }
++        }
++    }
++
++    protected void checkDocumentElement(OMElement element) {
++    }
++
+     /**
+      * Returns a collection of this element. Children can be of types OMElement, OMText.
+      *

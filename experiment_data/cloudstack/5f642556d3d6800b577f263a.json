@@ -1,0 +1,32 @@
+{
+ "prod_path": "plugins/hypervisors/kvm/src/com/cloud/hypervisor/kvm/resource/LibvirtComputingResource.java",
+ "prod_sha1": "a41c9b963125552e163c1b9132a475c9764cb22c",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/hypervisor/kvm/resource/LibvirtComputingResource.java",
+ "prod_time": {
+  "$date": 1389705784000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "plugins/hypervisors/kvm/test/com/cloud/hypervisor/kvm/resource/LibvirtComputingResourceTest.java",
+ "test_qual": "com/cloud/hypervisor/kvm/resource/LibvirtComputingResourceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

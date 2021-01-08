@@ -1,0 +1,32 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/db/QueryBuilder.java",
+ "prod_sha1": "6309253de13d8e9c7d32f6d1b4059f3fb49cf0c9",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/utils/db/QueryBuilder.java",
+ "prod_time": {
+  "$date": 1345852607000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "NEGATIVE",
+ "test_path": "utils/test/com/cloud/utils/db/QueryBuilderTest.java",
+ "test_qual": "com/cloud/utils/db/QueryBuilderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 12,
+ "del_call_line": 31,
+ "del_classname_line": 1,
+ "del_condition_line": 5,
+ "del_field_line": 6,
+ "del_import_line": 8,
+ "del_packageid_line": 1,
+ "del_parameter_line": 18,
+ "del_return_line": 15,
+ "test_typ": "Non"
+}

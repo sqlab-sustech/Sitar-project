@@ -1,0 +1,17 @@
+diff --git a/core/progmodel/src/main/java/org/apache/isis/metamodel/facets/ordering/actionorder/ActionOrderAnnotationFacetFactory.java b/core/progmodel/src/main/java/org/apache/isis/metamodel/facets/ordering/actionorder/ActionOrderAnnotationFacetFactory.java
+index 78d87990cb..dfb27ebdd6 100644
+--- a/core/progmodel/src/main/java/org/apache/isis/metamodel/facets/ordering/actionorder/ActionOrderAnnotationFacetFactory.java
++++ b/core/progmodel/src/main/java/org/apache/isis/metamodel/facets/ordering/actionorder/ActionOrderAnnotationFacetFactory.java
+@@ -21,11 +21,11 @@
+ package org.apache.isis.metamodel.facets.ordering.actionorder;
+ 
+ import org.apache.isis.applib.annotation.ActionOrder;
++import org.apache.isis.core.metamodel.spec.feature.ObjectFeatureType;
+ import org.apache.isis.metamodel.facets.FacetHolder;
+ import org.apache.isis.metamodel.facets.FacetUtil;
+ import org.apache.isis.metamodel.facets.MethodRemover;
+ import org.apache.isis.metamodel.java5.AnnotationBasedFacetFactoryAbstract;
+-import org.apache.isis.metamodel.spec.feature.ObjectFeatureType;
+ 
+ 
+ public class ActionOrderAnnotationFacetFactory extends AnnotationBasedFacetFactoryAbstract {

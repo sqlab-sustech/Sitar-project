@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/rcsb/RCSBDescriptionFactory.java",
+ "prod_sha1": "769697eba8f53fd342052817c1bb9b8a90c28833",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/structure/rcsb/RCSBDescriptionFactory.java",
+ "prod_time": {
+  "$date": 1385854347000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/rcsb/RCSBDescriptionFactoryTest.java",
+ "test_qual": "org/biojava/bio/structure/rcsb/RCSBDescriptionFactoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

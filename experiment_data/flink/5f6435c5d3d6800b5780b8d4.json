@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-tests/src/test/java/eu/stratosphere/pact/test/pactPrograms/WordCount.java",
+ "prod_sha1": "54ee5fa3d278fbfd4ee6850b6e20d04d0d10aea5",
+ "repository": "flink",
+ "test_path": "pact/pact-tests/src/test/java/eu/stratosphere/pact/test/pactPrograms/WordCountTest.java",
+ "test_sha1": "54ee5fa3d278fbfd4ee6850b6e20d04d0d10aea5",
+ "commit_between": 0,
+ "prod_qual": "pactPrograms/WordCount.java",
+ "prod_time": {
+  "$date": 1293103091000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "pactPrograms/WordCountTest.java",
+ "test_time": {
+  "$date": 1293103091000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 12,
+ "del_call_line": 17,
+ "del_classname_line": 7,
+ "del_condition_line": 4,
+ "del_field_line": 2,
+ "del_import_line": 12,
+ "del_packageid_line": 1,
+ "del_parameter_line": 20,
+ "del_return_line": 11
+}

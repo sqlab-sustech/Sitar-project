@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/graph/src/main/java/org/apache/usergrid/persistence/graph/consistency/AmazonSimpleTimeoutQueue.java",
+ "prod_sha1": "8cc1870c8393b223e1da921b6b76b2eb70fe3468",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/graph/src/test/java/org/apache/usergrid/persistence/graph/consistency/AmazonSimpleTimeoutQueueTest.java",
+ "test_sha1": "2d6468a3adafeff6a3b9a6257186bec547871e70",
+ "commit_between": 1,
+ "prod_qual": "org/apache/usergrid/persistence/graph/consistency/AmazonSimpleTimeoutQueue.java",
+ "prod_time": {
+  "$date": 1397864741000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/usergrid/persistence/graph/consistency/AmazonSimpleTimeoutQueueTest.java",
+ "test_time": {
+  "$date": 1397865019000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,12 @@
+diff --git a/apm-sniffer/apm-sdk-plugin/kafka-0.11.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/v11/ProducerConstructorInterceptor.java b/apm-sniffer/apm-sdk-plugin/kafka-0.11.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/v11/ProducerConstructorInterceptor.java
+index ed267df21..9849d48ff 100644
+--- a/apm-sniffer/apm-sdk-plugin/kafka-0.11.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/v11/ProducerConstructorInterceptor.java
++++ b/apm-sniffer/apm-sdk-plugin/kafka-0.11.x-plugin/src/main/java/org/apache/skywalking/apm/plugin/kafka/v11/ProducerConstructorInterceptor.java
+@@ -28,6 +28,6 @@ public class ProducerConstructorInterceptor implements InstanceConstructorInterc
+     @Override public void onConstruct(EnhancedInstance objInst, Object[] allArguments) {
+         ProducerConfig config = (ProducerConfig)allArguments[0];
+         // set the bootstrap server address
+-        objInst.setSkyWalkingDynamicField(StringUtil.join(',', config.getList("bootstrap.servers").toArray(new String[0])));
++        objInst.setSkyWalkingDynamicField(StringUtil.join(';', config.getList("bootstrap.servers").toArray(new String[0])));
+     }
+ }

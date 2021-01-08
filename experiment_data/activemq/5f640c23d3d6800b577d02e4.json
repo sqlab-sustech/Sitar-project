@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-tooling/maven-activemq-plugin/src/main/java/org/apache/activemq/maven/XBeanFileResolver.java",
+ "prod_sha1": "f6a5c7bd470ef4b10aaf6cd43f3bec9760f5a4b2",
+ "repository": "activemq",
+ "test_path": "activemq-tooling/maven-activemq-plugin/src/test/java/org/apache/activemq/maven/XBeanFileResolverTest.java",
+ "test_sha1": "f6a5c7bd470ef4b10aaf6cd43f3bec9760f5a4b2",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/maven/XBeanFileResolver.java",
+ "prod_time": {
+  "$date": 1351687770000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/maven/XBeanFileResolverTest.java",
+ "test_time": {
+  "$date": 1351687770000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 13,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 9,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

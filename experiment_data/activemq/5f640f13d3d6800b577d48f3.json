@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/store/kahadb/KahaDBStore.java",
+ "prod_sha1": "8e61f519dfe216ec72de44909f267c426644eb5a",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/store/kahadb/KahaDBStore.java",
+ "prod_time": {
+  "$date": 1310737501000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/store/kahadb/KahaDBStoreTest.java",
+ "test_qual": "org/apache/activemq/store/kahadb/KahaDBStoreTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 33,
+ "add_classname_line": 0,
+ "add_condition_line": 8,
+ "add_field_line": 2,
+ "add_import_line": 15,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 15,
+ "del_annotation_line": 2,
+ "del_call_line": 39,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 4,
+ "del_import_line": 21,
+ "del_packageid_line": 0,
+ "del_parameter_line": 9,
+ "del_return_line": 15,
+ "test_typ": "Non"
+}

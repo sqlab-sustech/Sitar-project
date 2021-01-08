@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/protocols/webadmin/webadmin-cassandra/src/main/java/org/apache/james/webadmin/service/CassandraMigrationService.java",
+ "prod_sha1": "55300fedca613a26ffe9fbb658d04b222933d834",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/webadmin/service/CassandraMigrationService.java",
+ "prod_time": {
+  "$date": 1503023047000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/protocols/webadmin/webadmin-cassandra/src/test/java/org/apache/james/webadmin/service/CassandraMigrationServiceTest.java",
+ "test_qual": "org/apache/james/webadmin/service/CassandraMigrationServiceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

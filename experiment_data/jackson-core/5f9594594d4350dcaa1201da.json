@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/io/CharTypes.java",
+ "prod_sha1": "6d2698003c3c18f24d1b32ae74dc6c004599a273",
+ "repository": "jackson-core",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/io/TestCharTypes.java",
+ "test_sha1": "a8d4cd43bb21900541bdaa840a32a5c56116fe59",
+ "commit_between": 1,
+ "prod_qual": "com/fasterxml/jackson/core/io/CharTypes.java",
+ "prod_time": {
+  "$date": 1573237515000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/fasterxml/jackson/core/io/TestCharTypes.java",
+ "test_time": {
+  "$date": 1573238243000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

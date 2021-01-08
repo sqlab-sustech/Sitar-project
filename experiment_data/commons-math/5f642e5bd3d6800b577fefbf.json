@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+ "prod_sha1": "d9964d8cbea13162d0b61ecdfd76d564f7ed322b",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/geometry/euclidean/threed/RotationTest.java",
+ "test_sha1": "d9964d8cbea13162d0b61ecdfd76d564f7ed322b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/geometry/euclidean/threed/Rotation.java",
+ "prod_time": {
+  "$date": 1317499282000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/geometry/euclidean/threed/RotationTest.java",
+ "test_time": {
+  "$date": 1317499282000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

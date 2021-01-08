@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/StructureTools.java",
+ "prod_sha1": "da2cb75e70c508b5a8dd2af46b3cc14766a9fa47",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/structure/StructureTools.java",
+ "prod_time": {
+  "$date": 1382756443000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "integrationtest/src/test/java/org/biojava/bio/structure/StructureToolsTest.java",
+ "test_qual": "org/biojava/bio/structure/StructureToolsTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 39,
+ "add_classname_line": 0,
+ "add_condition_line": 31,
+ "add_field_line": 0,
+ "add_import_line": 8,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 18,
+ "del_classname_line": 0,
+ "del_condition_line": 13,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

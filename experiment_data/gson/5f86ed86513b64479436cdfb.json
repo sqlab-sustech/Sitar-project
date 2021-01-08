@@ -1,0 +1,37 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/JsonParserAsync.java",
+ "prod_sha1": "6e59e502c2461c11d0e6099f10f65c666acabc45",
+ "repository": "gson",
+ "test_path": "gson/src/test/java/com/google/gson/JsonParserAsyncTest.java",
+ "test_sha1": "6e59e502c2461c11d0e6099f10f65c666acabc45",
+ "commit_between": 0,
+ "prod_qual": "com/google/gson/JsonParserAsync.java",
+ "prod_time": {
+  "$date": 1242332325000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/JsonParserAsyncTest.java",
+ "test_time": {
+  "$date": 1242332325000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

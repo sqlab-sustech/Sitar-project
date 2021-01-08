@@ -1,0 +1,14 @@
+chainsaw DD 91d5cfd7c60aff10102bebf3c3bb6a0a2e6d7239 91d5cfd7c60aff10102bebf3c3bb6a0a2e6d7239 src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw EE dd1ca9b307eee4803452dfbac66c70317086386f dd1ca9b307eee4803452dfbac66c70317086386f src/main/java/org/apache/log4j/chainsaw/LogPanelPreferenceModel.java src/test/java/org/apache/log4j/chainsaw/LogPanelPreferenceModelTest.java
+chainsaw CC f313db639e6d419bff72036e142ddf0b1ccbfec4 f313db639e6d419bff72036e142ddf0b1ccbfec4 src/main/java/org/apache/log4j/rewrite/RewriteAppender.java src/test/java/org/apache/log4j/rewrite/RewriteAppenderTest.java
+chainsaw CC f313db639e6d419bff72036e142ddf0b1ccbfec4 f313db639e6d419bff72036e142ddf0b1ccbfec4 src/main/java/org/apache/log4j/xml/XMLDecoder.java src/test/java/org/apache/log4j/xml/XMLDecoderTest.java
+chainsaw CC f313db639e6d419bff72036e142ddf0b1ccbfec4 f313db639e6d419bff72036e142ddf0b1ccbfec4 src/main/java/org/apache/log4j/helpers/UtilLoggingLevel.java src/test/java/org/apache/log4j/helpers/UtilLoggingLevelTest.java
+chainsaw CC 8404569e6181608d113b56b3e30fd0be978d25fd b76d6d6207a16f852a1b25a68050acce250bdbc1 src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd 277dbc05d65934b85177705de39b0e44d51e801d src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd 4d412255c0c7bd12ca731d42b761627a46835e4b src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd 81d5a999b3b8da2b467ed1c4db08a404d8cfd230 src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd 588688a6783f917c0f11d98d28c432f7ce72c59d src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd 247957ac27aaa1a9a327dc94259561dd9e117e02 src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd 01b21aa3e7642b57adcf5e9c4c3ee56b27a4d38b src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw CE 8404569e6181608d113b56b3e30fd0be978d25fd fe24e372cbf17fa8ad9546efae4ee77f9dc440de src/java/org/apache/log4j/chainsaw/rule/Rule.java src/java/org/apache/log4j/chainsaw/rule/RuleTest.java
+chainsaw DD 85f191d79ffa0f80e6e5abe23a604a061484d475 bbc57fa943055d000e276771e5bf949d97bf25dc src/main/java/org/apache/log4j/net/ZeroConfSocketHubAppender.java src/test/java/org/apache/log4j/net/ZeroConfSocketHubAppenderTest.java

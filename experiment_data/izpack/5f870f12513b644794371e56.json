@@ -1,0 +1,32 @@
+{
+ "prod_path": "izpack-core/src/main/java/com/izforge/izpack/merge/jar/JarMerge.java",
+ "prod_sha1": "a6fcad38220a61069bbfecfe7c31b4faa73e8040",
+ "repository": "izpack",
+ "prod_qual": "com/izforge/izpack/merge/jar/JarMerge.java",
+ "prod_time": {
+  "$date": 1266527071000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "izpack-test/src/test/java/com/izforge/izpack/merge/jar/JarMergeTest.java",
+ "test_qual": "com/izforge/izpack/merge/jar/JarMergeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-alignment/src/main/java/org/biojava3/alignment/NeedlemanWunsch.java",
+ "prod_sha1": "2f0f4bb17f7d1de0623fbb357818149f1c234fde",
+ "repository": "biojava",
+ "test_path": "biojava3-alignment/src/test/java/org/biojava3/alignment/NeedlemanWunschTest.java",
+ "test_sha1": "966a6f8115b5c6e4fa2b8dff8156999bb5aeecbe",
+ "commit_between": 1,
+ "prod_qual": "org/biojava3/alignment/NeedlemanWunsch.java",
+ "prod_time": {
+  "$date": 1276781818000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava3/alignment/NeedlemanWunschTest.java",
+ "test_time": {
+  "$date": 1276781866000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 9,
+ "add_classname_line": 2,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 44,
+ "del_classname_line": 0,
+ "del_condition_line": 20,
+ "del_field_line": 0,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 1
+}

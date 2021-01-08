@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-jmap/src/main/java/org/apache/james/jmap/api/vacation/VacationPatch.java",
+ "prod_sha1": "75b5767e97f9968e8a0445685e86e0c0aa903e95",
+ "repository": "james-project",
+ "test_path": "server/data/data-jmap/src/test/java/org/apache/james/jmap/api/vacation/VacationPatchTest.java",
+ "test_sha1": "75b5767e97f9968e8a0445685e86e0c0aa903e95",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/jmap/api/vacation/VacationPatch.java",
+ "prod_time": {
+  "$date": 1467024270000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/jmap/api/vacation/VacationPatchTest.java",
+ "test_time": {
+  "$date": 1467024270000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 47,
+ "add_classname_line": 2,
+ "add_condition_line": 1,
+ "add_field_line": 12,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 27,
+ "add_return_line": 49,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

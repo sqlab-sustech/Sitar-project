@@ -1,0 +1,22 @@
+diff --git a/juneau-core/juneau-marshall/src/main/java/org/apache/juneau/transforms/CalendarSwap.java b/juneau-core/juneau-marshall/src/main/java/org/apache/juneau/transforms/CalendarSwap.java
+index cc14c736f..8f82cf9df 100644
+--- a/juneau-core/juneau-marshall/src/main/java/org/apache/juneau/transforms/CalendarSwap.java
++++ b/juneau-core/juneau-marshall/src/main/java/org/apache/juneau/transforms/CalendarSwap.java
+@@ -624,7 +624,7 @@ public class CalendarSwap extends StringSwap<Calendar> {
+ 			c.setTimeZone(in.getTimeZone());
+ 			return c;
+ 		} catch (Exception e) {
+-			throw new ParseException((Throwable)e);
++			throw new ParseException(e);
+ 		}
+ 	}
+ 
+@@ -636,7 +636,7 @@ public class CalendarSwap extends StringSwap<Calendar> {
+ 			c.setTime(in);
+ 			return c;
+ 		} catch (Exception e) {
+-			throw new ParseException((Throwable)e);
++			throw new ParseException(e);
+ 		}
+ 	}
+ }

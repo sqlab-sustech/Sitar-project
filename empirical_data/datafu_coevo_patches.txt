@@ -1,0 +1,2 @@
+datafu CC cccf2f4ac3a45efa8469c1e19b03526a55bfeff5 cccf2f4ac3a45efa8469c1e19b03526a55bfeff5 cobertura/examples/basic/src/com/example/simple/Simple.java cobertura/examples/basic/src/com/example/simple/SimpleTest.java
+datafu DD e59348fc687a3492e9e0d75f22e1f6ee1d92fa06 e59348fc687a3492e9e0d75f22e1f6ee1d92fa06 cobertura/examples/basic/src/com/example/simple/Simple.java cobertura/examples/basic/src/com/example/simple/SimpleTest.java

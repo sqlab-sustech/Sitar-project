@@ -1,0 +1,32 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/partial/TimeOfDay.java",
+ "prod_sha1": "62e4b9e5f9797d72077610ab91b7ce88cf6101c5",
+ "repository": "joda-time",
+ "prod_qual": "org/joda/time/partial/TimeOfDay.java",
+ "prod_time": {
+  "$date": 1089868538000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "JodaTime/src/test/org/joda/time/partial/TestTimeOfDay.java",
+ "test_qual": "org/joda/time/partial/TestTimeOfDay.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

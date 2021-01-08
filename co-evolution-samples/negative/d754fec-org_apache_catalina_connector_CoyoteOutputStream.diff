@@ -1,0 +1,75 @@
+diff --git a/java/org/apache/catalina/connector/CoyoteOutputStream.java b/java/org/apache/catalina/connector/CoyoteOutputStream.java
+index 4d5949cac0..267a56b20c 100644
+--- a/java/org/apache/catalina/connector/CoyoteOutputStream.java
++++ b/java/org/apache/catalina/connector/CoyoteOutputStream.java
+@@ -35,12 +35,8 @@ public class CoyoteOutputStream extends ServletOutputStream {
+             StringManager.getManager(Constants.Package);
+ 
+ 
+-    // ----------------------------------------------------- Instance Variables
+-
+     protected OutputBuffer ob;
+-
+-
+-    // ----------------------------------------------------------- Constructors
++    private volatile Boolean ready = null;
+ 
+ 
+     protected CoyoteOutputStream(OutputBuffer ob) {
+@@ -48,22 +44,15 @@ public class CoyoteOutputStream extends ServletOutputStream {
+     }
+ 
+ 
+-    // --------------------------------------------------------- Public Methods
+-
+-
+     /**
+      * Prevent cloning the facade.
+      */
+     @Override
+-    protected Object clone()
+-        throws CloneNotSupportedException {
++    protected Object clone() throws CloneNotSupportedException {
+         throw new CloneNotSupportedException();
+     }
+ 
+ 
+-    // -------------------------------------------------------- Package Methods
+-
+-
+     /**
+      * Clear facade.
+      */
+@@ -72,9 +61,6 @@ public class CoyoteOutputStream extends ServletOutputStream {
+     }
+ 
+ 
+-    // --------------------------------------------------- OutputStream Methods
+-
+-
+     @Override
+     public void write(int i) throws IOException {
+         boolean nonBlocking = checkNonBlockingWrite();
+@@ -124,10 +110,11 @@ public class CoyoteOutputStream extends ServletOutputStream {
+      */
+     private boolean checkNonBlockingWrite() {
+         boolean nonBlocking = !ob.isBlocking();
+-        if (nonBlocking && !ob.isReady()) {
++        if (nonBlocking && (ready == null || !ready.booleanValue())) {
+             throw new IllegalStateException(
+                     sm.getString("coyoteOutputStream.nbNotready"));
+         }
++        ready = null;
+         return nonBlocking;
+     }
+ 
+@@ -153,7 +140,8 @@ public class CoyoteOutputStream extends ServletOutputStream {
+ 
+     @Override
+     public boolean isReady() {
+-        return ob.isReady();
++        ready = Boolean.valueOf(ob.isReady());
++        return ready.booleanValue();
+     }
+ 
+ 

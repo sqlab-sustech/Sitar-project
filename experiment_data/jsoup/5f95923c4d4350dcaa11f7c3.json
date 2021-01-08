@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/jsoup/select/QueryParser.java",
+ "prod_sha1": "f5fc1bb04c224865f8eee5ed718f4ffee0e18712",
+ "repository": "jsoup",
+ "test_path": "src/test/java/org/jsoup/select/QueryParserTest.java",
+ "test_sha1": "f5fc1bb04c224865f8eee5ed718f4ffee0e18712",
+ "commit_between": 0,
+ "prod_qual": "org/jsoup/select/QueryParser.java",
+ "prod_time": {
+  "$date": 1580451199000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jsoup/select/QueryParserTest.java",
+ "test_time": {
+  "$date": 1580451199000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

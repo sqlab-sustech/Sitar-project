@@ -1,0 +1,13 @@
+diff --git a/src/java/org/apache/turbine/pipeline/DefaultSessionValidationValve.java b/src/java/org/apache/turbine/pipeline/DefaultSessionValidationValve.java
+index 76573639..23c787da 100644
+--- a/src/java/org/apache/turbine/pipeline/DefaultSessionValidationValve.java
++++ b/src/java/org/apache/turbine/pipeline/DefaultSessionValidationValve.java
+@@ -39,7 +39,7 @@ import org.apache.turbine.util.TurbineException;
+  * @version $Id$
+  */
+ public class DefaultSessionValidationValve
+-    extends AbstractValve
++    implements Valve
+ {
+     /** Injected loader instance */
+     @TurbineLoader( Action.class )

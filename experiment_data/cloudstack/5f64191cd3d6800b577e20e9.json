@@ -1,0 +1,37 @@
+{
+ "prod_path": "agent/src/com/cloud/agent/AgentShell.java",
+ "prod_sha1": "05c020e1f6679edb74ef9ee513fc6240db981139",
+ "repository": "cloudstack",
+ "test_path": "agent/test/com/cloud/agent/TestAgentShell.java",
+ "test_sha1": "05c020e1f6679edb74ef9ee513fc6240db981139",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/agent/AgentShell.java",
+ "prod_time": {
+  "$date": 1281543209000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/agent/TestAgentShell.java",
+ "test_time": {
+  "$date": 1281543209000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 16,
+ "add_call_line": 147,
+ "add_classname_line": 2,
+ "add_condition_line": 48,
+ "add_field_line": 20,
+ "add_import_line": 36,
+ "add_packageid_line": 1,
+ "add_parameter_line": 37,
+ "add_return_line": 24,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

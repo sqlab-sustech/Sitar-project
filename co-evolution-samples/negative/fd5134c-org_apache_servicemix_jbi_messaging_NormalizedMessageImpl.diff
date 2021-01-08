@@ -1,0 +1,45 @@
+diff --git a/core/servicemix-core/src/main/java/org/apache/servicemix/jbi/messaging/NormalizedMessageImpl.java b/core/servicemix-core/src/main/java/org/apache/servicemix/jbi/messaging/NormalizedMessageImpl.java
+index 3e0f7f22a..eea3e9b8a 100644
+--- a/core/servicemix-core/src/main/java/org/apache/servicemix/jbi/messaging/NormalizedMessageImpl.java
++++ b/core/servicemix-core/src/main/java/org/apache/servicemix/jbi/messaging/NormalizedMessageImpl.java
+@@ -21,6 +21,7 @@ import java.io.Externalizable;
+ import java.io.IOException;
+ import java.io.ObjectInput;
+ import java.io.ObjectOutput;
++import java.io.Serializable;
+ import java.util.Collections;
+ import java.util.HashMap;
+ import java.util.Iterator;
+@@ -308,7 +309,10 @@ public class NormalizedMessageImpl implements NormalizedMessage, Externalizable,
+         try {
+             convertAttachments();
+             out.writeObject(attachments);
+-            out.writeObject(properties);
++            //since we can't guarantee all properties is Serializable, so only write the
++            //properties which is serializable to the external to avoid NotSerializableException
++            Map serialiableProperties = getSeriableProperties(properties);
++            out.writeObject(serialiableProperties);
+             String src = TRANSFORMER.toString(content);
+             out.writeObject(src);
+             // We have read the source
+@@ -322,6 +326,20 @@ public class NormalizedMessageImpl implements NormalizedMessage, Externalizable,
+         }
+     }
+ 
++    private Map getSeriableProperties(Map originalProperties) {
++        if (originalProperties == null) {
++            return originalProperties;
++        }
++        Map ret = new HashMap();
++        for (Object key : originalProperties.keySet()) {
++            if (originalProperties.get(key) instanceof Serializable) {
++                ret.put(key, originalProperties.get(key));
++            }
++        }
++        return ret;
++    }
++ 
++   
+     private void convertAttachments() throws IOException {
+         if (attachments != null) {
+             Map newAttachments = createAttachmentsMap();

@@ -1,0 +1,32 @@
+{
+ "prod_path": "backends-common/elasticsearch/src/main/java/org/apache/james/backends/es/IndexCreationFactory.java",
+ "prod_sha1": "fcf224af07307f53547203ac87ef779c95489ef7",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/backends/es/IndexCreationFactory.java",
+ "prod_time": {
+  "$date": 1558586291000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "backends-common/elasticsearch/src/test/java/org/apache/james/backends/es/IndexCreationFactoryTest.java",
+ "test_qual": "org/apache/james/backends/es/IndexCreationFactoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

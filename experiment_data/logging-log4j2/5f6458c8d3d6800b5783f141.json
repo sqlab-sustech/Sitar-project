@@ -1,0 +1,37 @@
+{
+ "prod_path": "taglib/src/main/java/org/apache/logging/log4j/taglib/LoggingMessageTagSupport.java",
+ "prod_sha1": "14b3a791b5f8f62729a13d9d18d5233062b7505a",
+ "repository": "logging-log4j2",
+ "test_path": "taglib/src/test/java/org/apache/logging/log4j/taglib/LoggingMessageTagSupportTest.java",
+ "test_sha1": "14b3a791b5f8f62729a13d9d18d5233062b7505a",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/taglib/LoggingMessageTagSupport.java",
+ "prod_time": {
+  "$date": 1368113562000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/taglib/LoggingMessageTagSupportTest.java",
+ "test_time": {
+  "$date": 1368113562000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0
+}

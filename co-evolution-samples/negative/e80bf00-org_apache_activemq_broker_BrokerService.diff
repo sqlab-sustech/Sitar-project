@@ -1,0 +1,47 @@
+diff --git a/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java b/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java
+index 68aeff24a..33112d3e2 100644
+--- a/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java
++++ b/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java
+@@ -116,6 +116,7 @@ public class BrokerService implements Service {
+     private boolean shutdownOnMasterFailure;
+     private boolean shutdownOnSlaveFailure;
+     private boolean waitForSlave;
++    private long waitForSlaveTimeout = 600000L;
+     private boolean passiveSlave;
+     private String brokerName = DEFAULT_BROKER_NAME;
+     private File dataDirectoryFile;
+@@ -1908,7 +1909,9 @@ public class BrokerService implements Service {
+ 
+     protected void waitForSlave() {
+         try {
+-            slaveStartSignal.await();
++            if (!slaveStartSignal.await(waitForSlaveTimeout, TimeUnit.MILLISECONDS)) {
++            	throw new IllegalStateException("Gave up waiting for slave to start after " + waitForSlaveTimeout + " milliseconds."); 
++            }
+         } catch (InterruptedException e) {
+             LOG.error("Exception waiting for slave:" + e);
+         }
+@@ -2105,7 +2108,15 @@ public class BrokerService implements Service {
+     public void setWaitForSlave(boolean waitForSlave) {
+         this.waitForSlave = waitForSlave;
+     }
+-
++  
++    public long getWaitForSlaveTimeout() {
++        return this.waitForSlaveTimeout;
++    }
++    
++    public void setWaitForSlaveTimeout(long waitForSlaveTimeout) {
++        this.waitForSlaveTimeout = waitForSlaveTimeout;
++    }
++    
+     public CountDownLatch getSlaveStartSignal() {
+         return slaveStartSignal;
+     }
+@@ -2132,4 +2143,4 @@ public class BrokerService implements Service {
+     }
+     
+    
+-}
+\ No newline at end of file
++}

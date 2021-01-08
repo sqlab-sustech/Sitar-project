@@ -1,0 +1,37 @@
+{
+ "prod_path": "backends-common/elasticsearch-v6/src/main/java/org/apache/james/backends/es/v6/search/ScrollIterable.java",
+ "prod_sha1": "7f756a80bdb93b5a3168755fdee9b1546a23d561",
+ "repository": "james-project",
+ "test_path": "backends-common/elasticsearch-v6/src/test/java/org/apache/james/backends/es/v6/search/ScrollIterableTest.java",
+ "test_sha1": "eed7a8bd8d45ba8245feac5de406c9fa67b5660e",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/backends/es/v6/search/ScrollIterable.java",
+ "prod_time": {
+  "$date": 1557910240000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/backends/es/v6/search/ScrollIterableTest.java",
+ "test_time": {
+  "$date": 1557910267000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 3,
+ "del_call_line": 8,
+ "del_classname_line": 2,
+ "del_condition_line": 0,
+ "del_field_line": 5,
+ "del_import_line": 8,
+ "del_packageid_line": 1,
+ "del_parameter_line": 7,
+ "del_return_line": 5
+}

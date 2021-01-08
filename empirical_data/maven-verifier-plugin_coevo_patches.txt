@@ -1,0 +1,4 @@
+maven-verifier-plugin CC 6eada97342e9a1abd860e6271da7f28b7dd0dfae 6eada97342e9a1abd860e6271da7f28b7dd0dfae src/main/java/org/apache/maven/plugin/verifier/VerifierMojo.java src/test/java/org/apache/maven/plugin/verifier/VerifierMojoTest.java
+maven-verifier-plugin EE 43591c7c3a1c907b8a7ba58ab8c482c527e6bbb3 43591c7c3a1c907b8a7ba58ab8c482c527e6bbb3 src/main/java/org/apache/maven/plugin/verifier/VerifierMojo.java src/test/java/org/apache/maven/plugin/verifier/VerifierMojoTest.java
+maven-verifier-plugin EE 5f8c14ba5f22dfaa3679e78883c1fc6d1a65cd9d 2ed7b07a859864f642a07ab4f39c1715452ad1b0 src/main/java/org/apache/maven/plugin/verifier/VerifierMojo.java src/test/java/org/apache/maven/plugin/verifier/VerifierMojoTest.java
+maven-verifier-plugin EE 5f8c14ba5f22dfaa3679e78883c1fc6d1a65cd9d 001b63250e3def626b5e90f12567add55f96bbbf src/main/java/org/apache/maven/plugin/verifier/VerifierMojo.java src/test/java/org/apache/maven/plugin/verifier/VerifierMojoTest.java

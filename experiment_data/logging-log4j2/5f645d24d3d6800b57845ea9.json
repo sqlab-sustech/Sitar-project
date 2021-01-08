@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-1.2-api/src/main/java/org/apache/log4j/config/Log4j1ConfigurationFactory.java",
+ "prod_sha1": "9371266e5f2afb2df8eee6721f372b0894f7c9c8",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-1.2-api/src/test/java/org/apache/log4j/config/Log4j1ConfigurationFactoryTest.java",
+ "test_sha1": "9371266e5f2afb2df8eee6721f372b0894f7c9c8",
+ "commit_between": 0,
+ "prod_qual": "org/apache/log4j/config/Log4j1ConfigurationFactory.java",
+ "prod_time": {
+  "$date": 1457511615000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/log4j/config/Log4j1ConfigurationFactoryTest.java",
+ "test_time": {
+  "$date": 1457511615000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 74,
+ "add_classname_line": 1,
+ "add_condition_line": 21,
+ "add_field_line": 0,
+ "add_import_line": 19,
+ "add_packageid_line": 1,
+ "add_parameter_line": 29,
+ "add_return_line": 17,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

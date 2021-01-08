@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/DuplicateImportsRule.java",
+ "prod_sha1": "e9ccb76a8f0e0a9215439cd3619326d6918dc476",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/DuplicateImportsRule.java",
+ "prod_time": {
+  "$date": 1110407533000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/DuplicateImportsRuleTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/DuplicateImportsRuleTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

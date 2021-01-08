@@ -1,0 +1,32 @@
+{
+ "prod_path": "JodaTimeContrib/hibernate/src/java/org/joda/time/contrib/hibernate/PersistentInstant.java",
+ "prod_sha1": "860261c5f8be86ba8e3b7ba3d7884fd762708f99",
+ "repository": "joda-time",
+ "prod_qual": "org/joda/time/contrib/hibernate/PersistentInstant.java",
+ "prod_time": {
+  "$date": 1257613163000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "JodaTimeContrib/hibernate/src/test/org/joda/time/contrib/hibernate/TestPersistentInstant.java",
+ "test_qual": "org/joda/time/contrib/hibernate/TestPersistentInstant.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

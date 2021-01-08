@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/data/data-hbase/src/main/java/org/apache/james/domainlist/hbase/HBaseDomainList.java",
+ "prod_sha1": "696929b4192204e867d1033ff8553077ccc967f3",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/domainlist/hbase/HBaseDomainList.java",
+ "prod_time": {
+  "$date": 1523933859000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/data/data-hbase/src/test/java/org/apache/james/domainlist/hbase/HBaseDomainListTest.java",
+ "test_qual": "org/apache/james/domainlist/hbase/HBaseDomainListTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 10,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

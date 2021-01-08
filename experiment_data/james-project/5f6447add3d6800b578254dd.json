@@ -1,0 +1,37 @@
+{
+ "prod_path": "protocols/imap/src/main/java/org/apache/james/imap/main/PathConverter.java",
+ "prod_sha1": "984318779e0b0679c6bfbb224445b5ce4f6441d7",
+ "repository": "james-project",
+ "test_path": "protocols/imap/src/test/java/org/apache/james/imap/main/PathConverterTest.java",
+ "test_sha1": "984318779e0b0679c6bfbb224445b5ce4f6441d7",
+ "commit_between": 0,
+ "prod_qual": "PathConverter.java",
+ "prod_time": {
+  "$date": 1476890231000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "PathConverterTest.java",
+ "test_time": {
+  "$date": 1476890231000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 16,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 1,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 12,
+ "del_annotation_line": 0,
+ "del_call_line": 8,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 4
+}

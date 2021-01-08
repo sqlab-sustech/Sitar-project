@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-common/src/main/java/eu/stratosphere/nephele/io/DefaultChannelSelector.java",
+ "prod_sha1": "5df886ecb32de2da6c6f68b93d0e8edbaab6489a",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/io/DefaultChannelSelector.java",
+ "prod_time": {
+  "$date": 1313592037000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-common/src/test/java/eu/stratosphere/nephele/io/DefaultChannelSelectorTest.java",
+ "test_qual": "eu/stratosphere/nephele/io/DefaultChannelSelectorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

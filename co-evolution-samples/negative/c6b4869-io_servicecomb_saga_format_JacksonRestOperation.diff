@@ -1,0 +1,24 @@
+diff --git a/saga-format/src/main/java/io/servicecomb/saga/format/JacksonRestOperation.java b/saga-format/src/main/java/io/servicecomb/saga/format/JacksonRestOperation.java
+index 402a29f..015fa0d 100644
+--- a/saga-format/src/main/java/io/servicecomb/saga/format/JacksonRestOperation.java
++++ b/saga-format/src/main/java/io/servicecomb/saga/format/JacksonRestOperation.java
+@@ -16,15 +16,16 @@
+ 
+ package io.servicecomb.saga.format;
+ 
++import java.util.HashMap;
++import java.util.Map;
++
+ import com.fasterxml.jackson.annotation.JsonIgnore;
++
+ import io.servicecomb.saga.core.RestOperation;
+ import io.servicecomb.saga.core.SagaResponse;
+ import io.servicecomb.saga.transports.RestTransport;
+ import io.servicecomb.saga.transports.TransportFactory;
+ 
+-import java.util.HashMap;
+-import java.util.Map;
+-
+ class JacksonRestOperation extends RestOperation implements TransportAware {
+ 
+   @JsonIgnore

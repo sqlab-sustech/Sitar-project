@@ -1,0 +1,37 @@
+{
+ "prod_path": "examples/storm-loadgen/src/main/java/org/apache/storm/loadgen/OutputStream.java",
+ "prod_sha1": "32389d75f5e2e4aab0c2699a2d5b842d20358340",
+ "repository": "storm",
+ "test_path": "examples/storm-loadgen/src/test/java/org/apache/storm/loadgen/OutputStreamTest.java",
+ "test_sha1": "32389d75f5e2e4aab0c2699a2d5b842d20358340",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/loadgen/OutputStream.java",
+ "prod_time": {
+  "$date": 1504809820000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/loadgen/OutputStreamTest.java",
+ "test_time": {
+  "$date": 1504809820000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 6,
+ "add_import_line": 6,
+ "add_packageid_line": 1,
+ "add_parameter_line": 12,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

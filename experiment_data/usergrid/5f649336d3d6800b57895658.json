@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/uniquevalues/FieldSerializer.java",
+ "prod_sha1": "7df4f23368bc14b58ec93507cb3440902adf6cd6",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/uniquevalues/FieldSerializerTest.java",
+ "test_sha1": "7df4f23368bc14b58ec93507cb3440902adf6cd6",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/write/uniquevalues/FieldSerializer.java",
+ "prod_time": {
+  "$date": 1389221165000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/write/uniquevalues/FieldSerializerTest.java",
+ "test_time": {
+  "$date": 1389221165000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

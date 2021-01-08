@@ -1,0 +1,14 @@
+diff --git a/camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java b/camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java
+index 109a0aa2dfd..68afa2fb87b 100644
+--- a/camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java
++++ b/camel-core/src/main/java/org/apache/camel/impl/DefaultCamelContext.java
+@@ -1418,8 +1418,7 @@ public class DefaultCamelContext extends ServiceSupport implements ModelCamelCon
+                     }
+                 }
+ 
+-                // use before componentProperties as we do not want to include component properties when explaining endpoint
+-                json = ObjectHelper.before(json, "  \"componentProperties\": {");
++                json = ObjectHelper.before(json, "  \"properties\": {");
+ 
+                 StringBuilder buffer = new StringBuilder("  \"properties\": {");
+ 

@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+ "prod_sha1": "d451a1fb921f7dec1bde47a05a37fbed4df5a1ba",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/optimization/direct/BOBYQAOptimizerTest.java",
+ "test_sha1": "d451a1fb921f7dec1bde47a05a37fbed4df5a1ba",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/optimization/direct/BOBYQAOptimizer.java",
+ "prod_time": {
+  "$date": 1312650398000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/optimization/direct/BOBYQAOptimizerTest.java",
+ "test_time": {
+  "$date": 1312650398000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 640,
+ "add_classname_line": 5,
+ "add_condition_line": 302,
+ "add_field_line": 21,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 88,
+ "add_return_line": 23,
+ "del_annotation_line": 0,
+ "del_call_line": 319,
+ "del_classname_line": 5,
+ "del_condition_line": 181,
+ "del_field_line": 12,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 36,
+ "del_return_line": 12
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/secstruc/SecStruc.java",
+ "prod_sha1": "664e07d4d8fe540b1f85b4f95fc48cfe1c87810f",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/secstruc/TestSecStruc.java",
+ "test_sha1": "99b68f543a8a963523dc63ce7e64674c7d03c0c6",
+ "commit_between": 6,
+ "prod_qual": "org/biojava/nbio/structure/secstruc/SecStruc.java",
+ "prod_time": {
+  "$date": 1444148133000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/secstruc/TestSecStruc.java",
+ "test_time": {
+  "$date": 1444236880000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 2,
+ "del_call_line": 250,
+ "del_classname_line": 1,
+ "del_condition_line": 103,
+ "del_field_line": 10,
+ "del_import_line": 8,
+ "del_packageid_line": 1,
+ "del_parameter_line": 32,
+ "del_return_line": 31
+}

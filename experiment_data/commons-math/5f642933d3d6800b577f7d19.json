@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/analysis/solvers/NewtonSolver.java",
+ "prod_sha1": "15c9f02e5cec03298c28f20190c73398694188fa",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/analysis/solvers/NewtonSolverTest.java",
+ "test_sha1": "15c9f02e5cec03298c28f20190c73398694188fa",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/analysis/solvers/NewtonSolver.java",
+ "prod_time": {
+  "$date": 1245541067000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/analysis/solvers/NewtonSolverTest.java",
+ "test_time": {
+  "$date": 1245541067000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

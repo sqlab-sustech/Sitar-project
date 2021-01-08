@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-server/src/main/java/org/apache/zeppelin/utils/CorsUtils.java",
+ "prod_sha1": "354b06f7342746ce50cffa5dc886512bfc908922",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-server/src/test/java/org/apache/zeppelin/utils/CorsUtilsTest.java",
+ "test_sha1": "354b06f7342746ce50cffa5dc886512bfc908922",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/utils/CorsUtils.java",
+ "prod_time": {
+  "$date": 1543847794000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/utils/CorsUtilsTest.java",
+ "test_time": {
+  "$date": 1543847794000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

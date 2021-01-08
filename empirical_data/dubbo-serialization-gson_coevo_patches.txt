@@ -1,0 +1,1 @@
+dubbo-serialization-gson CC e148e37c18c35b2e12262fadfa5ae5503041ddf1 e148e37c18c35b2e12262fadfa5ae5503041ddf1 src/main/java/org/apache/dubbo/common/serialize/gson/GsonJsonObjectOutput.java src/test/java/org/apache/dubbo/common/serialize/gson/GsonJsonObjectOutputTest.java

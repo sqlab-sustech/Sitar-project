@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/mailrepository/deleted-messages-vault-repository/src/main/java/org/apache/james/vault/SerializableUser.java",
+ "prod_sha1": "945b91e3d891174dabac262104371a44e6114e1b",
+ "repository": "james-project",
+ "test_path": "server/mailrepository/deleted-messages-vault-repository/src/test/java/org/apache/james/vault/SerializableUserTest.java",
+ "test_sha1": "945b91e3d891174dabac262104371a44e6114e1b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/vault/SerializableUser.java",
+ "prod_time": {
+  "$date": 1551086951000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/vault/SerializableUserTest.java",
+ "test_time": {
+  "$date": 1551086951000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 8,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 5,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

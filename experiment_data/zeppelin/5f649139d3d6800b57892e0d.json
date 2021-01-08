@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-interpreter/src/main/java/com/nflabs/zeppelin/interpreter/remote/RemoteInterpreterProcess.java",
+ "prod_sha1": "32b6333ef085dd493af1cd58f832eec83efa1ff8",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-interpreter/src/test/java/com/nflabs/zeppelin/interpreter/remote/RemoteInterpreterProcessTest.java",
+ "test_sha1": "32b6333ef085dd493af1cd58f832eec83efa1ff8",
+ "commit_between": 0,
+ "prod_qual": "com/nflabs/zeppelin/interpreter/remote/RemoteInterpreterProcess.java",
+ "prod_time": {
+  "$date": 1425710991000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/nflabs/zeppelin/interpreter/remote/RemoteInterpreterProcessTest.java",
+ "test_time": {
+  "$date": 1425710991000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 29,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 2,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 8,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 3
+}

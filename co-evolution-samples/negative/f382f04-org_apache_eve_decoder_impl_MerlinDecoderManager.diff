@@ -1,0 +1,13 @@
+diff --git a/frontend/decoder/merlin-impl/src/java/org/apache/eve/decoder/impl/MerlinDecoderManager.java b/frontend/decoder/merlin-impl/src/java/org/apache/eve/decoder/impl/MerlinDecoderManager.java
+index 0893a3279f..340dadb280 100644
+--- a/frontend/decoder/merlin-impl/src/java/org/apache/eve/decoder/impl/MerlinDecoderManager.java
++++ b/frontend/decoder/merlin-impl/src/java/org/apache/eve/decoder/impl/MerlinDecoderManager.java
+@@ -173,7 +173,7 @@ public class MerlinDecoderManager
+         String name = config.getChild( "stage-name" ).getValue() ;
+         String pool = config.getChild( "thread-pool" ).getValue() ;
+         
+-        final org.apache.avalon.excalibur.thread.ThreadPool excaliburPool = 
++        final org.apache.excalibur.thread.ThreadPool excaliburPool = 
+             tm.getThreadPool( pool ) ;
+         ThreadPool tp = new ThreadPool()
+         {

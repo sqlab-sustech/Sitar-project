@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/queue/queue-jms/src/main/java/org/apache/james/queue/jms/JMSMailQueue.java",
+ "prod_sha1": "b8229df3b09c4ca59aa23a8f2a3f65c20e4ab1f4",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/queue/jms/JMSMailQueue.java",
+ "prod_time": {
+  "$date": 1517887946000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/queue/queue-jms/src/test/java/org/apache/james/queue/jms/JMSMailQueueTest.java",
+ "test_qual": "org/apache/james/queue/jms/JMSMailQueueTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 2,
+ "del_call_line": 11,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 5,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/guice/cassandra-guice/src/main/java/org/apache/james/modules/mailbox/ElasticSearchConfiguration.java",
+ "prod_sha1": "b5816095bbab124658d9aab5cb30a11799a278ae",
+ "repository": "james-project",
+ "test_path": "server/container/guice/cassandra-guice/src/test/java/org/apache/james/modules/mailbox/ElasticSearchConfigurationTest.java",
+ "test_sha1": "b5816095bbab124658d9aab5cb30a11799a278ae",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/modules/mailbox/ElasticSearchConfiguration.java",
+ "prod_time": {
+  "$date": 1527492470000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/modules/mailbox/ElasticSearchConfigurationTest.java",
+ "test_time": {
+  "$date": 1527492470000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 17,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 9,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 20,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

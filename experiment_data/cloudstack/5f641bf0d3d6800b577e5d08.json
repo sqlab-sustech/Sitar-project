@@ -1,0 +1,37 @@
+{
+ "prod_path": "plugins/alert-handlers/snmp-alerts/src/org/apache/cloudstack/alert/snmp/SnmpTrapAppender.java",
+ "prod_sha1": "61754cd987a54de53a742bf7475336b3938e0de9",
+ "repository": "cloudstack",
+ "test_path": "plugins/alert-handlers/snmp-alerts/test/org/apache/cloudstack/alert/snmp/SnmpTrapAppenderTest.java",
+ "test_sha1": "61754cd987a54de53a742bf7475336b3938e0de9",
+ "commit_between": 0,
+ "prod_qual": "org/apache/cloudstack/alert/snmp/SnmpTrapAppender.java",
+ "prod_time": {
+  "$date": 1362562796000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/cloudstack/alert/snmp/SnmpTrapAppenderTest.java",
+ "test_time": {
+  "$date": 1362562796000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 40,
+ "add_classname_line": 1,
+ "add_condition_line": 21,
+ "add_field_line": 11,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 16,
+ "add_return_line": 17,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

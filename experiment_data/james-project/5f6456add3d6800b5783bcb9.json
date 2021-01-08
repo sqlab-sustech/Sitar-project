@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/jmap/src/main/java/org/apache/james/jmap/methods/GetMailboxesMethod.java",
+ "prod_sha1": "9338e9a462d175fb37cda1ea071999ecb59da31f",
+ "repository": "james-project",
+ "test_path": "server/protocols/jmap-integration-testing/src/test/java/org/apache/james/jmap/methods/GetMailboxesMethodTest.java",
+ "test_sha1": "54b12e9380f7bd458de5fbb7078793209872e49a",
+ "commit_between": 13,
+ "prod_qual": "org/apache/james/jmap/methods/GetMailboxesMethod.java",
+ "prod_time": {
+  "$date": 1453735366000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/jmap/methods/GetMailboxesMethodTest.java",
+ "test_time": {
+  "$date": 1453804990000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

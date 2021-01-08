@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-server/src/main/java/org/apache/zeppelin/rest/SecurityRestApi.java",
+ "prod_sha1": "36f7d3da7af273a4458905727bfeda6473b16be9",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/rest/SecurityRestApi.java",
+ "prod_time": {
+  "$date": 1530266748000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-server/src/test/java/org/apache/zeppelin/rest/SecurityRestApiTest.java",
+ "test_qual": "org/apache/zeppelin/rest/SecurityRestApiTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

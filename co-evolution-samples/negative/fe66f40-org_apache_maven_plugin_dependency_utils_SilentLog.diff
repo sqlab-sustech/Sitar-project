@@ -1,0 +1,15 @@
+diff --git a/src/main/java/org/apache/maven/plugin/dependency/utils/SilentLog.java b/src/main/java/org/apache/maven/plugin/dependency/utils/SilentLog.java
+index 948b27c..746feca 100644
+--- a/src/main/java/org/apache/maven/plugin/dependency/utils/SilentLog.java
++++ b/src/main/java/org/apache/maven/plugin/dependency/utils/SilentLog.java
+@@ -22,6 +22,10 @@ package org.apache.maven.plugin.dependency.utils;
+ import org.apache.maven.plugin.logging.Log;
+ import org.codehaus.plexus.logging.Logger;
+ 
++/**
++ * @author <a href="mailto:brianf@apache.org">Brian Fox</a>
++ * @version $Id$
++ */
+ public class SilentLog
+     implements Log, Logger
+ {

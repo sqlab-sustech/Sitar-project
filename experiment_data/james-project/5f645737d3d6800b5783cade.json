@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-api/src/main/java/org/apache/james/rrt/lib/Mapping.java",
+ "prod_sha1": "ff8107efb52239bf1fc3eddb906ba4889eb2d95b",
+ "repository": "james-project",
+ "test_path": "server/data/data-api/src/test/java/org/apache/james/rrt/lib/MappingTest.java",
+ "test_sha1": "776fc33acb59de3772b63fc6a8c278f7dd57d088",
+ "commit_between": 3,
+ "prod_qual": "org/apache/james/rrt/lib/Mapping.java",
+ "prod_time": {
+  "$date": 1524064174000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/rrt/lib/MappingTest.java",
+ "test_time": {
+  "$date": 1524231213000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

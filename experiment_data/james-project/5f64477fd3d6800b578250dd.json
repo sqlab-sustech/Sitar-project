@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/standard/src/main/java/org/apache/james/transport/matchers/RecipientIs.java",
+ "prod_sha1": "cb0650f565bdc7a631b62dcb9d333637dc3abaec",
+ "repository": "james-project",
+ "test_path": "mailet/standard/src/test/java/org/apache/james/transport/matchers/RecipientIsTest.java",
+ "test_sha1": "cb0650f565bdc7a631b62dcb9d333637dc3abaec",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/transport/matchers/RecipientIs.java",
+ "prod_time": {
+  "$date": 1472627292000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/matchers/RecipientIsTest.java",
+ "test_time": {
+  "$date": 1472627292000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 1,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 5,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

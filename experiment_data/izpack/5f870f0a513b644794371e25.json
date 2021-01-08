@@ -1,0 +1,32 @@
+{
+ "prod_path": "izpack-installer/src/main/java/com/izforge/izpack/installer/provider/AbstractInstallDataProvider.java",
+ "prod_sha1": "c41167e7e37002013284ab51d558b5f9ac31f8a7",
+ "repository": "izpack",
+ "prod_qual": "com/izforge/izpack/installer/provider/AbstractInstallDataProvider.java",
+ "prod_time": {
+  "$date": 1264058269000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "izpack-installer/src/test/java/com/izforge/izpack/installer/provider/AbstractInstallDataProviderTest.java",
+ "test_qual": "com/izforge/izpack/installer/provider/AbstractInstallDataProviderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

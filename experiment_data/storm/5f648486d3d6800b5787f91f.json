@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-webapp/src/main/java/org/apache/storm/daemon/drpc/DRPCServer.java",
+ "prod_sha1": "64bf4daa9b92072bb91a694b34cb2d3fdc896cc6",
+ "repository": "storm",
+ "test_path": "storm-webapp/src/test/java/org/apache/storm/daemon/drpc/DRPCServerTest.java",
+ "test_sha1": "64bf4daa9b92072bb91a694b34cb2d3fdc896cc6",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/daemon/drpc/DRPCServer.java",
+ "prod_time": {
+  "$date": 1496418014000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/daemon/drpc/DRPCServerTest.java",
+ "test_time": {
+  "$date": 1496418014000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 18,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 7,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 11,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 6,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

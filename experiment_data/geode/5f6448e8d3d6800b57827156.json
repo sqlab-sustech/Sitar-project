@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-connectors/src/main/java/org/apache/geode/connectors/jdbc/internal/cli/ListDataSourceCommand.java",
+ "prod_sha1": "f4651d9fcd953c7f0468d87573a8cff378308997",
+ "repository": "geode",
+ "test_path": "geode-connectors/src/test/java/org/apache/geode/connectors/jdbc/internal/cli/ListDataSourceCommandTest.java",
+ "test_sha1": "f4651d9fcd953c7f0468d87573a8cff378308997",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/connectors/jdbc/internal/cli/ListDataSourceCommand.java",
+ "prod_time": {
+  "$date": 1543524575000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/connectors/jdbc/internal/cli/ListDataSourceCommandTest.java",
+ "test_time": {
+  "$date": 1543524575000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 6,
+ "add_call_line": 23,
+ "add_classname_line": 1,
+ "add_condition_line": 5,
+ "add_field_line": 4,
+ "add_import_line": 16,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 12,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

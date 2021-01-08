@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/mailrepository/mailrepository-cassandra/src/main/java/org/apache/james/mailrepository/cassandra/CassandraMailRepositoryKeysDAO.java",
+ "prod_sha1": "ea3e23192b86c3f28e04357405554cee92859f6a",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailrepository/cassandra/CassandraMailRepositoryKeysDAO.java",
+ "prod_time": {
+  "$date": 1548704896000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/mailrepository/mailrepository-cassandra/src/test/java/org/apache/james/mailrepository/cassandra/CassandraMailRepositoryKeysDAOTest.java",
+ "test_qual": "org/apache/james/mailrepository/cassandra/CassandraMailRepositoryKeysDAOTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

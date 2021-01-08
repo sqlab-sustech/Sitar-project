@@ -1,0 +1,32 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/db/GlobalLock.java",
+ "prod_sha1": "91fadc4a0d0e47831eea8db5a0df0b343a2ad9e4",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/utils/db/GlobalLock.java",
+ "prod_time": {
+  "$date": 1334016341000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/utils/db/GlobalLockTest.java",
+ "test_qual": "com/cloud/utils/db/GlobalLockTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 25,
+ "add_classname_line": 1,
+ "add_condition_line": 12,
+ "add_field_line": 7,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 25,
+ "del_classname_line": 1,
+ "del_condition_line": 12,
+ "del_field_line": 7,
+ "del_import_line": 3,
+ "del_packageid_line": 1,
+ "del_parameter_line": 8,
+ "del_return_line": 9,
+ "test_typ": "Non"
+}

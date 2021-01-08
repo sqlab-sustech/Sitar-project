@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-cassandra/src/main/java/org/apache/james/sieve/cassandra/CassandraSieveRepository.java",
+ "prod_sha1": "39d5747dd4c0d613d38780812f4965652edcdbf7",
+ "repository": "james-project",
+ "test_path": "server/data/data-cassandra/src/test/java/org/apache/james/sieve/cassandra/CassandraSieveRepositoryTest.java",
+ "test_sha1": "39d5747dd4c0d613d38780812f4965652edcdbf7",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/sieve/cassandra/CassandraSieveRepository.java",
+ "prod_time": {
+  "$date": 1489668888000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/sieve/cassandra/CassandraSieveRepositoryTest.java",
+ "test_time": {
+  "$date": 1489668888000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 9,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1
+}

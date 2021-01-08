@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-plugin-processor/src/main/java/org/apache/logging/log4j/core/config/plugins/processor/PluginProcessor.java",
+ "prod_sha1": "e43ce0b99e586911ac3e6f52d4cfe035e6e38066",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-plugin-processor/src/test/java/org/apache/logging/log4j/core/config/plugins/processor/PluginProcessorTest.java",
+ "test_sha1": "e43ce0b99e586911ac3e6f52d4cfe035e6e38066",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/config/plugins/processor/PluginProcessor.java",
+ "prod_time": {
+  "$date": 1396908389000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/config/plugins/processor/PluginProcessorTest.java",
+ "test_time": {
+  "$date": 1396908389000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 1,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0
+}

@@ -1,0 +1,25 @@
+diff --git a/plc4j/drivers/simulated/src/main/java/org/apache/plc4x/java/simulated/connection/SimulatedPlcConnection.java b/plc4j/drivers/simulated/src/main/java/org/apache/plc4x/java/simulated/connection/SimulatedPlcConnection.java
+index 07fc20f76..805d9afc9 100644
+--- a/plc4j/drivers/simulated/src/main/java/org/apache/plc4x/java/simulated/connection/SimulatedPlcConnection.java
++++ b/plc4j/drivers/simulated/src/main/java/org/apache/plc4x/java/simulated/connection/SimulatedPlcConnection.java
+@@ -29,7 +29,6 @@ import org.apache.plc4x.java.base.messages.*;
+ import org.apache.plc4x.java.base.messages.items.BaseDefaultFieldItem;
+ import org.apache.plc4x.java.base.model.*;
+ 
+-import java.net.InetSocketAddress;
+ import java.time.Instant;
+ import java.util.*;
+ import java.util.concurrent.CompletableFuture;
+@@ -64,12 +63,6 @@ public class SimulatedPlcConnection extends AbstractPlcConnection implements Plc
+         return connected;
+     }
+ 
+-    @Override
+-    protected Optional<InetSocketAddress> getInetSocketAddress() {
+-        // IS okay, isConnected is overridden
+-        return Optional.empty();
+-    }
+-
+     @Override
+     public void close() {
+         connected = false;

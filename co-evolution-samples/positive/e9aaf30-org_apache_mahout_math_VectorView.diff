@@ -1,0 +1,37 @@
+diff --git a/math/src/main/java/org/apache/mahout/math/VectorView.java b/math/src/main/java/org/apache/mahout/math/VectorView.java
+index 94690a260..168296983 100644
+--- a/math/src/main/java/org/apache/mahout/math/VectorView.java
++++ b/math/src/main/java/org/apache/mahout/math/VectorView.java
+@@ -46,21 +46,23 @@ public class VectorView extends AbstractVector {
+ 
+   @Override
+   public Vector clone() {
+-    VectorView clone = (VectorView) super.clone();
+-    clone.vector = vector.clone();
+-    return clone;
++    return new VectorView(vector.clone(), offset, size());
+   }
+ 
+-  public double getQuick(int index) {
+-    return vector.getQuick(offset + index);
++  public boolean isDense() {
++    return vector.isDense();
++  }
++
++  public boolean isSequentialAccess() {
++    return vector.isSequentialAccess();
+   }
+ 
+-  public Vector like() {
+-    return vector.like();
++  public VectorView like() {
++    return new VectorView(vector.like(), offset, size());
+   }
+ 
+-  public Vector like(int cardinality) {
+-    return vector.like(cardinality);
++  public double getQuick(int index) {
++    return vector.getQuick(offset + index);
+   }
+ 
+   public void setQuick(int index, double value) {

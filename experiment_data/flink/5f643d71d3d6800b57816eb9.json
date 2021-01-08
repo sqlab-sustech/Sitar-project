@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-clustermanager/src/main/java/eu/stratosphere/nephele/instance/cluster/ClusterManager.java",
+ "prod_sha1": "35f08163b43171a20e2164ac9b56872cf62f7093",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/instance/cluster/ClusterManager.java",
+ "prod_time": {
+  "$date": 1311596066000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-clustermanager/src/test/java/eu/stratosphere/nephele/instance/cluster/ClusterManagerTest.java",
+ "test_qual": "eu/stratosphere/nephele/instance/cluster/ClusterManagerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

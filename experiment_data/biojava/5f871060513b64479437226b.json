@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-core/src/main/java/org/biojava3/core/sequence/io/FastaReader.java",
+ "prod_sha1": "a04e68d3c2132c82b20eaf1cf77e12c1ff6ec4dd",
+ "repository": "biojava",
+ "test_path": "biojava3-core/src/test/java/org/biojava3/core/sequence/io/FastaReaderTest.java",
+ "test_sha1": "a04e68d3c2132c82b20eaf1cf77e12c1ff6ec4dd",
+ "commit_between": 0,
+ "prod_qual": "org/biojava3/core/sequence/io/FastaReader.java",
+ "prod_time": {
+  "$date": 1264344166000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava3/core/sequence/io/FastaReaderTest.java",
+ "test_time": {
+  "$date": 1264344166000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 4,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 3,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,20 @@
+diff --git a/jena-core/src/main/java/com/hp/hpl/jena/shared/ReificationStyle.java b/jena-core/src/main/java/com/hp/hpl/jena/shared/ReificationStyle.java
+index 6675cdeb38..e8567464b3 100644
+--- a/jena-core/src/main/java/com/hp/hpl/jena/shared/ReificationStyle.java
++++ b/jena-core/src/main/java/com/hp/hpl/jena/shared/ReificationStyle.java
+@@ -24,10 +24,15 @@ package com.hp.hpl.jena.shared;
+     in-Jena reification is through the reifyAs operation], and whether or
+     not reification triples will be visible in the graph.
+ */
++@Deprecated
+ public class ReificationStyle
+     {
+     public static final ReificationStyle Standard = new ReificationStyle( true, false );
++    /** @deprecated Only "Standard" is supported -- use of this constant will be ignored */
++    @Deprecated
+     public static final ReificationStyle Convenient = new ReificationStyle( true, true );
++    /** @deprecated Only "Standard" is supported -- use of this constant will be ignored */
++    @Deprecated
+     public static final ReificationStyle Minimal = new ReificationStyle( false, true );
+     
+     private boolean intercept;

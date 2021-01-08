@@ -1,0 +1,32 @@
+{
+ "prod_path": "examples/storm-loadgen/src/main/java/org/apache/storm/loadgen/LoadCompConf.java",
+ "prod_sha1": "6bc3213806c67818c8e7c0c8d72c0b8a234468b7",
+ "repository": "storm",
+ "prod_qual": "org/apache/storm/loadgen/LoadCompConf.java",
+ "prod_time": {
+  "$date": 1503586923000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "examples/storm-loadgen/src/test/java/org/apache/storm/loadgen/LoadCompConfTest.java",
+ "test_qual": "org/apache/storm/loadgen/LoadCompConfTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

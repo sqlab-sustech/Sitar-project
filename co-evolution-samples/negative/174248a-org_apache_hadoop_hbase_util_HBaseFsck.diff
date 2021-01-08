@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/hadoop/hbase/util/HBaseFsck.java b/src/main/java/org/apache/hadoop/hbase/util/HBaseFsck.java
+index 107683680c..f6f3f71b76 100644
+--- a/src/main/java/org/apache/hadoop/hbase/util/HBaseFsck.java
++++ b/src/main/java/org/apache/hadoop/hbase/util/HBaseFsck.java
+@@ -626,7 +626,7 @@ public class HBaseFsck {
+         }
+         
+       });
+-    rootRegionTracker.start(true);
++    rootRegionTracker.start();
+     ServerName sn = null;
+     try {
+       sn = rootRegionTracker.getRootRegionLocation();

@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-ec2cloudmanager/src/main/java/eu/stratosphere/nephele/instance/cloud/CloudManager.java",
+ "prod_sha1": "04d17cda8e3bdafa7ed78ca7e58f33f962315cb6",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/instance/cloud/CloudManager.java",
+ "prod_time": {
+  "$date": 1311853310000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-ec2cloudmanager/src/test/java/eu/stratosphere/nephele/instance/cloud/CloudManagerTest.java",
+ "test_qual": "eu/stratosphere/nephele/instance/cloud/CloudManagerTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 21,
+ "add_classname_line": 1,
+ "add_condition_line": 8,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 15,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 19,
+ "del_classname_line": 0,
+ "del_condition_line": 8,
+ "del_field_line": 0,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

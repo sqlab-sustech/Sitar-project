@@ -1,0 +1,13 @@
+diff --git a/wicket-core/src/main/java/org/apache/wicket/ajax/form/AjaxFormChoiceComponentUpdatingBehavior.java b/wicket-core/src/main/java/org/apache/wicket/ajax/form/AjaxFormChoiceComponentUpdatingBehavior.java
+index 2b10d1edc1..21d675426f 100644
+--- a/wicket-core/src/main/java/org/apache/wicket/ajax/form/AjaxFormChoiceComponentUpdatingBehavior.java
++++ b/wicket-core/src/main/java/org/apache/wicket/ajax/form/AjaxFormChoiceComponentUpdatingBehavior.java
+@@ -67,7 +67,7 @@ public abstract class AjaxFormChoiceComponentUpdatingBehavior extends
+ 			@Override
+ 			public CharSequence getPrecondition(Component component)
+ 			{
+-				return "return attrs.event.target.name === " + getFormComponent().getInputName();
++				return String.format("return attrs.event.target.name === '%s'", getFormComponent().getInputName());
+ 			}
+ 		});
+ 	}

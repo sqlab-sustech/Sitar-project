@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-core/src/main/java/net/sourceforge/pmd/lang/ast/AbstractNode.java",
+ "prod_sha1": "cd7ca8055f53091024206da53b0b9ce6f7aa254c",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/lang/ast/AbstractNode.java",
+ "prod_time": {
+  "$date": 1550953946000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-core/src/test/java/net/sourceforge/pmd/lang/ast/AbstractNodeTest.java",
+ "test_qual": "net/sourceforge/pmd/lang/ast/AbstractNodeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 16,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 34,
+ "add_return_line": 1,
+ "del_annotation_line": 3,
+ "del_call_line": 15,
+ "del_classname_line": 0,
+ "del_condition_line": 13,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 17,
+ "del_return_line": 7,
+ "test_typ": "Non"
+}

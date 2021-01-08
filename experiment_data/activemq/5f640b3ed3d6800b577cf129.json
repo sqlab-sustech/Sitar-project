@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/group/GroupMap.java",
+ "prod_sha1": "9e1dad4cc2b67a543790b490ad33c90e7b64d642",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/group/GroupMapTest.java",
+ "test_sha1": "9e1dad4cc2b67a543790b490ad33c90e7b64d642",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/group/GroupMap.java",
+ "prod_time": {
+  "$date": 1218221286000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/group/GroupMapTest.java",
+ "test_time": {
+  "$date": 1218221286000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 336,
+ "del_classname_line": 1,
+ "del_condition_line": 97,
+ "del_field_line": 35,
+ "del_import_line": 35,
+ "del_packageid_line": 1,
+ "del_parameter_line": 88,
+ "del_return_line": 32
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/nl/tudelft/jpacman/board/Board.java",
+ "prod_sha1": "b029f50cbff69b8fa465866cd2a54b9baa1599a7",
+ "repository": "jpacman-framework",
+ "test_path": "src/test/java/nl/tudelft/jpacman/board/BoardTest.java",
+ "test_sha1": "b029f50cbff69b8fa465866cd2a54b9baa1599a7",
+ "commit_between": 0,
+ "prod_qual": "nl/tudelft/jpacman/board/Board.java",
+ "prod_time": {
+  "$date": 1493064435000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "nl/tudelft/jpacman/board/BoardTest.java",
+ "test_time": {
+  "$date": 1493064435000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 6
+}

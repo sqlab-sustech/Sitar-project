@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/elasticsearch-v6/src/main/java/org/apache/james/mailbox/elasticsearch/v6/ElasticSearchMailboxConfiguration.java",
+ "prod_sha1": "fba0e418e9977f3c211f7d31c1aefa1baa4fc41f",
+ "repository": "james-project",
+ "test_path": "mailbox/elasticsearch-v6/src/test/java/org/apache/james/mailbox/elasticsearch/v6/ElasticSearchMailboxConfigurationTest.java",
+ "test_sha1": "15ab767967a849eaa8b9d276a1aceed887107e95",
+ "commit_between": 4,
+ "prod_qual": "org/apache/james/mailbox/elasticsearch/v6/ElasticSearchMailboxConfiguration.java",
+ "prod_time": {
+  "$date": 1558409909000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/mailbox/elasticsearch/v6/ElasticSearchMailboxConfigurationTest.java",
+ "test_time": {
+  "$date": 1558521155000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 8,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 13,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 20,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 9,
+ "del_return_line": 23
+}

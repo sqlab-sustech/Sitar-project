@@ -1,0 +1,13 @@
+diff --git a/gremlin-core/src/main/java/com/tinkerpop/gremlin/process/util/TraversalHelper.java b/gremlin-core/src/main/java/com/tinkerpop/gremlin/process/util/TraversalHelper.java
+index a747b57151..9df2d51eb8 100644
+--- a/gremlin-core/src/main/java/com/tinkerpop/gremlin/process/util/TraversalHelper.java
++++ b/gremlin-core/src/main/java/com/tinkerpop/gremlin/process/util/TraversalHelper.java
+@@ -144,7 +144,7 @@ public class TraversalHelper {
+         return builder.toString();
+     }
+ 
+-    public static <S, E> boolean trackPaths(final Traversal<S, E> traversal) {
++    public static boolean trackPaths(final Traversal traversal) {
+         return traversal.getSteps().stream()
+                 .filter(step -> step instanceof PathConsumer)
+                 .findFirst()

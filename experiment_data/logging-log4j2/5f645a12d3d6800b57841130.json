@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/layout/JSONLayout.java",
+ "prod_sha1": "d95ad4e1d8eb6a6dfae98f0fd4beba1945d19393",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/layout/JSONLayoutTest.java",
+ "test_sha1": "d95ad4e1d8eb6a6dfae98f0fd4beba1945d19393",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/layout/JSONLayout.java",
+ "prod_time": {
+  "$date": 1399905808000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/layout/JSONLayoutTest.java",
+ "test_time": {
+  "$date": 1399905808000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

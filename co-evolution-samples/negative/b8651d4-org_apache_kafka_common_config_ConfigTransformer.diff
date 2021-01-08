@@ -1,0 +1,22 @@
+diff --git a/clients/src/main/java/org/apache/kafka/common/config/ConfigTransformer.java b/clients/src/main/java/org/apache/kafka/common/config/ConfigTransformer.java
+index 6430ffdd4..a830f9fe3 100644
+--- a/clients/src/main/java/org/apache/kafka/common/config/ConfigTransformer.java
++++ b/clients/src/main/java/org/apache/kafka/common/config/ConfigTransformer.java
+@@ -81,7 +81,7 @@ public class ConfigTransformer {
+         // Collect the variables from the given configs that need transformation
+         for (Map.Entry<String, String> config : configs.entrySet()) {
+             if (config.getValue() != null) {
+-                List<ConfigVariable> vars = getVars(config.getKey(), config.getValue(), DEFAULT_PATTERN);
++                List<ConfigVariable> vars = getVars(config.getValue(), DEFAULT_PATTERN);
+                 for (ConfigVariable var : vars) {
+                     Map<String, Set<String>> keysByPath = keysByProvider.computeIfAbsent(var.providerName, k -> new HashMap<>());
+                     Set<String> keys = keysByPath.computeIfAbsent(var.path, k -> new HashSet<>());
+@@ -121,7 +121,7 @@ public class ConfigTransformer {
+         return new ConfigTransformerResult(data, ttls);
+     }
+ 
+-    private static List<ConfigVariable> getVars(String key, String value, Pattern pattern) {
++    private static List<ConfigVariable> getVars(String value, Pattern pattern) {
+         List<ConfigVariable> configVars = new ArrayList<>();
+         Matcher matcher = pattern.matcher(value);
+         while (matcher.find()) {

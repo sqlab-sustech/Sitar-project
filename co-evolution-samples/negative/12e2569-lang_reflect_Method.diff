@@ -1,0 +1,60 @@
+diff --git a/modules/luni-kernel/src/main/java/java/lang/reflect/Method.java b/modules/luni-kernel/src/main/java/java/lang/reflect/Method.java
+index 71b8eedb7..8549b8b46 100644
+--- a/modules/luni-kernel/src/main/java/java/lang/reflect/Method.java
++++ b/modules/luni-kernel/src/main/java/java/lang/reflect/Method.java
+@@ -172,23 +172,23 @@ public final class Method extends AccessibleObject implements GenericDeclaration
+ 	}
+ 
+ 	/**
+-	 * Return the java.lang.Class associated with the class that defined this
++	 * Return the {@link Class} associated with the class that defined this
+ 	 * method.
+ 	 * 
+ 	 * @return the declaring class
+ 	 */
+-	public Class getDeclaringClass() {
++	public Class<?> getDeclaringClass() {
+ 		return null;
+ 	}
+ 
+ 	/**
+-	 * Return an array of the java.lang.Class objects associated with the
++	 * Return an array of the {@link Class} objects associated with the
+ 	 * exceptions declared to be thrown by this method. If the method was not
+ 	 * declared to throw any exceptions, the array returned will be empty.
+ 	 * 
+ 	 * @return the declared exception classes
+ 	 */
+-	public Class[] getExceptionTypes() {
++	public Class<?>[] getExceptionTypes() {
+ 		return null;
+ 	}
+ 
+@@ -213,23 +213,23 @@ public final class Method extends AccessibleObject implements GenericDeclaration
+ 	}
+ 
+ 	/**
+-	 * Return an array of the java.lang.Class objects associated with the
++	 * Return an array of the {@link Class} objects associated with the
+ 	 * parameter types of this method. If the method was declared with no
+ 	 * parameters, the array returned will be empty.
+ 	 * 
+ 	 * @return the parameter types
+ 	 */
+-	public Class[] getParameterTypes() {
++	public Class<?>[] getParameterTypes() {
+ 		return null;
+ 	}
+ 
+ 	/**
+-	 * Return the java.lang.Class associated with the return type of this
++	 * Return the {@link Class} associated with the return type of this
+ 	 * method.
+ 	 * 
+ 	 * @return the return type
+ 	 */
+-	public Class getReturnType() {
++	public Class<?> getReturnType() {
+ 		return null;
+ 	}
+ 

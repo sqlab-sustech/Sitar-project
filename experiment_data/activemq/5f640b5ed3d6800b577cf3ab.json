@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-optional/src/main/java/org/apache/activemq/store/amq/reader/AMQReader.java",
+ "prod_sha1": "a0af3515201afcf635100fc1fee6b336e378e8be",
+ "repository": "activemq",
+ "test_path": "activemq-optional/src/test/java/org/apache/activemq/store/amq/reader/AMQReaderTest.java",
+ "test_sha1": "a0af3515201afcf635100fc1fee6b336e378e8be",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/store/amq/reader/AMQReader.java",
+ "prod_time": {
+  "$date": 1253732818000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/store/amq/reader/AMQReaderTest.java",
+ "test_time": {
+  "$date": 1253732818000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 30,
+ "add_classname_line": 1,
+ "add_condition_line": 12,
+ "add_field_line": 4,
+ "add_import_line": 15,
+ "add_packageid_line": 1,
+ "add_parameter_line": 10,
+ "add_return_line": 10,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

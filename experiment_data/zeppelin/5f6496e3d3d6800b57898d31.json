@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-interpreter/src/main/java/org/apache/zeppelin/interpreter/BaseZeppelinContext.java",
+ "prod_sha1": "7af86168254e0ad08234c57043e18179fca8d04c",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/interpreter/BaseZeppelinContext.java",
+ "prod_time": {
+  "$date": 1521525931000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-interpreter/src/test/java/org/apache/zeppelin/interpreter/BaseZeppelinContextTest.java",
+ "test_qual": "org/apache/zeppelin/interpreter/BaseZeppelinContextTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 24,
+ "add_return_line": 0,
+ "del_annotation_line": 9,
+ "del_call_line": 24,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 14,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

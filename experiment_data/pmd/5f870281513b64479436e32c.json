@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/AccessorClassGenerationRule.java",
+ "prod_sha1": "da39500bcc47ef9a4c515fd71cd6d68f0e8cd4d9",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/AccessorClassGenerationRuleTest.java",
+ "test_sha1": "da39500bcc47ef9a4c515fd71cd6d68f0e8cd4d9",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/AccessorClassGenerationRule.java",
+ "prod_time": {
+  "$date": 1047306242000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/AccessorClassGenerationRuleTest.java",
+ "test_time": {
+  "$date": 1047306242000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 73,
+ "add_classname_line": 3,
+ "add_condition_line": 16,
+ "add_field_line": 11,
+ "add_import_line": 18,
+ "add_packageid_line": 1,
+ "add_parameter_line": 29,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

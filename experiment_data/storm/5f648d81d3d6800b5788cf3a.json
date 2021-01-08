@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-server/src/main/java/org/apache/storm/scheduler/resource/strategies/scheduling/ConstraintSolverStrategy.java",
+ "prod_sha1": "4137328b75c06771f84414c3c2113e2d1c757c08",
+ "repository": "storm",
+ "prod_qual": "org/apache/storm/scheduler/resource/strategies/scheduling/ConstraintSolverStrategy.java",
+ "prod_time": {
+  "$date": 1524774469000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-server/src/test/java/org/apache/storm/scheduler/resource/strategies/scheduling/TestConstraintSolverStrategy.java",
+ "test_qual": "org/apache/storm/scheduler/resource/strategies/scheduling/TestConstraintSolverStrategy.java",
+ "add_annotation_line": 1,
+ "add_call_line": 135,
+ "add_classname_line": 2,
+ "add_condition_line": 44,
+ "add_field_line": 25,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 20,
+ "add_return_line": 30,
+ "del_annotation_line": 4,
+ "del_call_line": 115,
+ "del_classname_line": 1,
+ "del_condition_line": 39,
+ "del_field_line": 18,
+ "del_import_line": 2,
+ "del_packageid_line": 1,
+ "del_parameter_line": 21,
+ "del_return_line": 29,
+ "test_typ": "Non"
+}

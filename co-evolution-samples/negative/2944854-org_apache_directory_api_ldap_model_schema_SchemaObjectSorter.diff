@@ -1,0 +1,13 @@
+diff --git a/ldap/model/src/main/java/org/apache/directory/api/ldap/model/schema/SchemaObjectSorter.java b/ldap/model/src/main/java/org/apache/directory/api/ldap/model/schema/SchemaObjectSorter.java
+index 593120822..beec99005 100644
+--- a/ldap/model/src/main/java/org/apache/directory/api/ldap/model/schema/SchemaObjectSorter.java
++++ b/ldap/model/src/main/java/org/apache/directory/api/ldap/model/schema/SchemaObjectSorter.java
+@@ -79,7 +79,7 @@ public class SchemaObjectSorter
+         } );
+     }
+ 
+-    private static interface ReferenceCallback<T extends SchemaObject>
++    private interface ReferenceCallback<T extends SchemaObject>
+     {
+ 
+         Collection<String> getSuperiorOids( T schemaObject );

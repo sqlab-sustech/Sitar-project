@@ -1,0 +1,21 @@
+diff --git a/dsls/sql/src/main/java/org/apache/beam/dsls/sql/interpreter/operator/BeamSqlUdfExpression.java b/dsls/sql/src/main/java/org/apache/beam/dsls/sql/interpreter/operator/BeamSqlUdfExpression.java
+index 6f183075e8..e389ef9411 100644
+--- a/dsls/sql/src/main/java/org/apache/beam/dsls/sql/interpreter/operator/BeamSqlUdfExpression.java
++++ b/dsls/sql/src/main/java/org/apache/beam/dsls/sql/interpreter/operator/BeamSqlUdfExpression.java
+@@ -51,14 +51,14 @@ public class BeamSqlUdfExpression extends BeamSqlExpression {
+   }
+ 
+   @Override
+-  public BeamSqlPrimitive evaluate(BeamSqlRow inputRecord) {
++  public BeamSqlPrimitive evaluate(BeamSqlRow inputRow) {
+     if (method == null) {
+       reConstructMethod();
+     }
+     try {
+       List<Object> paras = new ArrayList<>();
+       for (BeamSqlExpression e : getOperands()) {
+-        paras.add(e.evaluate(inputRecord).getValue());
++        paras.add(e.evaluate(inputRow).getValue());
+       }
+ 
+       return BeamSqlPrimitive.of(getOutputType(),

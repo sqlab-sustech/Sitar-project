@@ -1,0 +1,21 @@
+diff --git a/core/src/main/java/org/apache/mahout/matrix/VectorView.java b/core/src/main/java/org/apache/mahout/matrix/VectorView.java
+index 548079987..a7d1062ce 100644
+--- a/core/src/main/java/org/apache/mahout/matrix/VectorView.java
++++ b/core/src/main/java/org/apache/mahout/matrix/VectorView.java
+@@ -61,16 +61,6 @@ public class VectorView extends AbstractVector {
+     return new Text(out);
+   }
+ 
+-  @Override
+-  public String asFormatString() {
+-    StringBuilder out = new StringBuilder();
+-    out.append("[, ");
+-    for (int i = offset; i < offset + cardinality; i++)
+-      out.append(getQuick(i)).append(", ");
+-    out.append("] ");
+-    return out.toString();
+-  }
+-
+   @Override
+   public int cardinality() {
+     return cardinality;

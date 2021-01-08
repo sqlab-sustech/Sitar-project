@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/util/TypeMap.java",
+ "prod_sha1": "fa89131b76abc91e2cec494365e67a5ffc48b6f7",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/util/TypeMap.java",
+ "prod_time": {
+  "$date": 1219636467000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/util/TypeMapTest.java",
+ "test_qual": "net/sourceforge/pmd/util/TypeMapTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 20,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 10,
+ "add_return_line": 8,
+ "del_annotation_line": 1,
+ "del_call_line": 20,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 10,
+ "del_return_line": 8,
+ "test_typ": "Non"
+}

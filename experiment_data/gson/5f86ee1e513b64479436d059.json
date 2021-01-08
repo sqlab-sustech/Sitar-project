@@ -1,0 +1,37 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/MappedObjectConstructor.java",
+ "prod_sha1": "c8bd121db2b382cc0e15d317b19178e6db373d9b",
+ "repository": "gson",
+ "test_path": "gson/src/test/java/com/google/gson/MappedObjectConstructorTest.java",
+ "test_sha1": "ddb0c8c825db2c7194241ba9abb2bfd5fea05838",
+ "commit_between": 2,
+ "prod_qual": "com/google/gson/MappedObjectConstructor.java",
+ "prod_time": {
+  "$date": 1302049617000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/MappedObjectConstructorTest.java",
+ "test_time": {
+  "$date": 1302050637000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

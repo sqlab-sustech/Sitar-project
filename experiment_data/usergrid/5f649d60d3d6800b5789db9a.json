@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/core/src/main/java/org/usergrid/persistence/cassandra/EntityManagerFactoryImpl.java",
+ "prod_sha1": "cb993eeedd7d274bb30a6ec39fda1c735e39b07f",
+ "repository": "usergrid",
+ "test_path": "stack/core/src/test/java/org/usergrid/persistence/cassandra/EntityManagerFactoryImplTest.java",
+ "test_sha1": "3fd000f102af8b3d28195ebed0f4e7c42f0b7a2a",
+ "commit_between": 2,
+ "prod_qual": "org/usergrid/persistence/cassandra/EntityManagerFactoryImpl.java",
+ "prod_time": {
+  "$date": 1352820905000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/usergrid/persistence/cassandra/EntityManagerFactoryImplTest.java",
+ "test_time": {
+  "$date": 1352824623000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

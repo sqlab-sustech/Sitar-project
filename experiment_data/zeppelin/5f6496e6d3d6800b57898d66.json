@@ -1,0 +1,32 @@
+{
+ "prod_path": "python/src/main/java/org/apache/zeppelin/python/PythonDockerInterpreter.java",
+ "prod_sha1": "50fb42f186a2f439f72f5c17353ec726a00cb8ef",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/python/PythonDockerInterpreter.java",
+ "prod_time": {
+  "$date": 1529046109000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "python/src/test/java/org/apache/zeppelin/python/PythonDockerInterpreterTest.java",
+ "test_qual": "org/apache/zeppelin/python/PythonDockerInterpreterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 12,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

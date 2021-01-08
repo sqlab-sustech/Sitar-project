@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/backtype/storm/grouping/PartialKeyGrouping.java",
+ "prod_sha1": "8358bdeee00512b7d628c37cd53116556d379ef3",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/backtype/storm/grouping/PartialKeyGroupingTest.java",
+ "test_sha1": "8358bdeee00512b7d628c37cd53116556d379ef3",
+ "commit_between": 0,
+ "prod_qual": "jvm/backtype/storm/grouping/PartialKeyGrouping.java",
+ "prod_time": {
+  "$date": 1422999355000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/backtype/storm/grouping/PartialKeyGroupingTest.java",
+ "test_time": {
+  "$date": 1422999355000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 8,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 5,
+ "add_import_line": 8,
+ "add_packageid_line": 1,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

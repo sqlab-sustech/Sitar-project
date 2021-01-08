@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerify.java",
+ "prod_sha1": "702f468d1d1683e7e74151f8f38be35855137f02",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerifyTest.java",
+ "test_sha1": "702f468d1d1683e7e74151f8f38be35855137f02",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerify.java",
+ "prod_time": {
+  "$date": 1413327665000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerifyTest.java",
+ "test_time": {
+  "$date": 1413327665000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 23,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 1,
+ "add_import_line": 18,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 26,
+ "del_classname_line": 0,
+ "del_condition_line": 7,
+ "del_field_line": 3,
+ "del_import_line": 14,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

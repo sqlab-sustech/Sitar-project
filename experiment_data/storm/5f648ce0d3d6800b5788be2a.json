@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-core/src/jvm/org/apache/storm/command/Rebalance.java",
+ "prod_sha1": "e94b735a1381193fbf406657430284f381f9d8a7",
+ "repository": "storm",
+ "prod_qual": "jvm/org/apache/storm/command/Rebalance.java",
+ "prod_time": {
+  "$date": 1506009324000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-core/test/jvm/org/apache/storm/command/RebalanceTest.java",
+ "test_qual": "jvm/org/apache/storm/command/RebalanceTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 13,
+ "add_classname_line": 2,
+ "add_condition_line": 6,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

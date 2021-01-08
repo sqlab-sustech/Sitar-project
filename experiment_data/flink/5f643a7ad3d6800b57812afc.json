@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-common/src/main/java/eu/stratosphere/pact/common/io/TextInputFormat.java",
+ "prod_sha1": "929b8f44556915033101c36094309a8a4edf4d7f",
+ "repository": "flink",
+ "test_path": "pact/pact-common/src/test/java/eu/stratosphere/pact/common/io/TextInputFormatTest.java",
+ "test_sha1": "929b8f44556915033101c36094309a8a4edf4d7f",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/pact/common/io/TextInputFormat.java",
+ "prod_time": {
+  "$date": 1311787459000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/pact/common/io/TextInputFormatTest.java",
+ "test_time": {
+  "$date": 1311787459000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 4,
+ "add_call_line": 57,
+ "add_classname_line": 2,
+ "add_condition_line": 31,
+ "add_field_line": 12,
+ "add_import_line": 10,
+ "add_packageid_line": 0,
+ "add_parameter_line": 16,
+ "add_return_line": 15,
+ "del_annotation_line": 1,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 7,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 3
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/DurationType.java",
+ "prod_sha1": "ad8e643d2533b2d562adb7c66c6d2917c5f0305c",
+ "repository": "joda-time",
+ "test_path": "JodaTime/src/test/org/joda/time/TestDurationType.java",
+ "test_sha1": "ad8e643d2533b2d562adb7c66c6d2917c5f0305c",
+ "commit_between": 0,
+ "prod_qual": "org/joda/time/DurationType.java",
+ "prod_time": {
+  "$date": 1091389062000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/joda/time/TestDurationType.java",
+ "test_time": {
+  "$date": 1091389062000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 11,
+ "add_condition_line": 0,
+ "add_field_line": 9,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 27,
+ "add_return_line": 23,
+ "del_annotation_line": 0,
+ "del_call_line": 8,
+ "del_classname_line": 2,
+ "del_condition_line": 0,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 9,
+ "del_return_line": 15
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/common/src/main/java/org/apache/usergrid/persistence/core/migration/data/DataMigrationManagerImpl.java",
+ "prod_sha1": "79ec9787c185b3e1a43aba5f456b5568b5735235",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/common/src/test/java/org/apache/usergrid/persistence/core/migration/data/DataMigrationManagerImplTest.java",
+ "test_sha1": "79ec9787c185b3e1a43aba5f456b5568b5735235",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/core/migration/data/DataMigrationManagerImpl.java",
+ "prod_time": {
+  "$date": 1424110075000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/core/migration/data/DataMigrationManagerImplTest.java",
+ "test_time": {
+  "$date": 1424110075000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 98,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 2,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 7,
+ "del_annotation_line": 4,
+ "del_call_line": 51,
+ "del_classname_line": 1,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 8,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 2
+}

@@ -1,0 +1,29 @@
+diff --git a/storage/sis-gdal/src/main/java/org/apache/sis/storage/gdal/PJ.java b/storage/sis-gdal/src/main/java/org/apache/sis/storage/gdal/PJ.java
+index 97babefb0..7939ecc32 100644
+--- a/storage/sis-gdal/src/main/java/org/apache/sis/storage/gdal/PJ.java
++++ b/storage/sis-gdal/src/main/java/org/apache/sis/storage/gdal/PJ.java
+@@ -22,7 +22,6 @@ import java.io.ObjectStreamException;
+ import java.io.InvalidObjectException;
+ import org.opengis.metadata.Identifier;
+ import org.opengis.util.FactoryException;
+-import org.opengis.util.InternationalString;
+ import org.opengis.metadata.citation.Citation;
+ import org.opengis.referencing.datum.Ellipsoid;
+ import org.opengis.referencing.datum.GeodeticDatum;
+@@ -188,16 +187,6 @@ final class PJ implements Identifier, Serializable {
+     @Override
+     public native String getCode();
+ 
+-    /**
+-     * Returns the string representation of the PJ structure.
+-     *
+-     * @return the string representation, or {@code null} if none.
+-     */
+-    @Override
+-    public InternationalString getDescription() {
+-        return null;
+-    }
+-
+     /**
+      * Returns the Coordinate Reference System type.
+      *

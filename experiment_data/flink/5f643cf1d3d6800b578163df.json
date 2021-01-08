@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/reflect/BoundTypeUtil.java",
+ "prod_sha1": "c25f1143fb51e281abed8a3fc0eb275cdd28fe34",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/reflect/BoundTypeUtil.java",
+ "prod_time": {
+  "$date": 1306520543000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/reflect/BoundTypeUtilTest.java",
+ "test_qual": "eu/stratosphere/reflect/BoundTypeUtilTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 55,
+ "add_classname_line": 1,
+ "add_condition_line": 27,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 9,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

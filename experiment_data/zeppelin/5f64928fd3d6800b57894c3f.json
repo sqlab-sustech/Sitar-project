@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/repo/zeppelinhub/websocket/ZeppelinClient.java",
+ "prod_sha1": "5e85e6ea6ff004735fde9bef58085b83369f864b",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/repo/zeppelinhub/websocket/ZeppelinClientTest.java",
+ "test_sha1": "5e85e6ea6ff004735fde9bef58085b83369f864b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/notebook/repo/zeppelinhub/websocket/ZeppelinClient.java",
+ "prod_time": {
+  "$date": 1479102998000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/notebook/repo/zeppelinhub/websocket/ZeppelinClientTest.java",
+ "test_time": {
+  "$date": 1479102998000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 45,
+ "add_classname_line": 0,
+ "add_condition_line": 10,
+ "add_field_line": 3,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 22,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 8
+}

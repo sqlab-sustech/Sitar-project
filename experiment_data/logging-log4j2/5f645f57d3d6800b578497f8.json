@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/layout/YamlLayout.java",
+ "prod_sha1": "7994789d2d2cf85dcbb6518d36693d18082961f1",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/layout/YamlLayoutTest.java",
+ "test_sha1": "7994789d2d2cf85dcbb6518d36693d18082961f1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/layout/YamlLayout.java",
+ "prod_time": {
+  "$date": 1472397072000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/layout/YamlLayoutTest.java",
+ "test_time": {
+  "$date": 1472397072000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 2,
+ "del_annotation_line": 1,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0
+}

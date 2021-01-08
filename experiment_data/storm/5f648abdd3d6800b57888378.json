@@ -1,0 +1,32 @@
+{
+ "prod_path": "external/flux/flux-core/src/main/java/org/apache/storm/flux/FluxBuilder.java",
+ "prod_sha1": "0d8a99d477078a9c9a88cd79c016a387c89f526a",
+ "repository": "storm",
+ "prod_qual": "org/apache/storm/flux/FluxBuilder.java",
+ "prod_time": {
+  "$date": 1448571037000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "external/flux/flux-core/src/test/java/org/apache/storm/flux/FluxBuilderTest.java",
+ "test_qual": "org/apache/storm/flux/FluxBuilderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 14,
+ "del_classname_line": 0,
+ "del_condition_line": 7,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

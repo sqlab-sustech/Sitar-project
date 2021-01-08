@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/AccessorClassGenerationRule.java",
+ "prod_sha1": "3a98deced1819cb9b0df7d01768994c0d2ac5b6b",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/AccessorClassGenerationRule.java",
+ "prod_time": {
+  "$date": 1047668697000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/AccessorClassGenerationRuleTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/AccessorClassGenerationRuleTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 72,
+ "add_classname_line": 3,
+ "add_condition_line": 15,
+ "add_field_line": 10,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 28,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 64,
+ "del_classname_line": 3,
+ "del_condition_line": 13,
+ "del_field_line": 10,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 26,
+ "del_return_line": 17,
+ "test_typ": "Non"
+}

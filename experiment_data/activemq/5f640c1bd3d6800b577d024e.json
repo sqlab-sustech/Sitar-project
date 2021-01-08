@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-pool/src/main/java/org/apache/activemq/pool/PooledSession.java",
+ "prod_sha1": "a59c9baaf546b13a9355e858d9043428c8556ad0",
+ "repository": "activemq",
+ "test_path": "activemq-pool/src/test/java/org/apache/activemq/pool/PooledSessionTest.java",
+ "test_sha1": "a59c9baaf546b13a9355e858d9043428c8556ad0",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/pool/PooledSession.java",
+ "prod_time": {
+  "$date": 1347421488000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/pool/PooledSessionTest.java",
+ "test_time": {
+  "$date": 1347421488000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 39,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 6,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 6,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

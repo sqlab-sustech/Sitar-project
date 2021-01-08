@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/ResidueRange.java",
+ "prod_sha1": "f21439312907b1278ca87c108dd50f070d14aab6",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/structure/ResidueRange.java",
+ "prod_time": {
+  "$date": 1389810412000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/ResidueRangeTest.java",
+ "test_qual": "org/biojava/bio/structure/ResidueRangeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 11,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

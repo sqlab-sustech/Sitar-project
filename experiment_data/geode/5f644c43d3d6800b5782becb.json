@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/cache/configuration/CacheConfig.java",
+ "prod_sha1": "ad3a08295cca7c15c1350f52af4c3436e2da9e4c",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/cache/configuration/CacheConfigTest.java",
+ "test_sha1": "846af4e2df0b6c76585e8a16e1eeb26e71e9c2dd",
+ "commit_between": 9,
+ "prod_qual": "org/apache/geode/cache/configuration/CacheConfig.java",
+ "prod_time": {
+  "$date": 1544051740000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/geode/cache/configuration/CacheConfigTest.java",
+ "test_time": {
+  "$date": 1543906309000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

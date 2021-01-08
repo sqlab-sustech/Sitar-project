@@ -1,0 +1,17 @@
+diff --git a/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java b/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java
+index 65c517fd61..0be6ef8d4e 100644
+--- a/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java
++++ b/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java
+@@ -15,9 +15,10 @@
+  * See the License for the specific language governing permissions and
+  * limitations under the License.
+  */
+-package com.google.cloud.dataflow.sdk.coders;
++package org.apache.beam.sdk.coders;
++
++import org.apache.beam.sdk.util.common.ElementByteSizeObserver;
+ 
+-import com.google.cloud.dataflow.sdk.util.common.ElementByteSizeObserver;
+ import com.google.common.base.Converter;
+ 
+ import com.fasterxml.jackson.annotation.JsonCreator;

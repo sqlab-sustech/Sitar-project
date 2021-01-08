@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/action/DeleteAction.java",
+ "prod_sha1": "a7f60a25a89126cd183ed5181ab526fcfbd213c2",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/appender/rolling/action/DeleteAction.java",
+ "prod_time": {
+  "$date": 1460937332000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/action/DeleteActionTest.java",
+ "test_qual": "org/apache/logging/log4j/core/appender/rolling/action/DeleteActionTest.java",
+ "add_annotation_line": 13,
+ "add_call_line": 27,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 3,
+ "add_import_line": 13,
+ "add_packageid_line": 1,
+ "add_parameter_line": 23,
+ "add_return_line": 10,
+ "del_annotation_line": 13,
+ "del_call_line": 27,
+ "del_classname_line": 1,
+ "del_condition_line": 6,
+ "del_field_line": 3,
+ "del_import_line": 13,
+ "del_packageid_line": 1,
+ "del_parameter_line": 23,
+ "del_return_line": 10,
+ "test_typ": "Non"
+}

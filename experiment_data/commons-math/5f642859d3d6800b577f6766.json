@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/optimization/direct/MultiDirectional.java",
+ "prod_sha1": "4f206ca3ee00be1430dfccb3de1b90c51af31976",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/optimization/direct/MultiDirectionalTest.java",
+ "test_sha1": "4f206ca3ee00be1430dfccb3de1b90c51af31976",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/optimization/direct/MultiDirectional.java",
+ "prod_time": {
+  "$date": 1236125271000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/optimization/direct/MultiDirectionalTest.java",
+ "test_time": {
+  "$date": 1236125271000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

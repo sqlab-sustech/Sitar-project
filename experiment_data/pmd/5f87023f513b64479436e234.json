@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/ast/ASTVariableDeclaratorId.java",
+ "prod_sha1": "cc0195eaa0a1a6687d514cd12fe620fe9839c54a",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/ast/ASTVariableDeclaratorIdTest.java",
+ "test_sha1": "cc0195eaa0a1a6687d514cd12fe620fe9839c54a",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/ast/ASTVariableDeclaratorId.java",
+ "prod_time": {
+  "$date": 1034082417000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/ast/ASTVariableDeclaratorIdTest.java",
+ "test_time": {
+  "$date": 1034082417000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

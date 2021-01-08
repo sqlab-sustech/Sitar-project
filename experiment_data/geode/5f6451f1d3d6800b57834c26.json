@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-junit/src/main/java/org/apache/geode/test/concurrent/FileBasedCountDownLatch.java",
+ "prod_sha1": "239c532f8338c9d8e9bb8062fab9fadd3376ec73",
+ "repository": "geode",
+ "prod_qual": "concurrent/FileBasedCountDownLatch.java",
+ "prod_time": {
+  "$date": 1538692738000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-junit/src/integrationTest/java/org/apache/geode/test/concurrent/FileBasedCountDownLatchTest.java",
+ "test_qual": "concurrent/FileBasedCountDownLatchTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

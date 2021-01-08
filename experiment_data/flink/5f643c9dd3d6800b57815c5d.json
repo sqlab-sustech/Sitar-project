@@ -1,0 +1,32 @@
+{
+ "prod_path": "pact/pact-clients/src/main/java/eu/stratosphere/pact/client/nephele/api/Client.java",
+ "prod_sha1": "0eadd80cc627fb1f66c136f9c13bbe1d9107c5dd",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/pact/client/nephele/api/Client.java",
+ "prod_time": {
+  "$date": 1302088722000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pact/pact-clients/src/test/java/eu/stratosphere/pact/client/nephele/api/ClientTest.java",
+ "test_qual": "eu/stratosphere/pact/client/nephele/api/ClientTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,14 @@
+diff --git a/core/src/main/java/org/apache/brooklyn/entity/group/zoneaware/BalancingNodePlacementStrategy.java b/core/src/main/java/org/apache/brooklyn/entity/group/zoneaware/BalancingNodePlacementStrategy.java
+index dcded714e..d00784c03 100644
+--- a/core/src/main/java/org/apache/brooklyn/entity/group/zoneaware/BalancingNodePlacementStrategy.java
++++ b/core/src/main/java/org/apache/brooklyn/entity/group/zoneaware/BalancingNodePlacementStrategy.java
+@@ -26,8 +26,8 @@ import java.util.Map;
+ 
+ import org.apache.brooklyn.api.entity.Entity;
+ import org.apache.brooklyn.api.location.Location;
++import org.apache.brooklyn.core.entity.trait.Startable;
+ import org.apache.brooklyn.entity.group.DynamicCluster.NodePlacementStrategy;
+-import org.apache.brooklyn.entity.trait.Startable;
+ import org.slf4j.Logger;
+ import org.slf4j.LoggerFactory;
+ 

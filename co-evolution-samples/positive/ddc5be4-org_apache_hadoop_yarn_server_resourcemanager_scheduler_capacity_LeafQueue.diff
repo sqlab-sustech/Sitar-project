@@ -1,0 +1,22 @@
+diff --git a/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity/LeafQueue.java b/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity/LeafQueue.java
+index f129ff403fc..47679a69a37 100644
+--- a/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity/LeafQueue.java
++++ b/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/capacity/LeafQueue.java
+@@ -1878,7 +1878,7 @@ public void recoverContainer(Resource clusterResource,
+   }
+ 
+   // return a single Resource capturing the overal amount of pending resources
+-  public Resource getTotalResourcePending() {
++  public synchronized Resource getTotalResourcePending() {
+     Resource ret = BuilderUtils.newResource(0, 0);
+     for (FiCaSchedulerApp f : activeApplications) {
+       Resources.addTo(ret, f.getTotalPendingRequests());
+@@ -1887,7 +1887,7 @@ public Resource getTotalResourcePending() {
+   }
+ 
+   @Override
+-  public void collectSchedulerApplications(
++  public synchronized void collectSchedulerApplications(
+       Collection<ApplicationAttemptId> apps) {
+     for (FiCaSchedulerApp pendingApp : pendingApplications) {
+       apps.add(pendingApp.getApplicationAttemptId());

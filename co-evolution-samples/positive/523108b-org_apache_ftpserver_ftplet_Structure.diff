@@ -1,0 +1,13 @@
+diff --git a/ftplet-api/src/main/java/org/apache/ftpserver/ftplet/Structure.java b/ftplet-api/src/main/java/org/apache/ftpserver/ftplet/Structure.java
+index d3824683..1a62481e 100644
+--- a/ftplet-api/src/main/java/org/apache/ftpserver/ftplet/Structure.java
++++ b/ftplet-api/src/main/java/org/apache/ftpserver/ftplet/Structure.java
+@@ -22,7 +22,7 @@ package org.apache.ftpserver.ftplet;
+ /**
+  * Type safe enum for describing the structure
+  *
+- * @author The Apache MINA Project (dev@mina.apache.org)
++ * @author <a href="http://mina.apache.org">Apache MINA Project</a>
+  */
+ public enum Structure {
+ 

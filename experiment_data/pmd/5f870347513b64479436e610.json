@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/optimization/AvoidInstantiatingObjectsInLoops.java",
+ "prod_sha1": "3d869fda25924ac24c57b8a84ecea82acca3c4dc",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/optimization/AvoidInstantiatingObjectsInLoopsTest.java",
+ "test_sha1": "3d869fda25924ac24c57b8a84ecea82acca3c4dc",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/optimization/AvoidInstantiatingObjectsInLoops.java",
+ "prod_time": {
+  "$date": 1105992212000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/optimization/AvoidInstantiatingObjectsInLoopsTest.java",
+ "test_time": {
+  "$date": 1105992212000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 1,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/jmap/src/main/java/org/apache/james/jmap/model/Keywords.java",
+ "prod_sha1": "35a6e92304605fb95d2a9cbec607de22cef053d3",
+ "repository": "james-project",
+ "test_path": "server/protocols/jmap/src/test/java/org/apache/james/jmap/model/KeywordsTest.java",
+ "test_sha1": "35a6e92304605fb95d2a9cbec607de22cef053d3",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/jmap/model/Keywords.java",
+ "prod_time": {
+  "$date": 1511446345000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/jmap/model/KeywordsTest.java",
+ "test_time": {
+  "$date": 1511446345000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 19,
+ "del_annotation_line": 0,
+ "del_call_line": 24,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 17
+}

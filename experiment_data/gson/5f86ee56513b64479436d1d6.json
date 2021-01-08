@@ -1,0 +1,32 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/CamelCaseSeparatorNamingPolicy.java",
+ "prod_sha1": "861e047a6222d581ecf1f617599629bbf8654d34",
+ "repository": "gson",
+ "prod_qual": "com/google/gson/CamelCaseSeparatorNamingPolicy.java",
+ "prod_time": {
+  "$date": 1300746635000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "gson/src/test/java/com/google/gson/CamelCaseSeparatorNamingPolicyTest.java",
+ "test_qual": "com/google/gson/CamelCaseSeparatorNamingPolicyTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

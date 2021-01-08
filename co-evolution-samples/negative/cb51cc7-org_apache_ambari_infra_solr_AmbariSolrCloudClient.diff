@@ -1,0 +1,27 @@
+diff --git a/ambari-infra-solr-client/src/main/java/org/apache/ambari/infra/solr/AmbariSolrCloudClient.java b/ambari-infra-solr-client/src/main/java/org/apache/ambari/infra/solr/AmbariSolrCloudClient.java
+index ff28664..d5d971c 100644
+--- a/ambari-infra-solr-client/src/main/java/org/apache/ambari/infra/solr/AmbariSolrCloudClient.java
++++ b/ambari-infra-solr-client/src/main/java/org/apache/ambari/infra/solr/AmbariSolrCloudClient.java
+@@ -30,6 +30,7 @@ import org.apache.ambari.infra.solr.commands.ListCollectionCommand;
+ import org.apache.ambari.infra.solr.commands.SecureSolrZNodeZkCommand;
+ import org.apache.ambari.infra.solr.commands.SecureZNodeZkCommand;
+ import org.apache.ambari.infra.solr.commands.SetClusterPropertyZkCommand;
++import org.apache.ambari.infra.solr.commands.UnsecureZNodeZkCommand;
+ import org.apache.ambari.infra.solr.commands.UploadConfigZkCommand;
+ import org.apache.ambari.infra.solr.commands.CheckZnodeZkCommand;
+ import org.apache.ambari.infra.solr.util.ShardUtils;
+@@ -177,6 +178,14 @@ public class AmbariSolrCloudClient {
+     new SecureZNodeZkCommand(getRetryTimes(), getInterval()).run(this);
+   }
+ 
++  /**
++   * Unsecure znode
++   */
++  public void unsecureZnode() throws Exception {
++    LOG.info("Disable security for znode - ", this.getZnode());
++    new UnsecureZNodeZkCommand(getRetryTimes(), getInterval()).run(this);
++  }
++
+   /**
+    * Upload config set to zookeeper
+    */

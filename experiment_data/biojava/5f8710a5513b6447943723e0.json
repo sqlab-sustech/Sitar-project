@@ -1,0 +1,37 @@
+{
+ "prod_path": "trunk/motif/src/main/java/org/biojava3/motif/App.java",
+ "prod_sha1": "b8bf4d4946478c82d599f7c73ed722d03af94ea9",
+ "repository": "biojava",
+ "test_path": "trunk/motif/src/test/java/org/biojava3/motif/AppTest.java",
+ "test_sha1": "b8bf4d4946478c82d599f7c73ed722d03af94ea9",
+ "commit_between": 0,
+ "prod_qual": "org/biojava3/motif/App.java",
+ "prod_time": {
+  "$date": 1265841333000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava3/motif/AppTest.java",
+ "test_time": {
+  "$date": 1265841333000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

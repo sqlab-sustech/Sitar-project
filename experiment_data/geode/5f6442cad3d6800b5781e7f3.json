@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-connectors/src/main/java/org/apache/geode/connectors/jdbc/internal/SqlHandler.java",
+ "prod_sha1": "07713e54147d6084f92d0486defe9ef7de1e86b5",
+ "repository": "geode",
+ "test_path": "geode-connectors/src/test/java/org/apache/geode/connectors/jdbc/internal/SqlHandlerTest.java",
+ "test_sha1": "07713e54147d6084f92d0486defe9ef7de1e86b5",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/connectors/jdbc/internal/SqlHandler.java",
+ "prod_time": {
+  "$date": 1515022199000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/connectors/jdbc/internal/SqlHandlerTest.java",
+ "test_time": {
+  "$date": 1515022199000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 55,
+ "add_classname_line": 0,
+ "add_condition_line": 13,
+ "add_field_line": 3,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 15,
+ "add_return_line": 14,
+ "del_annotation_line": 0,
+ "del_call_line": 23,
+ "del_classname_line": 1,
+ "del_condition_line": 7,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 4
+}

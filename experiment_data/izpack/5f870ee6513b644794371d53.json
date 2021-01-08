@@ -1,0 +1,37 @@
+{
+ "prod_path": "izpack-core/src/main/java/com/izforge/izpack/merge/resolve/ClassPathCrawler.java",
+ "prod_sha1": "7ba23056b796154e57a893bbba794034e32dd062",
+ "repository": "izpack",
+ "test_path": "izpack-core/src/test/java/com/izforge/izpack/merge/resolve/ClassPathCrawlerTest.java",
+ "test_sha1": "7ba23056b796154e57a893bbba794034e32dd062",
+ "commit_between": 0,
+ "prod_qual": "com/izforge/izpack/merge/resolve/ClassPathCrawler.java",
+ "prod_time": {
+  "$date": 1268904066000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/izforge/izpack/merge/resolve/ClassPathCrawlerTest.java",
+ "test_time": {
+  "$date": 1268904066000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1
+}

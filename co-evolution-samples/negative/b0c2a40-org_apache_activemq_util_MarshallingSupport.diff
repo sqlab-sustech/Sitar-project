@@ -1,0 +1,13 @@
+diff --git a/activemq-core/src/main/java/org/apache/activemq/util/MarshallingSupport.java b/activemq-core/src/main/java/org/apache/activemq/util/MarshallingSupport.java
+index 114c9577e..fd1235d29 100755
+--- a/activemq-core/src/main/java/org/apache/activemq/util/MarshallingSupport.java
++++ b/activemq-core/src/main/java/org/apache/activemq/util/MarshallingSupport.java
+@@ -33,7 +33,7 @@ import java.util.Properties;
+  * The fixed version of the UTF8 encoding function. Some older JVM's UTF8
+  * encoding function breaks when handling large strings.
+  * 
+- * @version $Revision$
++ * 
+  */
+ public final class MarshallingSupport {
+ 

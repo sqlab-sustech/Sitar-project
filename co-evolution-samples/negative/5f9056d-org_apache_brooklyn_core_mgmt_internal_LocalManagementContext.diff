@@ -1,0 +1,13 @@
+diff --git a/core/src/main/java/org/apache/brooklyn/core/mgmt/internal/LocalManagementContext.java b/core/src/main/java/org/apache/brooklyn/core/mgmt/internal/LocalManagementContext.java
+index f464d3b26..d88a500db 100644
+--- a/core/src/main/java/org/apache/brooklyn/core/mgmt/internal/LocalManagementContext.java
++++ b/core/src/main/java/org/apache/brooklyn/core/mgmt/internal/LocalManagementContext.java
+@@ -380,7 +380,7 @@ public class LocalManagementContext extends AbstractManagementContext {
+             log.warn("When reloading, mgmt context "+this+" properties are fixed, so reload will be of limited utility");
+         
+         BrooklynProperties properties = builder.build();
+-        configMap = properties;
++        configMap = new DeferredBrooklynProperties(properties, this);
+         if (brooklynAdditionalProperties != null) {
+             log.info("Reloading additional brooklyn properties from " + brooklynAdditionalProperties);
+             configMap.addFromMap(brooklynAdditionalProperties);

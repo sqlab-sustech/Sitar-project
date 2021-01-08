@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/util/ByteList.java",
+ "prod_sha1": "06c74ad2d71478442949c67b83b2ecbb9d579c94",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/util/ByteList.java",
+ "prod_time": {
+  "$date": 1171557972000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "test/org/jruby/util/ByteListTest.java",
+ "test_qual": "org/jruby/util/ByteListTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

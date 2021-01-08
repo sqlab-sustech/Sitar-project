@@ -1,0 +1,65 @@
+diff --git a/runners/core-java/src/main/java/org/apache/beam/runners/core/SimpleDoFnRunner.java b/runners/core-java/src/main/java/org/apache/beam/runners/core/SimpleDoFnRunner.java
+index df5f3f6119..d54daf64d5 100644
+--- a/runners/core-java/src/main/java/org/apache/beam/runners/core/SimpleDoFnRunner.java
++++ b/runners/core-java/src/main/java/org/apache/beam/runners/core/SimpleDoFnRunner.java
+@@ -34,9 +34,7 @@ import org.apache.beam.sdk.transforms.Aggregator;
+ import org.apache.beam.sdk.transforms.Combine.CombineFn;
+ import org.apache.beam.sdk.transforms.DoFn;
+ import org.apache.beam.sdk.transforms.DoFn.Context;
+-import org.apache.beam.sdk.transforms.DoFn.InputProvider;
+ import org.apache.beam.sdk.transforms.DoFn.OnTimerContext;
+-import org.apache.beam.sdk.transforms.DoFn.OutputReceiver;
+ import org.apache.beam.sdk.transforms.DoFn.ProcessContext;
+ import org.apache.beam.sdk.transforms.reflect.DoFnInvoker;
+ import org.apache.beam.sdk.transforms.reflect.DoFnInvokers;
+@@ -438,16 +436,6 @@ public class SimpleDoFnRunner<InputT, OutputT> implements DoFnRunner<InputT, Out
+           "Cannot access OnTimerContext outside of @OnTimer methods.");
+     }
+ 
+-    @Override
+-    public InputProvider<InputT> inputProvider() {
+-      throw new UnsupportedOperationException("InputProvider is for testing only.");
+-    }
+-
+-    @Override
+-    public OutputReceiver<OutputT> outputReceiver() {
+-      throw new UnsupportedOperationException("OutputReceiver is for testing only.");
+-    }
+-
+     @Override
+     public <RestrictionT> RestrictionTracker<RestrictionT> restrictionTracker() {
+       throw new UnsupportedOperationException(
+@@ -625,16 +613,6 @@ public class SimpleDoFnRunner<InputT, OutputT> implements DoFnRunner<InputT, Out
+           "Cannot access OnTimerContext outside of @OnTimer methods.");
+     }
+ 
+-    @Override
+-    public InputProvider<InputT> inputProvider() {
+-      throw new UnsupportedOperationException("InputProvider parameters are not supported.");
+-    }
+-
+-    @Override
+-    public OutputReceiver<OutputT> outputReceiver() {
+-      throw new UnsupportedOperationException("OutputReceiver parameters are not supported.");
+-    }
+-
+     @Override
+     public <RestrictionT> RestrictionTracker<RestrictionT> restrictionTracker() {
+       throw new UnsupportedOperationException("RestrictionTracker parameters are not supported.");
+@@ -743,16 +721,6 @@ public class SimpleDoFnRunner<InputT, OutputT> implements DoFnRunner<InputT, Out
+       return this;
+     }
+ 
+-    @Override
+-    public InputProvider<InputT> inputProvider() {
+-      throw new UnsupportedOperationException("InputProvider parameters are not supported.");
+-    }
+-
+-    @Override
+-    public OutputReceiver<OutputT> outputReceiver() {
+-      throw new UnsupportedOperationException("OutputReceiver parameters are not supported.");
+-    }
+-
+     @Override
+     public <RestrictionT> RestrictionTracker<RestrictionT> restrictionTracker() {
+       throw new UnsupportedOperationException("RestrictionTracker parameters are not supported.");

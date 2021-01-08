@@ -1,0 +1,1 @@
+phoenix-queryserver CC d750aa9484006527bb2fc08febf1b2d019217229 d750aa9484006527bb2fc08febf1b2d019217229 queryserver/src/main/java/org/apache/phoenix/queryserver/server/RemoteUserExtractorFactory.java queryserver/src/test/java/org/apache/phoenix/queryserver/server/RemoteUserExtractorFactoryTest.java

@@ -1,0 +1,17 @@
+diff --git a/ambari-metrics-timelineservice/src/main/java/org/apache/hadoop/yarn/server/applicationhistoryservice/metrics/timeline/HBaseTimelineMetricStore.java b/ambari-metrics-timelineservice/src/main/java/org/apache/hadoop/yarn/server/applicationhistoryservice/metrics/timeline/HBaseTimelineMetricStore.java
+index f984253..12c27a4 100644
+--- a/ambari-metrics-timelineservice/src/main/java/org/apache/hadoop/yarn/server/applicationhistoryservice/metrics/timeline/HBaseTimelineMetricStore.java
++++ b/ambari-metrics-timelineservice/src/main/java/org/apache/hadoop/yarn/server/applicationhistoryservice/metrics/timeline/HBaseTimelineMetricStore.java
+@@ -415,7 +415,11 @@ public class HBaseTimelineMetricStore extends AbstractService implements Timelin
+           throws SQLException, IOException {
+ 
+     Map<String, Set<String>> hostedApps = metricMetadataManager.getHostedAppsCache();
+-    Map<String, Set<String>> instanceHosts = metricMetadataManager.getHostedInstanceCache();
++    Map<String, Set<String>> instanceHosts = new HashMap<>();
++    if (configuration.getTimelineMetricsMultipleClusterSupport()) {
++      instanceHosts = metricMetadataManager.getHostedInstanceCache();
++    }
++
+     Map<String, Map<String, Set<String>>> instanceAppHosts = new HashMap<>();
+ 
+     if (MapUtils.isEmpty(instanceHosts)) {

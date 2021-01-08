@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/journal/Journal.java",
+ "prod_sha1": "62bdbb0db5dc4354f0e00fd5259b3db53eb1432d",
+ "repository": "activemq",
+ "test_path": "activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/journal/JournalTest.java",
+ "test_sha1": "62bdbb0db5dc4354f0e00fd5259b3db53eb1432d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/store/kahadb/disk/journal/Journal.java",
+ "prod_time": {
+  "$date": 1461945423000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/store/kahadb/disk/journal/JournalTest.java",
+ "test_time": {
+  "$date": 1461945423000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 105,
+ "add_classname_line": 0,
+ "add_condition_line": 19,
+ "add_field_line": 26,
+ "add_import_line": 9,
+ "add_packageid_line": 0,
+ "add_parameter_line": 17,
+ "add_return_line": 12,
+ "del_annotation_line": 1,
+ "del_call_line": 41,
+ "del_classname_line": 0,
+ "del_condition_line": 15,
+ "del_field_line": 4,
+ "del_import_line": 12,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 6
+}

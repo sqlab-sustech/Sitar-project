@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/experimental/org/apache/commons/math/analysis/UnivariateRealFunctionUtils.java",
+ "prod_sha1": "04094833d5f1368927d1a768c7a4349680c55eda",
+ "repository": "commons-math",
+ "test_path": "src/experimental/org/apache/commons/math/analysis/UnivariateRealFunctionUtilsTest.java",
+ "test_sha1": "04094833d5f1368927d1a768c7a4349680c55eda",
+ "commit_between": 0,
+ "prod_qual": "experimental/org/apache/commons/math/analysis/UnivariateRealFunctionUtils.java",
+ "prod_time": {
+  "$date": 1069480771000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "experimental/org/apache/commons/math/analysis/UnivariateRealFunctionUtilsTest.java",
+ "test_time": {
+  "$date": 1069480771000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

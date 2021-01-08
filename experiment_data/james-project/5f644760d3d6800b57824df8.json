@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/util-java8/src/main/java/org/apache/james/util/FunctionGenerator.java",
+ "prod_sha1": "50e3ab5844d6678c99210b08af588dfc69b1b24d",
+ "repository": "james-project",
+ "test_path": "server/container/util-java8/src/test/java/org/apache/james/util/FunctionGeneratorTest.java",
+ "test_sha1": "50e3ab5844d6678c99210b08af588dfc69b1b24d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/util/FunctionGenerator.java",
+ "prod_time": {
+  "$date": 1467265096000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/util/FunctionGeneratorTest.java",
+ "test_time": {
+  "$date": 1467265096000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

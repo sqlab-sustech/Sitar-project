@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/design/LooseCouplingRule.java",
+ "prod_sha1": "bc5056fcd82fa648a966d9663c652979d0b21265",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/design/LooseCouplingRule.java",
+ "prod_time": {
+  "$date": 1034109795000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/design/LooseCouplingRuleTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/design/LooseCouplingRuleTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

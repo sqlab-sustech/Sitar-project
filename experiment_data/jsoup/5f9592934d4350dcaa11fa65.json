@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/jsoup/helper/HttpConnection.java",
+ "prod_sha1": "009013169754d4869f3a55c27a3443fc72d1d1f1",
+ "repository": "jsoup",
+ "prod_qual": "org/jsoup/helper/HttpConnection.java",
+ "prod_time": {
+  "$date": 1342585014000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/jsoup/helper/HttpConnectionTest.java",
+ "test_qual": "org/jsoup/helper/HttpConnectionTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

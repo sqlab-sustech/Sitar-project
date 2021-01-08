@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-common/src/main/java/eu/stratosphere/nephele/jobgraph/JobGraph.java",
+ "prod_sha1": "ce893581aa2b56b11e2b3bc95103cb1c6e178d70",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/jobgraph/JobGraph.java",
+ "prod_time": {
+  "$date": 1314115473000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-common/src/test/java/eu/stratosphere/nephele/jobgraph/JobGraphTest.java",
+ "test_qual": "eu/stratosphere/nephele/jobgraph/JobGraphTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 16,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 17,
+ "add_return_line": 3,
+ "del_annotation_line": 2,
+ "del_call_line": 14,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 11,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

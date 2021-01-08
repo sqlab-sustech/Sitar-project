@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/linear/SparseFieldVector.java",
+ "prod_sha1": "237c80ba7b9aa99c8ea15fea2f0a5e8baa296eee",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/linear/SparseFieldVectorTest.java",
+ "test_sha1": "237c80ba7b9aa99c8ea15fea2f0a5e8baa296eee",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/linear/SparseFieldVector.java",
+ "prod_time": {
+  "$date": 1316284923000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/linear/SparseFieldVectorTest.java",
+ "test_time": {
+  "$date": 1316284923000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 21,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 43,
+ "del_classname_line": 0,
+ "del_condition_line": 10,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 10,
+ "del_return_line": 10
+}

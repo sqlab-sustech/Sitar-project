@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/src/org/cloud/network/router/deployment/RouterDeploymentDefinition.java",
+ "prod_sha1": "b9bff843c6c3ec031bea75d63cf39d845c7b4ecf",
+ "repository": "cloudstack",
+ "test_path": "server/test/org/cloud/network/router/deployment/RouterDeploymentDefinitionTest.java",
+ "test_sha1": "b9bff843c6c3ec031bea75d63cf39d845c7b4ecf",
+ "commit_between": 0,
+ "prod_qual": "org/cloud/network/router/deployment/RouterDeploymentDefinition.java",
+ "prod_time": {
+  "$date": 1408529814000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/cloud/network/router/deployment/RouterDeploymentDefinitionTest.java",
+ "test_time": {
+  "$date": 1408529814000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 48,
+ "add_classname_line": 0,
+ "add_condition_line": 16,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 22,
+ "del_classname_line": 0,
+ "del_condition_line": 11,
+ "del_field_line": 8,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 9,
+ "del_return_line": 1
+}

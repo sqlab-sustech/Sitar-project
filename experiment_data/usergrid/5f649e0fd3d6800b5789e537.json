@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/scheduler/src/main/java/org/usergrid/batch/App.java",
+ "prod_sha1": "b8939be3c116900a4c60ccfe164f905fe64cc81e",
+ "repository": "usergrid",
+ "prod_qual": "org/usergrid/batch/App.java",
+ "prod_time": {
+  "$date": 1363200605000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/scheduler/src/test/java/org/usergrid/batch/AppTest.java",
+ "test_qual": "org/usergrid/batch/AppTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

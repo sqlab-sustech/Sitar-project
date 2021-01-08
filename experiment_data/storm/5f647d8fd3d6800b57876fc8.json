@@ -1,0 +1,37 @@
+{
+ "prod_path": "external/storm-elasticsearch/src/main/java/org/apache/storm/elasticsearch/bolt/AbstractEsBolt.java",
+ "prod_sha1": "25aecf17002b04c43ac258f3ef027f67a3de60df",
+ "repository": "storm",
+ "test_path": "external/storm-elasticsearch/src/test/java/org/apache/storm/elasticsearch/bolt/AbstractEsBoltTest.java",
+ "test_sha1": "25aecf17002b04c43ac258f3ef027f67a3de60df",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/elasticsearch/bolt/AbstractEsBolt.java",
+ "prod_time": {
+  "$date": 1441113765000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/elasticsearch/bolt/AbstractEsBoltTest.java",
+ "test_time": {
+  "$date": 1441113765000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/recovery/FileSystemRecoveryStorage.java",
+ "prod_sha1": "3eea57ab26e8c4a8811bde64854b95f706858f10",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/interpreter/recovery/FileSystemRecoveryStorage.java",
+ "prod_time": {
+  "$date": 1517399204000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/recovery/FileSystemRecoveryStorageTest.java",
+ "test_qual": "org/apache/zeppelin/interpreter/recovery/FileSystemRecoveryStorageTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 7,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

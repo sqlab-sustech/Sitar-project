@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/registrations/GlobalRegistration.java",
+ "prod_sha1": "655d35b38d2a3ed9577f9998e54c9398c7d91740",
+ "repository": "james-project",
+ "test_path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/registrations/GlobalRegistrationTest.java",
+ "test_sha1": "655d35b38d2a3ed9577f9998e54c9398c7d91740",
+ "commit_between": 0,
+ "prod_qual": "org/apache/mailbox/tools/indexer/registrations/GlobalRegistration.java",
+ "prod_time": {
+  "$date": 1542960211000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/mailbox/tools/indexer/registrations/GlobalRegistrationTest.java",
+ "test_time": {
+  "$date": 1542960211000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 2,
+ "del_call_line": 6,
+ "del_classname_line": 1,
+ "del_condition_line": 3,
+ "del_field_line": 2,
+ "del_import_line": 5,
+ "del_packageid_line": 1,
+ "del_parameter_line": 4,
+ "del_return_line": 4
+}

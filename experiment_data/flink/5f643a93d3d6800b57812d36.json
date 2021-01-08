@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-cleansing/src/main/java/eu/stratosphere/sopremo/cleansing/record_linkage/TransitiveClosure.java",
+ "prod_sha1": "a4ebc043f619944f5de5eb6909827086ebc801b0",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-cleansing/src/test/java/eu/stratosphere/sopremo/cleansing/record_linkage/TransitiveClosureTest.java",
+ "test_sha1": "a4ebc043f619944f5de5eb6909827086ebc801b0",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/sopremo/cleansing/record_linkage/TransitiveClosure.java",
+ "prod_time": {
+  "$date": 1312304061000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/sopremo/cleansing/record_linkage/TransitiveClosureTest.java",
+ "test_time": {
+  "$date": 1312304061000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 8,
+ "add_call_line": 40,
+ "add_classname_line": 13,
+ "add_condition_line": 13,
+ "add_field_line": 12,
+ "add_import_line": 28,
+ "add_packageid_line": 1,
+ "add_parameter_line": 20,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/reflect/ReflectUtil.java",
+ "prod_sha1": "9a04c6b039dab49cd2c3648952ad42c87ab16a40",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/reflect/ReflectUtilTest.java",
+ "test_sha1": "9a04c6b039dab49cd2c3648952ad42c87ab16a40",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/reflect/ReflectUtil.java",
+ "prod_time": {
+  "$date": 1304626396000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/reflect/ReflectUtilTest.java",
+ "test_time": {
+  "$date": 1304626396000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 9,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 9,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 9,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "plugins/network-elements/nicira-nvp/src/com/cloud/network/element/NiciraNvpElement.java",
+ "prod_sha1": "296c20332df4c82725fb12431a44b0b47357dba5",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/network/element/NiciraNvpElement.java",
+ "prod_time": {
+  "$date": 1359758445000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "plugins/network-elements/nicira-nvp/test/com/cloud/network/element/NiciraNvpElementTest.java",
+ "test_qual": "com/cloud/network/element/NiciraNvpElementTest.java",
+ "add_annotation_line": 45,
+ "add_call_line": 260,
+ "add_classname_line": 3,
+ "add_condition_line": 61,
+ "add_field_line": 18,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 43,
+ "add_return_line": 58,
+ "del_annotation_line": 43,
+ "del_call_line": 260,
+ "del_classname_line": 4,
+ "del_condition_line": 61,
+ "del_field_line": 19,
+ "del_import_line": 6,
+ "del_packageid_line": 0,
+ "del_parameter_line": 43,
+ "del_return_line": 58,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/data/data-library/src/main/java/org/apache/james/rrt/lib/RecipientRewriteTableUtil.java",
+ "prod_sha1": "ff8107efb52239bf1fc3eddb906ba4889eb2d95b",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/rrt/lib/RecipientRewriteTableUtil.java",
+ "prod_time": {
+  "$date": 1524064174000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/data/data-library/src/test/java/org/apache/james/rrt/lib/RecipientRewriteTableUtilTest.java",
+ "test_qual": "org/apache/james/rrt/lib/RecipientRewriteTableUtilTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 10,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 10,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/tier/sockets/command/RegisterInterestList61.java",
+ "prod_sha1": "14bfde0bf0d174fea30a86b3bde4d479f2e1b2eb",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/tier/sockets/command/RegisterInterestList61.java",
+ "prod_time": {
+  "$date": 1544653603000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/tier/sockets/command/RegisterInterestList61Test.java",
+ "test_qual": "org/apache/geode/internal/cache/tier/sockets/command/RegisterInterestList61Test.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

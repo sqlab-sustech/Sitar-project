@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-java/src/main/java/net/sourceforge/pmd/lang/java/dfa/StatementAndBraceFinder.java",
+ "prod_sha1": "5f35ded04bae4c4a4446f78b7a6288f8dfa0472c",
+ "repository": "pmd",
+ "prod_qual": "dfa/StatementAndBraceFinder.java",
+ "prod_time": {
+  "$date": 1416134322000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-java/src/test/java/net/sourceforge/pmd/lang/java/dfa/StatementAndBraceFinderTest.java",
+ "test_qual": "dfa/StatementAndBraceFinderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 58,
+ "add_classname_line": 0,
+ "add_condition_line": 29,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 18,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

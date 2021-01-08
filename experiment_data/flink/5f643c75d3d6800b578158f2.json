@@ -1,0 +1,32 @@
+{
+ "prod_path": "pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/resettable/SpillingResettableIterator.java",
+ "prod_sha1": "cb87bb494a6991733462afbd73454798a3e34e13",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/pact/runtime/resettable/SpillingResettableIterator.java",
+ "prod_time": {
+  "$date": 1301325254000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pact/pact-runtime/src/test/java/eu/stratosphere/pact/runtime/resettable/SpillingResettableIteratorTest.java",
+ "test_qual": "eu/stratosphere/pact/runtime/resettable/SpillingResettableIteratorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

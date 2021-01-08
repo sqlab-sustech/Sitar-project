@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/xbill/DNS/NAPTRRecord.java",
+ "prod_sha1": "146a359ca61aff947afab1ed9e56057320d770c5",
+ "repository": "dnsjava",
+ "prod_qual": "org/xbill/DNS/NAPTRRecord.java",
+ "prod_time": {
+  "$date": 1585225423000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/xbill/DNS/NAPTRRecordTest.java",
+ "test_qual": "org/xbill/DNS/NAPTRRecordTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

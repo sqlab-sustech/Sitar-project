@@ -1,0 +1,37 @@
+{
+ "prod_path": "examples/storm-loadgen/src/main/java/org/apache/storm/loadgen/LoadMetricsServer.java",
+ "prod_sha1": "6c2dcbedabb88970697f42b6f66bf64177e2ac9c",
+ "repository": "storm",
+ "test_path": "examples/storm-loadgen/src/test/java/org/apache/storm/loadgen/LoadMetricsServerTest.java",
+ "test_sha1": "6c2dcbedabb88970697f42b6f66bf64177e2ac9c",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/loadgen/LoadMetricsServer.java",
+ "prod_time": {
+  "$date": 1503344170000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/loadgen/LoadMetricsServerTest.java",
+ "test_time": {
+  "$date": 1503344170000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 11,
+ "add_call_line": 238,
+ "add_classname_line": 7,
+ "add_condition_line": 59,
+ "add_field_line": 42,
+ "add_import_line": 34,
+ "add_packageid_line": 1,
+ "add_parameter_line": 54,
+ "add_return_line": 28,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-client/src/jvm/org/apache/storm/transactional/state/TransactionalState.java",
+ "prod_sha1": "31624a2d2f9ed2df0fd37ee871e45e321735d27c",
+ "repository": "storm",
+ "test_path": "storm-client/src/jvm/org/apache/storm/transactional/state/TestTransactionalState.java",
+ "test_sha1": "31624a2d2f9ed2df0fd37ee871e45e321735d27c",
+ "commit_between": 0,
+ "prod_qual": "jvm/org/apache/storm/transactional/state/TransactionalState.java",
+ "prod_time": {
+  "$date": 1532975071000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/org/apache/storm/transactional/state/TestTransactionalState.java",
+ "test_time": {
+  "$date": 1532975071000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 36,
+ "del_classname_line": 1,
+ "del_condition_line": 8,
+ "del_field_line": 5,
+ "del_import_line": 19,
+ "del_packageid_line": 1,
+ "del_parameter_line": 14,
+ "del_return_line": 9
+}

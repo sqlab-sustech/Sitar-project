@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/memory/src/main/java/org/apache/james/mailbox/inmemory/JsoupTextExtractor.java",
+ "prod_sha1": "bc9802c80554a55b7bc160273a45a405199e4e1a",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/inmemory/JsoupTextExtractor.java",
+ "prod_time": {
+  "$date": 1531207507000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/memory/src/test/java/org/apache/james/mailbox/inmemory/JsoupTextExtractorTest.java",
+ "test_qual": "org/apache/james/mailbox/inmemory/JsoupTextExtractorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

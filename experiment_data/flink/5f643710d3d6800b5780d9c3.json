@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/TempTask.java",
+ "prod_sha1": "084b005bc0b46f532a676f97fc5ac43e83786a49",
+ "repository": "flink",
+ "test_path": "pact/pact-runtime/src/test/java/eu/stratosphere/pact/runtime/task/TempTaskTest.java",
+ "test_sha1": "084b005bc0b46f532a676f97fc5ac43e83786a49",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/pact/runtime/task/TempTask.java",
+ "prod_time": {
+  "$date": 1298628375000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/pact/runtime/task/TempTaskTest.java",
+ "test_time": {
+  "$date": 1298628375000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

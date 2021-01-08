@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/DSNBounce.java",
+ "prod_sha1": "00575b954c99ee671b07485685f8499b12c751a5",
+ "repository": "james-project",
+ "test_path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/DSNBounceTest.java",
+ "test_sha1": "8f962b5757ecb515d8fcd3011c548d773237adfa",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/transport/mailets/DSNBounce.java",
+ "prod_time": {
+  "$date": 1522298859000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/transport/mailets/DSNBounceTest.java",
+ "test_time": {
+  "$date": 1522299073000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

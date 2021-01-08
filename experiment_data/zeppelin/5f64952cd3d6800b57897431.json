@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/com/nflabs/zeppelin/notebook/Notebook.java",
+ "prod_sha1": "7cb12d0129196506ed516a8230250b9666fa3da5",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-zengine/src/test/java/com/nflabs/zeppelin/notebook/NotebookTest.java",
+ "test_sha1": "f5d9fad8e5ff1af364b3d530a1b3f569bd61551c",
+ "commit_between": 1,
+ "prod_qual": "com/nflabs/zeppelin/notebook/Notebook.java",
+ "prod_time": {
+  "$date": 1419807951000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "com/nflabs/zeppelin/notebook/NotebookTest.java",
+ "test_time": {
+  "$date": 1419813268000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

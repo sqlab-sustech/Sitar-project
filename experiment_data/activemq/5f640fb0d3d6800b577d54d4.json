@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-client/src/main/java/org/apache/activemq/command/ActiveMQMapMessage.java",
+ "prod_sha1": "543935b6e9de37e5df22fa405b4c6a8b04abe003",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/command/ActiveMQMapMessage.java",
+ "prod_time": {
+  "$date": 1353101784000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/command/ActiveMQMapMessageTest.java",
+ "test_qual": "org/apache/activemq/command/ActiveMQMapMessageTest.java",
+ "add_annotation_line": 32,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 9,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

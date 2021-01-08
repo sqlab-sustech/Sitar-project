@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/ConfigurePDXCommand.java",
+ "prod_sha1": "bafab6bb72938f714961c524e3e2800f4a26f827",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/commands/ConfigurePDXCommandTest.java",
+ "test_sha1": "bafab6bb72938f714961c524e3e2800f4a26f827",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/management/internal/cli/commands/ConfigurePDXCommand.java",
+ "prod_time": {
+  "$date": 1520433559000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/management/internal/cli/commands/ConfigurePDXCommandTest.java",
+ "test_time": {
+  "$date": 1520433559000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 17,
+ "add_classname_line": 1,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 10,
+ "del_classname_line": 1,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

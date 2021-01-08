@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/CombineTask.java",
+ "prod_sha1": "c8e1ba93c14dde92c1dafa568f51a4c8c6745877",
+ "repository": "flink",
+ "test_path": "pact/pact-runtime/src/test/java/eu/stratosphere/pact/runtime/task/CombineTaskTest.java",
+ "test_sha1": "c8e1ba93c14dde92c1dafa568f51a4c8c6745877",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/pact/runtime/task/CombineTask.java",
+ "prod_time": {
+  "$date": 1300210536000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/pact/runtime/task/CombineTaskTest.java",
+ "test_time": {
+  "$date": 1300210536000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

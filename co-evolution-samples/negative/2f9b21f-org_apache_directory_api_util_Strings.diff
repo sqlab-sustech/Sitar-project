@@ -1,0 +1,21 @@
+diff --git a/util/src/main/java/org/apache/directory/api/util/Strings.java b/util/src/main/java/org/apache/directory/api/util/Strings.java
+index 4ad7ebee8..36fc94859 100644
+--- a/util/src/main/java/org/apache/directory/api/util/Strings.java
++++ b/util/src/main/java/org/apache/directory/api/util/Strings.java
+@@ -1643,13 +1643,12 @@ public final class Strings
+ 
+         try
+         {
+-            char[] chars = string.toCharArray();
+-            byte[] bytes = new byte[chars.length];
++            byte[] bytes = new byte[string.length()];
+             int pos = 0;
+ 
+-            for ( char c : chars )
++            for ( int i = 0; i < string.length(); i++ )
+             {
+-                bytes[pos++] = UTF8[c];
++                bytes[pos++] = UTF8[string.charAt( i )];
+             }
+ 
+             return bytes;

@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/strings/UselessStringValueOf.java",
+ "prod_sha1": "b90fba96624be973f8900addf610afdd9d43b1b3",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/strings/UselessStringValueOf.java",
+ "prod_time": {
+  "$date": 1161562678000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/strings/UselessStringValueOfTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/strings/UselessStringValueOfTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

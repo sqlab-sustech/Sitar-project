@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-core/src/main/java/org/biojava/nbio/core/alignment/SimpleSequencePair.java",
+ "prod_sha1": "8a9927c95be21328f700469252a648574d08de32",
+ "repository": "biojava",
+ "test_path": "biojava-core/src/test/java/org/biojava/nbio/core/alignment/SimpleSequencePairTest.java",
+ "test_sha1": "c8b1d07ef73007bb5c89662f1d13d91bfdaa2f3d",
+ "commit_between": 1,
+ "prod_qual": "org/biojava/nbio/core/alignment/SimpleSequencePair.java",
+ "prod_time": {
+  "$date": 1466778074000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/core/alignment/SimpleSequencePairTest.java",
+ "test_time": {
+  "$date": 1466778110000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/cpd/XMLRenderer.java",
+ "prod_sha1": "e1dd4f4e9b6c51af9f80b0f22744d93c0d66efbd",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/cpd/XMLRendererTest.java",
+ "test_sha1": "e1dd4f4e9b6c51af9f80b0f22744d93c0d66efbd",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/cpd/XMLRenderer.java",
+ "prod_time": {
+  "$date": 1050523498000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/cpd/XMLRendererTest.java",
+ "test_time": {
+  "$date": 1050523498000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 25,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

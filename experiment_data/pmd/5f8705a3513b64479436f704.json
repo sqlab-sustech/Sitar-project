@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-java/src/main/java/net/sourceforge/pmd/lang/java/ast/ASTInitializer.java",
+ "prod_sha1": "511c7778c5bc2e8718e7cd3c7fec85937a493315",
+ "repository": "pmd",
+ "prod_qual": "ast/ASTInitializer.java",
+ "prod_time": {
+  "$date": 1463344886000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-java/src/test/java/net/sourceforge/pmd/lang/java/ast/ASTInitializerTest.java",
+ "test_qual": "ast/ASTInitializerTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

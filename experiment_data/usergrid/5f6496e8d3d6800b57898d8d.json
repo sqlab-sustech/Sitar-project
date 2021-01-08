@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/model/src/main/java/org/apache/usergrid/persistence/model/util/UUIDGenerator.java",
+ "prod_sha1": "572d3390bc71ff5b2ae3fe89bfddc29c09fe1e80",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/model/src/test/java/org/apache/usergrid/persistence/model/util/UUIDGeneratorTest.java",
+ "test_sha1": "572d3390bc71ff5b2ae3fe89bfddc29c09fe1e80",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/model/util/UUIDGenerator.java",
+ "prod_time": {
+  "$date": 1397504507000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/model/util/UUIDGeneratorTest.java",
+ "test_time": {
+  "$date": 1397504507000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 5,
+ "add_call_line": 16,
+ "add_classname_line": 2,
+ "add_condition_line": 2,
+ "add_field_line": 19,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 12,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 9,
+ "del_classname_line": 1,
+ "del_condition_line": 1,
+ "del_field_line": 11,
+ "del_import_line": 11,
+ "del_packageid_line": 1,
+ "del_parameter_line": 3,
+ "del_return_line": 4
+}

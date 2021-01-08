@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/jsoup/parser/HtmlTreeBuilderState.java",
+ "prod_sha1": "9675a92b41593244d6d3ecd99425aeb19e2a6219",
+ "repository": "jsoup",
+ "prod_qual": "org/jsoup/parser/HtmlTreeBuilderState.java",
+ "prod_time": {
+  "$date": 1583021416000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/jsoup/parser/HtmlTreeBuilderStateTest.java",
+ "test_qual": "org/jsoup/parser/HtmlTreeBuilderStateTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 6,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

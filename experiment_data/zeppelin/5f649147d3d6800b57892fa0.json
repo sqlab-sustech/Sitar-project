@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-interpreter/src/main/java/com/nflabs/zeppelin/scheduler/FIFOScheduler.java",
+ "prod_sha1": "7d3f55defd3acce5c3d98a3366766d78e908aaec",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-interpreter/src/test/java/com/nflabs/zeppelin/scheduler/FIFOSchedulerTest.java",
+ "test_sha1": "7d3f55defd3acce5c3d98a3366766d78e908aaec",
+ "commit_between": 0,
+ "prod_qual": "com/nflabs/zeppelin/scheduler/FIFOScheduler.java",
+ "prod_time": {
+  "$date": 1426054109000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/nflabs/zeppelin/scheduler/FIFOSchedulerTest.java",
+ "test_time": {
+  "$date": 1426054109000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 7,
+ "add_call_line": 22,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

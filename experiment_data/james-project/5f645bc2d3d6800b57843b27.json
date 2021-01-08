@@ -1,0 +1,32 @@
+{
+ "prod_path": "protocols/imap/src/main/java/org/apache/james/imap/processor/GetAnnotationProcessor.java",
+ "prod_sha1": "a93201e6b6566c0ddbf42eeb9401900c66a04edd",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/imap/processor/GetAnnotationProcessor.java",
+ "prod_time": {
+  "$date": 1503652590000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "protocols/imap/src/test/java/org/apache/james/imap/processor/GetAnnotationProcessorTest.java",
+ "test_qual": "org/apache/james/imap/processor/GetAnnotationProcessorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

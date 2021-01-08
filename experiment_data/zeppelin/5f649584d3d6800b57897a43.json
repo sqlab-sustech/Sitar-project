@@ -1,0 +1,32 @@
+{
+ "prod_path": "spark/src/main/java/com/nflabs/zeppelin/spark/SparkInterpreter.java",
+ "prod_sha1": "af85231957a5320a45ca45a402cbba0a5c567eab",
+ "repository": "zeppelin",
+ "prod_qual": "com/nflabs/zeppelin/spark/SparkInterpreter.java",
+ "prod_time": {
+  "$date": 1416465539000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "spark/src/test/java/com/nflabs/zeppelin/spark/SparkInterpreterTest.java",
+ "test_qual": "com/nflabs/zeppelin/spark/SparkInterpreterTest.java",
+ "add_annotation_line": 4,
+ "add_call_line": 138,
+ "add_classname_line": 0,
+ "add_condition_line": 49,
+ "add_field_line": 14,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 27,
+ "add_return_line": 36,
+ "del_annotation_line": 1,
+ "del_call_line": 133,
+ "del_classname_line": 1,
+ "del_condition_line": 49,
+ "del_field_line": 14,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 23,
+ "del_return_line": 32,
+ "test_typ": "Non"
+}

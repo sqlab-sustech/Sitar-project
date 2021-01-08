@@ -1,0 +1,13 @@
+diff --git a/external/flux/flux-core/src/main/java/org/apache/storm/flux/FluxBuilder.java b/external/flux/flux-core/src/main/java/org/apache/storm/flux/FluxBuilder.java
+index e0d848346..9f15e6beb 100644
+--- a/external/flux/flux-core/src/main/java/org/apache/storm/flux/FluxBuilder.java
++++ b/external/flux/flux-core/src/main/java/org/apache/storm/flux/FluxBuilder.java
+@@ -58,7 +58,7 @@ public class FluxBuilder {
+      * @throws NoSuchMethodException
+      * @throws InvocationTargetException
+      */
+-    static StormTopology buildTopology(ExecutionContext context) throws IllegalAccessException,
++    public static StormTopology buildTopology(ExecutionContext context) throws IllegalAccessException,
+             InstantiationException, ClassNotFoundException, NoSuchMethodException, InvocationTargetException {
+ 
+         StormTopology topology = null;

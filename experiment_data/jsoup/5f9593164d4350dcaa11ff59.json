@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/jsoup/parser/Tokeniser.java",
+ "prod_sha1": "696461b3288ad792ae41d057693a07b7e01d0635",
+ "repository": "jsoup",
+ "prod_qual": "org/jsoup/parser/Tokeniser.java",
+ "prod_time": {
+  "$date": 1582484243000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/jsoup/parser/TokeniserTest.java",
+ "test_qual": "org/jsoup/parser/TokeniserTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

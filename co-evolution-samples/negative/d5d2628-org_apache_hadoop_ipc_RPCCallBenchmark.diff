@@ -1,0 +1,23 @@
+diff --git a/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/RPCCallBenchmark.java b/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/RPCCallBenchmark.java
+index 5fe23021398..21aa44a7c99 100644
+--- a/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/RPCCallBenchmark.java
++++ b/hadoop-common-project/hadoop-common/src/test/java/org/apache/hadoop/ipc/RPCCallBenchmark.java
+@@ -227,11 +227,14 @@ private Server startServer(MyOptions opts) throws IOException {
+       BlockingService service = TestProtobufRpcProto
+           .newReflectiveBlockingService(serverImpl);
+ 
+-      server = RPC.getServer(TestRpcService.class, service,
+-          opts.host, opts.port, opts.serverThreads, false, conf, null);
++      server = new RPC.Builder(conf).setProtocol(TestRpcService.class)
++          .setInstance(service).setBindAddress(opts.host).setPort(opts.port)
++          .setNumHandlers(opts.serverThreads).setVerbose(false).build();
+     } else if (opts.rpcEngine == WritableRpcEngine.class) {
+-      server = RPC.getServer(TestProtocol.class, new TestRPC.TestImpl(),
+-          opts.host, opts.port, opts.serverThreads, false, conf, null);
++      server = new RPC.Builder(conf).setProtocol(TestProtocol.class)
++          .setInstance(new TestRPC.TestImpl()).setBindAddress(opts.host)
++          .setPort(opts.port).setNumHandlers(opts.serverThreads)
++          .setVerbose(false).build();
+     } else {
+       throw new RuntimeException("Bad engine: " + opts.rpcEngine);
+     }

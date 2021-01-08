@@ -1,0 +1,32 @@
+{
+ "prod_path": "core/src/main/java/org/biojavax/bio/seq/io/GenbankFormat.java",
+ "prod_sha1": "ba496d976b092c8f53151d56e1e300a0bf7ca926",
+ "repository": "biojava",
+ "prod_qual": "org/biojavax/bio/seq/io/GenbankFormat.java",
+ "prod_time": {
+  "$date": 1260832384000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "core/src/test/java/org/biojavax/bio/seq/io/GenbankFormatTest.java",
+ "test_qual": "org/biojavax/bio/seq/io/GenbankFormatTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

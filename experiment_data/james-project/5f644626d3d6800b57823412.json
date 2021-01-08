@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-jmap/src/main/java/org/apache/james/jmap/memory/vacation/MemoryNotificationRegistry.java",
+ "prod_sha1": "caebbc02b4c7b31e55e3a3a0d3871c9c168946d4",
+ "repository": "james-project",
+ "test_path": "server/data/data-jmap/src/test/java/org/apache/james/jmap/memory/vacation/MemoryNotificationRegistryTest.java",
+ "test_sha1": "caebbc02b4c7b31e55e3a3a0d3871c9c168946d4",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/jmap/memory/vacation/MemoryNotificationRegistry.java",
+ "prod_time": {
+  "$date": 1463986932000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/jmap/memory/vacation/MemoryNotificationRegistryTest.java",
+ "test_time": {
+  "$date": 1463986932000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 4,
+ "add_call_line": 15,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 4,
+ "add_import_line": 11,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 13,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

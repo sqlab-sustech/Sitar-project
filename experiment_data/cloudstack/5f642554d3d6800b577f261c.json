@@ -1,0 +1,32 @@
+{
+ "prod_path": "plugins/network-elements/juniper-contrail/src/org/apache/cloudstack/network/contrail/model/VirtualNetworkModel.java",
+ "prod_sha1": "cc2b1c4961244d9c3d8b452f1dcaa6614e56d11a",
+ "repository": "cloudstack",
+ "prod_qual": "org/apache/cloudstack/network/contrail/model/VirtualNetworkModel.java",
+ "prod_time": {
+  "$date": 1388966021000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "plugins/network-elements/juniper-contrail/test/org/apache/cloudstack/network/contrail/model/VirtualNetworkModelTest.java",
+ "test_qual": "org/apache/cloudstack/network/contrail/model/VirtualNetworkModelTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 25,
+ "add_classname_line": 0,
+ "add_condition_line": 18,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

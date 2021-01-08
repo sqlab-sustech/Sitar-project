@@ -1,0 +1,1 @@
+myfaces-extcdi CC 6127514af6549b7fe9be219de3f7c4e31ec3bfba 945dc255601e59d4e68cfadbce556f3dcdeadf58 core/api/src/main/java/org/apache/myfaces/extensions/cdi/core/api/provider/BeanManagerHolder.java core/api/src/main/java/org/apache/myfaces/extensions/cdi/core/api/provider/TestBeanManagerHolder.java

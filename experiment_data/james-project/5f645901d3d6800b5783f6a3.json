@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/data/data-jpa/src/main/java/org/apache/james/domainlist/jpa/JPADomainList.java",
+ "prod_sha1": "56acfd067a5600c3403bbe8a14cbd91b945ba71a",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/domainlist/jpa/JPADomainList.java",
+ "prod_time": {
+  "$date": 1479462802000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/data/data-jpa/src/test/java/org/apache/james/domainlist/jpa/JPADomainListTest.java",
+ "test_qual": "org/apache/james/domainlist/jpa/JPADomainListTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

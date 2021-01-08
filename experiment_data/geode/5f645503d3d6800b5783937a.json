@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/BucketAdvisor.java",
+ "prod_sha1": "cd7cf9f28422bce7705503cecbedcb5126fbd21b",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/BucketAdvisor.java",
+ "prod_time": {
+  "$date": 1554924796000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/BucketAdvisorTest.java",
+ "test_qual": "org/apache/geode/internal/cache/BucketAdvisorTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 144,
+ "add_classname_line": 0,
+ "add_condition_line": 28,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 33,
+ "add_return_line": 75,
+ "del_annotation_line": 4,
+ "del_call_line": 70,
+ "del_classname_line": 0,
+ "del_condition_line": 32,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 23,
+ "del_return_line": 29,
+ "test_typ": "Non"
+}

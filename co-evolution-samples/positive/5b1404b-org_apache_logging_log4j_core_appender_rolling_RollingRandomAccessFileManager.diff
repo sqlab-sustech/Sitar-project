@@ -1,0 +1,24 @@
+diff --git a/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/RollingRandomAccessFileManager.java b/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/RollingRandomAccessFileManager.java
+index b732febd2..56a1b4724 100644
+--- a/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/RollingRandomAccessFileManager.java
++++ b/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/RollingRandomAccessFileManager.java
+@@ -94,8 +94,8 @@ public class RollingRandomAccessFileManager extends RollingFileManager {
+     }
+ 
+     @Override
+-    protected synchronized void write(final byte[] bytes, int offset, int length) {
+-        super.write(bytes, offset, length); // writes to dummy output stream, needed to track file size
++    protected synchronized void write(final byte[] bytes, int offset, int length, final boolean immediateFlush) {
++        super.write(bytes, offset, length, immediateFlush); // writes to dummy output stream, needed to track file size
+ 
+         int chunk = 0;
+         do {
+@@ -108,7 +108,7 @@ public class RollingRandomAccessFileManager extends RollingFileManager {
+             length -= chunk;
+         } while (length > 0);
+ 
+-        if (isImmediateFlush || isEndOfBatch.get() == Boolean.TRUE) {
++        if (immediateFlush || isImmediateFlush || isEndOfBatch.get() == Boolean.TRUE) {
+             flush();
+         }
+     }

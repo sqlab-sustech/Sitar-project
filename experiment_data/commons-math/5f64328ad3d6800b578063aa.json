@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/analysis/BinaryFunction.java",
+ "prod_sha1": "b1676aecb4e9980d35797c5ef18f7b0582ae25fb",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/analysis/BinaryFunction.java",
+ "prod_time": {
+  "$date": 1290461389000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/analysis/BinaryFunctionTest.java",
+ "test_qual": "org/apache/commons/math/analysis/BinaryFunctionTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 12,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 9,
+ "del_annotation_line": 2,
+ "del_call_line": 4,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 8,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 5,
+ "test_typ": "Non"
+}

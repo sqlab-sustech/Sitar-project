@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/symboltable/SymbolFacade.java",
+ "prod_sha1": "c034f3536adbded3827febd175099fdaf4ed5a06",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/symboltable/SymbolFacade.java",
+ "prod_time": {
+  "$date": 1034202883000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/symboltable/SymbolFacadeTest.java",
+ "test_qual": "net/sourceforge/pmd/symboltable/SymbolFacadeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 32,
+ "add_classname_line": 2,
+ "add_condition_line": 6,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 12,
+ "add_return_line": 10,
+ "del_annotation_line": 0,
+ "del_call_line": 17,
+ "del_classname_line": 2,
+ "del_condition_line": 1,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 9,
+ "del_return_line": 8,
+ "test_typ": "Non"
+}

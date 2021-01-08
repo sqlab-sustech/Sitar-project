@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-core/src/jvm/backtype/storm/utils/DisruptorQueue.java",
+ "prod_sha1": "e75219b5a4856c39c4031c3d6205105e034d10af",
+ "repository": "storm",
+ "prod_qual": "jvm/backtype/storm/utils/DisruptorQueue.java",
+ "prod_time": {
+  "$date": 1445528884000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-core/test/jvm/backtype/storm/utils/DisruptorQueueTest.java",
+ "test_qual": "jvm/backtype/storm/utils/DisruptorQueueTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

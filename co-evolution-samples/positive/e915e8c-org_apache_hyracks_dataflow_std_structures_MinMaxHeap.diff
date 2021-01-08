@@ -1,0 +1,13 @@
+diff --git a/hyracks/hyracks-dataflow-std/src/main/java/org/apache/hyracks/dataflow/std/structures/MinMaxHeap.java b/hyracks/hyracks-dataflow-std/src/main/java/org/apache/hyracks/dataflow/std/structures/MinMaxHeap.java
+index e9782e250..8a21d9124 100644
+--- a/hyracks/hyracks-dataflow-std/src/main/java/org/apache/hyracks/dataflow/std/structures/MinMaxHeap.java
++++ b/hyracks/hyracks-dataflow-std/src/main/java/org/apache/hyracks/dataflow/std/structures/MinMaxHeap.java
+@@ -13,7 +13,7 @@
+  *  limitations under the License.
+  */
+ 
+-package edu.uci.ics.hyracks.dataflow.std.structures;
++package org.apache.hyracks.dataflow.std.structures;
+ 
+ public class MinMaxHeap extends AbstractHeap implements IMinMaxHeap<IResetableComparable> {
+ 

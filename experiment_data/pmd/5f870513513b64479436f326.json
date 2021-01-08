@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/ast/SimpleNode.java",
+ "prod_sha1": "8eef49beb20d88ab8943e93c29a63eff2f7c1e7c",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/ast/SimpleNode.java",
+ "prod_time": {
+  "$date": 1206850199000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/ast/SimpleNodeTest.java",
+ "test_qual": "net/sourceforge/pmd/ast/SimpleNodeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

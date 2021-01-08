@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/protocols/jmap/src/main/java/org/apache/james/jmap/model/ContinuationToken.java",
+ "prod_sha1": "f4b4b55e20ad71fe69094dbf36272e416ac6af2b",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/jmap/model/ContinuationToken.java",
+ "prod_time": {
+  "$date": 1449828444000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/protocols/jmap/src/test/java/org/apache/james/jmap/model/ContinuationTokenTest.java",
+ "test_qual": "org/apache/james/jmap/model/ContinuationTokenTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 8,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 3,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 10,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 7,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 6,
+ "test_typ": "Non"
+}

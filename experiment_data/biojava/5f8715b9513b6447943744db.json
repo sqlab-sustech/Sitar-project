@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/io/cif/CifFileSupplierImpl.java",
+ "prod_sha1": "6ddc053b8ba9c31a31bc59d3cc08537b4c2f3e1c",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/io/cif/CifFileSupplierImplTest.java",
+ "test_sha1": "6ddc053b8ba9c31a31bc59d3cc08537b4c2f3e1c",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/io/cif/CifFileSupplierImpl.java",
+ "prod_time": {
+  "$date": 1556565330000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/io/cif/CifFileSupplierImplTest.java",
+ "test_time": {
+  "$date": 1556565330000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 58,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 20,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 22,
+ "del_annotation_line": 0,
+ "del_call_line": 48,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 18,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 23
+}

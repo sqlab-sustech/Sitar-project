@@ -1,0 +1,16 @@
+diff --git a/archetype-plugin/src/main/java/org/apache/maven/archetype/ui/DefaultArchetypeGenerationConfigurator.java b/archetype-plugin/src/main/java/org/apache/maven/archetype/ui/DefaultArchetypeGenerationConfigurator.java
+index 50537541..5f8ca657 100644
+--- a/archetype-plugin/src/main/java/org/apache/maven/archetype/ui/DefaultArchetypeGenerationConfigurator.java
++++ b/archetype-plugin/src/main/java/org/apache/maven/archetype/ui/DefaultArchetypeGenerationConfigurator.java
+@@ -122,6 +122,11 @@ implements ArchetypeGenerationConfigurator
+                     ad.getArtifactId() + "-repo" );
+             repositories.add( archetypeRepository );
+         }
++        if( request.getRemoteArtifactRepositories() != null )
++        {
++            repositories.addAll( request.getRemoteArtifactRepositories() );
++        }
++
+         if( !archetypeArtifactManager.exists( ad.getGroupId(), ad.getArtifactId(), ad.getVersion(), archetypeRepository,
+                 localRepository, repositories ) )
+         {

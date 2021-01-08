@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-core/src/main/java/org/biojava3/core/sequence/io/GenbankReader.java",
+ "prod_sha1": "d92df43b0a9c2b8b27ba9654e6d29d38a31b6071",
+ "repository": "biojava",
+ "prod_qual": "org/biojava3/core/sequence/io/GenbankReader.java",
+ "prod_time": {
+  "$date": 1420459084000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-core/src/test/java/org/biojava3/core/sequence/io/GenbankReaderTest.java",
+ "test_qual": "org/biojava3/core/sequence/io/GenbankReaderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+diff --git a/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java b/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java
+index 73603ab679..e1e427f63f 100644
+--- a/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java
++++ b/ql/src/java/org/apache/hadoop/hive/ql/parse/SemanticAnalyzer.java
+@@ -86,6 +86,7 @@
+ import org.apache.hadoop.hive.ql.io.HiveOutputFormat;
+ import org.apache.hadoop.hive.ql.io.NullRowsInputFormat;
+ import org.apache.hadoop.hive.ql.io.RCFileInputFormat;
++import org.apache.hadoop.hive.ql.io.orc.OrcInputFormat;
+ import org.apache.hadoop.hive.ql.lib.DefaultGraphWalker;
+ import org.apache.hadoop.hive.ql.lib.Dispatcher;
+ import org.apache.hadoop.hive.ql.lib.GraphWalker;
+@@ -1311,6 +1312,7 @@ public void getMetaData(QB qb, ReadEntity parentInput) throws SemanticException
+             Class<? extends InputFormat> inputFormatClass = null;
+             switch (ts.specType) {
+             case TABLE_ONLY:
++            case DYNAMIC_PARTITION:
+               inputFormatClass = ts.tableHandle.getInputFormatClass();
+               break;
+             case STATIC_PARTITION:
+@@ -1319,8 +1321,9 @@ public void getMetaData(QB qb, ReadEntity parentInput) throws SemanticException
+             default:
+               assert false;
+             }
+-            // throw a HiveException for non-rcfile.
+-            if (!inputFormatClass.equals(RCFileInputFormat.class)) {
++            // throw a HiveException for formats other than rcfile or orcfile.
++            if (!(inputFormatClass.equals(RCFileInputFormat.class) || inputFormatClass
++                .equals(OrcInputFormat.class))) {
+               throw new SemanticException(ErrorMsg.ANALYZE_TABLE_PARTIALSCAN_NON_RCFILE.getMsg());
+             }
+           }

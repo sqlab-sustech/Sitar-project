@@ -1,0 +1,37 @@
+{
+ "prod_path": "cassandra/src/main/java/org/apache/zeppelin/cassandra/CassandraInterpreter.java",
+ "prod_sha1": "8bb888b494b9f611a4e5d81bd8451626eadd7e12",
+ "repository": "zeppelin",
+ "test_path": "cassandra/src/test/java/org/apache/zeppelin/cassandra/CassandraInterpreterTest.java",
+ "test_sha1": "8bb888b494b9f611a4e5d81bd8451626eadd7e12",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/cassandra/CassandraInterpreter.java",
+ "prod_time": {
+  "$date": 1518260720000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/cassandra/CassandraInterpreterTest.java",
+ "test_time": {
+  "$date": 1518260720000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 8,
+ "add_import_line": 13,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 8,
+ "del_import_line": 12,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

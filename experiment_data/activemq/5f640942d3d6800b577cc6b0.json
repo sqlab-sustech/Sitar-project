@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/activemq/selector/SelectorParser.java",
+ "prod_sha1": "d29ca2a71b7fd281c15f7d05e135c196d2b2488c",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/activemq/selector/SelectorParserTest.java",
+ "test_sha1": "d29ca2a71b7fd281c15f7d05e135c196d2b2488c",
+ "commit_between": 0,
+ "prod_qual": "org/activemq/selector/SelectorParser.java",
+ "prod_time": {
+  "$date": 1135790642000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/activemq/selector/SelectorParserTest.java",
+ "test_time": {
+  "$date": 1135790642000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 331,
+ "del_classname_line": 2,
+ "del_condition_line": 193,
+ "del_field_line": 9,
+ "del_import_line": 4,
+ "del_packageid_line": 1,
+ "del_parameter_line": 94,
+ "del_return_line": 199
+}

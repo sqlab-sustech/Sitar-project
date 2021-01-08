@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/rest/src/main/java/org/usergrid/rest/management/organizations/OrganizationsResource.java",
+ "prod_sha1": "dbf8749f4e55930a9436afd181d3f000eea632ab",
+ "repository": "usergrid",
+ "test_path": "stack/rest/src/test/java/org/usergrid/rest/management/organizations/OrganizationsResourceTest.java",
+ "test_sha1": "dbf8749f4e55930a9436afd181d3f000eea632ab",
+ "commit_between": 0,
+ "prod_qual": "org/usergrid/rest/management/organizations/OrganizationsResource.java",
+ "prod_time": {
+  "$date": 1343872415000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/usergrid/rest/management/organizations/OrganizationsResourceTest.java",
+ "test_time": {
+  "$date": 1343872415000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 28,
+ "add_call_line": 25,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 23,
+ "add_return_line": 8,
+ "del_annotation_line": 28,
+ "del_call_line": 19,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 23,
+ "del_return_line": 6
+}

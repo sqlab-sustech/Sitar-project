@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/delivery/ToRecipientFolder.java",
+ "prod_sha1": "7d311849fe2a7ab2aa78ce1ce5c7c4864960578d",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/transport/mailets/delivery/ToRecipientFolder.java",
+ "prod_time": {
+  "$date": 1477578980000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/delivery/ToRecipientFolderTest.java",
+ "test_qual": "org/apache/james/transport/mailets/delivery/ToRecipientFolderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 14,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

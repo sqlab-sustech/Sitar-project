@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-api/src/main/java/org/apache/logging/log4j/CloseableThreadContext.java",
+ "prod_sha1": "4566a2b9658ea087e1ea7bd447700081a663d3fc",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-api/src/test/java/org/apache/logging/log4j/CloseableThreadContextTest.java",
+ "test_sha1": "4566a2b9658ea087e1ea7bd447700081a663d3fc",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/CloseableThreadContext.java",
+ "prod_time": {
+  "$date": 1464946817000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/CloseableThreadContextTest.java",
+ "test_time": {
+  "$date": 1464946817000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 16,
+ "add_classname_line": 2,
+ "add_condition_line": 4,
+ "add_field_line": 2,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 11,
+ "add_return_line": 6,
+ "del_annotation_line": 1,
+ "del_call_line": 15,
+ "del_classname_line": 2,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 5
+}

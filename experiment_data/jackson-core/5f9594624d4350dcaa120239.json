@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/io/JsonStringEncoder.java",
+ "prod_sha1": "db4c70466f36ecd1ff66fca182a8c2d5f5f7bc76",
+ "repository": "jackson-core",
+ "prod_qual": "com/fasterxml/jackson/core/io/JsonStringEncoder.java",
+ "prod_time": {
+  "$date": 1387002576000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/io/TestJsonStringEncoder.java",
+ "test_qual": "com/fasterxml/jackson/core/io/TestJsonStringEncoder.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

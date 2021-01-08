@@ -1,0 +1,17 @@
+diff --git a/hbase-client/src/main/java/org/apache/hadoop/hbase/client/AsyncProcess.java b/hbase-client/src/main/java/org/apache/hadoop/hbase/client/AsyncProcess.java
+index 9623b8faef..8b2df053f6 100644
+--- a/hbase-client/src/main/java/org/apache/hadoop/hbase/client/AsyncProcess.java
++++ b/hbase-client/src/main/java/org/apache/hadoop/hbase/client/AsyncProcess.java
+@@ -481,6 +481,12 @@ class AsyncProcess {
+     NonceGenerator ng = this.hConnection.getNonceGenerator();
+     for (Row r : rows) {
+       posInList++;
++      if (r instanceof Put) {
++        Put put = (Put) r;
++        if (put.isEmpty()) {
++          throw new IllegalArgumentException("No columns to insert for #" + (posInList+1)+ " item");
++        }
++      }
+       Action<Row> action = new Action<Row>(r, posInList);
+       setNonce(ng, r, action);
+       actions.add(action);

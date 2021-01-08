@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j2-core/src/main/java/org/apache/logging/log4j/core/config/XMLConfiguration.java",
+ "prod_sha1": "a1886e05b260c8cba5636e33b98f007e83b67c6d",
+ "repository": "logging-log4j2",
+ "test_path": "log4j2-core/src/test/java/org/apache/logging/log4j/core/config/XMLConfigurationTest.java",
+ "test_sha1": "a1886e05b260c8cba5636e33b98f007e83b67c6d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/config/XMLConfiguration.java",
+ "prod_time": {
+  "$date": 1300751226000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/config/XMLConfigurationTest.java",
+ "test_time": {
+  "$date": 1300751226000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

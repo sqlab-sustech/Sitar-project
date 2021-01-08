@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/random/RandomAdaptor.java",
+ "prod_sha1": "ad94c5d1deab8bb0036bea71826fb64f78b02d27",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/random/RandomAdaptorTest.java",
+ "test_sha1": "ad94c5d1deab8bb0036bea71826fb64f78b02d27",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/random/RandomAdaptor.java",
+ "prod_time": {
+  "$date": 1117681605000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/random/RandomAdaptorTest.java",
+ "test_time": {
+  "$date": 1117681605000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 12,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

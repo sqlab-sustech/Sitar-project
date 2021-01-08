@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/data/data-cassandra/src/main/java/org/apache/james/user/cassandra/CassandraUsersRepository.java",
+ "prod_sha1": "366023f4247216c2db15be5863d9b32dccf38cee",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/user/cassandra/CassandraUsersRepository.java",
+ "prod_time": {
+  "$date": 1499236899000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/data/data-cassandra/src/test/java/org/apache/james/user/cassandra/CassandraUsersRepositoryTest.java",
+ "test_qual": "org/apache/james/user/cassandra/CassandraUsersRepositoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 51,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 7,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 16,
+ "del_annotation_line": 2,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 2,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 9,
+ "test_typ": "Non"
+}

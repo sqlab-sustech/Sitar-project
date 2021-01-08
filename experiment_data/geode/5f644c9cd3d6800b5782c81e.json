@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/com/gemstone/gemfire/internal/cache/RemoteOperationMessage.java",
+ "prod_sha1": "ceabe8c4835caa540b1f2d9c4cb1af0a36e53c08",
+ "repository": "geode",
+ "prod_qual": "com/gemstone/gemfire/internal/cache/RemoteOperationMessage.java",
+ "prod_time": {
+  "$date": 1467062620000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/com/gemstone/gemfire/internal/cache/RemoteOperationMessageTest.java",
+ "test_qual": "com/gemstone/gemfire/internal/cache/RemoteOperationMessageTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

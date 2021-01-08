@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-1.2-api/src/main/java/org/apache/log4j/config/Log4j1ConfigurationFactory.java",
+ "prod_sha1": "e0f5ec45099de8cb669c8b8327bcb9f003d3edc0",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/log4j/config/Log4j1ConfigurationFactory.java",
+ "prod_time": {
+  "$date": 1471792203000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-1.2-api/src/test/java/org/apache/log4j/config/Log4j1ConfigurationFactoryTest.java",
+ "test_qual": "org/apache/log4j/config/Log4j1ConfigurationFactoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 3,
+ "del_annotation_line": 1,
+ "del_call_line": 4,
+ "del_classname_line": 1,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 8,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

@@ -1,0 +1,13 @@
+diff --git a/sis-referencing/src/main/java/org/apache/sis/geometry/ImmutableEnvelope.java b/sis-referencing/src/main/java/org/apache/sis/geometry/ImmutableEnvelope.java
+index c1bd24caf..2358b805e 100644
+--- a/sis-referencing/src/main/java/org/apache/sis/geometry/ImmutableEnvelope.java
++++ b/sis-referencing/src/main/java/org/apache/sis/geometry/ImmutableEnvelope.java
+@@ -49,7 +49,7 @@ public final class ImmutableEnvelope extends ArrayEnvelope implements Serializab
+     /**
+      * For cross-version compatibility.
+      */
+-    private static final long serialVersionUID = 5593936512712449234L;
++    private static final long serialVersionUID = 8740224085449107870L;
+ 
+     /**
+      * Constructs an envelope defined by two corners given as direct positions.

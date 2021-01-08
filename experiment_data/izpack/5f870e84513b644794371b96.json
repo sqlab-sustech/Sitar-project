@@ -1,0 +1,37 @@
+{
+ "prod_path": "izpack-installer/src/main/java/com/izforge/izpack/bootstrap/ApplicationComponent.java",
+ "prod_sha1": "7ad81bd909ba8154947db02592d127a76d3aac77",
+ "repository": "izpack",
+ "test_path": "izpack-test/src/test/java/com/izforge/izpack/bootstrap/ApplicationComponentTest.java",
+ "test_sha1": "7ad81bd909ba8154947db02592d127a76d3aac77",
+ "commit_between": 0,
+ "prod_qual": "com/izforge/izpack/bootstrap/ApplicationComponent.java",
+ "prod_time": {
+  "$date": 1259564336000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/izforge/izpack/bootstrap/ApplicationComponentTest.java",
+ "test_time": {
+  "$date": 1259564336000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 11,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 13,
+ "add_packageid_line": 1,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

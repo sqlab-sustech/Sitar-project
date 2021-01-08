@@ -1,0 +1,2 @@
+accumulo-testing CC ac5b271caec45083751efad7298852969bec387e ac5b271caec45083751efad7298852969bec387e core/src/main/java/org/apache/accumulo/testing/core/randomwalk/Framework.java core/src/test/java/org/apache/accumulo/testing/core/randomwalk/FrameworkTest.java
+accumulo-testing EE fc3ddfc4f9a2a259a04d58e87fb97da89a6c5dbc bef8ed20814ee6ab56a2b829c07b56327ecd788a core/src/main/java/org/apache/accumulo/testing/core/randomwalk/Framework.java core/src/test/java/org/apache/accumulo/testing/core/randomwalk/FrameworkTest.java

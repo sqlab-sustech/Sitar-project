@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/network/router/NetworkHelperImpl.java",
+ "prod_sha1": "cd8cadaf9c275d223f9121115a8fbaa40568b6ad",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/network/router/NetworkHelperImpl.java",
+ "prod_time": {
+  "$date": 1408632748000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/network/router/NetworkHelperImplTest.java",
+ "test_qual": "com/cloud/network/router/NetworkHelperImplTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 17,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 1,
+ "del_annotation_line": 1,
+ "del_call_line": 17,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/util/FastMath.java",
+ "prod_sha1": "97e89cdd7acc6f330240e2cf9c9007af4311be4b",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/util/FastMath.java",
+ "prod_time": {
+  "$date": 1295873243000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/util/FastMathTest.java",
+ "test_qual": "org/apache/commons/math/util/FastMathTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 16,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 20,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

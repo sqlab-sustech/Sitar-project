@@ -1,0 +1,13 @@
+diff --git a/tapestry-core/src/main/java/org/apache/tapestry/internal/services/ComponentActionDispatcher.java b/tapestry-core/src/main/java/org/apache/tapestry/internal/services/ComponentActionDispatcher.java
+index 96755504c..5e115203f 100644
+--- a/tapestry-core/src/main/java/org/apache/tapestry/internal/services/ComponentActionDispatcher.java
++++ b/tapestry-core/src/main/java/org/apache/tapestry/internal/services/ComponentActionDispatcher.java
+@@ -136,7 +136,7 @@ public class ComponentActionDispatcher implements Dispatcher
+ 
+         for (int i = 0; i < result.length; i++)
+         {
+-            result[i] = TapestryInternalUtils.urlDecode(result[i]);
++            result[i] = TapestryInternalUtils.unescapePercentAndSlash(result[i]);
+         }
+ 
+         return result;

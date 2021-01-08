@@ -1,0 +1,20 @@
+diff --git a/core/src/main/java/org/apache/mahout/cf/taste/impl/transforms/InverseUserFrequency.java b/core/src/main/java/org/apache/mahout/cf/taste/impl/transforms/InverseUserFrequency.java
+index 20185e7b2..cfbef866f 100644
+--- a/core/src/main/java/org/apache/mahout/cf/taste/impl/transforms/InverseUserFrequency.java
++++ b/core/src/main/java/org/apache/mahout/cf/taste/impl/transforms/InverseUserFrequency.java
+@@ -82,6 +82,7 @@ public final class InverseUserFrequency implements PreferenceTransform {
+     return logBase;
+   }
+ 
++  @Override
+   public double getTransformedValue(Preference pref) {
+     Double factor = iufFactors.get().get(pref.getItem());
+     if (factor != null) {
+@@ -90,6 +91,7 @@ public final class InverseUserFrequency implements PreferenceTransform {
+     return pref.getValue();
+   }
+ 
++  @Override
+   public void refresh(Collection<Refreshable> alreadyRefreshed) {
+     try {
+       recompute();

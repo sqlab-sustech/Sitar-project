@@ -1,0 +1,13 @@
+diff --git a/pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/ReduceTask.java b/pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/ReduceTask.java
+index a44cde061b..3be84378b4 100644
+--- a/pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/ReduceTask.java
++++ b/pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/ReduceTask.java
+@@ -405,7 +405,7 @@ public class ReduceTask extends AbstractTask {
+ 	 * @param out
+ 	 *        The collector to write the results to.
+ 	 */
+-	public final void callStubWithGroups(Iterator<KeyValuePair<Key, Value>> in, Collector<Key, Value> out) {
++	private final void callStubWithGroups(Iterator<KeyValuePair<Key, Value>> in, Collector<Key, Value> out) {
+ 		KeyGroupedIterator<Key, Value> iter = new KeyGroupedIterator<Key, Value>(in);
+ 		while (iter.nextKey()) {
+ 			this.stub.reduce(iter.getKey(), iter.getValues(), out);

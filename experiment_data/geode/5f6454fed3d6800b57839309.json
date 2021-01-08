@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/DistributedRegion.java",
+ "prod_sha1": "1432e3de70bd90cc12fc55375027226fe512de2b",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/DistributedRegion.java",
+ "prod_time": {
+  "$date": 1555026352000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/DistributedRegionTest.java",
+ "test_qual": "org/apache/geode/internal/cache/DistributedRegionTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 237,
+ "add_classname_line": 0,
+ "add_condition_line": 118,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 15,
+ "add_return_line": 26,
+ "del_annotation_line": 15,
+ "del_call_line": 117,
+ "del_classname_line": 0,
+ "del_condition_line": 55,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 1,
+ "del_parameter_line": 24,
+ "del_return_line": 14,
+ "test_typ": "Non"
+}

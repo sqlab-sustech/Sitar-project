@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/json/GfJsonObject.java",
+ "prod_sha1": "6defb1b8e2a663afb5d23124a9a63b5107ab85a2",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/json/GfJsonObjectTest.java",
+ "test_sha1": "6defb1b8e2a663afb5d23124a9a63b5107ab85a2",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/management/internal/cli/json/GfJsonObject.java",
+ "prod_time": {
+  "$date": 1557245064000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/management/internal/cli/json/GfJsonObjectTest.java",
+ "test_time": {
+  "$date": 1557245064000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 4,
+ "del_call_line": 61,
+ "del_classname_line": 1,
+ "del_condition_line": 22,
+ "del_field_line": 20,
+ "del_import_line": 12,
+ "del_packageid_line": 1,
+ "del_parameter_line": 32,
+ "del_return_line": 39
+}

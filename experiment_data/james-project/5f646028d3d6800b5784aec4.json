@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/elasticsearch/src/main/java/org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndex.java",
+ "prod_sha1": "ec9f2a9afdf7818a22c946df5fb1b1df291892c3",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndex.java",
+ "prod_time": {
+  "$date": 1542052352000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/elasticsearch/src/test/java/org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndexTest.java",
+ "test_qual": "org/apache/james/mailbox/elasticsearch/events/ElasticSearchListeningMessageSearchIndexTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

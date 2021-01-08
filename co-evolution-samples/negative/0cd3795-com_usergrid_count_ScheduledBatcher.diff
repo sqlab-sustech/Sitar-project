@@ -1,0 +1,13 @@
+diff --git a/stack/count-batcher/src/main/java/com/usergrid/count/ScheduledBatcher.java b/stack/count-batcher/src/main/java/com/usergrid/count/ScheduledBatcher.java
+index 590b70eb2..ce89f79bb 100644
+--- a/stack/count-batcher/src/main/java/com/usergrid/count/ScheduledBatcher.java
++++ b/stack/count-batcher/src/main/java/com/usergrid/count/ScheduledBatcher.java
+@@ -30,7 +30,7 @@ public class ScheduledBatcher extends AbstractBatcher {
+ 
+     private static final Logger logger = LoggerFactory.getLogger(ScheduledBatcher.class);
+     private int batchInterval;
+-    private volatile long currentMillis;
++    private long currentMillis;
+     private AtomicLong batchSubmissionCount = new AtomicLong();
+ 
+     /**

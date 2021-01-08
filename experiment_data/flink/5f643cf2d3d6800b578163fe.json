@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/function/FunctionRegistry.java",
+ "prod_sha1": "cec094a32a5a8bc84e5fb8847b96b95c0e00cd50",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/sopremo/function/FunctionRegistry.java",
+ "prod_time": {
+  "$date": 1306834964000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/function/FunctionRegistryTest.java",
+ "test_qual": "eu/stratosphere/sopremo/function/FunctionRegistryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

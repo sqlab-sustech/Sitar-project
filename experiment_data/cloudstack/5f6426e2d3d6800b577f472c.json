@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/api/ApiServlet.java",
+ "prod_sha1": "ee57f47e2932ff018b354c2ccc47f9943e6af3eb",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/api/ApiServlet.java",
+ "prod_time": {
+  "$date": 1407821675000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/api/ApiServletTest.java",
+ "test_qual": "com/cloud/api/ApiServletTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 19,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 1,
+ "add_import_line": 21,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 2,
+ "del_call_line": 40,
+ "del_classname_line": 0,
+ "del_condition_line": 9,
+ "del_field_line": 0,
+ "del_import_line": 20,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

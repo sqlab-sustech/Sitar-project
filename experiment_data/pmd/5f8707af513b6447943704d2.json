@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-matlab/src/main/java/net/sourceforge/pmd/cpd/MatlabTokenizer.java",
+ "prod_sha1": "c415fd4779c0f20b6f78919ef74eb6bc351222e2",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/cpd/MatlabTokenizer.java",
+ "prod_time": {
+  "$date": 1543503549000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-matlab/src/test/java/net/sourceforge/pmd/cpd/MatlabTokenizerTest.java",
+ "test_qual": "net/sourceforge/pmd/cpd/MatlabTokenizerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

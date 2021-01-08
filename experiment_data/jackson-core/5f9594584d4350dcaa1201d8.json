@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/json/JsonFactory.java",
+ "prod_sha1": "b62e312677154db3d12c117055eb24b6e9ec7d18",
+ "repository": "jackson-core",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/json/JsonFactoryTest.java",
+ "test_sha1": "75a53c74e59e5ac0925d04547acec335f65f3b58",
+ "commit_between": 3,
+ "prod_qual": "com/fasterxml/jackson/core/json/JsonFactory.java",
+ "prod_time": {
+  "$date": 1566882435000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/fasterxml/jackson/core/json/JsonFactoryTest.java",
+ "test_time": {
+  "$date": 1566957948000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

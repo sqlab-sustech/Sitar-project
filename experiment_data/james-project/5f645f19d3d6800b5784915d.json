@@ -1,0 +1,32 @@
+{
+ "prod_path": "protocols/smtp/src/main/java/org/apache/james/protocols/smtp/hook/HookResult.java",
+ "prod_sha1": "914220b96d69950397a396e0bafcb56ebc0aacc6",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/protocols/smtp/hook/HookResult.java",
+ "prod_time": {
+  "$date": 1524457151000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "protocols/smtp/src/test/java/org/apache/james/protocols/smtp/hook/HookResultTest.java",
+ "test_qual": "org/apache/james/protocols/smtp/hook/HookResultTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 5,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 9,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 8,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

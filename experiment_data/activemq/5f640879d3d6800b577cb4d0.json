@@ -1,0 +1,37 @@
+{
+ "prod_path": "activeio/src/java/org/activeio/oneport/JettyOnePortSocketListener.java",
+ "prod_sha1": "40a7d3b6ac35d2ecb34e85fc3403d2e48e33874e",
+ "repository": "activemq",
+ "test_path": "activeio/src/test/org/activeio/oneport/JettyOnePortSocketListenerTest.java",
+ "test_sha1": "40a7d3b6ac35d2ecb34e85fc3403d2e48e33874e",
+ "commit_between": 0,
+ "prod_qual": "org/activeio/oneport/JettyOnePortSocketListener.java",
+ "prod_time": {
+  "$date": 1134410039000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/activeio/oneport/JettyOnePortSocketListenerTest.java",
+ "test_time": {
+  "$date": 1134410039000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

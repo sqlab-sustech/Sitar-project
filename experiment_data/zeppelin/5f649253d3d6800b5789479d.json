@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/repo/NotebookRepoSync.java",
+ "prod_sha1": "37696ea8bd6a5c3b910f7d24141530f91f80391c",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/repo/NotebookRepoSyncTest.java",
+ "test_sha1": "37696ea8bd6a5c3b910f7d24141530f91f80391c",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/notebook/repo/NotebookRepoSync.java",
+ "prod_time": {
+  "$date": 1470416256000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/notebook/repo/NotebookRepoSyncTest.java",
+ "test_time": {
+  "$date": 1470416256000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

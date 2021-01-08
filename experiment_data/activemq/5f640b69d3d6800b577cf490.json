@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/TransactionContext.java",
+ "prod_sha1": "39d071798a3011a1d52cc26e94d7b9e1fa2e9537",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/TransactionContextTest.java",
+ "test_sha1": "39d071798a3011a1d52cc26e94d7b9e1fa2e9537",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/TransactionContext.java",
+ "prod_time": {
+  "$date": 1265433201000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/TransactionContextTest.java",
+ "test_time": {
+  "$date": 1265433201000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

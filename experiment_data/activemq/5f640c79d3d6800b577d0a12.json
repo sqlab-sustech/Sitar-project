@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-broker/src/main/java/org/apache/activemq/broker/scheduler/memory/InMemoryJobScheduler.java",
+ "prod_sha1": "433912f79a3ffb2323bc0060a980e77122f9a204",
+ "repository": "activemq",
+ "test_path": "activemq-unit-tests/src/test/java/org/apache/activemq/broker/scheduler/memory/InMemoryJobSchedulerTest.java",
+ "test_sha1": "433912f79a3ffb2323bc0060a980e77122f9a204",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/broker/scheduler/memory/InMemoryJobScheduler.java",
+ "prod_time": {
+  "$date": 1405008994000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/broker/scheduler/memory/InMemoryJobSchedulerTest.java",
+ "test_time": {
+  "$date": 1405008994000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 19,
+ "add_call_line": 121,
+ "add_classname_line": 2,
+ "add_condition_line": 30,
+ "add_field_line": 11,
+ "add_import_line": 23,
+ "add_packageid_line": 1,
+ "add_parameter_line": 37,
+ "add_return_line": 17,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

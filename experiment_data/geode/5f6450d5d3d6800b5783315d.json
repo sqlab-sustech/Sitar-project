@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/json/GfJsonObject.java",
+ "prod_sha1": "50573481dd71d40d9d441fb313906611b3605fb2",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/management/internal/cli/json/GfJsonObject.java",
+ "prod_time": {
+  "$date": 1523653265000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/json/GfJsonObjectTest.java",
+ "test_qual": "org/apache/geode/management/internal/cli/json/GfJsonObjectTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/math/analysis/interpolation/TricubicSplineInterpolator.java b/src/main/java/org/apache/commons/math/analysis/interpolation/TricubicSplineInterpolator.java
+index 4d773b31a..648f572ee 100644
+--- a/src/main/java/org/apache/commons/math/analysis/interpolation/TricubicSplineInterpolator.java
++++ b/src/main/java/org/apache/commons/math/analysis/interpolation/TricubicSplineInterpolator.java
+@@ -20,8 +20,6 @@ import org.apache.commons.math.DimensionMismatchException;
+ import org.apache.commons.math.MathRuntimeException;
+ import org.apache.commons.math.MathException;
+ import org.apache.commons.math.util.MathUtils;
+-import org.apache.commons.math.analysis.UnivariateRealFunction;
+-import org.apache.commons.math.analysis.polynomials.PolynomialSplineFunction;
+ 
+ /**
+  * Generates a tricubic interpolating function.

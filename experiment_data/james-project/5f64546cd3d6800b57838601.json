@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/webadmin/webadmin-cassandra-data/src/main/java/org/apache/james/webadmin/routes/CassandraMappingsRoutes.java",
+ "prod_sha1": "dbb95982c7b67336394077992419ec64016b8b35",
+ "repository": "james-project",
+ "test_path": "server/protocols/webadmin/webadmin-cassandra-data/src/test/java/org/apache/james/webadmin/routes/CassandraMappingsRoutesTest.java",
+ "test_sha1": "dbb95982c7b67336394077992419ec64016b8b35",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/webadmin/routes/CassandraMappingsRoutes.java",
+ "prod_time": {
+  "$date": 1548405497000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/webadmin/routes/CassandraMappingsRoutesTest.java",
+ "test_time": {
+  "$date": 1548405497000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 27,
+ "add_call_line": 5,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 6,
+ "add_import_line": 24,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

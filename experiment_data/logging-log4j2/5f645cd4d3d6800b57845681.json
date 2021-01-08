@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-api/src/main/java/org/apache/logging/log4j/message/ParameterizedMessage.java",
+ "prod_sha1": "dca586cf089ee3f176b5f06e49510639cadd59ec",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-api/src/test/java/org/apache/logging/log4j/message/ParameterizedMessageTest.java",
+ "test_sha1": "dca586cf089ee3f176b5f06e49510639cadd59ec",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/message/ParameterizedMessage.java",
+ "prod_time": {
+  "$date": 1456249674000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/message/ParameterizedMessageTest.java",
+ "test_time": {
+  "$date": 1456249674000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 50,
+ "add_classname_line": 1,
+ "add_condition_line": 18,
+ "add_field_line": 6,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 26,
+ "add_return_line": 18,
+ "del_annotation_line": 3,
+ "del_call_line": 28,
+ "del_classname_line": 0,
+ "del_condition_line": 12,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 17,
+ "del_return_line": 7
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/BucketPersistenceAdvisor.java",
+ "prod_sha1": "1f77a603e5766ed14e980c2ca52902219c2bdab0",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/BucketPersistenceAdvisor.java",
+ "prod_time": {
+  "$date": 1525193701000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/BucketPersistenceAdvisorTest.java",
+ "test_qual": "org/apache/geode/internal/cache/BucketPersistenceAdvisorTest.java",
+ "add_annotation_line": 3,
+ "add_call_line": 22,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 0,
+ "del_annotation_line": 2,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,1 @@
+tomcat-maven-plugin CC acc73bfd0822300da645263fa3e149790f437e87 359d19e0b5382bbdc54823842a24ce7434975820 tomcat-maven-archetype/src/main/resources/archetype-resources/basic-api-impl/src/main/java/tomcat/api/impl/DefaultHelloService.java tomcat-maven-archetype/src/main/resources/archetype-resources/basic-api-impl/src/test/java/tomcat/api/impl/TestDefaultHelloService.java

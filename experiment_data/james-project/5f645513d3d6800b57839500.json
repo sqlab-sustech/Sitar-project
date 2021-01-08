@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/guice/blob-objectstorage-guice/src/main/java/org/apache/james/modules/objectstorage/ObjectStorageBlobConfiguration.java",
+ "prod_sha1": "44e376390b227684b45c27dc539dff010ab78d4e",
+ "repository": "james-project",
+ "test_path": "server/container/guice/blob-objectstorage-guice/src/test/java/org/apache/james/modules/objectstorage/ObjectStorageBlobConfigurationTest.java",
+ "test_sha1": "44e376390b227684b45c27dc539dff010ab78d4e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/modules/objectstorage/ObjectStorageBlobConfiguration.java",
+ "prod_time": {
+  "$date": 1551176690000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/modules/objectstorage/ObjectStorageBlobConfigurationTest.java",
+ "test_time": {
+  "$date": 1551176690000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 6,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 9,
+ "del_annotation_line": 4,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 6,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 15,
+ "del_return_line": 16
+}

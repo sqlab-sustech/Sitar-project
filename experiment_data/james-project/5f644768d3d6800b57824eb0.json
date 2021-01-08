@@ -1,0 +1,37 @@
+{
+ "prod_path": "mpt/onami-test/src/main/java/org/apache/james/mpt/onami/test/OnamiSuite.java",
+ "prod_sha1": "a37176fb07ed3f3c0b106340db5c31b20c7137f4",
+ "repository": "james-project",
+ "test_path": "mpt/onami-test/src/test/java/org/apache/james/mpt/onami/test/OnamiSuiteTest.java",
+ "test_sha1": "a37176fb07ed3f3c0b106340db5c31b20c7137f4",
+ "commit_between": 0,
+ "prod_qual": "OnamiSuite.java",
+ "prod_time": {
+  "$date": 1475663900000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "OnamiSuiteTest.java",
+ "test_time": {
+  "$date": 1475663900000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 4,
+ "add_call_line": 96,
+ "add_classname_line": 2,
+ "add_condition_line": 28,
+ "add_field_line": 5,
+ "add_import_line": 38,
+ "add_packageid_line": 1,
+ "add_parameter_line": 14,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

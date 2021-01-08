@@ -1,0 +1,32 @@
+{
+ "prod_path": "izpack-ini4j/src/main/java/org/ini4j/BasicProfileSection.java",
+ "prod_sha1": "9ca6a9acf3b82ea48ea8d7c8eaf7f946bb421329",
+ "repository": "izpack",
+ "prod_qual": "org/ini4j/BasicProfileSection.java",
+ "prod_time": {
+  "$date": 1270197116000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "izpack-ini4j/src/test/java/org/ini4j/BasicProfileSectionTest.java",
+ "test_qual": "org/ini4j/BasicProfileSectionTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 10,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 10,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

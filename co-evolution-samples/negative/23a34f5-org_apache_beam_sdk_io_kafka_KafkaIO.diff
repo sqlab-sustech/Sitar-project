@@ -1,0 +1,13 @@
+diff --git a/sdks/java/io/kafka/src/main/java/org/apache/beam/sdk/io/kafka/KafkaIO.java b/sdks/java/io/kafka/src/main/java/org/apache/beam/sdk/io/kafka/KafkaIO.java
+index 4d2a3584f2..702bdd32b7 100644
+--- a/sdks/java/io/kafka/src/main/java/org/apache/beam/sdk/io/kafka/KafkaIO.java
++++ b/sdks/java/io/kafka/src/main/java/org/apache/beam/sdk/io/kafka/KafkaIO.java
+@@ -235,7 +235,7 @@ import org.slf4j.LoggerFactory;
+  * Note that {@link KafkaRecord#getTimestamp()} reflects timestamp provided by Kafka if any,
+  * otherwise it is set to processing time.
+  */
+-@Experimental
++@Experimental(Experimental.Kind.SOURCE_SINK)
+ public class KafkaIO {
+ 
+   /**

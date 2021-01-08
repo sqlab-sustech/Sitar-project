@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraAttachmentMapper.java",
+ "prod_sha1": "f2cca215c7b0a3b95506de1c2a28e3a377abf758",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/cassandra/mail/CassandraAttachmentMapper.java",
+ "prod_time": {
+  "$date": 1499415758000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/cassandra/src/test/java/org/apache/james/mailbox/cassandra/mail/CassandraAttachmentMapperTest.java",
+ "test_qual": "org/apache/james/mailbox/cassandra/mail/CassandraAttachmentMapperTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 15,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 12,
+ "del_annotation_line": 0,
+ "del_call_line": 8,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 5,
+ "test_typ": "Non"
+}

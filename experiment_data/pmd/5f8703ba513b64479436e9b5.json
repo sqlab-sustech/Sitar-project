@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/symboltable/NameOccurrences.java",
+ "prod_sha1": "a6ee8f7694c0e310f57c03a2bf83632a30749189",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/symboltable/NameOccurrences.java",
+ "prod_time": {
+  "$date": 1035408689000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/symboltable/NameOccurrencesTest.java",
+ "test_qual": "net/sourceforge/pmd/symboltable/NameOccurrencesTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 6,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

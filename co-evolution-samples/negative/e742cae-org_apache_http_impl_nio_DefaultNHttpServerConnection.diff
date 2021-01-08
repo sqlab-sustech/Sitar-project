@@ -1,0 +1,23 @@
+diff --git a/httpcore-nio/src/main/java/org/apache/http/impl/nio/DefaultNHttpServerConnection.java b/httpcore-nio/src/main/java/org/apache/http/impl/nio/DefaultNHttpServerConnection.java
+index 1c4a88c52..45434e4a9 100644
+--- a/httpcore-nio/src/main/java/org/apache/http/impl/nio/DefaultNHttpServerConnection.java
++++ b/httpcore-nio/src/main/java/org/apache/http/impl/nio/DefaultNHttpServerConnection.java
+@@ -269,14 +269,16 @@ public void submitResponse(final HttpResponse response) throws IOException, Http
+ 
+         if (response.getStatusLine().getStatusCode() >= 200) {
+             this.connMetrics.incrementResponseCount();
+-            if (response.getEntity() != null) {
++            final HttpEntity entity = response.getEntity();
++            if (entity != null) {
+                 this.response = response;
+                 final long len = this.outgoingContentStrategy.determineLength(response);
+                 this.contentEncoder = createContentEncoder(
+                         len,
+                         this.session.channel(),
+                         this.outbuf,
+-                        this.outTransportMetrics);
++                        this.outTransportMetrics,
++                        entity.getTrailers());
+             }
+         }
+ 

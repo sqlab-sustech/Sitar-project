@@ -1,0 +1,32 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/DateTimeZone.java",
+ "prod_sha1": "bc49e14e17ce686934b9a87a632f5b3ee6f80761",
+ "repository": "joda-time",
+ "prod_qual": "org/joda/time/DateTimeZone.java",
+ "prod_time": {
+  "$date": 1266167962000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "JodaTime/src/test/org/joda/time/TestDateTimeZone.java",
+ "test_qual": "org/joda/time/TestDateTimeZone.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 6,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

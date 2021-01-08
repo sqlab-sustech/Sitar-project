@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageMapper.java",
+ "prod_sha1": "6f2d4c79f2aaa4e0acb2b8b59e644eef7e11d37a",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/cassandra/mail/CassandraMessageMapper.java",
+ "prod_time": {
+  "$date": 1495428802000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/cassandra/src/test/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageMapperTest.java",
+ "test_qual": "org/apache/james/mailbox/cassandra/mail/CassandraMessageMapperTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 52,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 11,
+ "add_return_line": 31,
+ "del_annotation_line": 2,
+ "del_call_line": 32,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 2,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 7,
+ "del_return_line": 15,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/delete/DeleteStart.java",
+ "prod_sha1": "3b417e7c6aa4b34bdece5fae6cf6882e3c39054f",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/mvcc/stage/delete/DeleteStartTest.java",
+ "test_sha1": "3b417e7c6aa4b34bdece5fae6cf6882e3c39054f",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/delete/DeleteStart.java",
+ "prod_time": {
+  "$date": 1387297555000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/delete/DeleteStartTest.java",
+ "test_time": {
+  "$date": 1387297555000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

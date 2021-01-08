@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/RuleFactory.java",
+ "prod_sha1": "3d47d2a529cda75ae740e24ba5c87a6b4e811e00",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/RuleFactoryTest.java",
+ "test_sha1": "3d47d2a529cda75ae740e24ba5c87a6b4e811e00",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/RuleFactory.java",
+ "prod_time": {
+  "$date": 1025115360000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/RuleFactoryTest.java",
+ "test_time": {
+  "$date": 1025115360000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

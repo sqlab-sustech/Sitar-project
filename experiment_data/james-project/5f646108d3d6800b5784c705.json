@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/store/src/main/java/org/apache/james/mailbox/store/StoreMailboxManager.java",
+ "prod_sha1": "d2a1754f5ad520a31052c49c43f079f2c700b874",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/store/StoreMailboxManager.java",
+ "prod_time": {
+  "$date": 1550749055000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/store/src/test/java/org/apache/james/mailbox/store/StoreMailboxManagerTest.java",
+ "test_qual": "org/apache/james/mailbox/store/StoreMailboxManagerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

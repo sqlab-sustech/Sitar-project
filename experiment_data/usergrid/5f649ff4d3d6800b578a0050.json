@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/corepersistence/common/src/main/java/org/apache/usergrid/persistence/core/task/NamedTaskExecutorImpl.java",
+ "prod_sha1": "c0b78b9fab07cbc2f5975d89664ff8a523b98b9a",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/persistence/core/task/NamedTaskExecutorImpl.java",
+ "prod_time": {
+  "$date": 1411668551000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/corepersistence/common/src/test/java/org/apache/usergrid/persistence/core/task/NamedTaskExecutorImplTest.java",
+ "test_qual": "org/apache/usergrid/persistence/core/task/NamedTaskExecutorImplTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 3,
+ "add_condition_line": 0,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

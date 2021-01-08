@@ -1,0 +1,32 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/GsonBuilder.java",
+ "prod_sha1": "764e4d9aca8139540f3b37ec3977c07e3e705127",
+ "repository": "gson",
+ "prod_qual": "com/google/gson/GsonBuilder.java",
+ "prod_time": {
+  "$date": 1232440701000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "gson/src/test/java/com/google/gson/GsonBuilderTest.java",
+ "test_qual": "com/google/gson/GsonBuilderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 6,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

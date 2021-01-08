@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/jmap/src/main/java/org/apache/james/jmap/methods/SetMailboxesCreationProcessor.java",
+ "prod_sha1": "68ab61763d954d8b0d38015649c1fa63d8b0082d",
+ "repository": "james-project",
+ "test_path": "server/protocols/jmap/src/test/java/org/apache/james/jmap/methods/SetMailboxesCreationProcessorTest.java",
+ "test_sha1": "68ab61763d954d8b0d38015649c1fa63d8b0082d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/jmap/methods/SetMailboxesCreationProcessor.java",
+ "prod_time": {
+  "$date": 1459416148000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/jmap/methods/SetMailboxesCreationProcessorTest.java",
+ "test_time": {
+  "$date": 1459416148000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 54,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 4,
+ "add_import_line": 21,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 5,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,12 @@
+diff --git a/core/src/main/java/org/apache/accumulo/fate/AgeOffStore.java b/core/src/main/java/org/apache/accumulo/fate/AgeOffStore.java
+index e78b6ff5b..399fc633a 100644
+--- a/core/src/main/java/org/apache/accumulo/fate/AgeOffStore.java
++++ b/core/src/main/java/org/apache/accumulo/fate/AgeOffStore.java
+@@ -32,7 +32,6 @@ import org.slf4j.LoggerFactory;
+  * than a configurable time period.
+  *
+  * No external time source is used. It starts tracking idle time when its created.
+- *
+  */
+ public class AgeOffStore<T> implements TStore<T> {
+ 

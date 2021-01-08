@@ -1,0 +1,13 @@
+diff --git a/core/sis-referencing/src/main/java/org/apache/sis/referencing/datum/DefaultVerticalDatum.java b/core/sis-referencing/src/main/java/org/apache/sis/referencing/datum/DefaultVerticalDatum.java
+index 142e2116c..320e3fe81 100644
+--- a/core/sis-referencing/src/main/java/org/apache/sis/referencing/datum/DefaultVerticalDatum.java
++++ b/core/sis-referencing/src/main/java/org/apache/sis/referencing/datum/DefaultVerticalDatum.java
+@@ -301,7 +301,7 @@ public class DefaultVerticalDatum extends AbstractDatum implements VerticalDatum
+             formatter.append(VerticalDatumTypes.toLegacy(type().ordinal()));
+             return WKTKeywords.Vert_Datum;
+         }
+-        return WKTKeywords.VerticalDatum;
++        return formatter.shortOrLong(WKTKeywords.VDatum, WKTKeywords.VerticalDatum);
+     }
+ 
+ 

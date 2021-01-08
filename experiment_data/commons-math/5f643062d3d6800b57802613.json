@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/estimation/LevenbergMarquardtEstimator.java",
+ "prod_sha1": "ed2a644830c2138c2cac1fde783c14c5de18318e",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/estimation/LevenbergMarquardtEstimator.java",
+ "prod_time": {
+  "$date": 1180306933000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/estimation/LevenbergMarquardtEstimatorTest.java",
+ "test_qual": "org/apache/commons/math/estimation/LevenbergMarquardtEstimatorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

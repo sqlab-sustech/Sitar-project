@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/util/picocli/CommandLine.java",
+ "prod_sha1": "c2818beca59e948c205c359f714f24eff7340477",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/util/picocli/CommandLineTest.java",
+ "test_sha1": "c2818beca59e948c205c359f714f24eff7340477",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/util/picocli/CommandLine.java",
+ "prod_time": {
+  "$date": 1502727499000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/util/picocli/CommandLineTest.java",
+ "test_time": {
+  "$date": 1502727499000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 13,
+ "add_call_line": 751,
+ "add_classname_line": 51,
+ "add_condition_line": 224,
+ "add_field_line": 89,
+ "add_import_line": 53,
+ "add_packageid_line": 1,
+ "add_parameter_line": 292,
+ "add_return_line": 270,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "core/src/main/java/org/jruby/lexer/yacc/ByteArrayLexerSource.java",
+ "prod_sha1": "f0096b9e1e55f6efdd68784d6ef0de2ea9ae7de8",
+ "repository": "jruby",
+ "test_path": "core/src/test/java/org/jruby/lexer/yacc/ByteArrayLexerSourceTest.java",
+ "test_sha1": "f0096b9e1e55f6efdd68784d6ef0de2ea9ae7de8",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/lexer/yacc/ByteArrayLexerSource.java",
+ "prod_time": {
+  "$date": 1393434779000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/lexer/yacc/ByteArrayLexerSourceTest.java",
+ "test_time": {
+  "$date": 1393434779000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 10,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 10,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 4
+}

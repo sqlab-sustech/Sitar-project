@@ -1,0 +1,38 @@
+diff --git a/stack/services/src/main/java/org/usergrid/security/crypto/EncryptionServiceImpl.java b/stack/services/src/main/java/org/usergrid/security/crypto/EncryptionServiceImpl.java
+index ffd31c297..29333f082 100644
+--- a/stack/services/src/main/java/org/usergrid/security/crypto/EncryptionServiceImpl.java
++++ b/stack/services/src/main/java/org/usergrid/security/crypto/EncryptionServiceImpl.java
+@@ -35,7 +35,7 @@ import org.usergrid.security.crypto.command.EncryptionCommand;
+  * @author tnine
+  * 
+  */
+-@Service("org.usergrid.security.crypto.EncryptionServiceImpl")
++@Service("encryptionService")
+ public class EncryptionServiceImpl implements EncryptionService {
+ 
+   private String defaultCommandName = EncryptionCommand.BCRYPT;
+@@ -184,6 +184,24 @@ public class EncryptionServiceImpl implements EncryptionService {
+     return credentials;
+ 
+   }
++  
++
++  /* (non-Javadoc)
++   * @see org.usergrid.security.crypto.EncryptionService#getCommand(java.lang.String)
++   */
++  @Override
++  public EncryptionCommand getCommand(String name) {
++    return commands.get(name);
++  }
++
++  /* (non-Javadoc)
++   * @see org.usergrid.security.crypto.EncryptionService#getDefaultCommand()
++   */
++  @Override
++  public EncryptionCommand getDefaultCommand() {
++    return defaultCommand;
++  }
++
+ 
+   protected String encode(byte[] bytes) {
+     return encodeBase64URLSafeString(bytes);

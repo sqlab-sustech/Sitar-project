@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/jsoup/DataUtil.java",
+ "prod_sha1": "7eeb74d133625c8819ba8da52e37f4e4db4b8a26",
+ "repository": "jsoup",
+ "test_path": "src/test/java/org/jsoup/DataUtilTest.java",
+ "test_sha1": "7eeb74d133625c8819ba8da52e37f4e4db4b8a26",
+ "commit_between": 0,
+ "prod_qual": "org/jsoup/DataUtil.java",
+ "prod_time": {
+  "$date": 1279178244000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jsoup/DataUtilTest.java",
+ "test_time": {
+  "$date": 1279178244000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 16,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 3,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

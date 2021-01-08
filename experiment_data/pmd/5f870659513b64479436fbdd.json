@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-java/src/main/java/net/sourceforge/pmd/lang/java/metrics/PackageStats.java",
+ "prod_sha1": "d070c351121ec8778219320c33753df0cf0d8eb7",
+ "repository": "pmd",
+ "prod_qual": "metrics/PackageStats.java",
+ "prod_time": {
+  "$date": 1502557832000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-java/src/test/java/net/sourceforge/pmd/lang/java/metrics/PackageStatsTest.java",
+ "test_qual": "metrics/PackageStatsTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 18,
+ "add_classname_line": 1,
+ "add_condition_line": 7,
+ "add_field_line": 2,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 6,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

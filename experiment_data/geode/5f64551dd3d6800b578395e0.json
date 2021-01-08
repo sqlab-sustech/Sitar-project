@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/cache/client/internal/pooling/ConnectionManagerImpl.java",
+ "prod_sha1": "3ea508d089598d196f12ecd793521520941f09f8",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/cache/client/internal/pooling/ConnectionManagerImpl.java",
+ "prod_time": {
+  "$date": 1556643564000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/integrationTest/java/org/apache/geode/cache/client/internal/pooling/ConnectionManagerImplTest.java",
+ "test_qual": "org/apache/geode/cache/client/internal/pooling/ConnectionManagerImplTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 33,
+ "add_classname_line": 1,
+ "add_condition_line": 15,
+ "add_field_line": 8,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 21,
+ "add_return_line": 7,
+ "del_annotation_line": 3,
+ "del_call_line": 26,
+ "del_classname_line": 0,
+ "del_condition_line": 10,
+ "del_field_line": 11,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 5,
+ "test_typ": "Non"
+}

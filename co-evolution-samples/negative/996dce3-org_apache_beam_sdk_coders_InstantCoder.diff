@@ -1,0 +1,20 @@
+diff --git a/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java b/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java
+index 000f40672f..22b11a3ed0 100644
+--- a/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java
++++ b/sdks/java/core/src/main/java/org/apache/beam/sdk/coders/InstantCoder.java
+@@ -73,13 +73,13 @@ public class InstantCoder extends AtomicCoder<Instant> {
+     if (value == null) {
+       throw new CoderException("cannot encode a null Instant");
+     }
+-    LONG_CODER.encode(ORDER_PRESERVING_CONVERTER.convert(value), outStream, context);
++    LONG_CODER.encode(ORDER_PRESERVING_CONVERTER.convert(value), outStream);
+   }
+ 
+   @Override
+   public Instant decode(InputStream inStream, Context context)
+       throws CoderException, IOException {
+-    return ORDER_PRESERVING_CONVERTER.reverse().convert(LONG_CODER.decode(inStream, context));
++    return ORDER_PRESERVING_CONVERTER.reverse().convert(LONG_CODER.decode(inStream));
+   }
+ 
+   @Override

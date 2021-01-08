@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/jsoup/nodes/Element.java",
+ "prod_sha1": "62ea04e4d5cbf91b1b1a225c90b8077e6db27e58",
+ "repository": "jsoup",
+ "test_path": "src/test/java/org/jsoup/nodes/ElementTest.java",
+ "test_sha1": "62ea04e4d5cbf91b1b1a225c90b8077e6db27e58",
+ "commit_between": 0,
+ "prod_qual": "org/jsoup/nodes/Element.java",
+ "prod_time": {
+  "$date": 1264486504000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jsoup/nodes/ElementTest.java",
+ "test_time": {
+  "$date": 1264486504000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/plugin/deleted-messages-vault/src/main/java/org/apache/james/vault/DeletedMessage.java",
+ "prod_sha1": "d48deab6a2ed462ccc9d5c7701a3fd1417b103d8",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/vault/DeletedMessage.java",
+ "prod_time": {
+  "$date": 1550827947000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/plugin/deleted-messages-vault/src/test/java/org/apache/james/vault/DeletedMessageTest.java",
+ "test_qual": "org/apache/james/vault/DeletedMessageTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

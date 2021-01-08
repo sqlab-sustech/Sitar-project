@@ -1,0 +1,13 @@
+diff --git a/container/openejb-core/src/main/java/org/apache/openejb/config/CleanEnvEntries.java b/container/openejb-core/src/main/java/org/apache/openejb/config/CleanEnvEntries.java
+index f64f53f92d..0245fdc1ed 100644
+--- a/container/openejb-core/src/main/java/org/apache/openejb/config/CleanEnvEntries.java
++++ b/container/openejb-core/src/main/java/org/apache/openejb/config/CleanEnvEntries.java
+@@ -161,7 +161,7 @@ public class CleanEnvEntries implements DynamicDeployer {
+ 
+         normalize(types);
+ 
+-        final Class<?> type = (types.size() == 1) ? types.iterator().next() : String.class;
++        final Class<?> type = types.size() == 1 ? types.iterator().next() : String.class;
+ 
+         entry.setType(type.getName());
+     }

@@ -1,0 +1,13 @@
+diff --git a/math/src/main/java/org/apache/mahout/math/SingularValueDecomposition.java b/math/src/main/java/org/apache/mahout/math/SingularValueDecomposition.java
+index 71d9b80e3..cb8c917e7 100644
+--- a/math/src/main/java/org/apache/mahout/math/SingularValueDecomposition.java
++++ b/math/src/main/java/org/apache/mahout/math/SingularValueDecomposition.java
+@@ -579,7 +579,7 @@ public class SingularValueDecomposition implements java.io.Serializable {
+    *  of the squares of the singular values.
+    */
+   Matrix getCovariance(double minSingularValue) {
+-    DenseMatrix j = new DenseMatrix(s.length,s.length);
++    Matrix j = new DenseMatrix(s.length,s.length);
+     Matrix vMat = new DenseMatrix(this.v);
+     for (int i = 0; i < s.length; i++) {
+       j.set(i, i, (s[i] >= minSingularValue) ? 1 / (s[i] * s[i]) : 0.0);

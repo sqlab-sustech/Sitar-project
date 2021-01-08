@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/TypeSet.java",
+ "prod_sha1": "9992d0f51104ce8fec3d5a96c58e8080ac7120ef",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/TypeSetTest.java",
+ "test_sha1": "9992d0f51104ce8fec3d5a96c58e8080ac7120ef",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/TypeSet.java",
+ "prod_time": {
+  "$date": 1026522044000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/TypeSetTest.java",
+ "test_time": {
+  "$date": 1026522044000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 1,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

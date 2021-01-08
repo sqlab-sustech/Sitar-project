@@ -1,0 +1,32 @@
+{
+ "prod_path": "JodaTime/src/main/java/org/joda/time/DateTimeFieldType.java",
+ "prod_sha1": "bbbbbbfb607a0ee6391fdb6540d900b56493d523",
+ "repository": "joda-time",
+ "prod_qual": "org/joda/time/DateTimeFieldType.java",
+ "prod_time": {
+  "$date": 1296781636000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "JodaTimeContrib/gwt/branch/test/org/joda/time/TestDateTimeFieldType.java",
+ "test_qual": "org/joda/time/TestDateTimeFieldType.java",
+ "add_annotation_line": 2,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

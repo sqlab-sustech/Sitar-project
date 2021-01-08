@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/WaitDelayGenerator.java",
+ "prod_sha1": "ad257a251fa293497a6c94cb051226452a662575",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/events/WaitDelayGenerator.java",
+ "prod_time": {
+  "$date": 1561367339000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/event/event-rabbitmq/src/test/java/org/apache/james/mailbox/events/WaitDelayGeneratorTest.java",
+ "test_qual": "org/apache/james/mailbox/events/WaitDelayGeneratorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

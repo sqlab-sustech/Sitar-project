@@ -1,0 +1,37 @@
+{
+ "prod_path": "nephele/nephele-server/src/main/java/eu/stratosphere/nephele/jobmanager/JobManager.java",
+ "prod_sha1": "75e67a701cbabe5577967037c0e865d1c2e9a25b",
+ "repository": "flink",
+ "test_path": "nephele/nephele-server/src/test/java/eu/stratosphere/nephele/jobmanager/JobManagerTest.java",
+ "test_sha1": "75e67a701cbabe5577967037c0e865d1c2e9a25b",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/nephele/jobmanager/JobManager.java",
+ "prod_time": {
+  "$date": 1292522996000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/nephele/jobmanager/JobManagerTest.java",
+ "test_time": {
+  "$date": 1292522996000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 16,
+ "add_call_line": 165,
+ "add_classname_line": 2,
+ "add_condition_line": 49,
+ "add_field_line": 13,
+ "add_import_line": 66,
+ "add_packageid_line": 1,
+ "add_parameter_line": 22,
+ "add_return_line": 33,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,1 @@
+openwebbeans-meecrowave-examples CC c9ab9f326cdd16c2afa3bd949471dda2769acec4 c9ab9f326cdd16c2afa3bd949471dda2769acec4 rest/src/main/java/com/superbiz/jaxrs/HelloEndpoint.java rest/src/test/java/com/superbiz/jaxrs/HelloEndpointTest.java

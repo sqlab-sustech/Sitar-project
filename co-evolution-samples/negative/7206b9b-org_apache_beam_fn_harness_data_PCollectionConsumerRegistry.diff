@@ -1,0 +1,13 @@
+diff --git a/sdks/java/harness/src/main/java/org/apache/beam/fn/harness/data/PCollectionConsumerRegistry.java b/sdks/java/harness/src/main/java/org/apache/beam/fn/harness/data/PCollectionConsumerRegistry.java
+index 3c6ea15c44..7bee75304a 100644
+--- a/sdks/java/harness/src/main/java/org/apache/beam/fn/harness/data/PCollectionConsumerRegistry.java
++++ b/sdks/java/harness/src/main/java/org/apache/beam/fn/harness/data/PCollectionConsumerRegistry.java
+@@ -22,7 +22,7 @@ import java.util.HashMap;
+ import java.util.List;
+ import java.util.Map;
+ import java.util.Set;
+-import org.apache.beam.model.fnexecution.v1.BeamFnApi.MonitoringInfo;
++import org.apache.beam.model.pipeline.v1.MetricsApi.MonitoringInfo;
+ import org.apache.beam.runners.core.metrics.ExecutionStateTracker;
+ import org.apache.beam.runners.core.metrics.MetricsContainerImpl;
+ import org.apache.beam.runners.core.metrics.MetricsContainerStepMap;

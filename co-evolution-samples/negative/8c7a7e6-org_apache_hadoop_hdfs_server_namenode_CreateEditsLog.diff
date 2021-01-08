@@ -1,0 +1,24 @@
+diff --git a/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/CreateEditsLog.java b/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/CreateEditsLog.java
+index 852a34a8da5..fd7c734c336 100644
+--- a/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/CreateEditsLog.java
++++ b/hadoop-hdfs-project/hadoop-hdfs/src/test/java/org/apache/hadoop/hdfs/server/namenode/CreateEditsLog.java
+@@ -26,7 +26,6 @@
+ import org.apache.hadoop.hdfs.server.blockmanagement.BlockInfo;
+ import org.apache.hadoop.hdfs.server.common.GenerationStamp;
+ import org.apache.hadoop.hdfs.server.common.Storage;
+-import org.apache.hadoop.hdfs.server.namenode.INodeId;
+ 
+ /**
+  * 
+@@ -97,8 +96,9 @@ static void addFiles(FSEditLog editLog, int numFiles, short replication,
+         dirInode = new INodeDirectory(inodeId.nextValue(), null, p, 0L);
+         editLog.logMkDir(currentDir, dirInode);
+       }
+-      editLog.logOpenFile(filePath, new INodeFileUnderConstruction(
+-          inodeId.nextValue(), p, replication, 0, blockSize, "", "", null));
++      editLog.logOpenFile(filePath,
++          new INodeFileUnderConstruction(inodeId.nextValue(), p, replication,
++              0, blockSize, "", "", null), false);
+       editLog.logCloseFile(filePath, inode);
+ 
+       if (currentBlockId - bidAtSync >= 2000) { // sync every 2K blocks

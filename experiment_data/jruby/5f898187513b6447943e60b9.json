@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/util/ShellLauncher.java",
+ "prod_sha1": "cc4b619d6400c107f20448d78c4f26406bde053d",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/util/ShellLauncher.java",
+ "prod_time": {
+  "$date": 1257635604000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "test/org/jruby/util/ShellLauncherTest.java",
+ "test_qual": "org/jruby/util/ShellLauncherTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 98,
+ "add_classname_line": 1,
+ "add_condition_line": 57,
+ "add_field_line": 25,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 21,
+ "add_return_line": 35,
+ "del_annotation_line": 1,
+ "del_call_line": 34,
+ "del_classname_line": 0,
+ "del_condition_line": 12,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 8,
+ "del_return_line": 19,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/jdbc/JDBCReportListener.java",
+ "prod_sha1": "86a249924245aac290bc612ff24ee38b31713abf",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/jdbc/JDBCReportListener.java",
+ "prod_time": {
+  "$date": 1042744287000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/jdbc/JDBCReportListenerTest.java",
+ "test_qual": "net/sourceforge/pmd/jdbc/JDBCReportListenerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 48,
+ "del_classname_line": 3,
+ "del_condition_line": 4,
+ "del_field_line": 8,
+ "del_import_line": 11,
+ "del_packageid_line": 1,
+ "del_parameter_line": 7,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

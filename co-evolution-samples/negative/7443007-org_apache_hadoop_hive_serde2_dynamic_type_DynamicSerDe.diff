@@ -1,0 +1,13 @@
+diff --git a/serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type/DynamicSerDe.java b/serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type/DynamicSerDe.java
+index c778f2316e..166df2419a 100644
+--- a/serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type/DynamicSerDe.java
++++ b/serde/src/java/org/apache/hadoop/hive/serde2/dynamic_type/DynamicSerDe.java
+@@ -152,7 +152,7 @@ public Object deserialize(Writable field) throws SerDeException {
+         bis_.reset(b.getBytes(), b.getLength());
+       } else {
+         BytesWritable b = (BytesWritable) field;
+-        bis_.reset(b.get(), b.getSize());
++        bis_.reset(b.getBytes(), b.getLength());
+       }
+       deserializeReuse = bt.deserialize(deserializeReuse, iprot_);
+       return deserializeReuse;

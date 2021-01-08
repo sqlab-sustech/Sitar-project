@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java",
+ "prod_sha1": "1ec71bdff17f6d11d50d77ff98db1c9a70e5d7b4",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/broker/BrokerService.java",
+ "prod_time": {
+  "$date": 1249067947000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/broker/BrokerServiceTest.java",
+ "test_qual": "org/apache/activemq/broker/BrokerServiceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 72,
+ "add_classname_line": 0,
+ "add_condition_line": 13,
+ "add_field_line": 6,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 18,
+ "add_return_line": 16,
+ "del_annotation_line": 0,
+ "del_call_line": 78,
+ "del_classname_line": 0,
+ "del_condition_line": 16,
+ "del_field_line": 8,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 28,
+ "del_return_line": 19,
+ "test_typ": "Non"
+}

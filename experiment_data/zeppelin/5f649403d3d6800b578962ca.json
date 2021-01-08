@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/notebook/Paragraph.java",
+ "prod_sha1": "48193d92a89da866de4b4bbf363da83f9e45add1",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/notebook/ParagraphTest.java",
+ "test_sha1": "48193d92a89da866de4b4bbf363da83f9e45add1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/notebook/Paragraph.java",
+ "prod_time": {
+  "$date": 1533875986000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/notebook/ParagraphTest.java",
+ "test_time": {
+  "$date": 1533875986000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 2,
+ "del_annotation_line": 1,
+ "del_call_line": 3,
+ "del_classname_line": 1,
+ "del_condition_line": 1,
+ "del_field_line": 6,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 2
+}

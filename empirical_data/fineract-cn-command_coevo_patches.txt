@@ -1,0 +1,4 @@
+fineract-cn-command CC 03bdd5e0a04b0c4339284a4878d6acf6031aea06 03bdd5e0a04b0c4339284a4878d6acf6031aea06 src/main/java/io/mifos/core/command/internal/CommandBus.java src/test/java/io/mifos/core/command/internal/CommandBusTest.java
+fineract-cn-command EE 51efa217d6d27715183d2d5e3f500ed1c631a5d5 51efa217d6d27715183d2d5e3f500ed1c631a5d5 src/main/java/io/mifos/core/command/internal/CommandBus.java src/test/java/io/mifos/core/command/internal/CommandBusTest.java
+fineract-cn-command EE 444b3979d5d7cfc72e4984e7d8deffdfa9497a8f 444b3979d5d7cfc72e4984e7d8deffdfa9497a8f src/main/java/io/mifos/core/command/internal/CommandBus.java src/test/java/io/mifos/core/command/internal/CommandBusTest.java
+fineract-cn-command EE f8ef340266f6feb4cc88befc559c867390a42cf9 f8ef340266f6feb4cc88befc559c867390a42cf9 src/main/java/io/mifos/core/command/internal/CommandBus.java src/test/java/io/mifos/core/command/internal/CommandBusTest.java

@@ -1,0 +1,32 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/log/CglibThrowableRenderer.java",
+ "prod_sha1": "9d1523e6d67d3b332e1ade04dd30b04c8c5c3562",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/utils/log/CglibThrowableRenderer.java",
+ "prod_time": {
+  "$date": 1308675361000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "utils/test/com/cloud/utils/log/CglibThrowableRendererTest.java",
+ "test_qual": "com/cloud/utils/log/CglibThrowableRendererTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

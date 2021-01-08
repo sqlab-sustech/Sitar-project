@@ -1,0 +1,13 @@
+diff --git a/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/GroupByKey.java b/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/GroupByKey.java
+index 1483ceb7ec..f8f2202de0 100644
+--- a/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/GroupByKey.java
++++ b/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/GroupByKey.java
+@@ -254,7 +254,7 @@ public class GroupByKey<K, V>
+           KvCoder.of(keyCoder, outputValueCoder);
+ 
+       GroupAlsoByWindowsDoFn<K, V, Iterable<V>, ?> fn =
+-          GroupAlsoByWindowsDoFn.create(windowFn, inputIterableElementValueCoder);
++          GroupAlsoByWindowsDoFn.createForIterable(windowFn, inputIterableElementValueCoder);
+ 
+       return input.apply(ParDo.of(fn)).setCoder(outputKvCoder);
+     }

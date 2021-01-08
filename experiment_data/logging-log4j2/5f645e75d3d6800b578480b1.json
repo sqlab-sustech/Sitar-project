@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ThrowableFormatOptions.java",
+ "prod_sha1": "02be6e1fdefad83647eac0d8cfeeca4487996823",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/impl/ThrowableFormatOptionsTest.java",
+ "test_sha1": "02be6e1fdefad83647eac0d8cfeeca4487996823",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/impl/ThrowableFormatOptions.java",
+ "prod_time": {
+  "$date": 1469447748000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/impl/ThrowableFormatOptionsTest.java",
+ "test_time": {
+  "$date": 1469447748000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 44,
+ "add_classname_line": 1,
+ "add_condition_line": 23,
+ "add_field_line": 15,
+ "add_import_line": 11,
+ "add_packageid_line": 1,
+ "add_parameter_line": 14,
+ "add_return_line": 11,
+ "del_annotation_line": 1,
+ "del_call_line": 20,
+ "del_classname_line": 1,
+ "del_condition_line": 6,
+ "del_field_line": 15,
+ "del_import_line": 11,
+ "del_packageid_line": 1,
+ "del_parameter_line": 14,
+ "del_return_line": 10
+}

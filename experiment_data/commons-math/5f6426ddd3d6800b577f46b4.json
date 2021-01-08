@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/linear/BigMatrixImpl.java",
+ "prod_sha1": "482ebca8f54c6d1c6ef3d07710d0717334bc0eee",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/linear/BigMatrixImplTest.java",
+ "test_sha1": "482ebca8f54c6d1c6ef3d07710d0717334bc0eee",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/linear/BigMatrixImpl.java",
+ "prod_time": {
+  "$date": 1212337339000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/linear/BigMatrixImplTest.java",
+ "test_time": {
+  "$date": 1212337339000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 78,
+ "add_classname_line": 0,
+ "add_condition_line": 26,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 20,
+ "del_annotation_line": 0,
+ "del_call_line": 21,
+ "del_classname_line": 0,
+ "del_condition_line": 14,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 7,
+ "del_return_line": 8
+}

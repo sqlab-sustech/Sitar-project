@@ -1,0 +1,13 @@
+diff --git a/log4j-core/src/main/java/org/apache/logging/log4j/core/pattern/VariablesNotEmptyReplacementConverter.java b/log4j-core/src/main/java/org/apache/logging/log4j/core/pattern/VariablesNotEmptyReplacementConverter.java
+index 9a58f7945..8824f9e5c 100644
+--- a/log4j-core/src/main/java/org/apache/logging/log4j/core/pattern/VariablesNotEmptyReplacementConverter.java
++++ b/log4j-core/src/main/java/org/apache/logging/log4j/core/pattern/VariablesNotEmptyReplacementConverter.java
+@@ -76,7 +76,7 @@ public final class VariablesNotEmptyReplacementConverter extends LogEventPattern
+         int emptyVars = 0;
+         int vars = 0;
+         for (final PatternFormatter formatter : formatters) {
+-            int start = buf.length();
++            final int start = buf.length();
+             formatter.format(event, buf);
+             final boolean isVariable = formatter.getConverter().isVariable();
+             vars += isVariable ? 1 : 0;

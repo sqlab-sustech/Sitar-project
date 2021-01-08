@@ -1,0 +1,37 @@
+{
+ "prod_path": "python/src/main/java/org/apache/zeppelin/python/PythonInterpreter.java",
+ "prod_sha1": "230d890142f2346c48a32ad6b98a4598fdfce1b7",
+ "repository": "zeppelin",
+ "test_path": "python/src/test/java/org/apache/zeppelin/python/PythonInterpreterTest.java",
+ "test_sha1": "df7dd5c373b84625d14a5fc2791f9924ee9d102f",
+ "commit_between": 5,
+ "prod_qual": "org/apache/zeppelin/python/PythonInterpreter.java",
+ "prod_time": {
+  "$date": 1466645149000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/python/PythonInterpreterTest.java",
+ "test_time": {
+  "$date": 1466720561000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

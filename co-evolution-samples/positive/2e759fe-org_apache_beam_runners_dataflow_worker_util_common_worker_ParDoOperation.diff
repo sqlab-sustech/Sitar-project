@@ -1,0 +1,12 @@
+diff --git a/runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/util/common/worker/ParDoOperation.java b/runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/util/common/worker/ParDoOperation.java
+index f3f3845f10..368f05b3cc 100644
+--- a/runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/util/common/worker/ParDoOperation.java
++++ b/runners/google-cloud-dataflow-java/worker/src/main/java/org/apache/beam/runners/dataflow/worker/util/common/worker/ParDoOperation.java
+@@ -15,7 +15,6 @@
+  * See the License for the specific language governing permissions and
+  * limitations under the License.
+  */
+-
+ package org.apache.beam.runners.dataflow.worker.util.common.worker;
+ 
+ import com.google.common.annotations.VisibleForTesting;

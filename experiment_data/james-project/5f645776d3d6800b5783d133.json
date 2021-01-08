@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/ToSenderDomainRepository.java",
+ "prod_sha1": "2ce42f651e8688ae64ea9a87ad0a34405841299d",
+ "repository": "james-project",
+ "test_path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/ToSenderDomainRepositoryTest.java",
+ "test_sha1": "961ee9b70d905bc54d53710fcaf1fd566a046353",
+ "commit_between": 7,
+ "prod_qual": "org/apache/james/transport/mailets/ToSenderDomainRepository.java",
+ "prod_time": {
+  "$date": 1551253006000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/mailets/ToSenderDomainRepositoryTest.java",
+ "test_time": {
+  "$date": 1551329042000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-queuescheduler/src/main/java/eu/stratosphere/nephele/jobmanager/scheduler/queue/QueueScheduler.java",
+ "prod_sha1": "9cd90d0791c4e205ac5a4ac208d8ba0e1dd14f82",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/jobmanager/scheduler/queue/QueueScheduler.java",
+ "prod_time": {
+  "$date": 1308758734000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-queuescheduler/src/test/java/eu/stratosphere/nephele/jobmanager/scheduler/queue/QueueSchedulerTest.java",
+ "test_qual": "eu/stratosphere/nephele/jobmanager/scheduler/queue/QueueSchedulerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/broker/region/group/MessageGroupHashBucket.java",
+ "prod_sha1": "e1d4780221c52df276a819e25731cd6c53292311",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/broker/region/group/MessageGroupHashBucketTest.java",
+ "test_sha1": "e1d4780221c52df276a819e25731cd6c53292311",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/broker/region/group/MessageGroupHashBucket.java",
+ "prod_time": {
+  "$date": 1136475367000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/broker/region/group/MessageGroupHashBucketTest.java",
+ "test_time": {
+  "$date": 1136475367000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 2,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 11,
+ "add_return_line": 17,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-json/src/main/java/org/json/JSONObject.java",
+ "prod_sha1": "fdde6181feaae6674173a9c5827849672e291f3b",
+ "repository": "geode",
+ "prod_qual": "org/json/JSONObject.java",
+ "prod_time": {
+  "$date": 1487373109000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-json/src/test/java/org/json/JSONObjectTest.java",
+ "test_qual": "org/json/JSONObjectTest.java",
+ "add_annotation_line": 5,
+ "add_call_line": 130,
+ "add_classname_line": 0,
+ "add_condition_line": 55,
+ "add_field_line": 19,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 55,
+ "add_return_line": 70,
+ "del_annotation_line": 5,
+ "del_call_line": 129,
+ "del_classname_line": 0,
+ "del_condition_line": 54,
+ "del_field_line": 20,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 55,
+ "del_return_line": 70,
+ "test_typ": "Non"
+}

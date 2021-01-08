@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ReIndexingExecutionFailures.java",
+ "prod_sha1": "5f6ab604173538a80b6ce5015a3756d8143383df",
+ "repository": "james-project",
+ "prod_qual": "org/apache/mailbox/tools/indexer/ReIndexingExecutionFailures.java",
+ "prod_time": {
+  "$date": 1558586696000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/ReIndexingExecutionFailuresTest.java",
+ "test_qual": "org/apache/mailbox/tools/indexer/ReIndexingExecutionFailuresTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

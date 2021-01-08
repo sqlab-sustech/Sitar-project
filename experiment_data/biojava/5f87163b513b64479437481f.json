@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/io/FastaAFPChainConverter.java",
+ "prod_sha1": "86208a58f147db1b5f7d0102ff7bbb67b0cb9872",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/structure/io/FastaAFPChainConverter.java",
+ "prod_time": {
+  "$date": 1371688553000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/io/FastaAFPChainConverterTest.java",
+ "test_qual": "org/biojava/bio/structure/io/FastaAFPChainConverterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 0,
+ "add_condition_line": 8,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 15,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/config/LoggersPlugin.java",
+ "prod_sha1": "10ad73fbce5b10df4b94986f9058164bf291cbc9",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/config/LoggersPluginTest.java",
+ "test_sha1": "10ad73fbce5b10df4b94986f9058164bf291cbc9",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/config/LoggersPlugin.java",
+ "prod_time": {
+  "$date": 1498801805000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/config/LoggersPluginTest.java",
+ "test_time": {
+  "$date": 1498801805000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

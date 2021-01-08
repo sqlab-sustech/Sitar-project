@@ -1,0 +1,32 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/NumbersUtil.java",
+ "prod_sha1": "aacf8ef77b9859329be5199dad195f7ebcd8dbf6",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/utils/NumbersUtil.java",
+ "prod_time": {
+  "$date": 1405414397000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "utils/test/com/cloud/utils/NumbersUtilTest.java",
+ "test_qual": "com/cloud/utils/NumbersUtilTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 7,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

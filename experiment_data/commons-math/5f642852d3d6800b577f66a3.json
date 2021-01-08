@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/optimization/direct/NelderMead.java",
+ "prod_sha1": "722fc97a7a30103490089a5eb22a49fd433f74f3",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+ "test_sha1": "722fc97a7a30103490089a5eb22a49fd433f74f3",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/optimization/direct/NelderMead.java",
+ "prod_time": {
+  "$date": 1235675859000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/optimization/direct/NelderMeadTest.java",
+ "test_time": {
+  "$date": 1235675859000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 17,
+ "add_classname_line": 1,
+ "add_condition_line": 15,
+ "add_field_line": 5,
+ "add_import_line": 2,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

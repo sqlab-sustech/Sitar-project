@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/container/guice/guice-common/src/main/java/org/apache/james/utils/RetryExecutorUtil.java",
+ "prod_sha1": "a34bc332e82239665918e16bbaded2382260c097",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/utils/RetryExecutorUtil.java",
+ "prod_time": {
+  "$date": 1496239492000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/container/guice/guice-common/src/test/java/org/apache/james/utils/RetryExecutorUtilTest.java",
+ "test_qual": "org/apache/james/utils/RetryExecutorUtilTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

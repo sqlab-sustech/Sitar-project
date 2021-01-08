@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/backtype/storm/utils/RateTracker.java",
+ "prod_sha1": "3b8db7adc64750a33694fad8ae7080dc83623d17",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/backtype/storm/utils/RateTrackerTest.java",
+ "test_sha1": "d03caab09307af5f8960f33632006b5ff18941ef",
+ "commit_between": 1,
+ "prod_qual": "jvm/backtype/storm/utils/RateTracker.java",
+ "prod_time": {
+  "$date": 1441118520000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/backtype/storm/utils/RateTrackerTest.java",
+ "test_time": {
+  "$date": 1441205031000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 2,
+ "add_condition_line": 5,
+ "add_field_line": 5,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 7,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

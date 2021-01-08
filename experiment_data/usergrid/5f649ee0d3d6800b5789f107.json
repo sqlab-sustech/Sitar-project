@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/corepersistence/queryindex/src/main/java/org/apache/usergrid/utils/JsonUtils.java",
+ "prod_sha1": "2809a67d92aaab85be354a445c5ea7cbac67a67f",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/utils/JsonUtils.java",
+ "prod_time": {
+  "$date": 1395861178000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/core/src/test/java/org/apache/usergrid/utils/JsonUtilsTest.java",
+ "test_qual": "org/apache/usergrid/utils/JsonUtilsTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 3,
+ "del_call_line": 42,
+ "del_classname_line": 1,
+ "del_condition_line": 25,
+ "del_field_line": 5,
+ "del_import_line": 19,
+ "del_packageid_line": 1,
+ "del_parameter_line": 12,
+ "del_return_line": 22,
+ "test_typ": "Non"
+}

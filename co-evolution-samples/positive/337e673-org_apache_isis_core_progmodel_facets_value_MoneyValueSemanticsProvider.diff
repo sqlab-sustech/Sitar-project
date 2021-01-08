@@ -1,0 +1,15 @@
+diff --git a/core/progmodel/src/main/java/org/apache/isis/core/progmodel/facets/value/MoneyValueSemanticsProvider.java b/core/progmodel/src/main/java/org/apache/isis/core/progmodel/facets/value/MoneyValueSemanticsProvider.java
+index 13e750487f..e20d7327f3 100644
+--- a/core/progmodel/src/main/java/org/apache/isis/core/progmodel/facets/value/MoneyValueSemanticsProvider.java
++++ b/core/progmodel/src/main/java/org/apache/isis/core/progmodel/facets/value/MoneyValueSemanticsProvider.java
+@@ -34,8 +34,8 @@
+ import org.apache.isis.core.metamodel.adapter.TextEntryParseException;
+ import org.apache.isis.core.metamodel.config.ConfigurationConstants;
+ import org.apache.isis.core.metamodel.config.IsisConfiguration;
+-import org.apache.isis.core.metamodel.facets.Facet;
+-import org.apache.isis.core.metamodel.facets.FacetHolder;
++import org.apache.isis.core.metamodel.facetapi.Facet;
++import org.apache.isis.core.metamodel.facetapi.FacetHolder;
+ import org.apache.isis.core.metamodel.facets.properties.defaults.PropertyDefaultFacet;
+ import org.apache.isis.core.progmodel.facets.object.value.ValueSemanticsProviderContext;
+ 

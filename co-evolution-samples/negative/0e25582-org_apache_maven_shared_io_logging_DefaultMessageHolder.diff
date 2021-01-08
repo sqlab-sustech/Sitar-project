@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/maven/shared/io/logging/DefaultMessageHolder.java b/src/main/java/org/apache/maven/shared/io/logging/DefaultMessageHolder.java
+index 21ae247..97eeb06 100644
+--- a/src/main/java/org/apache/maven/shared/io/logging/DefaultMessageHolder.java
++++ b/src/main/java/org/apache/maven/shared/io/logging/DefaultMessageHolder.java
+@@ -242,7 +242,7 @@ public class DefaultMessageHolder
+ 
+         private final MessageSink onDemandSink;
+ 
+-        public Message( int messageLevel, MessageSink onDemandSink )
++        Message( int messageLevel, MessageSink onDemandSink )
+         {
+             this.messageLevel = messageLevel;
+ 

@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/CrossTask.java",
+ "prod_sha1": "f10555205707a9ff857a00097a6f475621fb3e4f",
+ "repository": "flink",
+ "test_path": "pact/pact-runtime/src/test/java/eu/stratosphere/pact/runtime/task/CrossTaskTest.java",
+ "test_sha1": "f10555205707a9ff857a00097a6f475621fb3e4f",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/pact/runtime/task/CrossTask.java",
+ "prod_time": {
+  "$date": 1303911347000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/pact/runtime/task/CrossTaskTest.java",
+ "test_time": {
+  "$date": 1303911347000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 6,
+ "add_call_line": 84,
+ "add_classname_line": 1,
+ "add_condition_line": 26,
+ "add_field_line": 9,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 36,
+ "del_classname_line": 1,
+ "del_condition_line": 12,
+ "del_field_line": 1,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0
+}

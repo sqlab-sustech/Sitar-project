@@ -1,0 +1,13 @@
+diff --git a/stack/corepersistence/common/src/main/java/org/apache/usergrid/persistence/core/datastax/DataStaxCluster.java b/stack/corepersistence/common/src/main/java/org/apache/usergrid/persistence/core/datastax/DataStaxCluster.java
+index 768a7a27b..ea76f928a 100644
+--- a/stack/corepersistence/common/src/main/java/org/apache/usergrid/persistence/core/datastax/DataStaxCluster.java
++++ b/stack/corepersistence/common/src/main/java/org/apache/usergrid/persistence/core/datastax/DataStaxCluster.java
+@@ -30,7 +30,7 @@ public interface DataStaxCluster {
+ 
+     Session getApplicationSession();
+ 
+-    void createOrUpdateKeyspace() throws Exception;
++    void createApplicationKeyspace() throws Exception;
+ 
+     void waitForSchemaAgreement();
+ 

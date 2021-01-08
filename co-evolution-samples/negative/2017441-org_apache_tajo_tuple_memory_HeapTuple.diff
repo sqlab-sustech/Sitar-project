@@ -1,0 +1,13 @@
+diff --git a/tajo-common/src/main/java/org/apache/tajo/tuple/memory/HeapTuple.java b/tajo-common/src/main/java/org/apache/tajo/tuple/memory/HeapTuple.java
+index 5d2fdc907..9f508b3a2 100644
+--- a/tajo-common/src/main/java/org/apache/tajo/tuple/memory/HeapTuple.java
++++ b/tajo-common/src/main/java/org/apache/tajo/tuple/memory/HeapTuple.java
+@@ -100,7 +100,7 @@ public class HeapTuple extends ZeroCopyTuple implements Cloneable {
+   }
+ 
+   @Override
+-  public void put(int fieldId, Tuple tuple) {
++  public void insertTuple(int fieldId, Tuple tuple) {
+     throw new TajoRuntimeException(new UnsupportedException());
+   }
+ 

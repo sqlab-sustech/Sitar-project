@@ -1,0 +1,20 @@
+diff --git a/odata2-lib/odata-core/src/main/java/org/apache/olingo/odata2/core/ep/producer/JsonEntryEntityProducer.java b/odata2-lib/odata-core/src/main/java/org/apache/olingo/odata2/core/ep/producer/JsonEntryEntityProducer.java
+index 783aca32..6ae56777 100644
+--- a/odata2-lib/odata-core/src/main/java/org/apache/olingo/odata2/core/ep/producer/JsonEntryEntityProducer.java
++++ b/odata2-lib/odata-core/src/main/java/org/apache/olingo/odata2/core/ep/producer/JsonEntryEntityProducer.java
+@@ -254,15 +254,4 @@ public class JsonEntryEntityProducer {
+   public String getLocation() {
+     return location;
+   }
+-
+-  private String extractKey(final Map<String, Object> data, final String mediaResourceMimeTypeKey)
+-      throws EntityProviderException {
+-    Object key = data.get(mediaResourceMimeTypeKey);
+-    if (key == null || key instanceof String) {
+-      return (String) key;
+-    } else {
+-      throw new EntityProviderException(EntityProviderException.ILLEGAL_ARGUMENT
+-          .addContent("Key must be of type String"));
+-    }
+-  }
+ }

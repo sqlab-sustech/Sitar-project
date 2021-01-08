@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-cleansing/src/main/java/eu/stratosphere/usecase/cleansing/AggExpression.java",
+ "prod_sha1": "af5387234e2af98f1a7ca719411482f722e6f6a7",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/usecase/cleansing/AggExpression.java",
+ "prod_time": {
+  "$date": 1314391334000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-cleansing/src/test/java/eu/stratosphere/usecase/cleansing/AggExpressionTest.java",
+ "test_qual": "eu/stratosphere/usecase/cleansing/AggExpressionTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

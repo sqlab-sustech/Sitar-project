@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/align/util/AtomCache.java",
+ "prod_sha1": "a81c197b7c09145d393b6d92785ecf170c131ee7",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/structure/align/util/AtomCache.java",
+ "prod_time": {
+  "$date": 1376085861000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/align/util/AtomCacheTest.java",
+ "test_qual": "org/biojava/bio/structure/align/util/AtomCacheTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 103,
+ "add_classname_line": 0,
+ "add_condition_line": 35,
+ "add_field_line": 15,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 36,
+ "add_return_line": 28,
+ "del_annotation_line": 1,
+ "del_call_line": 101,
+ "del_classname_line": 0,
+ "del_condition_line": 40,
+ "del_field_line": 8,
+ "del_import_line": 0,
+ "del_packageid_line": 1,
+ "del_parameter_line": 16,
+ "del_return_line": 26,
+ "test_typ": "Non"
+}

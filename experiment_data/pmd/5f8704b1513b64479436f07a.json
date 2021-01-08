@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/SimpleRuleSetNameMapper.java",
+ "prod_sha1": "81d80c2c736c609a0e3a34fea972dffa719f4576",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/SimpleRuleSetNameMapper.java",
+ "prod_time": {
+  "$date": 1159022649000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/SimpleRuleSetNameMapperTest.java",
+ "test_qual": "net/sourceforge/pmd/SimpleRuleSetNameMapperTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

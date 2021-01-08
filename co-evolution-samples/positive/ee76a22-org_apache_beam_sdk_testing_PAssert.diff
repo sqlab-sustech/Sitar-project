@@ -1,0 +1,20 @@
+diff --git a/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/PAssert.java b/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/PAssert.java
+index 200d0e466f..0da4865059 100644
+--- a/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/PAssert.java
++++ b/sdks/java/core/src/main/java/org/apache/beam/sdk/testing/PAssert.java
+@@ -148,6 +148,7 @@ public class PAssert {
+    */
+   public static class DefaultConcludeTransform
+       extends PTransform<PCollection<SuccessOrFailure>, PCollection<Void>> {
++    @Override
+     public PCollection<Void> expand(PCollection<SuccessOrFailure> input) {
+       return input.apply(ParDo.of(new DefaultConcludeFn()));
+     }
+@@ -1518,6 +1519,7 @@ public class PAssert {
+       return CompositeBehavior.ENTER_TRANSFORM;
+     }
+ 
++    @Override
+     public void leaveCompositeTransform(Node node) {
+       if (node.isRootNode()) {
+         pipelineVisited = true;

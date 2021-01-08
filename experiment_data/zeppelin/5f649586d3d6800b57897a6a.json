@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/com/nflabs/zeppelin/notebook/form/Input.java",
+ "prod_sha1": "adc0d2f18be4d857d2964266c526155342eca5eb",
+ "repository": "zeppelin",
+ "prod_qual": "com/nflabs/zeppelin/notebook/form/Input.java",
+ "prod_time": {
+  "$date": 1416469912000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-zengine/src/test/java/com/nflabs/zeppelin/notebook/form/InputTest.java",
+ "test_qual": "com/nflabs/zeppelin/notebook/form/InputTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 85,
+ "add_classname_line": 1,
+ "add_condition_line": 44,
+ "add_field_line": 8,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 33,
+ "add_return_line": 25,
+ "del_annotation_line": 0,
+ "del_call_line": 76,
+ "del_classname_line": 2,
+ "del_condition_line": 38,
+ "del_field_line": 8,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 31,
+ "del_return_line": 20,
+ "test_typ": "Non"
+}

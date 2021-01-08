@@ -1,0 +1,15 @@
+diff --git a/security-admin/src/main/java/org/apache/ranger/rest/ServiceREST.java b/security-admin/src/main/java/org/apache/ranger/rest/ServiceREST.java
+index 865e115d3..0b854d0d7 100644
+--- a/security-admin/src/main/java/org/apache/ranger/rest/ServiceREST.java
++++ b/security-admin/src/main/java/org/apache/ranger/rest/ServiceREST.java
+@@ -464,6 +464,10 @@ public class ServiceREST {
+ 			LOG.debug("==> ServiceREST.getServiceDefs()");
+ 		}
+ 
++		if (!bizUtil.hasModuleAccess(RangerConstants.MODULE_RESOURCE_BASED_POLICIES)) {
++			throw restErrorUtil.createRESTException(HttpServletResponse.SC_FORBIDDEN, "User is not having permissions on the "+RangerConstants.MODULE_RESOURCE_BASED_POLICIES+" module.", true);
++		}
++
+ 		RangerServiceDefList ret  = null;
+ 		RangerPerfTracer     perf = null;
+ 

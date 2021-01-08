@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/util/StringScanner.java",
+ "prod_sha1": "3759fe48f299ccbe51ebe2478400192af6146de5",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/util/StringScanner.java",
+ "prod_time": {
+  "$date": 1196971419000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "test/org/jruby/util/StringScannerTest.java",
+ "test_qual": "org/jruby/util/StringScannerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 24,
+ "add_classname_line": 0,
+ "add_condition_line": 8,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 15,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "test/org/jruby/test/Overloaded.java",
+ "prod_sha1": "0ed046275d8003633e3ac1b4cebdbd0d7ac4bf8e",
+ "repository": "jruby",
+ "test_path": "test/org/jruby/test/OverloadedTest.java",
+ "test_sha1": "0ed046275d8003633e3ac1b4cebdbd0d7ac4bf8e",
+ "commit_between": 0,
+ "prod_qual": "Overloaded.java",
+ "prod_time": {
+  "$date": 1211184495000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "OverloadedTest.java",
+ "test_time": {
+  "$date": 1211184495000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

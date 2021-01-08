@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/plist/PListImpl.java",
+ "prod_sha1": "734fb7dda35285ada7bc57642215077e08c88e80",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/store/kahadb/plist/PListImpl.java",
+ "prod_time": {
+  "$date": 1440183488000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/plist/PListImplTest.java",
+ "test_qual": "org/apache/activemq/store/kahadb/plist/PListImplTest.java",
+ "add_annotation_line": 16,
+ "add_call_line": 23,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

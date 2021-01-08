@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/mailet/mailets/src/main/java/org/apache/james/transport/mailets/AbstractRedirect.java",
+ "prod_sha1": "86163a4ef4bdc3a43aee57de8f00f38d9b4e0475",
+ "repository": "james-project",
+ "test_path": "server/mailet/mailets/src/test/java/org/apache/james/transport/mailets/AbstractRedirectTest.java",
+ "test_sha1": "66eb06cf73ee9a402ba5118222dc45cee70efe3a",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/transport/mailets/AbstractRedirect.java",
+ "prod_time": {
+  "$date": 1473234663000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/mailets/AbstractRedirectTest.java",
+ "test_time": {
+  "$date": 1473256231000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 56,
+ "add_classname_line": 0,
+ "add_condition_line": 25,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 12,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

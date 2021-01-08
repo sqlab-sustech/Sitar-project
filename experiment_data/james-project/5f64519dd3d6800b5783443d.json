@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/backup/src/main/java/org/apache/james/mailbox/backup/MailboxIdExtraField.java",
+ "prod_sha1": "628420f3218af8ad5d8cc653cd1ceb9f6bb663a1",
+ "repository": "james-project",
+ "test_path": "mailbox/backup/src/test/java/org/apache/james/mailbox/backup/MailboxIdExtraFieldTest.java",
+ "test_sha1": "628420f3218af8ad5d8cc653cd1ceb9f6bb663a1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/backup/MailboxIdExtraField.java",
+ "prod_time": {
+  "$date": 1529504211000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/backup/MailboxIdExtraFieldTest.java",
+ "test_time": {
+  "$date": 1529504211000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 1,
+ "del_annotation_line": 1,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 1
+}

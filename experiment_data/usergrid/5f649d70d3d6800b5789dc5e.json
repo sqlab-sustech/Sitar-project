@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/queryindex/src/main/java/org/apache/usergrid/persistence/index/impl/EsEntityIndexDeleteListener.java",
+ "prod_sha1": "d18b7a6b9e5e1afe45cb92abc752981fbed1bb97",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/queryindex/src/test/java/org/apache/usergrid/persistence/index/impl/EsEntityIndexDeleteListenerTest.java",
+ "test_sha1": "ee8b525627eacb0ebb52a04e3ba88c317cc26530",
+ "commit_between": 24,
+ "prod_qual": "org/apache/usergrid/persistence/index/impl/EsEntityIndexDeleteListener.java",
+ "prod_time": {
+  "$date": 1399912186000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/index/impl/EsEntityIndexDeleteListenerTest.java",
+ "test_time": {
+  "$date": 1400000359000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 2
+}

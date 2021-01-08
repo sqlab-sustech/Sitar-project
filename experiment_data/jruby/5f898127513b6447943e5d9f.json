@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/ast/visitor/rewriter/ReWriteVisitor.java",
+ "prod_sha1": "f6c5f74ee35d85e90253fd3312187b8f2fdd17e5",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/ast/visitor/rewriter/ReWriteVisitor.java",
+ "prod_time": {
+  "$date": 1186778803000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "test/org/jruby/ast/visitor/rewriter/TestReWriteVisitor.java",
+ "test_qual": "org/jruby/ast/visitor/rewriter/TestReWriteVisitor.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

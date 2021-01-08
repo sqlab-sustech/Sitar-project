@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/helium/HeliumBundleFactory.java",
+ "prod_sha1": "241fd0344da3f6fbda7ba8d0976a85a51e3c33e9",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/helium/HeliumBundleFactoryTest.java",
+ "test_sha1": "241fd0344da3f6fbda7ba8d0976a85a51e3c33e9",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/helium/HeliumBundleFactory.java",
+ "prod_time": {
+  "$date": 1491296354000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/helium/HeliumBundleFactoryTest.java",
+ "test_time": {
+  "$date": 1491296354000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 134,
+ "add_classname_line": 0,
+ "add_condition_line": 30,
+ "add_field_line": 11,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 26,
+ "add_return_line": 14,
+ "del_annotation_line": 0,
+ "del_call_line": 55,
+ "del_classname_line": 0,
+ "del_condition_line": 9,
+ "del_field_line": 6,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 11,
+ "del_return_line": 5
+}

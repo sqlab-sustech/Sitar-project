@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/ReplaceContent.java",
+ "prod_sha1": "af067c6877e1edd810e19d484ce99f295389ef19",
+ "repository": "james-project",
+ "test_path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/ReplaceContentTest.java",
+ "test_sha1": "af067c6877e1edd810e19d484ce99f295389ef19",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/transport/mailets/ReplaceContent.java",
+ "prod_time": {
+  "$date": 1472479994000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/mailets/ReplaceContentTest.java",
+ "test_time": {
+  "$date": 1472479994000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 4,
+ "add_call_line": 91,
+ "add_classname_line": 0,
+ "add_condition_line": 34,
+ "add_field_line": 3,
+ "add_import_line": 14,
+ "add_packageid_line": 0,
+ "add_parameter_line": 23,
+ "add_return_line": 24,
+ "del_annotation_line": 4,
+ "del_call_line": 64,
+ "del_classname_line": 1,
+ "del_condition_line": 25,
+ "del_field_line": 9,
+ "del_import_line": 11,
+ "del_packageid_line": 0,
+ "del_parameter_line": 13,
+ "del_return_line": 14
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "web/src/main/java/org/apache/logging/log4j/core/web/Log4jContextListener.java",
+ "prod_sha1": "73ecc37e3fc8a6c261bb896df54b277551636095",
+ "repository": "logging-log4j2",
+ "test_path": "web/src/test/java/org/apache/logging/log4j/core/web/Log4jContextListenerTest.java",
+ "test_sha1": "73ecc37e3fc8a6c261bb896df54b277551636095",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/web/Log4jContextListener.java",
+ "prod_time": {
+  "$date": 1373191021000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/web/Log4jContextListenerTest.java",
+ "test_time": {
+  "$date": 1373191021000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 2,
+ "del_call_line": 10,
+ "del_classname_line": 1,
+ "del_condition_line": 2,
+ "del_field_line": 4,
+ "del_import_line": 8,
+ "del_packageid_line": 1,
+ "del_parameter_line": 3,
+ "del_return_line": 3
+}

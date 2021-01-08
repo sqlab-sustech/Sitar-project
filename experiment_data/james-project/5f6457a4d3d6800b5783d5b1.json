@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/data/data-file/src/main/java/org/apache/james/domainlist/xml/XMLDomainList.java",
+ "prod_sha1": "3b1dd218e3a422847b731375fe2ca5a5f4756b8b",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/domainlist/xml/XMLDomainList.java",
+ "prod_time": {
+  "$date": 1446476065000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/data/data-file/src/test/java/org/apache/james/domainlist/xml/XMLDomainListTest.java",
+ "test_qual": "org/apache/james/domainlist/xml/XMLDomainListTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 2,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

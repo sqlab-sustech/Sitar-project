@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/api/src/main/java/org/apache/james/mailbox/extension/PreDeletionHook.java",
+ "prod_sha1": "ff5f4538b413d9d479f05dafb2407ebf998fd377",
+ "repository": "james-project",
+ "test_path": "mailbox/api/src/test/java/org/apache/james/mailbox/extension/PreDeletionHookTest.java",
+ "test_sha1": "ff5f4538b413d9d479f05dafb2407ebf998fd377",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/extension/PreDeletionHook.java",
+ "prod_time": {
+  "$date": 1550556033000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/extension/PreDeletionHookTest.java",
+ "test_time": {
+  "$date": 1550556033000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 4,
+ "add_call_line": 8,
+ "add_classname_line": 2,
+ "add_condition_line": 2,
+ "add_field_line": 3,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 13,
+ "add_return_line": 13,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

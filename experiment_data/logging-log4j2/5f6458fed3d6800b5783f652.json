@@ -1,0 +1,37 @@
+{
+ "prod_path": "api/src/main/java/org/apache/logging/log4j/spi/DefaultThreadContextStack.java",
+ "prod_sha1": "6fe169ff06b44e86fb2e787f29ff8192c7be461e",
+ "repository": "logging-log4j2",
+ "test_path": "api/src/test/java/org/apache/logging/log4j/spi/DefaultThreadContextStackTest.java",
+ "test_sha1": "6fe169ff06b44e86fb2e787f29ff8192c7be461e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/spi/DefaultThreadContextStack.java",
+ "prod_time": {
+  "$date": 1369606289000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/spi/DefaultThreadContextStackTest.java",
+ "test_time": {
+  "$date": 1369606289000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 58,
+ "add_classname_line": 1,
+ "add_condition_line": 22,
+ "add_field_line": 3,
+ "add_import_line": 6,
+ "add_packageid_line": 1,
+ "add_parameter_line": 21,
+ "add_return_line": 35,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

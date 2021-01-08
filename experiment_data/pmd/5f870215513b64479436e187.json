@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/cpd/TokenEntry.java",
+ "prod_sha1": "58e022db8eb81f0174070e4aaf693792b62ff28a",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/cpd/TokenEntryTest.java",
+ "test_sha1": "58e022db8eb81f0174070e4aaf693792b62ff28a",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/cpd/TokenEntry.java",
+ "prod_time": {
+  "$date": 1028658272000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/cpd/TokenEntryTest.java",
+ "test_time": {
+  "$date": 1028658272000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 6,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

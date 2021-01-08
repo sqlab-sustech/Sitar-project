@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/io/IOContext.java",
+ "prod_sha1": "f633f108db4fe343a0f7652eb4b29e0fa625a6fc",
+ "repository": "jackson-core",
+ "prod_qual": "com/fasterxml/jackson/core/io/IOContext.java",
+ "prod_time": {
+  "$date": 1386998124000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/io/TestIOContext.java",
+ "test_qual": "com/fasterxml/jackson/core/io/TestIOContext.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 6,
+ "test_typ": "Non"
+}

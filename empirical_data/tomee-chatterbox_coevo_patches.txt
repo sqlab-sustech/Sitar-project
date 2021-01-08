@@ -1,0 +1,1 @@
+tomee-chatterbox CC 524bf29e678a589a0243174971a19ca3083e2042 524bf29e678a589a0243174971a19ca3083e2042 chatterbox-twitter/chatterbox-twitter-impl/src/main/java/org/apache/tomee/chatterbox/twitter/adapter/TwitterResourceAdapter.java chatterbox-twitter/chatterbox-twitter-sample-war/src/test/java/org/apache/tomee/chatterbox/twitter/adapter/TwitterResourceAdapterTest.java

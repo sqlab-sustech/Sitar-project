@@ -1,0 +1,37 @@
+{
+ "prod_path": "structure/src/main/java/org/biojava/bio/structure/Element.java",
+ "prod_sha1": "5921612b3ae2a30e7616335567dca7a014ddf0e8",
+ "repository": "biojava",
+ "test_path": "structure/src/test/java/org/biojava/bio/structure/ElementTest.java",
+ "test_sha1": "394dad01d6467f54fdaabfaef2e3ac698b2174b2",
+ "commit_between": 1,
+ "prod_qual": "org/biojava/bio/structure/Element.java",
+ "prod_time": {
+  "$date": 1280265755000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/bio/structure/ElementTest.java",
+ "test_time": {
+  "$date": 1280265801000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 3
+}

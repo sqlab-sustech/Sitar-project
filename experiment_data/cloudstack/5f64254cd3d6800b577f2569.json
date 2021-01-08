@@ -1,0 +1,32 @@
+{
+ "prod_path": "plugins/hypervisors/xen/src/com/cloud/hypervisor/xen/resource/CitrixResourceBase.java",
+ "prod_sha1": "3be221c452472e39e7ba252a3f48451c2150c913",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/hypervisor/xen/resource/CitrixResourceBase.java",
+ "prod_time": {
+  "$date": 1389617612000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "plugins/hypervisors/xen/test/com/cloud/hypervisor/xen/resource/CitrixResourceBaseTest.java",
+ "test_qual": "com/cloud/hypervisor/xen/resource/CitrixResourceBaseTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 15,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 0,
+ "add_import_line": 30,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 3,
+ "del_annotation_line": 6,
+ "del_call_line": 239,
+ "del_classname_line": 2,
+ "del_condition_line": 90,
+ "del_field_line": 24,
+ "del_import_line": 57,
+ "del_packageid_line": 0,
+ "del_parameter_line": 23,
+ "del_return_line": 55,
+ "test_typ": "Non"
+}

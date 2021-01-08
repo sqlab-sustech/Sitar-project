@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/cluster/SubunitCluster.java",
+ "prod_sha1": "a08c0e1a0e5dabdd31799caebb653a565d17b79f",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/cluster/TestSubunitCluster.java",
+ "test_sha1": "a08c0e1a0e5dabdd31799caebb653a565d17b79f",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/cluster/SubunitCluster.java",
+ "prod_time": {
+  "$date": 1466599220000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/cluster/TestSubunitCluster.java",
+ "test_time": {
+  "$date": 1466599220000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 118,
+ "add_classname_line": 1,
+ "add_condition_line": 42,
+ "add_field_line": 6,
+ "add_import_line": 19,
+ "add_packageid_line": 1,
+ "add_parameter_line": 12,
+ "add_return_line": 16,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

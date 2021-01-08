@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/scxml/SCInstance.java b/src/main/java/org/apache/commons/scxml/SCInstance.java
+index f9f4551..86b00ba 100644
+--- a/src/main/java/org/apache/commons/scxml/SCInstance.java
++++ b/src/main/java/org/apache/commons/scxml/SCInstance.java
+@@ -359,7 +359,7 @@ public class SCInstance implements Serializable {
+      *
+      * @return The map of invokers.
+      */
+-    public Map getInvokers() {
++    public Map<TransitionTarget, Invoker> getInvokers() {
+         return invokers;
+     }
+ 

@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/protocols/webadmin/webadmin-mailrepository/src/main/java/org/apache/james/webadmin/service/MailRepositoryStoreService.java",
+ "prod_sha1": "c94d35e22ea841c67054ad2247fe76ff3d20a61a",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/webadmin/service/MailRepositoryStoreService.java",
+ "prod_time": {
+  "$date": 1528107639000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/protocols/webadmin/webadmin-mailrepository/src/test/java/org/apache/james/webadmin/service/MailRepositoryStoreServiceTest.java",
+ "test_qual": "org/apache/james/webadmin/service/MailRepositoryStoreServiceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

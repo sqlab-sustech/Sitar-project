@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/com/gemstone/gemfire/internal/cache/EntryEventImpl.java",
+ "prod_sha1": "d07c966bb6e0a961963433a81d2fa49c913c552d",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/com/gemstone/gemfire/internal/cache/EntryEventImplTest.java",
+ "test_sha1": "d07c966bb6e0a961963433a81d2fa49c913c552d",
+ "commit_between": 0,
+ "prod_qual": "com/gemstone/gemfire/internal/cache/EntryEventImpl.java",
+ "prod_time": {
+  "$date": 1465341513000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/gemstone/gemfire/internal/cache/EntryEventImplTest.java",
+ "test_time": {
+  "$date": 1465341513000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 7,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

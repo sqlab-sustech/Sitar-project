@@ -1,0 +1,37 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/format/PeriodFormatterBuilder.java",
+ "prod_sha1": "c2eb7b74ad0089ae97c4197ebf4079c03f4c9cfd",
+ "repository": "joda-time",
+ "test_path": "JodaTime/src/test/org/joda/time/format/TestPeriodFormatterBuilder.java",
+ "test_sha1": "b1d6e41a01e90bb783cd9378e4fd7c378b24470f",
+ "commit_between": 1,
+ "prod_qual": "org/joda/time/format/PeriodFormatterBuilder.java",
+ "prod_time": {
+  "$date": 1093460696000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/joda/time/format/TestPeriodFormatterBuilder.java",
+ "test_time": {
+  "$date": 1093460741000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 32,
+ "add_classname_line": 0,
+ "add_condition_line": 17,
+ "add_field_line": 5,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 10,
+ "del_annotation_line": 0,
+ "del_call_line": 9,
+ "del_classname_line": 2,
+ "del_condition_line": 2,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 4
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/chrono/CopticChronology.java",
+ "prod_sha1": "9c0781d414b9eee98f78d168b5db6c2cdda5147d",
+ "repository": "joda-time",
+ "prod_qual": "org/joda/time/chrono/CopticChronology.java",
+ "prod_time": {
+  "$date": 1133822805000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "JodaTime/src/test/org/joda/time/chrono/TestCopticChronology.java",
+ "test_qual": "org/joda/time/chrono/TestCopticChronology.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

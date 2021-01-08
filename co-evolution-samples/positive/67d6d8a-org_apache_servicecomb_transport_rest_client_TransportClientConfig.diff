@@ -1,0 +1,15 @@
+diff --git a/transports/transport-rest/transport-rest-client/src/main/java/org/apache/servicecomb/transport/rest/client/TransportClientConfig.java b/transports/transport-rest/transport-rest-client/src/main/java/org/apache/servicecomb/transport/rest/client/TransportClientConfig.java
+index a5f08d60a..f9f7c14ca 100644
+--- a/transports/transport-rest/transport-rest-client/src/main/java/org/apache/servicecomb/transport/rest/client/TransportClientConfig.java
++++ b/transports/transport-rest/transport-rest-client/src/main/java/org/apache/servicecomb/transport/rest/client/TransportClientConfig.java
+@@ -92,4 +92,10 @@ public final class TransportClientConfig {
+             HttpClientOptions.DEFAULT_TRY_USE_COMPRESSION)
+         .get();
+   }
++
++  public static int getMaxHeaderSize() {
++    return DynamicPropertyFactory.getInstance()
++        .getIntProperty("servicecomb.rest.client.maxHeaderSize", HttpClientOptions.DEFAULT_MAX_HEADER_SIZE)
++        .get();
++  }
+ }

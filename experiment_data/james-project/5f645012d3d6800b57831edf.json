@@ -1,0 +1,37 @@
+{
+ "prod_path": "core/src/main/java/org/apache/james/core/builder/MimeMessageBuilder.java",
+ "prod_sha1": "ae042f00f0343a89bfdb0c58f802b87b8fb4e73b",
+ "repository": "james-project",
+ "test_path": "core/src/test/java/org/apache/james/core/builder/MimeMessageBuilderTest.java",
+ "test_sha1": "ae042f00f0343a89bfdb0c58f802b87b8fb4e73b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/core/builder/MimeMessageBuilder.java",
+ "prod_time": {
+  "$date": 1522297745000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/core/builder/MimeMessageBuilderTest.java",
+ "test_time": {
+  "$date": 1522297745000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

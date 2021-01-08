@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/server/ConfigurationServerImpl.java",
+ "prod_sha1": "81d01369d76ecf5e64d1786777d84e599f42cfa1",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/server/ConfigurationServerImpl.java",
+ "prod_time": {
+  "$date": 1382556713000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/server/ConfigurationServerImplTest.java",
+ "test_qual": "com/cloud/server/ConfigurationServerImplTest.java",
+ "add_annotation_line": 5,
+ "add_call_line": 259,
+ "add_classname_line": 0,
+ "add_condition_line": 23,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 0,
+ "del_annotation_line": 5,
+ "del_call_line": 239,
+ "del_classname_line": 0,
+ "del_condition_line": 22,
+ "del_field_line": 0,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

@@ -1,0 +1,16 @@
+diff --git a/src/java/org/apache/nutch/metadata/Metadata.java b/src/java/org/apache/nutch/metadata/Metadata.java
+index 73c40b90..fd2b637c 100644
+--- a/src/java/org/apache/nutch/metadata/Metadata.java
++++ b/src/java/org/apache/nutch/metadata/Metadata.java
+@@ -162,6 +162,11 @@ DublinCore, HttpHeaders, Nutch, Office, Feed {
+   public int size() {
+     return metadata.size();
+   }
++  
++  /** Remove all mappings from metadata. */
++  public void clear() {
++    metadata.clear();
++  }
+ 
+   public boolean equals(Object o) {
+ 

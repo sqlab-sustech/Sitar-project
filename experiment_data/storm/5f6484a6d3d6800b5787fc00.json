@@ -1,0 +1,37 @@
+{
+ "prod_path": "external/storm-hbase/src/main/java/org/apache/storm/hbase/state/HBaseKeyValueStateProvider.java",
+ "prod_sha1": "b1c04ef59a9f258e8618358529e53e7d47f9cb5a",
+ "repository": "storm",
+ "test_path": "external/storm-hbase/src/test/java/org/apache/storm/hbase/state/HBaseKeyValueStateProviderTest.java",
+ "test_sha1": "b1c04ef59a9f258e8618358529e53e7d47f9cb5a",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/hbase/state/HBaseKeyValueStateProvider.java",
+ "prod_time": {
+  "$date": 1499404401000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/hbase/state/HBaseKeyValueStateProviderTest.java",
+ "test_time": {
+  "$date": 1499404401000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 27,
+ "add_classname_line": 2,
+ "add_condition_line": 9,
+ "add_field_line": 8,
+ "add_import_line": 18,
+ "add_packageid_line": 1,
+ "add_parameter_line": 9,
+ "add_return_line": 17,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

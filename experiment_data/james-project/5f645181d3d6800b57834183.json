@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/guice/jmx/src/main/java/org/apache/james/modules/server/JmxConfiguration.java",
+ "prod_sha1": "3c3c8fc6bf247727a6f3311e0626f389ccd8b51f",
+ "repository": "james-project",
+ "test_path": "server/container/guice/jmx/src/test/java/org/apache/james/modules/server/JmxConfigurationTest.java",
+ "test_sha1": "3c3c8fc6bf247727a6f3311e0626f389ccd8b51f",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/modules/server/JmxConfiguration.java",
+ "prod_time": {
+  "$date": 1529901722000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/modules/server/JmxConfigurationTest.java",
+ "test_time": {
+  "$date": 1529901722000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 4,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 4,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 6,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,1 @@
+maven-gpg-plugin CC 11aca384c4005747d797dcc4857280d0d578d05f 11aca384c4005747d797dcc4857280d0d578d05f src/main/java/org/apache/maven/plugin/gpg/GpgVersion.java src/test/java/org/apache/maven/plugin/gpg/GpgVersionTest.java

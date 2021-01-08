@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ReflectiveCallerClassUtility.java",
+ "prod_sha1": "3c9a265dc017edf3a5d027d2db1ebc15b1e5f68d",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/impl/ReflectiveCallerClassUtilityTest.java",
+ "test_sha1": "3c9a265dc017edf3a5d027d2db1ebc15b1e5f68d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/impl/ReflectiveCallerClassUtility.java",
+ "prod_time": {
+  "$date": 1411318451000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/impl/ReflectiveCallerClassUtilityTest.java",
+ "test_time": {
+  "$date": 1411318451000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 20,
+ "del_classname_line": 1,
+ "del_condition_line": 8,
+ "del_field_line": 4,
+ "del_import_line": 6,
+ "del_packageid_line": 1,
+ "del_parameter_line": 3,
+ "del_return_line": 4
+}

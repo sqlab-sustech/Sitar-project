@@ -1,0 +1,37 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/format/ISODateTimeFormat.java",
+ "prod_sha1": "56f9a22e1c54ed9316718a367b0f9de017857332",
+ "repository": "joda-time",
+ "test_path": "JodaTime/src/test/org/joda/time/format/TestISODateTimeFormat.java",
+ "test_sha1": "c4219914d0d77a8cb88574682f14491191a1e243",
+ "commit_between": 1,
+ "prod_qual": "org/joda/time/format/ISODateTimeFormat.java",
+ "prod_time": {
+  "$date": 1095509530000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/joda/time/format/TestISODateTimeFormat.java",
+ "test_time": {
+  "$date": 1095509591000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 40,
+ "add_classname_line": 0,
+ "add_condition_line": 11,
+ "add_field_line": 10,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 9,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 8,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 2
+}

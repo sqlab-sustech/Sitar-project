@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/view/api/DeleteCondition.java",
+ "prod_sha1": "7f9a7cb7b701c7da260e1c64c1620d615bfb971c",
+ "repository": "james-project",
+ "test_path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/view/api/DeleteConditionTest.java",
+ "test_sha1": "7f9a7cb7b701c7da260e1c64c1620d615bfb971c",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/queue/rabbitmq/view/api/DeleteCondition.java",
+ "prod_time": {
+  "$date": 1560834745000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/queue/rabbitmq/view/api/DeleteConditionTest.java",
+ "test_time": {
+  "$date": 1560834745000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 10,
+ "del_annotation_line": 3,
+ "del_call_line": 4,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 1
+}

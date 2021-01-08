@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/AvoidStringLiteralsRule.java",
+ "prod_sha1": "11dc9e3e7529ad0245e0afd0356e1c3b26fd56c2",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/AvoidStringLiteralsRuleTest.java",
+ "test_sha1": "11dc9e3e7529ad0245e0afd0356e1c3b26fd56c2",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/AvoidStringLiteralsRule.java",
+ "prod_time": {
+  "$date": 1036425172000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/AvoidStringLiteralsRuleTest.java",
+ "test_time": {
+  "$date": 1036425172000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 1,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 4,
+ "add_packageid_line": 1,
+ "add_parameter_line": 2,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

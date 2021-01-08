@@ -1,0 +1,14 @@
+diff --git a/geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/DestroyJndiBindingCommand.java b/geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/DestroyJndiBindingCommand.java
+index b2769d8b8f..9ba0b92d58 100644
+--- a/geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/DestroyJndiBindingCommand.java
++++ b/geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/DestroyJndiBindingCommand.java
+@@ -84,7 +84,8 @@ public class DestroyJndiBindingCommand extends SingleGfshCommand {
+   }
+ 
+   @Override
+-  public void updateClusterConfig(String group, CacheConfig config, Object element) {
++  public boolean updateConfigForGroup(String group, CacheConfig config, Object element) {
+     CacheElement.removeElement(config.getJndiBindings(), (String) element);
++    return true;
+   }
+ }

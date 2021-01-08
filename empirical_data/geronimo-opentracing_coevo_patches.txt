@@ -1,0 +1,1 @@
+geronimo-opentracing EC eb285c9f0f2f8880bd80a8992f827fccef14a5c0 eb285c9f0f2f8880bd80a8992f827fccef14a5c0 geronimo-opentracing-impl/src/main/java/org/apache/geronimo/microprofile/opentracing/impl/IdGenerator.java geronimo-opentracing-impl/src/test/java/org/apache/geronimo/microprofile/opentracing/impl/IdGeneratorTest.java

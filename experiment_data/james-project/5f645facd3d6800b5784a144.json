@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/data/data-cassandra/src/main/java/org/apache/james/sieve/cassandra/CassandraActiveScriptDAO.java",
+ "prod_sha1": "1c69d3708503d7d1481e690f3a378b1c7d58d924",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/sieve/cassandra/CassandraActiveScriptDAO.java",
+ "prod_time": {
+  "$date": 1531992660000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/data/data-cassandra/src/test/java/org/apache/james/sieve/cassandra/CassandraActiveScriptDAOTest.java",
+ "test_qual": "org/apache/james/sieve/cassandra/CassandraActiveScriptDAOTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

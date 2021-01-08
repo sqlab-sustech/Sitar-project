@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/expressions/PathExpression.java",
+ "prod_sha1": "1787b8ad0ae51af69cfee77205bc0e1e7682bf12",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/sopremo/expressions/PathExpression.java",
+ "prod_time": {
+  "$date": 1320334434000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/expressions/PathExpressionTest.java",
+ "test_qual": "eu/stratosphere/sopremo/expressions/PathExpressionTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 4,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

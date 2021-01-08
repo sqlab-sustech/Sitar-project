@@ -1,0 +1,37 @@
+{
+ "prod_path": "protocols/imap/src/main/java/org/apache/james/imap/processor/MoveProcessor.java",
+ "prod_sha1": "56974b959d619823ccf377d4fa19bbd210b737c9",
+ "repository": "james-project",
+ "test_path": "protocols/imap/src/test/java/org/apache/james/imap/processor/MoveProcessorTest.java",
+ "test_sha1": "f0170ded7f7fcd8413b6489891cefc8ab48ab18d",
+ "commit_between": 8,
+ "prod_qual": "org/apache/james/imap/processor/MoveProcessor.java",
+ "prod_time": {
+  "$date": 1502684932000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/imap/processor/MoveProcessorTest.java",
+ "test_time": {
+  "$date": 1502708632000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

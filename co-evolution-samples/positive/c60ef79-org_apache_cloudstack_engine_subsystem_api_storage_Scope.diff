@@ -1,0 +1,11 @@
+diff --git a/engine/api/src/org/apache/cloudstack/engine/subsystem/api/storage/Scope.java b/engine/api/src/org/apache/cloudstack/engine/subsystem/api/storage/Scope.java
+index c1596d4f5f..91d4734ef1 100644
+--- a/engine/api/src/org/apache/cloudstack/engine/subsystem/api/storage/Scope.java
++++ b/engine/api/src/org/apache/cloudstack/engine/subsystem/api/storage/Scope.java
+@@ -20,5 +20,6 @@ package org.apache.cloudstack.engine.subsystem.api.storage;
+ 
+ public interface Scope {
+     public ScopeType getScopeType();
++    public boolean isSameScope(Scope scope);
+     public Long getScopeId();
+ }

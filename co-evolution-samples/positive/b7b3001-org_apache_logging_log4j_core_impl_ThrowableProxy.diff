@@ -1,0 +1,22 @@
+diff --git a/log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ThrowableProxy.java b/log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ThrowableProxy.java
+index ac93f5023..94e2be0fb 100644
+--- a/log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ThrowableProxy.java
++++ b/log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ThrowableProxy.java
+@@ -569,6 +569,8 @@ public class ThrowableProxy implements Serializable {
+             return initializeClass(className);
+         } catch (final NoClassDefFoundError ignored) {
+             return initializeClass(className);
++        } catch (final SecurityException ignored) {
++            return null;
+         }
+         return clazz;
+     }
+@@ -580,6 +582,8 @@ public class ThrowableProxy implements Serializable {
+             return null;
+         } catch (final NoClassDefFoundError ignore) {
+             return null;
++        } catch (final SecurityException ignore) {
++            return null;
+         }
+     }
+ 

@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/web/controllers/ExportLogController.java",
+ "prod_sha1": "2a248a3e4022b1f8703674ddbf017b25422454e3",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/management/internal/web/controllers/ExportLogController.java",
+ "prod_time": {
+  "$date": 1496677419000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/web/controllers/ExportLogControllerTest.java",
+ "test_qual": "org/apache/geode/management/internal/web/controllers/ExportLogControllerTest.java",
+ "add_annotation_line": 3,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

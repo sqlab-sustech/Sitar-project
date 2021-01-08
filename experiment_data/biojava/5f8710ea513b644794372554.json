@@ -1,0 +1,37 @@
+{
+ "prod_path": "structure/src/test/java/org/biojava/bio/structure/align/benchmark/MultipleAlignment.java",
+ "prod_sha1": "58be1dc0a88d016900d25a25e024b779d0c74969",
+ "repository": "biojava",
+ "test_path": "structure/src/test/java/org/biojava/bio/structure/align/benchmark/MultipleAlignmentTest.java",
+ "test_sha1": "58be1dc0a88d016900d25a25e024b779d0c74969",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/bio/structure/align/benchmark/MultipleAlignment.java",
+ "prod_time": {
+  "$date": 1270087526000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/bio/structure/align/benchmark/MultipleAlignmentTest.java",
+ "test_time": {
+  "$date": 1270087526000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 9,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 1
+}

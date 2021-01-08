@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/rest/src/main/java/org/usergrid/rest/applications/users/UserResource.java",
+ "prod_sha1": "2d93d13a5f71fdf447fc05387f8f3bea6dc59ffe",
+ "repository": "usergrid",
+ "test_path": "stack/rest/src/test/java/org/usergrid/rest/applications/users/UserResourceTest.java",
+ "test_sha1": "6d73f88967348f12762bb7509d2116b6b6de0727",
+ "commit_between": 2,
+ "prod_qual": "org/usergrid/rest/applications/users/UserResource.java",
+ "prod_time": {
+  "$date": 1330113226000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/usergrid/rest/applications/users/UserResourceTest.java",
+ "test_time": {
+  "$date": 1330127664000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 3,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

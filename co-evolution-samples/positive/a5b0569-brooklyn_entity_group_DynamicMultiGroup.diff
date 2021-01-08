@@ -1,0 +1,15 @@
+diff --git a/core/src/main/java/brooklyn/entity/group/DynamicMultiGroup.java b/core/src/main/java/brooklyn/entity/group/DynamicMultiGroup.java
+index 9dc7138f6..7fde467ed 100644
+--- a/core/src/main/java/brooklyn/entity/group/DynamicMultiGroup.java
++++ b/core/src/main/java/brooklyn/entity/group/DynamicMultiGroup.java
+@@ -18,8 +18,8 @@ public interface DynamicMultiGroup extends Entity {
+ 
+     /**
+      * Identifies the entities that are to be considered for "bucketising".
+-     * @see DynamicMultiGroupImpl#iterableForChildren(Entity)
+-     * @see DynamicMultiGroupImpl#iterableForMembers(Entity)
++     * @see DynamicMultiGroupImpl#childrenOf(Entity)
++     * @see DynamicMultiGroupImpl#membersOf(Entity)
+      */
+     @SetFromFlag("entityProvider")
+     public static final ConfigKey<Iterable<Entity>> ENTITY_PROVIDER = ConfigKeys.newConfigKey(

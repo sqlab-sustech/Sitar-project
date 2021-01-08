@@ -1,0 +1,13 @@
+diff --git a/ql/src/java/org/apache/hadoop/hive/ql/io/orc/RunLengthIntegerReader.java b/ql/src/java/org/apache/hadoop/hive/ql/io/orc/RunLengthIntegerReader.java
+index 0b987ce1c3..b30895f3d3 100644
+--- a/ql/src/java/org/apache/hadoop/hive/ql/io/orc/RunLengthIntegerReader.java
++++ b/ql/src/java/org/apache/hadoop/hive/ql/io/orc/RunLengthIntegerReader.java
+@@ -101,7 +101,7 @@ void nextVector(LongColumnVector previous, long previousLen)
+         // processing is 1, so set that if the value is null
+         previous.vector[i] = 1;
+       }
+-      if (previous.isRepeating && (delta != 0 || !repeat)) {
++      if (previous.isRepeating && i > 0 && (previous.vector[i-1] != previous.vector[i])) {
+         previous.isRepeating = false;
+       }
+     }

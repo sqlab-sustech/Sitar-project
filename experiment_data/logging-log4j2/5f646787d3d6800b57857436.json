@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/impl/ContextDataFactory.java",
+ "prod_sha1": "30851772c101dd735ee1bcdc05d9649edb4f1a7e",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/impl/ContextDataFactory.java",
+ "prod_time": {
+  "$date": 1515447984000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/impl/ContextDataFactoryTest.java",
+ "test_qual": "org/apache/logging/log4j/core/impl/ContextDataFactoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 2,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

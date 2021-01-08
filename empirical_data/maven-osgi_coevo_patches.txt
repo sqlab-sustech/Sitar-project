@@ -1,0 +1,2 @@
+maven-osgi CC 589db0ef32f82cf7a165acbe2f6cfbc48e5a9a3d 589db0ef32f82cf7a165acbe2f6cfbc48e5a9a3d src/main/java/org/apache/maven/shared/osgi/Maven2OsgiConverter.java src/test/java/org/apache/maven/shared/osgi/Maven2OsgiConverterTest.java
+maven-osgi EE 5c374ba276c4fcf125390b1a03d9e5c20e5e0235 5c374ba276c4fcf125390b1a03d9e5c20e5e0235 src/main/java/org/apache/maven/shared/osgi/Maven2OsgiConverter.java src/test/java/org/apache/maven/shared/osgi/Maven2OsgiConverterTest.java

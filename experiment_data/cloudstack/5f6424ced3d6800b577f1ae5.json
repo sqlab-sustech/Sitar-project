@@ -1,0 +1,32 @@
+{
+ "prod_path": "agent/src/com/cloud/agent/dao/impl/PropertiesStorage.java",
+ "prod_sha1": "a5caa102a847ef3da8f457b64510ee516a1b831b",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/agent/dao/impl/PropertiesStorage.java",
+ "prod_time": {
+  "$date": 1383581950000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "agent/test/com/cloud/agent/dao/impl/PropertiesStorageTest.java",
+ "test_qual": "com/cloud/agent/dao/impl/PropertiesStorageTest.java",
+ "add_annotation_line": 5,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 2,
+ "del_annotation_line": 5,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 5,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

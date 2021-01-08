@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/command/ActiveMQStreamMessage.java",
+ "prod_sha1": "09ebb720d3c5553c0945f1b3cf793e8861fa4196",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/command/ActiveMQStreamMessageTest.java",
+ "test_sha1": "09ebb720d3c5553c0945f1b3cf793e8861fa4196",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/command/ActiveMQStreamMessage.java",
+ "prod_time": {
+  "$date": 1159950578000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/command/ActiveMQStreamMessageTest.java",
+ "test_time": {
+  "$date": 1159950578000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 54,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1
+}

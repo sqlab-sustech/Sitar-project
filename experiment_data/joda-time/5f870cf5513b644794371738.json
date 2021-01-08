@@ -1,0 +1,32 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/DurationFieldType.java",
+ "prod_sha1": "3fba96d753ba2c20ef2b53487b13b323f23aced7",
+ "repository": "joda-time",
+ "prod_qual": "org/joda/time/DurationFieldType.java",
+ "prod_time": {
+  "$date": 1099731053000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "JodaTime/src/test/org/joda/time/TestDurationFieldType.java",
+ "test_qual": "org/joda/time/TestDurationFieldType.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 25,
+ "del_annotation_line": 0,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 25,
+ "test_typ": "Non"
+}

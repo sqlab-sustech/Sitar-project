@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/nl/tudelft/jpacman/board/Square.java",
+ "prod_sha1": "a6cbc3c81f3a4b6c740bffb303095b11c1a2d117",
+ "repository": "jpacman-framework",
+ "test_path": "src/test/java/nl/tudelft/jpacman/board/SquareTest.java",
+ "test_sha1": "a6cbc3c81f3a4b6c740bffb303095b11c1a2d117",
+ "commit_between": 0,
+ "prod_qual": "nl/tudelft/jpacman/board/Square.java",
+ "prod_time": {
+  "$date": 1492592656000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "nl/tudelft/jpacman/board/SquareTest.java",
+ "test_time": {
+  "$date": 1492592656000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

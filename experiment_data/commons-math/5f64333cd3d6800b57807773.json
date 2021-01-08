@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/geometry/euclidean/twod/SubLine.java",
+ "prod_sha1": "177eff33cb429de835ce4a8ea00e566be9e66912",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/geometry/euclidean/twod/SubLine.java",
+ "prod_time": {
+  "$date": 1320400146000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/geometry/euclidean/twod/SubLineTest.java",
+ "test_qual": "org/apache/commons/math/geometry/euclidean/twod/SubLineTest.java",
+ "add_annotation_line": 3,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

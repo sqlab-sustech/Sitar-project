@@ -1,0 +1,32 @@
+{
+ "prod_path": "backends-common/cassandra/src/main/java/org/apache/james/backends/cassandra/versions/CassandraSchemaVersionManager.java",
+ "prod_sha1": "1e808fa54d5452912a94549da8d2c4ab8c442ca3",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/backends/cassandra/versions/CassandraSchemaVersionManager.java",
+ "prod_time": {
+  "$date": 1505232174000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "backends-common/cassandra/src/test/java/org/apache/james/backends/cassandra/versions/CassandraSchemaVersionManagerTest.java",
+ "test_qual": "org/apache/james/backends/cassandra/versions/CassandraSchemaVersionManagerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-alignment/src/main/java/org/biojava3/alignment/SimpleProfile.java",
+ "prod_sha1": "27563ecf2cd88d4d0c5293e1604ab2fd09e9016b",
+ "repository": "biojava",
+ "prod_qual": "org/biojava3/alignment/SimpleProfile.java",
+ "prod_time": {
+  "$date": 1395353190000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-alignment/src/test/java/org/biojava3/alignment/SimpleProfileTest.java",
+ "test_qual": "org/biojava3/alignment/SimpleProfileTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

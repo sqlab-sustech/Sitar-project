@@ -1,0 +1,17 @@
+diff --git a/nephele/nephele-common/src/main/java/eu/stratosphere/nephele/execution/Environment.java b/nephele/nephele-common/src/main/java/eu/stratosphere/nephele/execution/Environment.java
+index 9862982331..aaf5593693 100644
+--- a/nephele/nephele-common/src/main/java/eu/stratosphere/nephele/execution/Environment.java
++++ b/nephele/nephele-common/src/main/java/eu/stratosphere/nephele/execution/Environment.java
+@@ -492,7 +492,11 @@ public class Environment implements Runnable, IOReadableWritable {
+ 	public void startExecution() {
+ 
+ 		if (this.executingThread == null) {
+-			this.executingThread = new Thread(this, this.taskName);
++			if (this.taskName != null) {
++				this.executingThread = new Thread(this, this.taskName);
++			} else {
++				this.executingThread = new Thread(this);
++			}
+ 			this.executingThread.start();
+ 		}
+ 	}

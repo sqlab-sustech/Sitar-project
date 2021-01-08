@@ -1,0 +1,15 @@
+diff --git a/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/action/IfLastModified.java b/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/action/IfLastModified.java
+index 66902d7d5..ffd740e2d 100644
+--- a/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/action/IfLastModified.java
++++ b/log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/action/IfLastModified.java
+@@ -30,8 +30,8 @@ import org.apache.logging.log4j.core.config.plugins.Plugin;
+ import org.apache.logging.log4j.core.config.plugins.PluginAttribute;
+ import org.apache.logging.log4j.core.config.plugins.PluginElement;
+ import org.apache.logging.log4j.core.config.plugins.PluginFactory;
+-import org.apache.logging.log4j.core.util.Clock;
+-import org.apache.logging.log4j.core.time.internal.ClockFactory;
++import org.apache.logging.log4j.core.time.Clock;
++import org.apache.logging.log4j.core.time.ClockFactory;
+ import org.apache.logging.log4j.status.StatusLogger;
+ 
+ /**

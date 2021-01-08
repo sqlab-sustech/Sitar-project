@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-core/src/main/java/org/biojava/nbio/core/sequence/io/embl/EmblParser.java",
+ "prod_sha1": "d49b3f99f4b7acab0db3877ab35160d866839f64",
+ "repository": "biojava",
+ "test_path": "biojava-core/src/test/java/org/biojava/nbio/core/sequence/io/embl/EmblParserTest.java",
+ "test_sha1": "d49b3f99f4b7acab0db3877ab35160d866839f64",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/core/sequence/io/embl/EmblParser.java",
+ "prod_time": {
+  "$date": 1512310039000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/core/sequence/io/embl/EmblParserTest.java",
+ "test_time": {
+  "$date": 1512310039000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 59,
+ "del_classname_line": 1,
+ "del_condition_line": 30,
+ "del_field_line": 20,
+ "del_import_line": 3,
+ "del_packageid_line": 1,
+ "del_parameter_line": 23,
+ "del_return_line": 16
+}

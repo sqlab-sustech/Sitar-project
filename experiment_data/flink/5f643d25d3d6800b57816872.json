@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-common/src/main/java/eu/stratosphere/nephele/services/iomanager/IOManager.java",
+ "prod_sha1": "1938891a3e7324006c5158d39f01aa8eacbf29b7",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/services/iomanager/IOManager.java",
+ "prod_time": {
+  "$date": 1308858857000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-server/src/test/java/eu/stratosphere/nephele/services/iomanager/IOManagerTest.java",
+ "test_qual": "eu/stratosphere/nephele/services/iomanager/IOManagerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 10,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "ignite/src/main/java/org/apache/zeppelin/ignite/IgniteSqlInterpreter.java",
+ "prod_sha1": "505686eaf3a6a660d7b8016f224af1f500b6a848",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/ignite/IgniteSqlInterpreter.java",
+ "prod_time": {
+  "$date": 1482924499000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "ignite/src/test/java/org/apache/zeppelin/ignite/IgniteSqlInterpreterTest.java",
+ "test_qual": "org/apache/zeppelin/ignite/IgniteSqlInterpreterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

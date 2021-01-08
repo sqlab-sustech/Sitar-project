@@ -1,0 +1,13 @@
+diff --git a/ambari-server/src/main/java/org/apache/ambari/server/controller/spi/Resource.java b/ambari-server/src/main/java/org/apache/ambari/server/controller/spi/Resource.java
+index 30cf073fb8..58bad502c3 100644
+--- a/ambari-server/src/main/java/org/apache/ambari/server/controller/spi/Resource.java
++++ b/ambari-server/src/main/java/org/apache/ambari/server/controller/spi/Resource.java
+@@ -185,7 +185,7 @@ public interface Resource {
+     /**
+      * Map of all registered types.
+      */
+-    private static Map<String, Type> types = new ConcurrentHashMap<String, Type>();
++    private static Map<String, Type> types = new ConcurrentHashMap<>();
+ 
+     /**
+      * Ordinal number counter for registering external types.

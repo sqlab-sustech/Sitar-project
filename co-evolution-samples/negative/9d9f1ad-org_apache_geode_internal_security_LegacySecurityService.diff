@@ -1,0 +1,13 @@
+diff --git a/geode-core/src/main/java/org/apache/geode/internal/security/LegacySecurityService.java b/geode-core/src/main/java/org/apache/geode/internal/security/LegacySecurityService.java
+index a2e9779e88..d097fd92ca 100644
+--- a/geode-core/src/main/java/org/apache/geode/internal/security/LegacySecurityService.java
++++ b/geode-core/src/main/java/org/apache/geode/internal/security/LegacySecurityService.java
+@@ -95,7 +95,7 @@ public class LegacySecurityService implements SecurityService {
+ 
+   @Override
+   public void authorize(ResourcePermission.Resource resource,
+-      ResourcePermission.Operation operation, String target, String key) {}
++      ResourcePermission.Operation operation, String target, Object key) {}
+ 
+   @Override
+   public void authorize(ResourcePermission.Resource resource,

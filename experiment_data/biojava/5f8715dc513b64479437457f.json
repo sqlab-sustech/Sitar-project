@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/rcsb/RCSBDescriptionFactory.java",
+ "prod_sha1": "b9519e4c568e8423dcfb9b5fdb06688935360dd7",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/rcsb/RCSBDescriptionFactoryTest.java",
+ "test_sha1": "b9519e4c568e8423dcfb9b5fdb06688935360dd7",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/rcsb/RCSBDescriptionFactory.java",
+ "prod_time": {
+  "$date": 1596927267000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/rcsb/RCSBDescriptionFactoryTest.java",
+ "test_time": {
+  "$date": 1596927267000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 54,
+ "del_classname_line": 1,
+ "del_condition_line": 20,
+ "del_field_line": 2,
+ "del_import_line": 7,
+ "del_packageid_line": 1,
+ "del_parameter_line": 6,
+ "del_return_line": 6
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "flume-og/src/main/java/org/apache/logging/log4j/flumeog/appender/FlumeAvroAppender.java",
+ "prod_sha1": "bbc3d19998b4205b3d815fcd711afc01c2bc3f11",
+ "repository": "logging-log4j2",
+ "test_path": "flume-og/src/test/java/org/apache/logging/log4j/flumeog/appender/FlumeAvroAppenderTest.java",
+ "test_sha1": "bbc3d19998b4205b3d815fcd711afc01c2bc3f11",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/flumeog/appender/FlumeAvroAppender.java",
+ "prod_time": {
+  "$date": 1350662956000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/flumeog/appender/FlumeAvroAppenderTest.java",
+ "test_time": {
+  "$date": 1350662956000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 17,
+ "del_call_line": 19,
+ "del_classname_line": 1,
+ "del_condition_line": 4,
+ "del_field_line": 11,
+ "del_import_line": 10,
+ "del_packageid_line": 1,
+ "del_parameter_line": 22,
+ "del_return_line": 7
+}

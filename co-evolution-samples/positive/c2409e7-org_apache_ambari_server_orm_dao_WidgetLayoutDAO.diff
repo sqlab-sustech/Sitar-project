@@ -1,0 +1,10 @@
+diff --git a/ambari-server/src/main/java/org/apache/ambari/server/orm/dao/WidgetLayoutDAO.java b/ambari-server/src/main/java/org/apache/ambari/server/orm/dao/WidgetLayoutDAO.java
+index a6bfed2b68..772f33765c 100644
+--- a/ambari-server/src/main/java/org/apache/ambari/server/orm/dao/WidgetLayoutDAO.java
++++ b/ambari-server/src/main/java/org/apache/ambari/server/orm/dao/WidgetLayoutDAO.java
+@@ -1,4 +1,4 @@
+-/**
++/*
+  * Licensed to the Apache Software Foundation (ASF) under one
+  * or more contributor license agreements.  See the NOTICE file
+  * distributed with this work for additional information

@@ -1,0 +1,25 @@
+diff --git a/stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerify.java b/stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerify.java
+index abec0c9d4..aa878cb47 100644
+--- a/stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerify.java
++++ b/stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/WriteUniqueVerify.java
+@@ -119,9 +119,7 @@ public class WriteUniqueVerify implements
+                             mb.execute();
+                         }
+                         catch ( ConnectionException ex ) {
+-                            throw new WriteUniqueVerifyException( 
+-                                    mvccEntity, ioevent.getEntityCollection(),
+-                                    "Error writing unique value " + field.toString(), ex );
++                            throw new RuntimeException("Unable to write to cassandra", ex );
+                         }
+ 
+                         // does the database value match what we wrote?
+@@ -130,8 +128,7 @@ public class WriteUniqueVerify implements
+                             loaded = uniqueValueStrat.load( ioevent.getEntityCollection(), field );
+                         }
+                         catch ( ConnectionException ex ) {
+-                            throw new WriteUniqueVerifyException( mvccEntity, ioevent.getEntityCollection(),
+-                                    "Error verifying write", ex );
++                            throw new RuntimeException("Unable to read from cassandra", ex );
+                         }
+ 
+                         return new FieldUniquenessResult( 

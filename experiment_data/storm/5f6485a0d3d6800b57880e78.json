@@ -1,0 +1,37 @@
+{
+ "prod_path": "external/storm-hdfs/src/main/java/org/apache/storm/hdfs/spout/HdfsSpout.java",
+ "prod_sha1": "caca8292772650c8ce041d569b624b4813a13b46",
+ "repository": "storm",
+ "test_path": "external/storm-hdfs/src/test/java/org/apache/storm/hdfs/spout/TestHdfsSpout.java",
+ "test_sha1": "caca8292772650c8ce041d569b624b4813a13b46",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/hdfs/spout/HdfsSpout.java",
+ "prod_time": {
+  "$date": 1510420980000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/hdfs/spout/TestHdfsSpout.java",
+ "test_time": {
+  "$date": 1510420980000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 7,
+ "add_call_line": 191,
+ "add_classname_line": 2,
+ "add_condition_line": 68,
+ "add_field_line": 44,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 50,
+ "add_return_line": 56,
+ "del_annotation_line": 7,
+ "del_call_line": 170,
+ "del_classname_line": 1,
+ "del_condition_line": 67,
+ "del_field_line": 32,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 48,
+ "del_return_line": 57
+}

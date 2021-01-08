@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/UniqueValueSerializationStrategyImpl.java",
+ "prod_sha1": "f834a1908dfcc923e30ea37eb49f1f0d59003f6f",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/mvcc/stage/write/UniqueValueSerializationStrategyImplTest.java",
+ "test_sha1": "000a219ec94f10403954c9eea69351d89aefb892",
+ "commit_between": 7,
+ "prod_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/write/UniqueValueSerializationStrategyImpl.java",
+ "prod_time": {
+  "$date": 1389643505000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/write/UniqueValueSerializationStrategyImplTest.java",
+ "test_time": {
+  "$date": 1389809706000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

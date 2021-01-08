@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-java/src/main/java/net/sourceforge/pmd/lang/java/symboltable/ClassScope.java",
+ "prod_sha1": "6d50709fc12425f47effea1136357a842b578bc7",
+ "repository": "pmd",
+ "prod_qual": "symboltable/ClassScope.java",
+ "prod_time": {
+  "$date": 1487602221000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-java/src/test/java/net/sourceforge/pmd/lang/java/symboltable/ClassScopeTest.java",
+ "test_qual": "symboltable/ClassScopeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 23,
+ "add_classname_line": 0,
+ "add_condition_line": 16,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 17,
+ "del_classname_line": 0,
+ "del_condition_line": 9,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

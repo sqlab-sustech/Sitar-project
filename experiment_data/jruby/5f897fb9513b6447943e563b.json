@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/org/jruby/ast/executable/YARVMachine.java",
+ "prod_sha1": "ae24b7a08cc4514d18f5da0042ce245129e0d9f6",
+ "repository": "jruby",
+ "test_path": "test/org/jruby/ast/executable/YARVMachineTest.java",
+ "test_sha1": "ae24b7a08cc4514d18f5da0042ce245129e0d9f6",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/ast/executable/YARVMachine.java",
+ "prod_time": {
+  "$date": 1239397617000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/ast/executable/YARVMachineTest.java",
+ "test_time": {
+  "$date": 1239397617000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 140,
+ "del_classname_line": 3,
+ "del_condition_line": 32,
+ "del_field_line": 35,
+ "del_import_line": 21,
+ "del_packageid_line": 1,
+ "del_parameter_line": 25,
+ "del_return_line": 9
+}

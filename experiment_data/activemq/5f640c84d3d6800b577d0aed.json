@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-kahadb-store/src/main/java/org/apache/activemq/store/kahadb/disk/index/BTreeIndex.java",
+ "prod_sha1": "54e2e3bef290d7455d9d1ba3420d12dc4805b339",
+ "repository": "activemq",
+ "test_path": "activemq-kahadb-store/src/test/java/org/apache/activemq/store/kahadb/disk/index/BTreeIndexTest.java",
+ "test_sha1": "54e2e3bef290d7455d9d1ba3420d12dc4805b339",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/store/kahadb/disk/index/BTreeIndex.java",
+ "prod_time": {
+  "$date": 1409347478000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/store/kahadb/disk/index/BTreeIndexTest.java",
+ "test_time": {
+  "$date": 1409347478000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

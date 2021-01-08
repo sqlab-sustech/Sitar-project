@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-core/src/main/java/org/biojava/nbio/core/alignment/SimpleAlignedSequence.java",
+ "prod_sha1": "ed95494a8100bee46d8251a95ec51ad4e2dc4de1",
+ "repository": "biojava",
+ "test_path": "biojava-core/src/test/java/org/biojava/nbio/core/alignment/SimpleAlignedSequenceTest.java",
+ "test_sha1": "ed95494a8100bee46d8251a95ec51ad4e2dc4de1",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/core/alignment/SimpleAlignedSequence.java",
+ "prod_time": {
+  "$date": 1457549585000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/core/alignment/SimpleAlignedSequenceTest.java",
+ "test_time": {
+  "$date": 1457549585000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 24,
+ "add_call_line": 46,
+ "add_classname_line": 0,
+ "add_condition_line": 35,
+ "add_field_line": 6,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 29,
+ "add_return_line": 28,
+ "del_annotation_line": 24,
+ "del_call_line": 46,
+ "del_classname_line": 0,
+ "del_condition_line": 35,
+ "del_field_line": 6,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 29,
+ "del_return_line": 28
+}

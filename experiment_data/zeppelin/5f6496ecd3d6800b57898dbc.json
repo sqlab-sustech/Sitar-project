@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java",
+ "prod_sha1": "a6d6b4224d5bae069e6f7cd9a7406496c7d530d9",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/interpreter/remote/RemoteInterpreter.java",
+ "prod_time": {
+  "$date": 1530874297000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/remote/RemoteInterpreterTest.java",
+ "test_qual": "org/apache/zeppelin/interpreter/remote/RemoteInterpreterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

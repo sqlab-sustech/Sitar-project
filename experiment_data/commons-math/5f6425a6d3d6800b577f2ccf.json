@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/linear/MatrixUtils.java",
+ "prod_sha1": "d6f812567bfeb3b93b5eb954384028eb4d2c06e8",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/linear/MatrixUtilsTest.java",
+ "test_sha1": "d6f812567bfeb3b93b5eb954384028eb4d2c06e8",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/linear/MatrixUtils.java",
+ "prod_time": {
+  "$date": 1098682575000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/linear/MatrixUtilsTest.java",
+ "test_time": {
+  "$date": 1098682575000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 9,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

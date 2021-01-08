@@ -1,0 +1,13 @@
+diff --git a/org.apache.lenya.core.publication.impl/src/main/java/org/apache/lenya/cms/publication/DefaultDocumentBuilder.java b/org.apache.lenya.core.publication.impl/src/main/java/org/apache/lenya/cms/publication/DefaultDocumentBuilder.java
+index bd3ad6e24..32d4424bd 100644
+--- a/org.apache.lenya.core.publication.impl/src/main/java/org/apache/lenya/cms/publication/DefaultDocumentBuilder.java
++++ b/org.apache.lenya.core.publication.impl/src/main/java/org/apache/lenya/cms/publication/DefaultDocumentBuilder.java
+@@ -195,7 +195,7 @@ public class DefaultDocumentBuilder extends AbstractLogEnabled implements Docume
+             throw new MalformedURLException("Path [" + path + "] does not start with '/'!");
+         }
+ 
+-        return DocumentLocator.getLocator(publication.getId(), info.getArea(), path, language);
++        return DocumentLocatorImpl.getLocator(publication.getId(), info.getArea(), path, language);
+     }
+ 
+     /**

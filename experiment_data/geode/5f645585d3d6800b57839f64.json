@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-dunit/src/main/java/org/apache/geode/test/greplogs/LogConsumer.java",
+ "prod_sha1": "b9168feca9c2fc3cebfba07db1d1df877c411336",
+ "repository": "geode",
+ "prod_qual": "greplogs/LogConsumer.java",
+ "prod_time": {
+  "$date": 1560973813000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-dunit/src/test/java/org/apache/geode/test/greplogs/LogConsumerTest.java",
+ "test_qual": "greplogs/LogConsumerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 48,
+ "add_classname_line": 0,
+ "add_condition_line": 15,
+ "add_field_line": 15,
+ "add_import_line": 21,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 19,
+ "del_annotation_line": 0,
+ "del_call_line": 24,
+ "del_classname_line": 1,
+ "del_condition_line": 7,
+ "del_field_line": 15,
+ "del_import_line": 19,
+ "del_packageid_line": 0,
+ "del_parameter_line": 8,
+ "del_return_line": 8,
+ "test_typ": "Non"
+}

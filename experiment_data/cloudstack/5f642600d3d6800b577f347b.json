@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/api/ApiResponseHelper.java",
+ "prod_sha1": "3dc4d2ec212bd4ae566f64d9682b4395efa059ec",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/api/ApiResponseHelper.java",
+ "prod_time": {
+  "$date": 1395477488000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/api/ApiResponseHelperTest.java",
+ "test_qual": "com/cloud/api/ApiResponseHelperTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 11,
+ "del_call_line": 125,
+ "del_classname_line": 0,
+ "del_condition_line": 32,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 12,
+ "del_return_line": 11,
+ "test_typ": "Non"
+}

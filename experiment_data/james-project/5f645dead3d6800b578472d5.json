@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/hbase/src/main/java/org/apache/james/mailbox/hbase/mail/model/HBaseMailbox.java",
+ "prod_sha1": "355bbc31606d0c0f1e5920aceef2c2dddfc961e0",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/hbase/mail/model/HBaseMailbox.java",
+ "prod_time": {
+  "$date": 1514371585000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/hbase/src/test/java/org/apache/james/mailbox/hbase/mail/model/HBaseMailboxTest.java",
+ "test_qual": "org/apache/james/mailbox/hbase/mail/model/HBaseMailboxTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

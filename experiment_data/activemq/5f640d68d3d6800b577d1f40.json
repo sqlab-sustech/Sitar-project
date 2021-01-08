@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/kaha/ListContainer.java",
+ "prod_sha1": "0afb7f934f0c0f1c4de98d9a850d8bd875f2a489",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/kaha/ListContainer.java",
+ "prod_time": {
+  "$date": 1167872223000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/kaha/ListContainerTest.java",
+ "test_qual": "org/apache/activemq/kaha/ListContainerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

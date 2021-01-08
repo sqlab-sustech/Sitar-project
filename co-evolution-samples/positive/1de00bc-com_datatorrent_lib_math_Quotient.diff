@@ -1,0 +1,11 @@
+diff --git a/library/src/main/java/com/datatorrent/lib/math/Quotient.java b/library/src/main/java/com/datatorrent/lib/math/Quotient.java
+index 5368a99f4..8dbdb02a1 100644
+--- a/library/src/main/java/com/datatorrent/lib/math/Quotient.java
++++ b/library/src/main/java/com/datatorrent/lib/math/Quotient.java
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (c) 2013 Malhar Inc. ALL Rights Reserved.
++ * Copyright (c) 2013 DataTorrent, Inc. ALL Rights Reserved.
+  *
+  * Licensed under the Apache License, Version 2.0 (the "License");
+  * you may not use this file except in compliance with the License.

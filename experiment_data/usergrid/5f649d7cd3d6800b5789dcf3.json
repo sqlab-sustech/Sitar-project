@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/core/src/main/java/org/apache/usergrid/corepersistence/migration/MigrationModuleVersionPlugin.java",
+ "prod_sha1": "3781c37916cdeb2fdeedfb908b27f2d647b1193a",
+ "repository": "usergrid",
+ "test_path": "stack/core/src/test/java/org/apache/usergrid/corepersistence/migration/MigrationModuleVersionPluginTest.java",
+ "test_sha1": "ec5b3e01ebf20d949f3abe2f0258155fa3505603",
+ "commit_between": 1,
+ "prod_qual": "org/apache/usergrid/corepersistence/migration/MigrationModuleVersionPlugin.java",
+ "prod_time": {
+  "$date": 1435350793000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/usergrid/corepersistence/migration/MigrationModuleVersionPluginTest.java",
+ "test_time": {
+  "$date": 1435352922000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

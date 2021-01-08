@@ -1,0 +1,16 @@
+diff --git a/runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/ExecutableStageDoFnOperator.java b/runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/ExecutableStageDoFnOperator.java
+index 48f9792e14..878c5b7900 100644
+--- a/runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/ExecutableStageDoFnOperator.java
++++ b/runners/flink/src/main/java/org/apache/beam/runners/flink/translation/wrappers/streaming/ExecutableStageDoFnOperator.java
+@@ -163,6 +163,11 @@ public class ExecutableStageDoFnOperator<InputT, OutputT> extends DoFnOperator<I
+     this.stateBackendLock = new ReentrantLock();
+   }
+ 
++  @Override
++  protected Lock getLockToAcquireForStateAccessDuringBundles() {
++    return stateBackendLock;
++  }
++
+   @Override
+   public void open() throws Exception {
+     executableStage = ExecutableStage.fromPayload(payload);

@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/AvoidFieldNameMatchingMethodName.java",
+ "prod_sha1": "ff947302f55220c7131d375eba30b633a1850368",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/AvoidFieldNameMatchingMethodName.java",
+ "prod_time": {
+  "$date": 1123467308000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/AvoidFieldNameMatchingMethodNameTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/AvoidFieldNameMatchingMethodNameTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

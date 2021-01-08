@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/webadmin/webadmin-mailbox/src/main/java/org/apache/james/webadmin/routes/EventDeadLettersRoutes.java",
+ "prod_sha1": "748d7199b299e1dda56a7aa4c755d6560ba6f3e6",
+ "repository": "james-project",
+ "test_path": "server/protocols/webadmin/webadmin-mailbox/src/test/java/org/apache/james/webadmin/routes/EventDeadLettersRoutesTest.java",
+ "test_sha1": "3a6d15a08aa11713cff87a6a23b2ec2061ef3748",
+ "commit_between": 2,
+ "prod_qual": "org/apache/james/webadmin/routes/EventDeadLettersRoutes.java",
+ "prod_time": {
+  "$date": 1550564450000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/webadmin/routes/EventDeadLettersRoutesTest.java",
+ "test_time": {
+  "$date": 1550718341000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 76,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 11,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

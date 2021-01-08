@@ -1,0 +1,15 @@
+diff --git a/core/src/main/java/brooklyn/entity/drivers/downloads/DownloadProducerFromLocalRepo.java b/core/src/main/java/brooklyn/entity/drivers/downloads/DownloadProducerFromLocalRepo.java
+index 6d984261c..1a8a4f0ea 100644
+--- a/core/src/main/java/brooklyn/entity/drivers/downloads/DownloadProducerFromLocalRepo.java
++++ b/core/src/main/java/brooklyn/entity/drivers/downloads/DownloadProducerFromLocalRepo.java
+@@ -7,8 +7,8 @@ import org.slf4j.LoggerFactory;
+ 
+ import brooklyn.config.ConfigKey;
+ import brooklyn.config.StringConfigMap;
+-import brooklyn.entity.drivers.downloads.DownloadResolverRegistry.DownloadRequirement;
+-import brooklyn.entity.drivers.downloads.DownloadResolverRegistry.DownloadTargets;
++import brooklyn.entity.drivers.downloads.DownloadResolverManager.DownloadRequirement;
++import brooklyn.entity.drivers.downloads.DownloadResolverManager.DownloadTargets;
+ import brooklyn.event.basic.BasicConfigKey;
+ 
+ import com.google.common.base.Function;

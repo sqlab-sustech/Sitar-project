@@ -1,0 +1,2 @@
+log4j-zeroconf EE 697dcd475f5cc5585f3aff787be3a74c204c7f51 697dcd475f5cc5585f3aff787be3a74c204c7f51 src/main/java/org/apache/log4j/net/ZeroConfSocketHubAppender.java src/test/java/org/apache/log4j/net/ZeroConfSocketHubAppenderTest.java
+log4j-zeroconf EE 94b32139de91c9c7a50ff15bfe9e74bc6f426930 94b32139de91c9c7a50ff15bfe9e74bc6f426930 src/main/java/org/apache/log4j/net/ZeroConfSocketHubAppender.java src/test/java/org/apache/log4j/net/ZeroConfSocketHubAppenderTest.java

@@ -1,0 +1,12 @@
+diff --git a/java/org/apache/catalina/filters/ExpiresFilter.java b/java/org/apache/catalina/filters/ExpiresFilter.java
+index 9ba2aa8b5..be16ea904 100644
+--- a/java/org/apache/catalina/filters/ExpiresFilter.java
++++ b/java/org/apache/catalina/filters/ExpiresFilter.java
+@@ -41,6 +41,7 @@ import javax.servlet.http.HttpServletRequest;
+ import javax.servlet.http.HttpServletResponse;
+ import javax.servlet.http.HttpServletResponseWrapper;
+ 
++import org.apache.catalina.filters.ExpiresFilter.XHttpServletResponse;
+ import org.apache.juli.logging.Log;
+ import org.apache.juli.logging.LogFactory;
+ 

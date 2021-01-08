@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/blob/mail-store/src/main/java/org/apache/james/blob/mail/MimeMessageStore.java",
+ "prod_sha1": "b028cd499b20bce86b174dcb4962797bef460452",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/blob/mail/MimeMessageStore.java",
+ "prod_time": {
+  "$date": 1551705718000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/blob/mail-store/src/test/java/org/apache/james/blob/mail/MimeMessageStoreTest.java",
+ "test_qual": "org/apache/james/blob/mail/MimeMessageStoreTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

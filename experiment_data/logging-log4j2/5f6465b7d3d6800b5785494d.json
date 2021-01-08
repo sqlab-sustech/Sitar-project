@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/rolling/action/Duration.java",
+ "prod_sha1": "7a5dcd43d559971caf3f00c55586f372ca4d9046",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/appender/rolling/action/Duration.java",
+ "prod_time": {
+  "$date": 1464973518000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/rolling/action/DurationTest.java",
+ "test_qual": "org/apache/logging/log4j/core/appender/rolling/action/DurationTest.java",
+ "add_annotation_line": 4,
+ "add_call_line": 28,
+ "add_classname_line": 1,
+ "add_condition_line": 13,
+ "add_field_line": 10,
+ "add_import_line": 4,
+ "add_packageid_line": 1,
+ "add_parameter_line": 11,
+ "add_return_line": 15,
+ "del_annotation_line": 4,
+ "del_call_line": 28,
+ "del_classname_line": 1,
+ "del_condition_line": 13,
+ "del_field_line": 10,
+ "del_import_line": 4,
+ "del_packageid_line": 1,
+ "del_parameter_line": 11,
+ "del_return_line": 15,
+ "test_typ": "Non"
+}

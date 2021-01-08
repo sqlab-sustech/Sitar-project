@@ -1,0 +1,17 @@
+diff --git a/src/java/org/apache/commons/collections/buffer/CircularFifoBuffer.java b/src/java/org/apache/commons/collections/buffer/CircularFifoBuffer.java
+index a0f3a2e6..cdbfae21 100644
+--- a/src/java/org/apache/commons/collections/buffer/CircularFifoBuffer.java
++++ b/src/java/org/apache/commons/collections/buffer/CircularFifoBuffer.java
+@@ -39,10 +39,10 @@ import java.util.Collection;
+  * This buffer prevents null objects from being added.
+  * <p>
+  * This class is Serializable from Commons Collections 3.1.
+- * 
++ *
+  * @since Commons Collections 3.0
+  * @version $Revision$ $Date$
+- * 
++ *
+  * @author Stefano Fornari
+  * @author Stephen Colebourne
+  */

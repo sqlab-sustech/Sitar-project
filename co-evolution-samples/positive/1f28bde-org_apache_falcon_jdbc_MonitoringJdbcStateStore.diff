@@ -1,0 +1,54 @@
+diff --git a/prism/src/main/java/org/apache/falcon/jdbc/MonitoringJdbcStateStore.java b/prism/src/main/java/org/apache/falcon/jdbc/MonitoringJdbcStateStore.java
+index 552ebde96..669e18d9e 100644
+--- a/prism/src/main/java/org/apache/falcon/jdbc/MonitoringJdbcStateStore.java
++++ b/prism/src/main/java/org/apache/falcon/jdbc/MonitoringJdbcStateStore.java
+@@ -25,6 +25,7 @@ import org.apache.falcon.persistence.PendingInstanceBean;
+ import org.apache.falcon.persistence.PersistenceConstants;
+ import org.apache.falcon.persistence.ResultNotFoundException;
+ import org.apache.falcon.persistence.EntitySLAAlertBean;
++import org.apache.falcon.persistence.ProcessInstanceInfoBean;
+ import org.apache.falcon.service.FalconJPAService;
+ 
+ import javax.persistence.EntityManager;
+@@ -198,6 +199,41 @@ public class MonitoringJdbcStateStore {
+         return result;
+     }
+ 
++    public void putProcessInstance(String processName, String colo, Long nominalTime, Long startDelay,
++                                   Long processingTime, String pipeline, String status){
++        ProcessInstanceInfoBean processInstanceInfoBean = new ProcessInstanceInfoBean();
++        processInstanceInfoBean.setProcessName(processName);
++        processInstanceInfoBean.setColo(colo);
++        processInstanceInfoBean.setNominalTime(new Date(nominalTime));
++        processInstanceInfoBean.setStartDelay(startDelay);
++        processInstanceInfoBean.setProcessingTime(processingTime);
++        processInstanceInfoBean.setPipeline(pipeline);
++        processInstanceInfoBean.setStatus(status);
++
++        EntityManager entityManager = getEntityManager();
++        try {
++            beginTransaction(entityManager);
++            entityManager.persist(processInstanceInfoBean);
++        } finally {
++            commitAndCloseTransaction(entityManager);
++        }
++    }
++
++    public List<ProcessInstanceInfoBean> getAllInstancesProcessInstance(){
++        EntityManager entityManager = getEntityManager();
++        Query q = entityManager.createNamedQuery(PersistenceConstants.GET_ALL_PROCESS_INFO_INSTANCES);
++        List result = q.getResultList();
++
++        try {
++            if (CollectionUtils.isEmpty(result)) {
++                return null;
++            }
++        } finally{
++            entityManager.close();
++        }
++        return result;
++    }
++
+     private void commitAndCloseTransaction(EntityManager entityManager) {
+         entityManager.getTransaction().commit();
+         entityManager.close();

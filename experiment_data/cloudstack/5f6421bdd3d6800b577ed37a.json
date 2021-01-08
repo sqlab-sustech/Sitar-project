@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/vm/dao/UserVmDaoImpl.java",
+ "prod_sha1": "082d5634d1d7ec8d2d3bb9eac357ceb9ad61a284",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/vm/dao/UserVmDaoImpl.java",
+ "prod_time": {
+  "$date": 1341848914000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/vm/dao/UserVmDaoImplTest.java",
+ "test_qual": "com/cloud/vm/dao/UserVmDaoImplTest.java",
+ "add_annotation_line": 18,
+ "add_call_line": 231,
+ "add_classname_line": 1,
+ "add_condition_line": 25,
+ "add_field_line": 49,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 21,
+ "add_return_line": 18,
+ "del_annotation_line": 18,
+ "del_call_line": 224,
+ "del_classname_line": 1,
+ "del_condition_line": 25,
+ "del_field_line": 49,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 20,
+ "del_return_line": 15,
+ "test_typ": "Non"
+}

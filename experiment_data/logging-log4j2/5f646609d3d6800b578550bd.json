@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-1.2-api/src/main/java/org/apache/log4j/layout/TTCCLayout.java",
+ "prod_sha1": "9d42011437a5fadb670a0c954267475a1fc23342",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/log4j/layout/TTCCLayout.java",
+ "prod_time": {
+  "$date": 1471453720000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-1.2-api/src/test/java/org/apache/log4j/layout/TTCCLayoutTest.java",
+ "test_qual": "org/apache/log4j/layout/TTCCLayoutTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

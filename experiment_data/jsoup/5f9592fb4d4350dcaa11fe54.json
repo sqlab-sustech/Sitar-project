@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/jsoup/helper/StringUtil.java",
+ "prod_sha1": "c8c05694da5489221c27e45a5e49d0f5fcb41863",
+ "repository": "jsoup",
+ "prod_qual": "org/jsoup/helper/StringUtil.java",
+ "prod_time": {
+  "$date": 1525929499000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/jsoup/helper/StringUtilTest.java",
+ "test_qual": "org/jsoup/helper/StringUtilTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

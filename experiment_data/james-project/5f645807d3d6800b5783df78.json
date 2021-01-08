@@ -1,0 +1,32 @@
+{
+ "prod_path": "protocols/imap/src/main/java/org/apache/james/imap/decode/parser/StoreCommandParser.java",
+ "prod_sha1": "e4583d471864d7c22ebaf0da00384d0769c9fb3d",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/imap/decode/parser/StoreCommandParser.java",
+ "prod_time": {
+  "$date": 1453805312000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "protocols/imap/src/test/java/org/apache/james/imap/decode/parser/StoreCommandParserTest.java",
+ "test_qual": "org/apache/james/imap/decode/parser/StoreCommandParserTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

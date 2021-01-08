@@ -1,0 +1,13 @@
+diff --git a/apm-collector/apm-collector-core/src/main/java/org/skywalking/apm/collector/core/module/ApplicationConfiguration.java b/apm-collector/apm-collector-core/src/main/java/org/skywalking/apm/collector/core/module/ApplicationConfiguration.java
+index 9acba5a05..db1fb0af0 100644
+--- a/apm-collector/apm-collector-core/src/main/java/org/skywalking/apm/collector/core/module/ApplicationConfiguration.java
++++ b/apm-collector/apm-collector-core/src/main/java/org/skywalking/apm/collector/core/module/ApplicationConfiguration.java
+@@ -22,7 +22,7 @@ import java.util.HashMap;
+ import java.util.Properties;
+ 
+ /**
+- * Modulization configurations. The {@link ModuleManager} is going to start, lookup, init modules based on this.
++ * Modulization configurations. The {@link ModuleManager} is going to start, lookup, start modules based on this.
+  *
+  * @author wu-sheng
+  */

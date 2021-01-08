@@ -1,0 +1,1 @@
+geronimo-config EC 07777c88c31b0f30bf78714337403e156be6e15e 07777c88c31b0f30bf78714337403e156be6e15e impl/src/main/java/org/apache/geronimo/config/Placeholders.java impl/src/test/java/org/apache/geronimo/config/PlaceholdersTest.java

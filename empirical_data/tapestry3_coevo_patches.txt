@@ -1,0 +1,4 @@
+tapestry3 CC 968d9c3b43dae5337e74af3f8a9d8a4540a7541e 968d9c3b43dae5337e74af3f8a9d8a4540a7541e junit/src/net/sf/tapestry/junit/utils/PublicBean.java junit/src/net/sf/tapestry/junit/utils/TestPublicBean.java
+tapestry3 EE 3a19da49b9e2b4f911e53e96b8c96e8e8c3514bd 3a19da49b9e2b4f911e53e96b8c96e8e8c3514bd junit/src/net/sf/tapestry/junit/utils/PublicBean.java junit/src/net/sf/tapestry/junit/utils/TestPublicBean.java
+tapestry3 EE 8c1190a1c87ebbe69bc29e3b972b637d535bd6a1 8c1190a1c87ebbe69bc29e3b972b637d535bd6a1 junit/src/net/sf/tapestry/junit/utils/PublicBean.java junit/src/net/sf/tapestry/junit/utils/TestPublicBean.java
+tapestry3 ED 34625e0b53fe41ebe4c79cad3f8e5fe126f37347 34625e0b53fe41ebe4c79cad3f8e5fe126f37347 junit/src/net/sf/tapestry/junit/utils/PublicBean.java junit/src/net/sf/tapestry/junit/utils/TestPublicBean.java

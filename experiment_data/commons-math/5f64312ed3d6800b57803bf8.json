@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/stat/regression/OLSMultipleLinearRegression.java",
+ "prod_sha1": "136ffc1054260445343d57a3acfa2776a97d8c6f",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/stat/regression/OLSMultipleLinearRegression.java",
+ "prod_time": {
+  "$date": 1229731393000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/stat/regression/OLSMultipleLinearRegressionTest.java",
+ "test_qual": "org/apache/commons/math/stat/regression/OLSMultipleLinearRegressionTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

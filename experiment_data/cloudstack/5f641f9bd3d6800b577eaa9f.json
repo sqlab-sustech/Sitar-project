@@ -1,0 +1,37 @@
+{
+ "prod_path": "engine/orchestration/src/com/cloud/vm/VirtualMachineManagerImpl.java",
+ "prod_sha1": "26b32141a821fe8dcfa7b17847890b085398a0e9",
+ "repository": "cloudstack",
+ "test_path": "engine/orchestration/test/com/cloud/vm/VirtualMachineManagerImplTest.java",
+ "test_sha1": "26b32141a821fe8dcfa7b17847890b085398a0e9",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/vm/VirtualMachineManagerImpl.java",
+ "prod_time": {
+  "$date": 1392136730000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/vm/VirtualMachineManagerImplTest.java",
+ "test_time": {
+  "$date": 1392136730000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 113,
+ "add_classname_line": 0,
+ "add_condition_line": 16,
+ "add_field_line": 17,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 5,
+ "del_annotation_line": 4,
+ "del_call_line": 88,
+ "del_classname_line": 0,
+ "del_condition_line": 21,
+ "del_field_line": 17,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 8,
+ "del_return_line": 2
+}

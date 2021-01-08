@@ -1,0 +1,24 @@
+diff --git a/ambari-server/src/main/java/org/apache/ambari/server/configuration/Configuration.java b/ambari-server/src/main/java/org/apache/ambari/server/configuration/Configuration.java
+index 3ceb05bf59..d8f89b2358 100644
+--- a/ambari-server/src/main/java/org/apache/ambari/server/configuration/Configuration.java
++++ b/ambari-server/src/main/java/org/apache/ambari/server/configuration/Configuration.java
+@@ -842,6 +842,19 @@ public class Configuration {
+     return properties.getProperty(SERVER_VERSION_FILE);
+   }
+ 
++  /**
++   * Gets ambari server version
++   * @return version String
++   */
++  public String getServerVersion() {
++    try {
++      return FileUtils.readFileToString(new File(getServerVersionFilePath())).trim();
++    } catch (IOException e) {
++      LOG.error("Unable to read server version file", e);
++    }
++    return null;
++  }
++
+   /**
+    * Check to see if the API should be authenticated or not
+    * @return false if not, true if the authentication is enabled.

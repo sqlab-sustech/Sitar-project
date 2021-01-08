@@ -1,0 +1,32 @@
+{
+ "prod_path": "external/storm-submit-tools/src/main/java/org/apache/storm/submit/dependency/DependencyResolver.java",
+ "prod_sha1": "1e09c59f823edffaa2aa30514deed9f3e8518772",
+ "repository": "storm",
+ "prod_qual": "org/apache/storm/submit/dependency/DependencyResolver.java",
+ "prod_time": {
+  "$date": 1483417628000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "external/storm-submit-tools/src/test/java/org/apache/storm/submit/dependency/DependencyResolverTest.java",
+ "test_qual": "org/apache/storm/submit/dependency/DependencyResolverTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

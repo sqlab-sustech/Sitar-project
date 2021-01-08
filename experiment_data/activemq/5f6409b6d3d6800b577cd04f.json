@@ -1,0 +1,37 @@
+{
+ "prod_path": "activeio/activeio-core/src/main/java/org/apache/activeio/journal/active/LogFileManager.java",
+ "prod_sha1": "a107823dc38056dbdc5c23db2daebe211b0a5bc4",
+ "repository": "activemq",
+ "test_path": "activeio/activeio-core/src/test/java/org/apache/activeio/journal/active/LogFileManagerTest.java",
+ "test_sha1": "a107823dc38056dbdc5c23db2daebe211b0a5bc4",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activeio/journal/active/LogFileManager.java",
+ "prod_time": {
+  "$date": 1140563576000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activeio/journal/active/LogFileManagerTest.java",
+ "test_time": {
+  "$date": 1140563576000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 118,
+ "add_classname_line": 1,
+ "add_condition_line": 49,
+ "add_field_line": 22,
+ "add_import_line": 16,
+ "add_packageid_line": 1,
+ "add_parameter_line": 26,
+ "add_return_line": 24,
+ "del_annotation_line": 0,
+ "del_call_line": 118,
+ "del_classname_line": 1,
+ "del_condition_line": 49,
+ "del_field_line": 22,
+ "del_import_line": 16,
+ "del_packageid_line": 1,
+ "del_parameter_line": 26,
+ "del_return_line": 24
+}

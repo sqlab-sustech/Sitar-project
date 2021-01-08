@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/jsoup/parser/TokenStream.java",
+ "prod_sha1": "e23559f993f64cf0f1720eac5c930dbaff0c8b71",
+ "repository": "jsoup",
+ "test_path": "src/test/java/org/jsoup/parser/TokenStreamTest.java",
+ "test_sha1": "e23559f993f64cf0f1720eac5c930dbaff0c8b71",
+ "commit_between": 0,
+ "prod_qual": "org/jsoup/parser/TokenStream.java",
+ "prod_time": {
+  "$date": 1261205235000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jsoup/parser/TokenStreamTest.java",
+ "test_time": {
+  "$date": 1261205235000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

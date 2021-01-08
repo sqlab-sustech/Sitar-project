@@ -1,0 +1,13 @@
+diff --git a/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBlobVar.java b/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBlobVar.java
+index dbb52d4980..9f6a3e5a6a 100644
+--- a/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBlobVar.java
++++ b/hbase-common/src/main/java/org/apache/hadoop/hbase/types/OrderedBlobVar.java
+@@ -18,7 +18,7 @@
+ package org.apache.hadoop.hbase.types;
+ 
+ import org.apache.hadoop.classification.InterfaceAudience;
+-import org.apache.hadoop.classification.InterfaceStability;
++import org.apache.hadoop.hbase.classification.InterfaceStability;
+ import org.apache.hadoop.hbase.util.Order;
+ import org.apache.hadoop.hbase.util.OrderedBytes;
+ import org.apache.hadoop.hbase.util.PositionedByteRange;

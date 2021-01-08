@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/StripAttachment.java",
+ "prod_sha1": "0e49d8c28c6784348999766a549551920746199e",
+ "repository": "james-project",
+ "test_path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/StripAttachmentTest.java",
+ "test_sha1": "0e49d8c28c6784348999766a549551920746199e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/transport/mailets/StripAttachment.java",
+ "prod_time": {
+  "$date": 1481723684000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/mailets/StripAttachmentTest.java",
+ "test_time": {
+  "$date": 1481723684000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 11,
+ "add_call_line": 93,
+ "add_classname_line": 1,
+ "add_condition_line": 32,
+ "add_field_line": 14,
+ "add_import_line": 10,
+ "add_packageid_line": 0,
+ "add_parameter_line": 28,
+ "add_return_line": 31,
+ "del_annotation_line": 5,
+ "del_call_line": 59,
+ "del_classname_line": 1,
+ "del_condition_line": 24,
+ "del_field_line": 14,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 17,
+ "del_return_line": 16
+}

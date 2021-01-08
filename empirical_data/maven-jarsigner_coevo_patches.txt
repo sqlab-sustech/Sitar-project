@@ -1,0 +1,3 @@
+maven-jarsigner EC 25964b6b4e30fe453a7fb15e5722c87654d650c0 25964b6b4e30fe453a7fb15e5722c87654d650c0 src/main/java/org/apache/maven/shared/jarsigner/JarSignerUtil.java src/test/java/org/apache/maven/shared/jarsigner/JarSignerUtilTest.java
+maven-jarsigner EE a1ef91446422fb326da4e6fd7cbd32cfdb7095ed a1ef91446422fb326da4e6fd7cbd32cfdb7095ed src/main/java/org/apache/maven/shared/jarsigner/JarSignerUtil.java src/test/java/org/apache/maven/shared/jarsigner/JarSignerUtilTest.java
+maven-jarsigner EE 1810f80c9f949ddffd29fb18f817f4c5ba4b36ef 1810f80c9f949ddffd29fb18f817f4c5ba4b36ef src/main/java/org/apache/maven/shared/jarsigner/JarSignerUtil.java src/test/java/org/apache/maven/shared/jarsigner/JarSignerUtilTest.java

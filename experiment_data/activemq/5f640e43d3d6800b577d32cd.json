@@ -1,0 +1,32 @@
+{
+ "prod_path": "kahadb/src/main/java/org/apache/kahadb/index/HashIndex.java",
+ "prod_sha1": "e22a37a70e65ceed6f807085cca24bc757e81c20",
+ "repository": "activemq",
+ "prod_qual": "org/apache/kahadb/index/HashIndex.java",
+ "prod_time": {
+  "$date": 1242930885000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "kahadb/src/test/java/org/apache/kahadb/index/HashIndexTest.java",
+ "test_qual": "org/apache/kahadb/index/HashIndexTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-cassandra/src/main/java/org/apache/james/jmap/cassandra/access/CassandraAccessTokenRepository.java",
+ "prod_sha1": "e344967668041659081462e7214648450b851ac0",
+ "repository": "james-project",
+ "test_path": "server/data/data-cassandra/src/test/java/org/apache/james/jmap/cassandra/access/CassandraAccessTokenRepositoryTest.java",
+ "test_sha1": "e344967668041659081462e7214648450b851ac0",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/jmap/cassandra/access/CassandraAccessTokenRepository.java",
+ "prod_time": {
+  "$date": 1460022938000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/jmap/cassandra/access/CassandraAccessTokenRepositoryTest.java",
+ "test_time": {
+  "$date": 1460022938000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 31,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 6,
+ "add_import_line": 18,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

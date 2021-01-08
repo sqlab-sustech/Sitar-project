@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/ActiveMQSslConnectionFactory.java",
+ "prod_sha1": "c4cdd516a1b8c75e0584a01261455fed8127873e",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/ActiveMQSslConnectionFactoryTest.java",
+ "test_sha1": "c4cdd516a1b8c75e0584a01261455fed8127873e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/ActiveMQSslConnectionFactory.java",
+ "prod_time": {
+  "$date": 1342440673000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/ActiveMQSslConnectionFactoryTest.java",
+ "test_time": {
+  "$date": 1342440673000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 11,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 3
+}

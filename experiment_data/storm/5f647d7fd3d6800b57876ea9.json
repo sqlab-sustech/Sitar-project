@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/storm/trident/TridentTopology.java",
+ "prod_sha1": "f8118e0854e49d70e75707e96ddb6524dff2a930",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/storm/trident/TestTridentTopology.java",
+ "test_sha1": "f8118e0854e49d70e75707e96ddb6524dff2a930",
+ "commit_between": 0,
+ "prod_qual": "jvm/storm/trident/TridentTopology.java",
+ "prod_time": {
+  "$date": 1440658647000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/storm/trident/TestTridentTopology.java",
+ "test_time": {
+  "$date": 1440658647000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

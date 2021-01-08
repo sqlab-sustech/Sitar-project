@@ -1,0 +1,17 @@
+diff --git a/server/mailet/mailetcontainer-camel/src/main/java/org/apache/james/mailetcontainer/impl/matchers/Xor.java b/server/mailet/mailetcontainer-camel/src/main/java/org/apache/james/mailetcontainer/impl/matchers/Xor.java
+index cb6752803..49ba0cc19 100644
+--- a/server/mailet/mailetcontainer-camel/src/main/java/org/apache/james/mailetcontainer/impl/matchers/Xor.java
++++ b/server/mailet/mailetcontainer-camel/src/main/java/org/apache/james/mailetcontainer/impl/matchers/Xor.java
+@@ -22,10 +22,11 @@ package org.apache.james.mailetcontainer.impl.matchers;
+ import java.util.ArrayList;
+ import java.util.Collection;
+ import java.util.Optional;
++
+ import javax.mail.MessagingException;
+ 
+-import org.apache.mailet.Mail;
+ import org.apache.james.core.MailAddress;
++import org.apache.mailet.Mail;
+ import org.apache.mailet.Matcher;
+ 
+ import com.google.common.collect.ImmutableSet;

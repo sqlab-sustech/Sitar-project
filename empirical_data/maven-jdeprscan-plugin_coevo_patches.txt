@@ -1,0 +1,2 @@
+maven-jdeprscan-plugin CC 906731b5908c369def63dac4adac8475e1cc3514 906731b5908c369def63dac4adac8475e1cc3514 src/main/java/org/apache/maven/plugins/jdeprscan/JDeprScanMojo.java src/main/java/org/apache/maven/plugins/jdeprscan/TestJDeprScanMojo.java
+maven-jdeprscan-plugin EC 6643d43ff79bbaedbb9dc925ffca97d4f294cd87 6643d43ff79bbaedbb9dc925ffca97d4f294cd87 src/main/java/org/apache/maven/plugins/jdeprscan/consumers/JDeprScanConsumer.java src/test/java/org/apache/maven/plugins/jdeprscan/consumers/JDeprScanConsumerTest.java

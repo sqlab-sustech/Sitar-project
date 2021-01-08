@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/align/client/StructureName.java",
+ "prod_sha1": "e3054d9574b1fc51e2fe8ebfd55aa28d08e6ad46",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/align/client/TestStructureName.java",
+ "test_sha1": "e3054d9574b1fc51e2fe8ebfd55aa28d08e6ad46",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/align/client/StructureName.java",
+ "prod_time": {
+  "$date": 1455575610000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/align/client/TestStructureName.java",
+ "test_time": {
+  "$date": 1455575610000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 80,
+ "add_classname_line": 1,
+ "add_condition_line": 29,
+ "add_field_line": 7,
+ "add_import_line": 29,
+ "add_packageid_line": 0,
+ "add_parameter_line": 17,
+ "add_return_line": 28,
+ "del_annotation_line": 0,
+ "del_call_line": 16,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 4,
+ "del_import_line": 12,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 5
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/queue/queue-rabbitmq/src/main/java/org/apache/james/queue/rabbitmq/view/cassandra/model/EnqueuedItemWithSlicingContext.java",
+ "prod_sha1": "34db715305898a9e8298d445a86dff99b9aea06d",
+ "repository": "james-project",
+ "test_path": "server/queue/queue-rabbitmq/src/test/java/org/apache/james/queue/rabbitmq/view/cassandra/model/EnqueuedItemWithSlicingContextTest.java",
+ "test_sha1": "34db715305898a9e8298d445a86dff99b9aea06d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/queue/rabbitmq/view/cassandra/model/EnqueuedItemWithSlicingContext.java",
+ "prod_time": {
+  "$date": 1538041509000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/queue/rabbitmq/view/cassandra/model/EnqueuedItemWithSlicingContextTest.java",
+ "test_time": {
+  "$date": 1538041509000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 6,
+ "add_call_line": 8,
+ "add_classname_line": 3,
+ "add_condition_line": 2,
+ "add_field_line": 6,
+ "add_import_line": 4,
+ "add_packageid_line": 1,
+ "add_parameter_line": 16,
+ "add_return_line": 15,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

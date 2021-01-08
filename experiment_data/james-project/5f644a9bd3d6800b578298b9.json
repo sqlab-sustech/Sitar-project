@@ -1,0 +1,37 @@
+{
+ "prod_path": "protocols/imap/src/main/java/org/apache/james/imap/api/ImapConfiguration.java",
+ "prod_sha1": "af9ea35771afe27c46d6e9ae946e3ff44ef8f036",
+ "repository": "james-project",
+ "test_path": "protocols/imap/src/test/java/org/apache/james/imap/api/ImapConfigurationTest.java",
+ "test_sha1": "af9ea35771afe27c46d6e9ae946e3ff44ef8f036",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/imap/api/ImapConfiguration.java",
+ "prod_time": {
+  "$date": 1496997877000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/imap/api/ImapConfigurationTest.java",
+ "test_time": {
+  "$date": 1496997877000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 31,
+ "add_classname_line": 2,
+ "add_condition_line": 1,
+ "add_field_line": 20,
+ "add_import_line": 11,
+ "add_packageid_line": 1,
+ "add_parameter_line": 20,
+ "add_return_line": 31,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

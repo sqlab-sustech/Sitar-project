@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/src/com/cloud/servlet/StaticResourceServlet.java",
+ "prod_sha1": "fc68922286c42153f38a3862273d16223e86d7ea",
+ "repository": "cloudstack",
+ "test_path": "server/test/com/cloud/servlet/StaticResourceServletTest.java",
+ "test_sha1": "fc68922286c42153f38a3862273d16223e86d7ea",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/servlet/StaticResourceServlet.java",
+ "prod_time": {
+  "$date": 1379582903000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/servlet/StaticResourceServletTest.java",
+ "test_time": {
+  "$date": 1379582903000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 33,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 13,
+ "add_import_line": 13,
+ "add_packageid_line": 1,
+ "add_parameter_line": 7,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

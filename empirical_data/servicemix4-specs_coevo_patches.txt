@@ -1,0 +1,3 @@
+servicemix4-specs EC 26c436f5b1f1aa308fd5b4cec0f79dd598163c68 26c436f5b1f1aa308fd5b4cec0f79dd598163c68 locator/src/main/java/org/apache/servicemix/specs/locator/OsgiLocator.java locator/src/test/java/org/apache/servicemix/specs/locator/OsgiLocatorTest.java
+servicemix4-specs EE 30559749566999d4670dea451e6ad68e8e59a2d4 30559749566999d4670dea451e6ad68e8e59a2d4 locator/src/main/java/org/apache/servicemix/specs/locator/OsgiLocator.java locator/src/test/java/org/apache/servicemix/specs/locator/OsgiLocatorTest.java
+servicemix4-specs EE b7a26140c102bb73c20737644fc70e545a97f162 b7a26140c102bb73c20737644fc70e545a97f162 locator/src/main/java/org/apache/servicemix/specs/locator/OsgiLocator.java locator/src/test/java/org/apache/servicemix/specs/locator/OsgiLocatorTest.java

@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd-dcpd/src/net/sourceforge/pmd/dcpd/TileGatherer.java",
+ "prod_sha1": "41566479b97c00662bc50e5df215ff15803f0a57",
+ "repository": "pmd",
+ "test_path": "pmd-dcpd/regress/test/net/sourceforge/pmd/dcpd/TileGathererTest.java",
+ "test_sha1": "41566479b97c00662bc50e5df215ff15803f0a57",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/dcpd/TileGatherer.java",
+ "prod_time": {
+  "$date": 1031247572000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/dcpd/TileGathererTest.java",
+ "test_time": {
+  "$date": 1031247572000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 2,
+ "add_import_line": 9,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

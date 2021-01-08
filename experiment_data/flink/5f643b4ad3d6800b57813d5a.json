@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-base/src/main/java/eu/stratosphere/sopremo/base/Grouping.java",
+ "prod_sha1": "1e811c8a6607d4d57281d42de2e6e76ad286c80f",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-base/src/test/java/eu/stratosphere/sopremo/base/GroupingTest.java",
+ "test_sha1": "1e811c8a6607d4d57281d42de2e6e76ad286c80f",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/sopremo/base/Grouping.java",
+ "prod_time": {
+  "$date": 1314190135000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/sopremo/base/GroupingTest.java",
+ "test_time": {
+  "$date": 1314190135000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 6,
+ "add_classname_line": 3,
+ "add_condition_line": 3,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

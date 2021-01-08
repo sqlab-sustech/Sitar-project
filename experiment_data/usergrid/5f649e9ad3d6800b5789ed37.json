@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/mvcc/stage/load/Load.java",
+ "prod_sha1": "ffaf1233bd63cf5bc9d6c8a189202092b19625a3",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/load/Load.java",
+ "prod_time": {
+  "$date": 1390332410000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/mvcc/stage/load/LoadTest.java",
+ "test_qual": "org/apache/usergrid/persistence/collection/mvcc/stage/load/LoadTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

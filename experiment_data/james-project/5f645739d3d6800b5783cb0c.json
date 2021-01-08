@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/webadmin/webadmin-mailbox/src/main/java/org/apache/james/webadmin/routes/UserQuotaRoutes.java",
+ "prod_sha1": "f56c0bbeff19a03aaf060ce68d2725a7ac1f7064",
+ "repository": "james-project",
+ "test_path": "server/protocols/webadmin/webadmin-mailbox/src/test/java/org/apache/james/webadmin/routes/UserQuotaRoutesTest.java",
+ "test_sha1": "f8faf50e8cb76cdd1931ddcebb0f3e4865028eaf",
+ "commit_between": 3,
+ "prod_qual": "org/apache/james/webadmin/routes/UserQuotaRoutes.java",
+ "prod_time": {
+  "$date": 1527562384000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/webadmin/routes/UserQuotaRoutesTest.java",
+ "test_time": {
+  "$date": 1527652422000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

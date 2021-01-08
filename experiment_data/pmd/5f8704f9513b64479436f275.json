@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/strings/InsufficientStringBufferDeclaration.java",
+ "prod_sha1": "d1f8e5427f54ff0cf1e5a1b51a92863881945513",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/rules/strings/InsufficientStringBufferDeclaration.java",
+ "prod_time": {
+  "$date": 1179792959000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/strings/InsufficientStringBufferDeclarationTest.java",
+ "test_qual": "net/sourceforge/pmd/rules/strings/InsufficientStringBufferDeclarationTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

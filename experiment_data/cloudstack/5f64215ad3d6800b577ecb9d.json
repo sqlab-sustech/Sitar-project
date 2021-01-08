@@ -1,0 +1,32 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/db/Merovingian2.java",
+ "prod_sha1": "ea48d40e5fc0fbdd6a762ae4abb5e38e5de35bc0",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/utils/db/Merovingian2.java",
+ "prod_time": {
+  "$date": 1310173470000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "utils/test/com/cloud/utils/db/Merovingian2Test.java",
+ "test_qual": "com/cloud/utils/db/Merovingian2Test.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 20,
+ "del_classname_line": 0,
+ "del_condition_line": 9,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

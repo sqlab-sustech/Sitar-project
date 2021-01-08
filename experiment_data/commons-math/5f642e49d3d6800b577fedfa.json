@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/ode/JacobianMatrices.java",
+ "prod_sha1": "b5724e1cc0110ff35b4e75b4784117f4daffcb93",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/ode/JacobianMatricesTest.java",
+ "test_sha1": "b5724e1cc0110ff35b4e75b4784117f4daffcb93",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/ode/JacobianMatrices.java",
+ "prod_time": {
+  "$date": 1317189402000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/ode/JacobianMatricesTest.java",
+ "test_time": {
+  "$date": 1317189402000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 22,
+ "add_classname_line": 3,
+ "add_condition_line": 20,
+ "add_field_line": 11,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 18,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 23,
+ "del_classname_line": 2,
+ "del_condition_line": 19,
+ "del_field_line": 10,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 15,
+ "del_return_line": 2
+}

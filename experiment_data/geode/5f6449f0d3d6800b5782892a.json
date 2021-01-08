@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/tcp/Connection.java",
+ "prod_sha1": "2232dc94d6768cf29450708f47d5dbe66d7630ef",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/tcp/ConnectionTest.java",
+ "test_sha1": "2232dc94d6768cf29450708f47d5dbe66d7630ef",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/internal/tcp/Connection.java",
+ "prod_time": {
+  "$date": 1546887492000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/internal/tcp/ConnectionTest.java",
+ "test_time": {
+  "$date": 1546887492000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 482,
+ "add_classname_line": 0,
+ "add_condition_line": 127,
+ "add_field_line": 54,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 41,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 175,
+ "del_classname_line": 0,
+ "del_condition_line": 80,
+ "del_field_line": 27,
+ "del_import_line": 6,
+ "del_packageid_line": 0,
+ "del_parameter_line": 17,
+ "del_return_line": 23
+}

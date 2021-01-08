@@ -1,0 +1,13 @@
+diff --git a/ql/src/java/org/apache/hadoop/hive/ql/exec/Utilities.java b/ql/src/java/org/apache/hadoop/hive/ql/exec/Utilities.java
+index d7b3e4b2fd..7348faa9bb 100644
+--- a/ql/src/java/org/apache/hadoop/hive/ql/exec/Utilities.java
++++ b/ql/src/java/org/apache/hadoop/hive/ql/exec/Utilities.java
+@@ -4075,7 +4075,7 @@ private static void tryDelete(FileSystem fs, Path path) {
+           throws IOException {
+     int skipLevels = dpLevels + lbLevels;
+     if (filter == null) {
+-      filter = new JavaUtils.IdPathFilter(txnId, stmtId, true);
++      filter = new JavaUtils.IdPathFilter(txnId, stmtId, true, false, isBaseDir);
+     }
+     if (skipLevels == 0) {
+       return statusToPath(fs.listStatus(path, filter));

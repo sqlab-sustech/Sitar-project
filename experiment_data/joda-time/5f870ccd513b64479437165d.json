@@ -1,0 +1,37 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/YearMonthDay.java",
+ "prod_sha1": "2a05a5d89993f3e2644c94d89e9401b7332d6d02",
+ "repository": "joda-time",
+ "test_path": "JodaTime/src/test/org/joda/time/TestYearMonthDay.java",
+ "test_sha1": "37921905a00e9a81a238d6a90a838537e0bbca2b",
+ "commit_between": 4,
+ "prod_qual": "org/joda/time/YearMonthDay.java",
+ "prod_time": {
+  "$date": 1093237546000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/joda/time/TestYearMonthDay.java",
+ "test_time": {
+  "$date": 1093302255000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

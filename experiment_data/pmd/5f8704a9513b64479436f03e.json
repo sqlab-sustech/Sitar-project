@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-eclipse-runtime/src/net/sourceforge/pmd/runtime/preferences/vo/RuleSet.java",
+ "prod_sha1": "db9a68d2c74a888a667fc1a6e993a8441d742867",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/runtime/preferences/vo/RuleSet.java",
+ "prod_time": {
+  "$date": 1150838802000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-eclipse-test/test/net/sourceforge/pmd/runtime/preferences/vo/RuleSetTest.java",
+ "test_qual": "net/sourceforge/pmd/runtime/preferences/vo/RuleSetTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

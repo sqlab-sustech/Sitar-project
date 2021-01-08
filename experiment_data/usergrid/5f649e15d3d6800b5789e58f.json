@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/services/src/main/java/org/usergrid/services/AbstractService.java",
+ "prod_sha1": "52580b4c5476aa90b1f5fc8ba878d55aac615a72",
+ "repository": "usergrid",
+ "prod_qual": "org/usergrid/services/AbstractService.java",
+ "prod_time": {
+  "$date": 1363897853000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/services/src/test/java/org/usergrid/services/AbstractServiceTest.java",
+ "test_qual": "org/usergrid/services/AbstractServiceTest.java",
+ "add_annotation_line": 10,
+ "add_call_line": 240,
+ "add_classname_line": 0,
+ "add_condition_line": 100,
+ "add_field_line": 17,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 120,
+ "add_return_line": 129,
+ "del_annotation_line": 10,
+ "del_call_line": 237,
+ "del_classname_line": 0,
+ "del_condition_line": 100,
+ "del_field_line": 17,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 119,
+ "del_return_line": 127,
+ "test_typ": "Non"
+}

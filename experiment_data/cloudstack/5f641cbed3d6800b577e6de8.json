@@ -1,0 +1,37 @@
+{
+ "prod_path": "plugins/network-elements/stratosphere-ssp/src/com/cloud/network/element/SspClient.java",
+ "prod_sha1": "2d6369c826790d4979383a0b1e350b2fd031425d",
+ "repository": "cloudstack",
+ "test_path": "plugins/network-elements/stratosphere-ssp/test/com/cloud/network/element/SspClientTest.java",
+ "test_sha1": "2d6369c826790d4979383a0b1e350b2fd031425d",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/network/element/SspClient.java",
+ "prod_time": {
+  "$date": 1372137389000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/network/element/SspClientTest.java",
+ "test_time": {
+  "$date": 1372137389000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 60,
+ "add_classname_line": 3,
+ "add_condition_line": 11,
+ "add_field_line": 19,
+ "add_import_line": 20,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 23,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

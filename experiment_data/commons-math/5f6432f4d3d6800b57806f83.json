@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/analysis/solvers/SecantSolver.java",
+ "prod_sha1": "2abc2e6707d9a5279d27d5245ece4d499be5e839",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/analysis/solvers/SecantSolver.java",
+ "prod_time": {
+  "$date": 1310296050000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/analysis/solvers/SecantSolverTest.java",
+ "test_qual": "org/apache/commons/math/analysis/solvers/SecantSolverTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 14,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

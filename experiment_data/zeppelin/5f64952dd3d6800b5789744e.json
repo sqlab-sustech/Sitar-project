@@ -1,0 +1,37 @@
+{
+ "prod_path": "spark/src/main/java/com/nflabs/zeppelin/spark/SparkSqlInterpreter.java",
+ "prod_sha1": "0b2c3bbf466ec9b532a55d898c41901b2e4501b2",
+ "repository": "zeppelin",
+ "test_path": "spark/src/test/java/com/nflabs/zeppelin/spark/SparkSqlInterpreterTest.java",
+ "test_sha1": "6315964963ed5ca6e05ff2cf101cdcec1342a0d0",
+ "commit_between": 1,
+ "prod_qual": "com/nflabs/zeppelin/spark/SparkSqlInterpreter.java",
+ "prod_time": {
+  "$date": 1421068012000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "com/nflabs/zeppelin/spark/SparkSqlInterpreterTest.java",
+ "test_time": {
+  "$date": 1421120178000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 2,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,13 @@
+diff --git a/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocJar.java b/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocJar.java
+index e28a6f2f9..0363dc9ba 100644
+--- a/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocJar.java
++++ b/maven-javadoc-plugin/src/main/java/org/apache/maven/plugin/javadoc/JavadocJar.java
+@@ -49,7 +49,7 @@ import java.util.Locale;
+  * @version $Id$
+  * @since 2.0
+  */
+-@Mojo( name = "jar", defaultPhase = LifecyclePhase.PACKAGE, requiresDependencyResolution = ResolutionScope.COMPILE)
++@Mojo( name = "jar", defaultPhase = LifecyclePhase.PACKAGE, requiresDependencyResolution = ResolutionScope.COMPILE, threadSafe = true )
+ public class JavadocJar
+     extends AbstractJavadocMojo
+ {

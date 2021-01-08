@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-connectors/src/main/java/org/apache/geode/connectors/jdbc/internal/xml/JdbcConnectorServiceXmlParser.java",
+ "prod_sha1": "56c35934241500e5afc30a347c969f6abe43920c",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/connectors/jdbc/internal/xml/JdbcConnectorServiceXmlParser.java",
+ "prod_time": {
+  "$date": 1544563662000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-connectors/src/test/java/org/apache/geode/connectors/jdbc/internal/xml/JdbcConnectorServiceXmlParserTest.java",
+ "test_qual": "org/apache/geode/connectors/jdbc/internal/xml/JdbcConnectorServiceXmlParserTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

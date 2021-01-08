@@ -1,0 +1,37 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/ReflectUtil.java",
+ "prod_sha1": "d1dd85a4c42d1dfc282a0b71407ac668701ccd12",
+ "repository": "cloudstack",
+ "test_path": "utils/test/com/cloud/utils/ReflectUtilTest.java",
+ "test_sha1": "d1dd85a4c42d1dfc282a0b71407ac668701ccd12",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/utils/ReflectUtil.java",
+ "prod_time": {
+  "$date": 1381258978000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/utils/ReflectUtilTest.java",
+ "test_time": {
+  "$date": 1381258978000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

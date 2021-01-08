@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/jsoup/select/Selector.java",
+ "prod_sha1": "80c826dc46a5270826c411d3741bfab8c98eb42e",
+ "repository": "jsoup",
+ "prod_qual": "org/jsoup/select/Selector.java",
+ "prod_time": {
+  "$date": 1263509565000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/jsoup/select/SelectorTest.java",
+ "test_qual": "org/jsoup/select/SelectorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

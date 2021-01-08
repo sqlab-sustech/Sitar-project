@@ -1,0 +1,37 @@
+{
+ "prod_path": "scalding/src/main/java/org/apache/zeppelin/scalding/ScaldingInterpreter.java",
+ "prod_sha1": "8fdaaba94584ec5c9b8b5d8acb96016700720af1",
+ "repository": "zeppelin",
+ "test_path": "scalding/src/test/java/org/apache/zeppelin/scalding/ScaldingInterpreterTest.java",
+ "test_sha1": "8fdaaba94584ec5c9b8b5d8acb96016700720af1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/scalding/ScaldingInterpreter.java",
+ "prod_time": {
+  "$date": 1451543149000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/scalding/ScaldingInterpreterTest.java",
+ "test_time": {
+  "$date": 1451543149000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 8,
+ "add_call_line": 50,
+ "add_classname_line": 1,
+ "add_condition_line": 23,
+ "add_field_line": 6,
+ "add_import_line": 26,
+ "add_packageid_line": 1,
+ "add_parameter_line": 15,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

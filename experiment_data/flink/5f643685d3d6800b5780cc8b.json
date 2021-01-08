@@ -1,0 +1,37 @@
+{
+ "prod_path": "pact/pact-common/src/main/java/eu/stratosphere/pact/common/io/JsonInputFormat.java",
+ "prod_sha1": "2086ca12a037660f821b40c5a07b749567640341",
+ "repository": "flink",
+ "test_path": "pact/pact-common/src/test/java/eu/stratosphere/pact/common/io/JsonInputFormatTest.java",
+ "test_sha1": "2086ca12a037660f821b40c5a07b749567640341",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/pact/common/io/JsonInputFormat.java",
+ "prod_time": {
+  "$date": 1297176785000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/pact/common/io/JsonInputFormatTest.java",
+ "test_time": {
+  "$date": 1297176785000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 7,
+ "add_call_line": 11,
+ "add_classname_line": 1,
+ "add_condition_line": 4,
+ "add_field_line": 4,
+ "add_import_line": 11,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

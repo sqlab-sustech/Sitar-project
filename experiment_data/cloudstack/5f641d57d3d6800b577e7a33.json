@@ -1,0 +1,37 @@
+{
+ "prod_path": "utils/src/com/cloud/utils/exception/ExceptionUtil.java",
+ "prod_sha1": "81d01369d76ecf5e64d1786777d84e599f42cfa1",
+ "repository": "cloudstack",
+ "test_path": "utils/test/com/cloud/utils/exception/ExceptionUtilTest.java",
+ "test_sha1": "81d01369d76ecf5e64d1786777d84e599f42cfa1",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/utils/exception/ExceptionUtil.java",
+ "prod_time": {
+  "$date": 1382556713000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/utils/exception/ExceptionUtilTest.java",
+ "test_time": {
+  "$date": 1382556713000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

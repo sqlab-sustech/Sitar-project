@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/Bond.java",
+ "prod_sha1": "cdae9139b6a138faab6467bcd0e130d2148c4d13",
+ "repository": "biojava",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/TestBond.java",
+ "test_sha1": "38ca7f284f7c5617c3587305badc521094c3b522",
+ "commit_between": 3,
+ "prod_qual": "org/biojava/bio/structure/Bond.java",
+ "prod_time": {
+  "$date": 1376068934000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/biojava/bio/structure/TestBond.java",
+ "test_time": {
+  "$date": 1376073440000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/linear/RealMatrixImpl.java",
+ "prod_sha1": "984e175bb8203bdcb8418f687510ad8f0d29af31",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/linear/RealMatrixImplTest.java",
+ "test_sha1": "984e175bb8203bdcb8418f687510ad8f0d29af31",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/linear/RealMatrixImpl.java",
+ "prod_time": {
+  "$date": 1097356556000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/linear/RealMatrixImplTest.java",
+ "test_time": {
+  "$date": 1097356556000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 8,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

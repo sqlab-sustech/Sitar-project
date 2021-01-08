@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/ResidueNumber.java",
+ "prod_sha1": "d92df43b0a9c2b8b27ba9654e6d29d38a31b6071",
+ "repository": "biojava",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/ResidueNumberTest.java",
+ "test_sha1": "d92df43b0a9c2b8b27ba9654e6d29d38a31b6071",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/bio/structure/ResidueNumber.java",
+ "prod_time": {
+  "$date": 1420459084000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/bio/structure/ResidueNumberTest.java",
+ "test_time": {
+  "$date": 1420459084000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

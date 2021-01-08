@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/lifecycle-api/src/main/java/org/apache/james/lifecycle/api/StartUpCheck.java",
+ "prod_sha1": "8c6f24c90cacdb9afddc8f93ac7c90551344ad93",
+ "repository": "james-project",
+ "test_path": "server/container/lifecycle-api/src/test/java/org/apache/james/lifecycle/api/StartUpCheckTest.java",
+ "test_sha1": "8c6f24c90cacdb9afddc8f93ac7c90551344ad93",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/lifecycle/api/StartUpCheck.java",
+ "prod_time": {
+  "$date": 1558954828000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/lifecycle/api/StartUpCheckTest.java",
+ "test_time": {
+  "$date": 1558954828000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

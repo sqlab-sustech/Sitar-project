@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/com/nflabs/zeppelin/zengine/stmt/ZQL.java",
+ "prod_sha1": "c5bd71b09ba889fa9e5e9df1c4ffd5cccfeb4a71",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-zengine/src/test/java/com/nflabs/zeppelin/zengine/stmt/ZQLTest.java",
+ "test_sha1": "c5bd71b09ba889fa9e5e9df1c4ffd5cccfeb4a71",
+ "commit_between": 0,
+ "prod_qual": "com/nflabs/zeppelin/zengine/stmt/ZQL.java",
+ "prod_time": {
+  "$date": 1409296634000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/nflabs/zeppelin/zengine/stmt/ZQLTest.java",
+ "test_time": {
+  "$date": 1409296634000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 49,
+ "del_classname_line": 1,
+ "del_condition_line": 30,
+ "del_field_line": 4,
+ "del_import_line": 20,
+ "del_packageid_line": 1,
+ "del_parameter_line": 12,
+ "del_return_line": 5
+}

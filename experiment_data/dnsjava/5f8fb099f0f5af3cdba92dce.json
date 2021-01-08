@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/xbill/DNS/ExtendedResolver.java",
+ "prod_sha1": "ee7fbdd5301999c8a5e20a440b9c0f6e4b626330",
+ "repository": "dnsjava",
+ "prod_qual": "org/xbill/DNS/ExtendedResolver.java",
+ "prod_time": {
+  "$date": 1591458327000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/xbill/DNS/ExtendedResolverTest.java",
+ "test_qual": "org/xbill/DNS/ExtendedResolverTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 18,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 5,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 2,
+ "del_annotation_line": 1,
+ "del_call_line": 9,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

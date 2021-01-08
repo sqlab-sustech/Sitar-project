@@ -1,0 +1,17 @@
+diff --git a/phoenix-core/src/main/java/org/apache/phoenix/compile/WhereOptimizer.java b/phoenix-core/src/main/java/org/apache/phoenix/compile/WhereOptimizer.java
+index 5e0315804..ab92a142e 100644
+--- a/phoenix-core/src/main/java/org/apache/phoenix/compile/WhereOptimizer.java
++++ b/phoenix-core/src/main/java/org/apache/phoenix/compile/WhereOptimizer.java
+@@ -284,12 +284,6 @@ public class WhereOptimizer {
+         // If we have fully qualified point keys with multi-column spans (i.e. RVC),
+         // we can still use our skip scan. The ScanRanges.create() call will explode
+         // out the keys.
+-        if (hasMultiColumnSpan) {
+-            forcedRangeScan |= pkPos < nPKColumns;
+-            if (forcedRangeScan && removeFromExtractNodes != null) {
+-                extractNodes.removeAll(removeFromExtractNodes);
+-            }
+-        }
+         context.setScanRanges(
+                 ScanRanges.create(schema, cnf, Arrays.copyOf(slotSpan, cnf.size()), forcedRangeScan, nBuckets),
+                 minMaxRange);

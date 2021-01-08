@@ -1,0 +1,14 @@
+diff --git a/handler-bizkeeper/src/main/java/io/servicecomb/bizkeeper/CommandKey.java b/handler-bizkeeper/src/main/java/io/servicecomb/bizkeeper/CommandKey.java
+index 41e7ae228..c506f5d1c 100644
+--- a/handler-bizkeeper/src/main/java/io/servicecomb/bizkeeper/CommandKey.java
++++ b/handler-bizkeeper/src/main/java/io/servicecomb/bizkeeper/CommandKey.java
+@@ -23,9 +23,6 @@ import com.netflix.hystrix.HystrixCommandKey;
+ /**
+  * 创建对应的Key值
+  *
+- * @version  [版本号, 2016年12月17日]
+- * @see  [相关类/方法]
+- * @since  [产品/模块版本]
+  */
+ public final class CommandKey {
+     private CommandKey() {

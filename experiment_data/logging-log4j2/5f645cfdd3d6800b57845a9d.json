@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/mom/jeromq/JeroMqAppender.java",
+ "prod_sha1": "50f05baea0aa488c01dc439efeb85e604435c38e",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/mom/jeromq/JeroMqAppenderTest.java",
+ "test_sha1": "50f05baea0aa488c01dc439efeb85e604435c38e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/appender/mom/jeromq/JeroMqAppender.java",
+ "prod_time": {
+  "$date": 1457316292000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/appender/mom/jeromq/JeroMqAppenderTest.java",
+ "test_time": {
+  "$date": 1457316292000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 11,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 6,
+ "del_annotation_line": 27,
+ "del_call_line": 10,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 4,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 39,
+ "del_return_line": 1
+}

@@ -1,0 +1,19 @@
+diff --git a/src/java/org/apache/hadoop/hbase/filter/PageRowFilter.java b/src/java/org/apache/hadoop/hbase/filter/PageRowFilter.java
+index 8177f4a17f..8568aa602e 100644
+--- a/src/java/org/apache/hadoop/hbase/filter/PageRowFilter.java
++++ b/src/java/org/apache/hadoop/hbase/filter/PageRowFilter.java
+@@ -81,11 +81,9 @@ public class PageRowFilter implements RowFilterInterface {
+     rowsAccepted = 0;
+   }
+ 
+-  /**
+-   * 
+-   * {@inheritDoc}
+-   */
+-  public void rowProcessed(boolean filtered, Text rowKey) {
++  /** {@inheritDoc} */
++  public void rowProcessed(boolean filtered,
++      @SuppressWarnings("unused") Text rowKey) {
+     if (!filtered) {
+       this.rowsAccepted++;
+       if (LOG.isDebugEnabled()) {

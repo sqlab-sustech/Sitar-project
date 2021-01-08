@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/ContactExtractor.java",
+ "prod_sha1": "bbb1a4c2d0b32d12c2a482d8491f3a63a194e759",
+ "repository": "james-project",
+ "test_path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/ContactExtractorTest.java",
+ "test_sha1": "bbb1a4c2d0b32d12c2a482d8491f3a63a194e759",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/transport/mailets/ContactExtractor.java",
+ "prod_time": {
+  "$date": 1511442428000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/mailets/ContactExtractorTest.java",
+ "test_time": {
+  "$date": 1511442428000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 21,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 18,
+ "del_annotation_line": 1,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 3
+}

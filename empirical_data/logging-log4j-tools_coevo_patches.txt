@@ -1,0 +1,2 @@
+logging-log4j-tools CC 53ef71b112e43226f0a37d3a5af71a8238e3e877 53ef71b112e43226f0a37d3a5af71a8238e3e877 log4j-server/src/main/java/org/apache/logging/log4j/server/AbstractSocketServer.java log4j-server/src/test/java/org/apache/logging/log4j/server/AbstractSocketServerTest.java
+logging-log4j-tools EC b707e7beb7db22211b266c1e5b5e8b1b5af8e00c b707e7beb7db22211b266c1e5b5e8b1b5af8e00c log4j-server/src/main/java/org/apache/logging/log4j/server/mom/jms/JmsQueueReceiver.java log4j-server/src/test/java/org/apache/logging/log4j/server/mom/jms/JmsQueueReceiverTest.java

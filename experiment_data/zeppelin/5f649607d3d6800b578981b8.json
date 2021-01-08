@@ -1,0 +1,32 @@
+{
+ "prod_path": "alluxio/src/main/java/org/apache/zeppelin/alluxio/AlluxioInterpreter.java",
+ "prod_sha1": "32d5df359dd250374a28c361220ff1c0ae06cdc1",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/alluxio/AlluxioInterpreter.java",
+ "prod_time": {
+  "$date": 1468229947000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "alluxio/src/test/java/org/apache/zeppelin/alluxio/AlluxioInterpreterTest.java",
+ "test_qual": "org/apache/zeppelin/alluxio/AlluxioInterpreterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

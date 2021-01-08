@@ -1,0 +1,58 @@
+diff --git a/runners/direct-java/src/main/java/org/apache/beam/runners/direct/ParDoEvaluator.java b/runners/direct-java/src/main/java/org/apache/beam/runners/direct/ParDoEvaluator.java
+index a5de4c6994..48f0f8d6a4 100644
+--- a/runners/direct-java/src/main/java/org/apache/beam/runners/direct/ParDoEvaluator.java
++++ b/runners/direct-java/src/main/java/org/apache/beam/runners/direct/ParDoEvaluator.java
+@@ -18,7 +18,6 @@
+ package org.apache.beam.runners.direct;
+ 
+ import com.google.common.collect.ImmutableList;
+-import java.io.Serializable;
+ import java.util.ArrayList;
+ import java.util.HashMap;
+ import java.util.List;
+@@ -30,8 +29,10 @@ import org.apache.beam.runners.core.PushbackSideInputDoFnRunner;
+ import org.apache.beam.runners.direct.DirectExecutionContext.DirectStepContext;
+ import org.apache.beam.runners.direct.DirectRunner.UncommittedBundle;
+ import org.apache.beam.sdk.transforms.AppliedPTransform;
++import org.apache.beam.sdk.transforms.DoFn;
+ import org.apache.beam.sdk.transforms.windowing.BoundedWindow;
+ import org.apache.beam.sdk.util.ReadyCheckingSideInputReader;
++import org.apache.beam.sdk.util.TimerInternals.TimerData;
+ import org.apache.beam.sdk.util.UserCodeException;
+ import org.apache.beam.sdk.util.WindowedValue;
+ import org.apache.beam.sdk.util.WindowingStrategy;
+@@ -46,7 +47,7 @@ class ParDoEvaluator<InputT, OutputT> implements TransformEvaluator<InputT> {
+       DirectStepContext stepContext,
+       AppliedPTransform<?, ?, ?> application,
+       WindowingStrategy<?, ? extends BoundedWindow> windowingStrategy,
+-      Serializable fn, // may be OldDoFn or DoFn
++      DoFn<InputT, OutputT> fn,
+       StructuralKey<?> key,
+       List<PCollectionView<?>> sideInputs,
+       TupleTag<OutputT> mainOutputTag,
+@@ -71,8 +72,9 @@ class ParDoEvaluator<InputT, OutputT> implements TransformEvaluator<InputT> {
+ 
+     ReadyCheckingSideInputReader sideInputReader =
+         evaluationContext.createSideInputReader(sideInputs);
++
+     DoFnRunner<InputT, OutputT> underlying =
+-        DoFnRunners.createDefault(
++        DoFnRunners.simpleRunner(
+             evaluationContext.getPipelineOptions(),
+             fn,
+             sideInputReader,
+@@ -136,6 +138,14 @@ class ParDoEvaluator<InputT, OutputT> implements TransformEvaluator<InputT> {
+     }
+   }
+ 
++  public void onTimer(TimerData timer, BoundedWindow window) {
++    try {
++      fnRunner.onTimer(timer.getTimerId(), window, timer.getTimestamp(), timer.getDomain());
++    } catch (Exception e) {
++      throw UserCodeException.wrap(e);
++    }
++  }
++
+   @Override
+   public TransformResult<InputT> finishBundle() {
+     try {

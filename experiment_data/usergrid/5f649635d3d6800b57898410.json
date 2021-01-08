@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/graph/src/main/java/org/apache/usergrid/persistence/graph/impl/NodeDeleteListener.java",
+ "prod_sha1": "0a256bb57fb376e0efff9ab13636e95960b9b27b",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/graph/src/test/java/org/apache/usergrid/persistence/graph/impl/NodeDeleteListenerTest.java",
+ "test_sha1": "0a256bb57fb376e0efff9ab13636e95960b9b27b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/graph/impl/NodeDeleteListener.java",
+ "prod_time": {
+  "$date": 1394503881000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/graph/impl/NodeDeleteListenerTest.java",
+ "test_time": {
+  "$date": 1394503881000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 8,
+ "add_call_line": 75,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 3,
+ "add_import_line": 5,
+ "add_packageid_line": 0,
+ "add_parameter_line": 15,
+ "add_return_line": 71,
+ "del_annotation_line": 4,
+ "del_call_line": 25,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 25
+}

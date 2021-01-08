@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/complex/ComplexFormat.java",
+ "prod_sha1": "45f78a21b9f1e988f32cedc195ce5db5e5aa76d2",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/complex/ComplexFormat.java",
+ "prod_time": {
+  "$date": 1086135316000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/complex/ComplexFormatTest.java",
+ "test_qual": "org/apache/commons/math/complex/ComplexFormatTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/cassandra-guice/src/main/java/org/apache/james/utils/ClassPathConfigurationProvider.java",
+ "prod_sha1": "2f1345feb6e7da33273f3a0cdd2ca0fa06dc78c4",
+ "repository": "james-project",
+ "test_path": "server/container/cassandra-guice/src/test/java/org/apache/james/utils/ClassPathConfigurationProviderTest.java",
+ "test_sha1": "2f1345feb6e7da33273f3a0cdd2ca0fa06dc78c4",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/utils/ClassPathConfigurationProvider.java",
+ "prod_time": {
+  "$date": 1446569306000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/utils/ClassPathConfigurationProviderTest.java",
+ "test_time": {
+  "$date": 1446569306000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 10,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,22 @@
+diff --git a/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/ResourceManager.java b/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/ResourceManager.java
+index 2fced0f3f19..597d18c112e 100644
+--- a/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/ResourceManager.java
++++ b/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/ResourceManager.java
+@@ -362,7 +362,7 @@ protected void serviceInit(Configuration configuration) throws Exception {
+         // the Exception from stateStore.init() needs to be handled for
+         // HA and we need to give up master status if we got fenced
+         LOG.error("Failed to init state store", e);
+-        ExitUtil.terminate(1, e);
++        throw e;
+       }
+       rmContext.setStateStore(rmStore);
+ 
+@@ -470,7 +470,7 @@ protected void serviceStart() throws Exception {
+           // the Exception from loadState() needs to be handled for
+           // HA and we need to give up master status if we got fenced
+           LOG.error("Failed to load/recover state", e);
+-          ExitUtil.terminate(1, e);
++          throw e;
+         }
+       }
+ 

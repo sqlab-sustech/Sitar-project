@@ -1,0 +1,2 @@
+ant-easyant-buildtypes CC a6eb6532cc47a7bb67e4c36ce0f24d37ade91677 a6eb6532cc47a7bb67e4c36ce0f24d37ade91677 build-std-java/src/test/antunit/src/main/java/org/apache/easyant/example/Example.java build-std-java/src/test/antunit/src/test/java/org/apache/easyant/example/ExampleTest.java
+ant-easyant-buildtypes CC 166e6645dbbd7ee56e88b38b907099b66a2d5cf8 166e6645dbbd7ee56e88b38b907099b66a2d5cf8 build-webapp-java/src/test/antunit/src/main/java/org/apache/easyant/example/Example.java build-webapp-java/src/test/antunit/src/test/java/org/apache/easyant/example/ExampleTest.java

@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-junit/src/main/java/org/apache/geode/test/junit/rules/RuleList.java",
+ "prod_sha1": "3b930b4c4a8ceee449c3315d44742a2aff3891c4",
+ "repository": "geode",
+ "prod_qual": "junit/rules/RuleList.java",
+ "prod_time": {
+  "$date": 1523572718000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-junit/src/test/java/org/apache/geode/test/junit/rules/RuleListTest.java",
+ "test_qual": "junit/rules/RuleListTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

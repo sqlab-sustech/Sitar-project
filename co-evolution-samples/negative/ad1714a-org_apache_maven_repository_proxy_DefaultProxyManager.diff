@@ -1,0 +1,12 @@
+diff --git a/maven-repository-proxy/src/main/java/org/apache/maven/repository/proxy/DefaultProxyManager.java b/maven-repository-proxy/src/main/java/org/apache/maven/repository/proxy/DefaultProxyManager.java
+index e923ae9fb..b3f2e3753 100644
+--- a/maven-repository-proxy/src/main/java/org/apache/maven/repository/proxy/DefaultProxyManager.java
++++ b/maven-repository-proxy/src/main/java/org/apache/maven/repository/proxy/DefaultProxyManager.java
+@@ -125,7 +125,6 @@ else if ( path.endsWith( "maven-metadata.xml" ) )
+ 
+             if ( artifact == null )
+             {
+-                System.out.println( "Trying legacy path" );
+                 artifact = ArtifactUtils.buildArtifactFromLegacyPath( path, artifactFactory );
+             }
+ 

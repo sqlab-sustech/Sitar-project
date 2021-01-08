@@ -1,0 +1,37 @@
+{
+ "prod_path": "structure-gui/src/main/java/org/biojava/structure/gui/JmolViewerImpl.java",
+ "prod_sha1": "41c200c1ee608a1bd38ab1d16eec8b2b679cbeac",
+ "repository": "biojava",
+ "test_path": "structure-gui/src/test/java/org/biojava/structure/gui/JmolViewerImplTest.java",
+ "test_sha1": "41c200c1ee608a1bd38ab1d16eec8b2b679cbeac",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/structure/gui/JmolViewerImpl.java",
+ "prod_time": {
+  "$date": 1264005243000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/structure/gui/JmolViewerImplTest.java",
+ "test_time": {
+  "$date": 1264005243000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 55,
+ "add_classname_line": 2,
+ "add_condition_line": 1,
+ "add_field_line": 17,
+ "add_import_line": 20,
+ "add_packageid_line": 1,
+ "add_parameter_line": 18,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

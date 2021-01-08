@@ -1,0 +1,13 @@
+diff --git a/sentry-provider/sentry-provider-db/src/main/java/org/apache/sentry/provider/db/generic/tools/SentryConfigToolIndexer.java b/sentry-provider/sentry-provider-db/src/main/java/org/apache/sentry/provider/db/generic/tools/SentryConfigToolIndexer.java
+index c2341d32..a5996a7b 100644
+--- a/sentry-provider/sentry-provider-db/src/main/java/org/apache/sentry/provider/db/generic/tools/SentryConfigToolIndexer.java
++++ b/sentry-provider/sentry-provider-db/src/main/java/org/apache/sentry/provider/db/generic/tools/SentryConfigToolIndexer.java
+@@ -172,7 +172,7 @@ public class SentryConfigToolIndexer {
+ 
+   private Configuration getSentryConf() {
+     Configuration conf = new Configuration();
+-    conf.addResource(new Path(getConfPath()));
++    conf.addResource(new Path(getConfPath()), true);
+     return conf;
+   }
+ 

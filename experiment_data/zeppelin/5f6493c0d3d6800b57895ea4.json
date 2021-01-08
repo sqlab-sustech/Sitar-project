@@ -1,0 +1,37 @@
+{
+ "prod_path": "spark/interpreter/src/main/java/org/apache/zeppelin/spark/PySparkInterpreter.java",
+ "prod_sha1": "0a97446a70f6294a3efb071bb9a70601f885840b",
+ "repository": "zeppelin",
+ "test_path": "spark/interpreter/src/test/java/org/apache/zeppelin/spark/PySparkInterpreterTest.java",
+ "test_sha1": "0a97446a70f6294a3efb071bb9a70601f885840b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/spark/PySparkInterpreter.java",
+ "prod_time": {
+  "$date": 1522589188000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/spark/PySparkInterpreterTest.java",
+ "test_time": {
+  "$date": 1522589188000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 25,
+ "add_classname_line": 1,
+ "add_condition_line": 9,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 10,
+ "add_return_line": 10,
+ "del_annotation_line": 4,
+ "del_call_line": 31,
+ "del_classname_line": 0,
+ "del_condition_line": 21,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 12,
+ "del_return_line": 17
+}

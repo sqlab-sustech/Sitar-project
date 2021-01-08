@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/config/AppenderControlArraySet.java",
+ "prod_sha1": "bec3b8303d45b281abcf14db9297090c03469e55",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/config/AppenderControlArraySetTest.java",
+ "test_sha1": "bec3b8303d45b281abcf14db9297090c03469e55",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/config/AppenderControlArraySet.java",
+ "prod_time": {
+  "$date": 1455450971000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/config/AppenderControlArraySetTest.java",
+ "test_time": {
+  "$date": 1455450971000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 15,
+ "add_classname_line": 1,
+ "add_condition_line": 8,
+ "add_field_line": 1,
+ "add_import_line": 6,
+ "add_packageid_line": 1,
+ "add_parameter_line": 7,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

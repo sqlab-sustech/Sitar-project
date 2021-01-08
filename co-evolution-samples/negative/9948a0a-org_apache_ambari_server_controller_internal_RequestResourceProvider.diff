@@ -1,0 +1,14 @@
+diff --git a/ambari-server/src/main/java/org/apache/ambari/server/controller/internal/RequestResourceProvider.java b/ambari-server/src/main/java/org/apache/ambari/server/controller/internal/RequestResourceProvider.java
+index b4a3dc1e7e..094dca91d3 100644
+--- a/ambari-server/src/main/java/org/apache/ambari/server/controller/internal/RequestResourceProvider.java
++++ b/ambari-server/src/main/java/org/apache/ambari/server/controller/internal/RequestResourceProvider.java
+@@ -100,6 +100,9 @@ class RequestResourceProvider extends AbstractControllerResourceProvider {
+       setResourceProperty(resource, REQUEST_CLUSTER_NAME_PROPERTY_ID, clusterName, requestedIds);
+       setResourceProperty(resource, REQUEST_ID_PROPERTY_ID, response.getRequestId(), requestedIds);
+       setResourceProperty(resource, REQUEST_CONTEXT_ID, response.getRequestContext(), requestedIds);
++      if (requestStatusRequest.getRequestStatus() != null) {
++        setResourceProperty(resource, REQUEST_STATUS_PROPERTY_ID, requestStatusRequest.getRequestStatus(), requestedIds);
++      }
+       resources.add(resource);
+     }
+     return resources;

@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/test/java/org/apache/geode/internal/process/lang/AvailablePid.java",
+ "prod_sha1": "b94bf44cd7a559547b865330d24d555cbcf74612",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/process/lang/AvailablePid.java",
+ "prod_time": {
+  "$date": 1523573889000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/process/lang/AvailablePidTest.java",
+ "test_qual": "org/apache/geode/internal/process/lang/AvailablePidTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

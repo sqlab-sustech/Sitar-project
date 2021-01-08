@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/storage/VolumeApiServiceImpl.java",
+ "prod_sha1": "cffae8eef0b1f9bf869a5ec99befbe9ae9d9290d",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/storage/VolumeApiServiceImpl.java",
+ "prod_time": {
+  "$date": 1415943709000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/storage/VolumeApiServiceImplTest.java",
+ "test_qual": "com/cloud/storage/VolumeApiServiceImplTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/ant/Formatter.java",
+ "prod_sha1": "7fd1531f86713556736dcb8b49c5fc72095a8e58",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/ant/Formatter.java",
+ "prod_time": {
+  "$date": 1152190045000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/ant/FormatterTest.java",
+ "test_qual": "net/sourceforge/pmd/ant/FormatterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 43,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 1,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 15,
+ "add_return_line": 14,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

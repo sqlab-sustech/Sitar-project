@@ -1,0 +1,37 @@
+{
+ "prod_path": "wsdef/src/main/java/com/google/gson/webservice/typeadapters/IdTypeAdapter.java",
+ "prod_sha1": "281ed6f86671d4c74e41a2f632757c8096db938d",
+ "repository": "gson",
+ "test_path": "wsdef/src/test/java/com/google/gson/webservice/typeadapters/IdTypeAdapterTest.java",
+ "test_sha1": "281ed6f86671d4c74e41a2f632757c8096db938d",
+ "commit_between": 0,
+ "prod_qual": "com/google/gson/webservice/typeadapters/IdTypeAdapter.java",
+ "prod_time": {
+  "$date": 1287416735000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/webservice/typeadapters/IdTypeAdapterTest.java",
+ "test_time": {
+  "$date": 1287416735000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 3,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 10,
+ "add_packageid_line": 1,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

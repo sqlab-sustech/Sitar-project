@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-management/src/main/java/org/apache/geode/management/configuration/MemberConfig.java",
+ "prod_sha1": "a60ade270e3dc1901fe900e2521351bdc93ecced",
+ "repository": "geode",
+ "test_path": "geode-management/src/test/java/org/apache/geode/management/configuration/MemberConfigTest.java",
+ "test_sha1": "51da2761613476e21c85c90b029b9a1f11eb8a8b",
+ "commit_between": 11,
+ "prod_qual": "org/apache/geode/management/configuration/MemberConfig.java",
+ "prod_time": {
+  "$date": 1560896808000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/management/configuration/MemberConfigTest.java",
+ "test_time": {
+  "$date": 1561041369000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

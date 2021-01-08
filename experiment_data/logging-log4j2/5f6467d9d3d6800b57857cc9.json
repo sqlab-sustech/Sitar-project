@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/OutputStreamAppender.java",
+ "prod_sha1": "61f125b8b879d1a0852b24358da7424baeb20c31",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/appender/OutputStreamAppender.java",
+ "prod_time": {
+  "$date": 1541117445000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/OutputStreamAppenderTest.java",
+ "test_qual": "org/apache/logging/log4j/core/appender/OutputStreamAppenderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 4,
+ "del_annotation_line": 1,
+ "del_call_line": 2,
+ "del_classname_line": 3,
+ "del_condition_line": 0,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

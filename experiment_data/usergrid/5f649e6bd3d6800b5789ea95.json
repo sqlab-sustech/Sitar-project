@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/corepersistence/perftest/src/main/java/org/apache/usergrid/perftest/PerftestRunner.java",
+ "prod_sha1": "c5aadde3c3d068fb824c8deb5b19c8d2193a44ee",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/perftest/PerftestRunner.java",
+ "prod_time": {
+  "$date": 1385994246000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/corepersistence/perftest/src/main/java/org/apache/usergrid/perftest/PerftestRunnerTest.java",
+ "test_qual": "org/apache/usergrid/perftest/PerftestRunnerTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 26,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 5,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 15,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 3,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

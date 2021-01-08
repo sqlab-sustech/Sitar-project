@@ -1,0 +1,14 @@
+diff --git a/runners/direct-java/src/main/java/org/apache/beam/runners/direct/AggregatorContainer.java b/runners/direct-java/src/main/java/org/apache/beam/runners/direct/AggregatorContainer.java
+index e86bc3ebaf..c7fa4df7cd 100644
+--- a/runners/direct-java/src/main/java/org/apache/beam/runners/direct/AggregatorContainer.java
++++ b/runners/direct-java/src/main/java/org/apache/beam/runners/direct/AggregatorContainer.java
+@@ -27,8 +27,8 @@ import java.util.concurrent.ConcurrentHashMap;
+ import java.util.concurrent.ConcurrentMap;
+ import javax.annotation.Nullable;
+ import javax.annotation.concurrent.GuardedBy;
++import org.apache.beam.runners.core.AggregatorFactory;
+ import org.apache.beam.sdk.transforms.Aggregator;
+-import org.apache.beam.sdk.transforms.Aggregator.AggregatorFactory;
+ import org.apache.beam.sdk.transforms.Combine.CombineFn;
+ import org.apache.beam.sdk.util.ExecutionContext;
+ 

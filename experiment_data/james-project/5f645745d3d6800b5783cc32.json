@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/container/guice/blob-objectstorage-guice/src/main/java/org/apache/james/modules/objectstorage/SwiftTmpAuthConfigurationReader.java",
+ "prod_sha1": "e18abb642e994ae144e416a417dd21a35caae87a",
+ "repository": "james-project",
+ "test_path": "server/container/guice/blob-objectstorage-guice/src/test/java/org/apache/james/modules/objectstorage/SwiftTmpAuthConfigurationReaderTest.java",
+ "test_sha1": "787695d6008003a91a4e727f267c6c9530561652",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/modules/objectstorage/SwiftTmpAuthConfigurationReader.java",
+ "prod_time": {
+  "$date": 1539251559000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/modules/objectstorage/SwiftTmpAuthConfigurationReaderTest.java",
+ "test_time": {
+  "$date": 1539251701000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,13 @@
+diff --git a/java/gadgets/src/main/java/org/apache/shindig/gadgets/Gadget.java b/java/gadgets/src/main/java/org/apache/shindig/gadgets/Gadget.java
+index 320f41cf9..efc7681ea 100644
+--- a/java/gadgets/src/main/java/org/apache/shindig/gadgets/Gadget.java
++++ b/java/gadgets/src/main/java/org/apache/shindig/gadgets/Gadget.java
+@@ -37,7 +37,7 @@ import java.util.concurrent.Future;
+  * Intermediary representation of all state associated with processing
+  * of a single gadget request.
+  */
+-public class Gadget extends MutableHtmlContent {
++public class Gadget extends MutableContent {
+   private final GadgetContext context;
+   
+   /**

@@ -1,0 +1,37 @@
+{
+ "prod_path": "gemfire-core/src/test/java/com/gemstone/gemfire/cache/client/internal/CacheServerSSLConnectionDUnit.java",
+ "prod_sha1": "fbe8c37a94b61af411640c455fe4787e19f3d536",
+ "repository": "geode",
+ "test_path": "gemfire-core/src/test/java/com/gemstone/gemfire/cache/client/internal/CacheServerSSLConnectionDUnitTest.java",
+ "test_sha1": "fbe8c37a94b61af411640c455fe4787e19f3d536",
+ "commit_between": 0,
+ "prod_qual": "com/gemstone/gemfire/cache/client/internal/CacheServerSSLConnectionDUnit.java",
+ "prod_time": {
+  "$date": 1444171912000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/gemstone/gemfire/cache/client/internal/CacheServerSSLConnectionDUnitTest.java",
+ "test_time": {
+  "$date": 1444171912000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 224,
+ "del_classname_line": 1,
+ "del_condition_line": 5,
+ "del_field_line": 16,
+ "del_import_line": 27,
+ "del_packageid_line": 1,
+ "del_parameter_line": 32,
+ "del_return_line": 6
+}

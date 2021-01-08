@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/queue/queue-memory/src/main/java/org/apache/james/queue/memory/MemoryMailQueueFactory.java",
+ "prod_sha1": "246ec6ce75fbffc972c8967c748785e54726609f",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/queue/memory/MemoryMailQueueFactory.java",
+ "prod_time": {
+  "$date": 1516610824000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/queue/queue-memory/src/test/java/org/apache/james/queue/memory/MemoryMailQueueFactoryTest.java",
+ "test_qual": "org/apache/james/queue/memory/MemoryMailQueueFactoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

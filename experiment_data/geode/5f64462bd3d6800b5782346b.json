@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-connectors/src/main/java/org/apache/geode/connectors/jdbc/internal/cli/ListMappingCommand.java",
+ "prod_sha1": "2dcc0820e823bf06e2b412c059e9d2d7d11cc4ca",
+ "repository": "geode",
+ "test_path": "geode-connectors/src/test/java/org/apache/geode/connectors/jdbc/internal/cli/ListMappingCommandTest.java",
+ "test_sha1": "2dcc0820e823bf06e2b412c059e9d2d7d11cc4ca",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/connectors/jdbc/internal/cli/ListMappingCommand.java",
+ "prod_time": {
+  "$date": 1524588437000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/connectors/jdbc/internal/cli/ListMappingCommandTest.java",
+ "test_time": {
+  "$date": 1524588437000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 3
+}

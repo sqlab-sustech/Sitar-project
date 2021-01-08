@@ -1,0 +1,32 @@
+{
+ "prod_path": "services/secondary-storage/src/org/apache/cloudstack/storage/resource/NfsSecondaryStorageResource.java",
+ "prod_sha1": "8f10dedce90e7768aca491a93f5f32f282669ece",
+ "repository": "cloudstack",
+ "prod_qual": "org/apache/cloudstack/storage/resource/NfsSecondaryStorageResource.java",
+ "prod_time": {
+  "$date": 1391157393000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "services/secondary-storage/test/org/apache/cloudstack/storage/resource/NfsSecondaryStorageResourceTest.java",
+ "test_qual": "org/apache/cloudstack/storage/resource/NfsSecondaryStorageResourceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 31,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 5,
+ "del_annotation_line": 1,
+ "del_call_line": 56,
+ "del_classname_line": 0,
+ "del_condition_line": 23,
+ "del_field_line": 1,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 18,
+ "test_typ": "Non"
+}

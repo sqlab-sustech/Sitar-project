@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/commands/DestroyRegionCommand.java",
+ "prod_sha1": "c0a650832a237a2297c5ec7f783e729ff09a6a8a",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/commands/DestroyRegionCommandTest.java",
+ "test_sha1": "c0a650832a237a2297c5ec7f783e729ff09a6a8a",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/management/internal/cli/commands/DestroyRegionCommand.java",
+ "prod_time": {
+  "$date": 1544146300000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/management/internal/cli/commands/DestroyRegionCommandTest.java",
+ "test_time": {
+  "$date": 1544146300000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 8,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

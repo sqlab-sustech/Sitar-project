@@ -1,0 +1,22 @@
+diff --git a/ambari-server/src/main/java/org/apache/ambari/server/collections/functors/ContainsPredicate.java b/ambari-server/src/main/java/org/apache/ambari/server/collections/functors/ContainsPredicate.java
+index 503405eddf..a0f18f8926 100644
+--- a/ambari-server/src/main/java/org/apache/ambari/server/collections/functors/ContainsPredicate.java
++++ b/ambari-server/src/main/java/org/apache/ambari/server/collections/functors/ContainsPredicate.java
+@@ -18,8 +18,6 @@
+ 
+ package org.apache.ambari.server.collections.functors;
+ 
+-import org.apache.ambari.server.collections.Predicate;
+-
+ import java.util.ArrayList;
+ import java.util.Arrays;
+ import java.util.Collection;
+@@ -28,6 +26,8 @@ import java.util.Iterator;
+ import java.util.Map;
+ import java.util.Set;
+ 
++import org.apache.ambari.server.collections.Predicate;
++
+ /**
+  * {@link ContainsPredicate} is a predicate implementation testing whether a string value exists
+  * within some set of strings.

@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/jsoup/nodes/FormElement.java",
+ "prod_sha1": "fc7c7f18cdbb55ca1c1fb708ae573c64e5e3ead5",
+ "repository": "jsoup",
+ "prod_qual": "org/jsoup/nodes/FormElement.java",
+ "prod_time": {
+  "$date": 1383929146000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/jsoup/nodes/FormElementTest.java",
+ "test_qual": "org/jsoup/nodes/FormElementTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

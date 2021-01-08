@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/transport/stomp/StompWireFormat.java",
+ "prod_sha1": "1f6aa57df62ae72d75a44ad61d859d499f6ca196",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/transport/stomp/StompWireFormatTest.java",
+ "test_sha1": "1f6aa57df62ae72d75a44ad61d859d499f6ca196",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/transport/stomp/StompWireFormat.java",
+ "prod_time": {
+  "$date": 1152022452000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/transport/stomp/StompWireFormatTest.java",
+ "test_time": {
+  "$date": 1152022452000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 72,
+ "del_classname_line": 1,
+ "del_condition_line": 14,
+ "del_field_line": 20,
+ "del_import_line": 39,
+ "del_packageid_line": 1,
+ "del_parameter_line": 36,
+ "del_return_line": 26
+}

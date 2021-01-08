@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-core/src/main/java/com/nflabs/zeppelin/zql/L.java",
+ "prod_sha1": "98bc5f32c42b047e6d5f92c044eac7c631abf124",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-core/src/test/java/com/nflabs/zeppelin/zql/LTest.java",
+ "test_sha1": "59dde9ac687aa547f54df1a3ea8abddb8c1ba835",
+ "commit_between": 2,
+ "prod_qual": "com/nflabs/zeppelin/zql/L.java",
+ "prod_time": {
+  "$date": 1381997506000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/nflabs/zeppelin/zql/LTest.java",
+ "test_time": {
+  "$date": 1381999463000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

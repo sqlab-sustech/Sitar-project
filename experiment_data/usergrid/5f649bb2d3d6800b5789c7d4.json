@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/tools/src/main/java/org/apache/usergrid/tools/ExportApp.java",
+ "prod_sha1": "b2bdbb5456301dbcf7131e780d968514cdd7e55d",
+ "repository": "usergrid",
+ "test_path": "stack/tools/src/test/java/org/apache/usergrid/tools/ExportAppTest.java",
+ "test_sha1": "b2bdbb5456301dbcf7131e780d968514cdd7e55d",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/tools/ExportApp.java",
+ "prod_time": {
+  "$date": 1436797269000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/tools/ExportAppTest.java",
+ "test_time": {
+  "$date": 1436797269000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 158,
+ "add_classname_line": 13,
+ "add_condition_line": 26,
+ "add_field_line": 32,
+ "add_import_line": 25,
+ "add_packageid_line": 1,
+ "add_parameter_line": 40,
+ "add_return_line": 18,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

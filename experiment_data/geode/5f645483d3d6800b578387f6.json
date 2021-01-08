@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/tier/sockets/command/Invalidate.java",
+ "prod_sha1": "a0296b7fc966f043e620adc7d515ae698eb1b168",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/tier/sockets/command/Invalidate.java",
+ "prod_time": {
+  "$date": 1550099229000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/tier/sockets/command/InvalidateTest.java",
+ "test_qual": "org/apache/geode/internal/cache/tier/sockets/command/InvalidateTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

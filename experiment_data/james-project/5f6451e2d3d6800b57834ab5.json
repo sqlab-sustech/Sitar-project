@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/data/data-jmap/src/main/java/org/apache/james/jmap/api/filtering/Rule.java",
+ "prod_sha1": "4d8e807e5414d26fd912aae7017760e32fe7c38e",
+ "repository": "james-project",
+ "test_path": "server/data/data-jmap/src/test/java/org/apache/james/jmap/api/filtering/RuleTest.java",
+ "test_sha1": "4d8e807e5414d26fd912aae7017760e32fe7c38e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/jmap/api/filtering/Rule.java",
+ "prod_time": {
+  "$date": 1535012281000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/jmap/api/filtering/RuleTest.java",
+ "test_time": {
+  "$date": 1535012281000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 9,
+ "add_call_line": 57,
+ "add_classname_line": 4,
+ "add_condition_line": 3,
+ "add_field_line": 15,
+ "add_import_line": 5,
+ "add_packageid_line": 0,
+ "add_parameter_line": 41,
+ "add_return_line": 58,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 2
+}

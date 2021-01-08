@@ -1,0 +1,2 @@
+maven-file-management CC 8a932d227b9f73bf109432d46f971e25f212c0b1 8a932d227b9f73bf109432d46f971e25f212c0b1 src/main/java/org/apache/maven/shared/model/fileset/util/FileSetUtils.java src/test/java/org/apache/maven/shared/model/fileset/util/FileSetUtilsTest.java
+maven-file-management EC c449b868c129fe150242348f35c81c34d27ed899 c449b868c129fe150242348f35c81c34d27ed899 src/main/java/org/apache/maven/shared/model/fileset/mappers/MapperUtil.java src/test/java/org/apache/maven/shared/model/fileset/mappers/MapperUtilTest.java

@@ -1,0 +1,12 @@
+diff --git a/mr/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemInputFormat.java b/mr/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemInputFormat.java
+index 51e5a3e9b..c3b2fa34a 100644
+--- a/mr/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemInputFormat.java
++++ b/mr/src/main/java/org/apache/mahout/classifier/df/mapreduce/inmem/InMemInputFormat.java
+@@ -45,6 +45,7 @@ import org.slf4j.LoggerFactory;
+  * each input split contains a subset of the trees.<br>
+  * The number of splits is equal to the number of requested splits
+  */
++@Deprecated
+ public class InMemInputFormat extends InputFormat<IntWritable,NullWritable> {
+ 
+   private static final Logger log = LoggerFactory.getLogger(InMemInputSplit.class);

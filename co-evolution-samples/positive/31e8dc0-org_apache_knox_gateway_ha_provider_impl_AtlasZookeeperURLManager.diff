@@ -1,0 +1,13 @@
+diff --git a/gateway-provider-ha/src/main/java/org/apache/knox/gateway/ha/provider/impl/AtlasZookeeperURLManager.java b/gateway-provider-ha/src/main/java/org/apache/knox/gateway/ha/provider/impl/AtlasZookeeperURLManager.java
+index 2f489a1a9..2412ed217 100644
+--- a/gateway-provider-ha/src/main/java/org/apache/knox/gateway/ha/provider/impl/AtlasZookeeperURLManager.java
++++ b/gateway-provider-ha/src/main/java/org/apache/knox/gateway/ha/provider/impl/AtlasZookeeperURLManager.java
+@@ -53,7 +53,7 @@ public class AtlasZookeeperURLManager extends DefaultURLManager {
+     public void setConfig(HaServiceConfig config) {
+         zooKeeperEnsemble = config.getZookeeperEnsemble();
+         zooKeeperNamespace = config.getZookeeperNamespace();
+-        if (zooKeeperNamespace != null) {
++        if (zooKeeperNamespace != null && !zooKeeperNamespace.isEmpty()) {
+             if (!zooKeeperNamespace.startsWith("/")) {
+                 zooKeeperNamespace = "/" + zooKeeperNamespace;
+             }

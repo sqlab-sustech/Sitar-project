@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/activemq/selector/SelectorParser.java",
+ "prod_sha1": "749c76d57fb48790e5c20c88ffd014da7887f4ec",
+ "repository": "activemq",
+ "prod_qual": "org/activemq/selector/SelectorParser.java",
+ "prod_time": {
+  "$date": 1135268613000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/activemq/selector/SelectorParserTest.java",
+ "test_qual": "org/activemq/selector/SelectorParserTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 85,
+ "add_classname_line": 1,
+ "add_condition_line": 81,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 54,
+ "add_return_line": 68,
+ "del_annotation_line": 0,
+ "del_call_line": 79,
+ "del_classname_line": 0,
+ "del_condition_line": 80,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 35,
+ "del_return_line": 87,
+ "test_typ": "Non"
+}

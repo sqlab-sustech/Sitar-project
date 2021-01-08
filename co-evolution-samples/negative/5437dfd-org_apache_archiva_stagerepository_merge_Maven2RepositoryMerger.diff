@@ -1,0 +1,13 @@
+diff --git a/archiva-modules/plugins/stage-repository-merge/src/main/java/org/apache/archiva/stagerepository/merge/Maven2RepositoryMerger.java b/archiva-modules/plugins/stage-repository-merge/src/main/java/org/apache/archiva/stagerepository/merge/Maven2RepositoryMerger.java
+index d209098cf..5bea095cc 100644
+--- a/archiva-modules/plugins/stage-repository-merge/src/main/java/org/apache/archiva/stagerepository/merge/Maven2RepositoryMerger.java
++++ b/archiva-modules/plugins/stage-repository-merge/src/main/java/org/apache/archiva/stagerepository/merge/Maven2RepositoryMerger.java
+@@ -357,7 +357,7 @@ private ArchivaRepositoryMetadata getMetadata( File metadataFile )
+         {
+             try
+             {
+-                metadata = MavenMetadataReader.read( metadataFile );
++                metadata = MavenMetadataReader.read( metadataFile.toPath() );
+             }
+             catch ( XMLException e )
+             {

@@ -1,0 +1,14 @@
+diff --git a/src/main/java/org/apache/commons/cli/TypeHandler.java b/src/main/java/org/apache/commons/cli/TypeHandler.java
+index 9ed8beb..6c43ccd 100644
+--- a/src/main/java/org/apache/commons/cli/TypeHandler.java
++++ b/src/main/java/org/apache/commons/cli/TypeHandler.java
+@@ -54,7 +54,8 @@ public class TypeHandler
+      * with the value of <code>str</code>.
+      *
+      * @param str the command line value
+-     * @param clazz the type of argument
++     * @param clazz the class representing the type of argument
++     * @param <T> type of argument
+      * @return The instance of <code>clazz</code> initialised with
+      * the value of <code>str</code>.
+      * @throws ParseException if the value creation for the given class failed

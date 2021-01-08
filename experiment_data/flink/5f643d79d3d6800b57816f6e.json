@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/expressions/EvaluableExpression.java",
+ "prod_sha1": "05e40b4e18fb1a86fe3e32fe804699d02d058165",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/sopremo/expressions/EvaluableExpression.java",
+ "prod_time": {
+  "$date": 1311757745000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/expressions/EvaluableExpressionTest.java",
+ "test_qual": "eu/stratosphere/sopremo/expressions/EvaluableExpressionTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 5,
+ "del_call_line": 9,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 58,
+ "del_import_line": 9,
+ "del_packageid_line": 1,
+ "del_parameter_line": 13,
+ "del_return_line": 8,
+ "test_typ": "Non"
+}

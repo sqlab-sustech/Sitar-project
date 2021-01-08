@@ -1,0 +1,13 @@
+diff --git a/wicket-core/src/main/java/org/apache/wicket/protocol/http/CsrfPreventionRequestCycleListener.java b/wicket-core/src/main/java/org/apache/wicket/protocol/http/CsrfPreventionRequestCycleListener.java
+index 8fc4d5f622..8abfb62d6d 100644
+--- a/wicket-core/src/main/java/org/apache/wicket/protocol/http/CsrfPreventionRequestCycleListener.java
++++ b/wicket-core/src/main/java/org/apache/wicket/protocol/http/CsrfPreventionRequestCycleListener.java
+@@ -162,7 +162,7 @@ public class CsrfPreventionRequestCycleListener extends AbstractRequestCycleList
+ 	private CsrfAction conflictingOriginAction = CsrfAction.ABORT;
+ 
+ 	/**
+-	 * The error code to report when the action to take for a CSRF request is {@code ERROR}. Default
++	 * The error code to report when the action to take for a CSRF request is {@link CsrfAction#ABORT}. Default
+ 	 * {@code 400 BAD REQUEST}.
+ 	 */
+ 	private int errorCode = javax.servlet.http.HttpServletResponse.SC_BAD_REQUEST;

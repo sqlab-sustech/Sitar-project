@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/linear/AbstractRealVector.java",
+ "prod_sha1": "01e5f22cc54c1fb8667545142e23e57032b3b4b3",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/linear/AbstractRealVector.java",
+ "prod_time": {
+  "$date": 1260759220000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/linear/AbstractRealVectorTest.java",
+ "test_qual": "org/apache/commons/math/linear/AbstractRealVectorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

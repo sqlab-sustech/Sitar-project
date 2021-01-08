@@ -1,0 +1,32 @@
+{
+ "prod_path": "pact/pact-common/src/main/java/eu/stratosphere/pact/common/io/TextInputFormat.java",
+ "prod_sha1": "2dc745620888bab4713cef0c751a8cd96df7c0a1",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/pact/common/io/TextInputFormat.java",
+ "prod_time": {
+  "$date": 1298634981000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pact/pact-common/src/test/java/eu/stratosphere/pact/common/io/TextInputFormatTest.java",
+ "test_qual": "eu/stratosphere/pact/common/io/TextInputFormatTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

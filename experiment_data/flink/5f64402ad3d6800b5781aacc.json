@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-cleansing/src/main/java/eu/stratosphere/sopremo/cleansing/scrubbing/Scrubbing.java",
+ "prod_sha1": "49630765ce14e2c9217385d9dea9d25d8397e7fc",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/sopremo/cleansing/scrubbing/Scrubbing.java",
+ "prod_time": {
+  "$date": 1321977994000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-cleansing/src/test/java/eu/stratosphere/sopremo/cleansing/scrubbing/ScrubbingTest.java",
+ "test_qual": "eu/stratosphere/sopremo/cleansing/scrubbing/ScrubbingTest.java",
+ "add_annotation_line": 3,
+ "add_call_line": 26,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 10,
+ "del_annotation_line": 2,
+ "del_call_line": 15,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

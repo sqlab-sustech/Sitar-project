@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/UnusedPrivateMethodRule.java",
+ "prod_sha1": "981c092ce1be124697766fba513887ee98178a3c",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/UnusedPrivateMethodRuleTest.java",
+ "test_sha1": "981c092ce1be124697766fba513887ee98178a3c",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/UnusedPrivateMethodRule.java",
+ "prod_time": {
+  "$date": 1107292947000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/UnusedPrivateMethodRuleTest.java",
+ "test_time": {
+  "$date": 1107292947000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 5,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

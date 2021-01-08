@@ -1,0 +1,13 @@
+diff --git a/doxia-modules/doxia-module-fml/src/main/java/org/apache/maven/doxia/module/fml/FmlParser.java b/doxia-modules/doxia-module-fml/src/main/java/org/apache/maven/doxia/module/fml/FmlParser.java
+index 9267ebb2..810fbce2 100644
+--- a/doxia-modules/doxia-module-fml/src/main/java/org/apache/maven/doxia/module/fml/FmlParser.java
++++ b/doxia-modules/doxia-module-fml/src/main/java/org/apache/maven/doxia/module/fml/FmlParser.java
+@@ -404,7 +404,7 @@ public class FmlParser
+         }
+         else
+         {
+-            sink.comment( comment.trim() );
++            sink.comment( comment );
+         }
+     }
+ 

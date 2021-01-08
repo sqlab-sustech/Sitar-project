@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/stat/BivariateRegression.java",
+ "prod_sha1": "81c03fcee25686e49c49c90dcc72fb18f57b25c8",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/stat/BivariateRegressionTest.java",
+ "test_sha1": "81c03fcee25686e49c49c90dcc72fb18f57b25c8",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/stat/BivariateRegression.java",
+ "prod_time": {
+  "$date": 1056161621000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/stat/BivariateRegressionTest.java",
+ "test_time": {
+  "$date": 1056161621000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 9,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 4
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/json/UTF8DataInputJsonParser.java",
+ "prod_sha1": "0a9bf7b8677e432c01d29f94b763304c98562a80",
+ "repository": "jackson-core",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/json/UTF8DataInputJsonParserTest.java",
+ "test_sha1": "0a9bf7b8677e432c01d29f94b763304c98562a80",
+ "commit_between": 0,
+ "prod_qual": "com/fasterxml/jackson/core/json/UTF8DataInputJsonParser.java",
+ "prod_time": {
+  "$date": 1539274525000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/fasterxml/jackson/core/json/UTF8DataInputJsonParserTest.java",
+ "test_time": {
+  "$date": 1539274525000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 1,
+ "add_condition_line": 12,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 12,
+ "del_classname_line": 1,
+ "del_condition_line": 2,
+ "del_field_line": 5,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

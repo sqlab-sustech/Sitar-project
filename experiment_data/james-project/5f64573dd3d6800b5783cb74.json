@@ -1,0 +1,37 @@
+{
+ "prod_path": "backends-common/rabbitmq/src/main/java/org/apache/james/backend/mailqueue/RabbitMQConfiguration.java",
+ "prod_sha1": "f783adfac13ea1e4d4a5a0bf6dfe67d398c78598",
+ "repository": "james-project",
+ "test_path": "backends-common/rabbitmq/src/test/java/org/apache/james/backend/mailqueue/RabbitMQConfigurationTest.java",
+ "test_sha1": "a112f57e5111cc6abfa9c4a40a4bec9599753310",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/backend/mailqueue/RabbitMQConfiguration.java",
+ "prod_time": {
+  "$date": 1536554007000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/backend/mailqueue/RabbitMQConfigurationTest.java",
+ "test_time": {
+  "$date": 1536554371000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 7,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

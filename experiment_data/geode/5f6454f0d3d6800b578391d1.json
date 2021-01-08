@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-junit/src/main/java/org/apache/geode/test/junit/rules/ExecutorServiceRule.java",
+ "prod_sha1": "f7ae0704415e9fcc26b2d24d4dd1e0dcb5f8d06d",
+ "repository": "geode",
+ "prod_qual": "junit/rules/ExecutorServiceRule.java",
+ "prod_time": {
+  "$date": 1554827667000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-junit/src/test/java/org/apache/geode/test/junit/rules/ExecutorServiceRuleTest.java",
+ "test_qual": "junit/rules/ExecutorServiceRuleTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 8,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

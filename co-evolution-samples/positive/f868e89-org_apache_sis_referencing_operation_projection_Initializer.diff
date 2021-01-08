@@ -1,0 +1,13 @@
+diff --git a/core/sis-referencing/src/main/java/org/apache/sis/referencing/operation/projection/Initializer.java b/core/sis-referencing/src/main/java/org/apache/sis/referencing/operation/projection/Initializer.java
+index 721288b4c..f94a34af0 100644
+--- a/core/sis-referencing/src/main/java/org/apache/sis/referencing/operation/projection/Initializer.java
++++ b/core/sis-referencing/src/main/java/org/apache/sis/referencing/operation/projection/Initializer.java
+@@ -56,7 +56,7 @@ import static org.apache.sis.internal.util.DoubleDouble.verbatim;
+  * in some relatively rare scenarios like 1 ± x where <var>x</var> is much smaller than 1.</p>
+  *
+  * @author  Martin Desruisseaux (Geomatys)
+- * @author  Rémi Marechal (Geomatys)
++ * @author  Rémi Maréchal (Geomatys)
+  * @version 0.7
+  * @since   0.6
+  * @module

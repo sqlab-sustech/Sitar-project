@@ -1,0 +1,29 @@
+diff --git a/engine/src/main/java/com/datatorrent/stram/engine/InputNode.java b/engine/src/main/java/com/datatorrent/stram/engine/InputNode.java
+index 92a61f0ac..0bd04ef5b 100644
+--- a/engine/src/main/java/com/datatorrent/stram/engine/InputNode.java
++++ b/engine/src/main/java/com/datatorrent/stram/engine/InputNode.java
+@@ -122,13 +122,13 @@ public class InputNode extends Node<InputOperator>
+               break;
+ 
+             case END_WINDOW:
+-              endWindowEmitTime = System.currentTimeMillis();
+               insideStreamingWindow = false;
+               if (++applicationWindowCount == APPLICATION_WINDOW_COUNT) {
+                 insideApplicationWindow = false;
+                 operator.endWindow();
+                 applicationWindowCount = 0;
+               }
++              endWindowEmitTime = System.currentTimeMillis();
+ 
+               for (int i = sinks.length; i-- > 0;) {
+                 sinks[i].put(t);
+@@ -218,8 +218,8 @@ public class InputNode extends Node<InputOperator>
+     }
+ 
+     if (insideApplicationWindow) {
+-      endWindowEmitTime = System.currentTimeMillis();
+       operator.endWindow();
++      endWindowEmitTime = System.currentTimeMillis();
+       if (++applicationWindowCount == APPLICATION_WINDOW_COUNT) {
+         applicationWindowCount = 0;
+       }

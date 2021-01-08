@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/sym/BinaryNameMatcher.java",
+ "prod_sha1": "a94a8bdcc0977b97ea111882e0a493e13cbd53da",
+ "repository": "jackson-core",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/sym/BinaryNameMatcherTest.java",
+ "test_sha1": "a94a8bdcc0977b97ea111882e0a493e13cbd53da",
+ "commit_between": 0,
+ "prod_qual": "com/fasterxml/jackson/core/sym/BinaryNameMatcher.java",
+ "prod_time": {
+  "$date": 1511850910000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/fasterxml/jackson/core/sym/BinaryNameMatcherTest.java",
+ "test_time": {
+  "$date": 1511850910000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 5,
+ "add_call_line": 65,
+ "add_classname_line": 2,
+ "add_condition_line": 90,
+ "add_field_line": 15,
+ "add_import_line": 5,
+ "add_packageid_line": 1,
+ "add_parameter_line": 40,
+ "add_return_line": 94,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/backup/src/main/java/org/apache/james/mailbox/backup/SizeExtraField.java",
+ "prod_sha1": "ef7c00f2a1666dcc7f1c571adafb6224ca793cbb",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/backup/SizeExtraField.java",
+ "prod_time": {
+  "$date": 1542182695000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/backup/src/test/java/org/apache/james/mailbox/backup/SizeExtraFieldTest.java",
+ "test_qual": "org/apache/james/mailbox/backup/SizeExtraFieldTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

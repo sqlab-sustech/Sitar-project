@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-zengine/src/main/java/org/apache/zeppelin/interpreter/InterpreterSettingManager.java",
+ "prod_sha1": "23c5cac8245aea16bfc0568cf2e5c2ae6dfd0e6d",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/interpreter/InterpreterSettingManager.java",
+ "prod_time": {
+  "$date": 1510141156000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-zengine/src/test/java/org/apache/zeppelin/interpreter/InterpreterSettingManagerTest.java",
+ "test_qual": "org/apache/zeppelin/interpreter/InterpreterSettingManagerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 15,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 17,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

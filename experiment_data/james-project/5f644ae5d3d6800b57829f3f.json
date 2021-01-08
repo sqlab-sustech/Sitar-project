@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/Limit.java",
+ "prod_sha1": "3eca9472103df9bb35f12927f0361f0da8df0ce1",
+ "repository": "james-project",
+ "test_path": "mailbox/cassandra/src/test/java/org/apache/james/mailbox/cassandra/LimitTest.java",
+ "test_sha1": "3eca9472103df9bb35f12927f0361f0da8df0ce1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/cassandra/Limit.java",
+ "prod_time": {
+  "$date": 1499334846000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/cassandra/LimitTest.java",
+ "test_time": {
+  "$date": 1499334846000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 4,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

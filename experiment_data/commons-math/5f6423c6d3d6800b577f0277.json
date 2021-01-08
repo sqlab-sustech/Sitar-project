@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/stat/StatUtils.java",
+ "prod_sha1": "9a827be03a3aac3b3d478683437eb6410df187db",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/stat/StatUtilsTest.java",
+ "test_sha1": "9a827be03a3aac3b3d478683437eb6410df187db",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/stat/StatUtils.java",
+ "prod_time": {
+  "$date": 1057620314000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/stat/StatUtilsTest.java",
+ "test_time": {
+  "$date": 1057620314000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

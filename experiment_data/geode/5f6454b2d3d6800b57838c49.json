@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/AbstractRegionMap.java",
+ "prod_sha1": "c19fda5a05c7ce0b064e5def8e65b86804ab76a2",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/AbstractRegionMap.java",
+ "prod_time": {
+  "$date": 1551460148000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/AbstractRegionMapTest.java",
+ "test_qual": "org/apache/geode/internal/cache/AbstractRegionMapTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 3,
+ "del_annotation_line": 11,
+ "del_call_line": 66,
+ "del_classname_line": 0,
+ "del_condition_line": 30,
+ "del_field_line": 1,
+ "del_import_line": 6,
+ "del_packageid_line": 0,
+ "del_parameter_line": 15,
+ "del_return_line": 6,
+ "test_typ": "Non"
+}

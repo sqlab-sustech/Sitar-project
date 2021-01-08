@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/symboltable/BasicScopeFactory.java",
+ "prod_sha1": "86be0ea5b280a07005d7b96f461972f467e005fd",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/symboltable/BasicScopeFactoryTest.java",
+ "test_sha1": "86be0ea5b280a07005d7b96f461972f467e005fd",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/symboltable/BasicScopeFactory.java",
+ "prod_time": {
+  "$date": 1056735758000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/symboltable/BasicScopeFactoryTest.java",
+ "test_time": {
+  "$date": 1056735758000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

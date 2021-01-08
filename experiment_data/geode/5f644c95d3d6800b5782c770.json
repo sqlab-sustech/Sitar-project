@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/com/gemstone/gemfire/management/internal/cli/util/HyphenFormatter.java",
+ "prod_sha1": "170919bcc33dcb48d931b5c4ad707df7eec4a2f0",
+ "repository": "geode",
+ "prod_qual": "com/gemstone/gemfire/management/internal/cli/util/HyphenFormatter.java",
+ "prod_time": {
+  "$date": 1466529749000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/com/gemstone/gemfire/management/internal/cli/util/HyphenFormatterTest.java",
+ "test_qual": "com/gemstone/gemfire/management/internal/cli/util/HyphenFormatterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 20,
+ "add_classname_line": 1,
+ "add_condition_line": 6,
+ "add_field_line": 6,
+ "add_import_line": 4,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

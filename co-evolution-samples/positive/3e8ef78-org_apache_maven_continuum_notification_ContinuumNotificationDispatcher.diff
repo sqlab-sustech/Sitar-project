@@ -1,0 +1,22 @@
+diff --git a/continuum-api/src/main/java/org/apache/maven/continuum/notification/ContinuumNotificationDispatcher.java b/continuum-api/src/main/java/org/apache/maven/continuum/notification/ContinuumNotificationDispatcher.java
+index 2da9430a8..87e5aa8fa 100644
+--- a/continuum-api/src/main/java/org/apache/maven/continuum/notification/ContinuumNotificationDispatcher.java
++++ b/continuum-api/src/main/java/org/apache/maven/continuum/notification/ContinuumNotificationDispatcher.java
+@@ -46,6 +46,8 @@ public interface ContinuumNotificationDispatcher
+ 
+     String CONTEXT_BUILD = "build";
+ 
++    String CONTEXT_BUILD_OUTPUT = "build-output";
++
+     String CONTEXT_PROJECT = "project";
+ 
+     String CONTEXT_BUILD_RESULT = "result";
+@@ -60,7 +62,7 @@ public interface ContinuumNotificationDispatcher
+ 
+     void checkoutStarted( ContinuumProject project );
+ 
+-    void checkoutComplete( ContinuumProject project, ScmResult scmResult );
++    void checkoutComplete( ContinuumProject project );
+ 
+     void runningGoals( ContinuumProject project, ContinuumBuild build );
+ 

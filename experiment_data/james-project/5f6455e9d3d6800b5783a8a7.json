@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/protocols/webadmin/webadmin-data/src/main/java/org/apache/james/webadmin/routes/DomainsRoutes.java",
+ "prod_sha1": "abaa0021c6c9f2d17d84f84052b77f0959c984d0",
+ "repository": "james-project",
+ "test_path": "server/protocols/webadmin/webadmin-data/src/test/java/org/apache/james/webadmin/routes/DomainsRoutesTest.java",
+ "test_sha1": "abaa0021c6c9f2d17d84f84052b77f0959c984d0",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/webadmin/routes/DomainsRoutes.java",
+ "prod_time": {
+  "$date": 1557744640000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/webadmin/routes/DomainsRoutesTest.java",
+ "test_time": {
+  "$date": 1557744640000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 39,
+ "add_call_line": 37,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 10,
+ "add_import_line": 9,
+ "add_packageid_line": 0,
+ "add_parameter_line": 13,
+ "add_return_line": 18,
+ "del_annotation_line": 11,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

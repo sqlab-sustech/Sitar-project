@@ -1,0 +1,32 @@
+{
+ "prod_path": "file/src/main/java/org/apache/zeppelin/file/HDFSFileInterpreter.java",
+ "prod_sha1": "69bc353d3c047ad8ad29584ce9e3b6c84d7ace7e",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/file/HDFSFileInterpreter.java",
+ "prod_time": {
+  "$date": 1481552052000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "file/src/test/java/org/apache/zeppelin/file/HDFSFileInterpreterTest.java",
+ "test_qual": "org/apache/zeppelin/file/HDFSFileInterpreterTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 15,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

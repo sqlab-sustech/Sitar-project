@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/blob/blob-objectstorage/src/main/java/org/apache/james/blob/objectstorage/ObjectStorageBlobsDAO.java",
+ "prod_sha1": "db3aad06dc561e8ee5300b32d6b2f2045812e057",
+ "repository": "james-project",
+ "test_path": "server/blob/blob-objectstorage/src/test/java/org/apache/james/blob/objectstorage/ObjectStorageBlobsDAOTest.java",
+ "test_sha1": "db3aad06dc561e8ee5300b32d6b2f2045812e057",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/blob/objectstorage/ObjectStorageBlobsDAO.java",
+ "prod_time": {
+  "$date": 1557751035000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/blob/objectstorage/ObjectStorageBlobsDAOTest.java",
+ "test_time": {
+  "$date": 1557751035000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 2
+}

@@ -1,0 +1,2 @@
+creadur-tentacles CC 028f829d57369089d3d85dcd5c1e4f37482dbab5 028f829d57369089d3d85dcd5c1e4f37482dbab5 src/main/java/org/apache/creadur/tentacles/filter/ListOfFilesFilter.java src/test/java/org/apache/creadur/tentacles/filter/ListOfFilesFilterTest.java
+creadur-tentacles CC ff663df33897c1e3f390d0689733a27692a45f89 ff663df33897c1e3f390d0689733a27692a45f89 src/main/java/org/apache/creadur/tentacles/ArchivesJson.java src/test/java/org/apache/creadur/tentacles/ArchivesJsonTest.java

@@ -1,0 +1,2 @@
+juddi-scout EE 616dbb34ae733cef6ed73122676ce3633b3b62aa 616dbb34ae733cef6ed73122676ce3633b3b62aa modules/scout/src/java/org/apache/ws/scout/registry/BusinessQueryManagerImpl.java modules/scout/src/test/org/apache/ws/scout/registry/BusinessQueryManagerImplTest.java
+juddi-scout EE 13c27c10f7a49eab725cdf69dc4464982f6af736 13c27c10f7a49eab725cdf69dc4464982f6af736 src/java/org/apache/ws/scout/registry/BusinessQueryManagerImpl.java src/test/org/apache/ws/scout/registry/BusinessQueryManagerImplTest.java

@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/queue/queue-activemq/src/main/java/org/apache/james/queue/activemq/ActiveMQMailQueue.java",
+ "prod_sha1": "f025ff0959c83a7fe6b50411e99a9ddd3126d4be",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/queue/activemq/ActiveMQMailQueue.java",
+ "prod_time": {
+  "$date": 1490216750000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/queue/queue-activemq/src/test/java/org/apache/james/queue/activemq/ActiveMQMailQueueTest.java",
+ "test_qual": "org/apache/james/queue/activemq/ActiveMQMailQueueTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 2,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

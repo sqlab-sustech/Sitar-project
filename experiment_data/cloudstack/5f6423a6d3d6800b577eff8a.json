@@ -1,0 +1,32 @@
+{
+ "prod_path": "engine/api/src/org/apache/cloudstack/engine/subsystem/api/storage/Scope.java",
+ "prod_sha1": "a715eb8121b3e9b6bb61fe3db150580b22e4b3aa",
+ "repository": "cloudstack",
+ "prod_qual": "org/apache/cloudstack/engine/subsystem/api/storage/Scope.java",
+ "prod_time": {
+  "$date": 1371250544000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "engine/api/test/org/apache/cloudstack/engine/subsystem/api/storage/ScopeTest.java",
+ "test_qual": "org/apache/cloudstack/engine/subsystem/api/storage/ScopeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

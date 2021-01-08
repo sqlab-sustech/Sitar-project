@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-server/src/main/java/org/apache/storm/localizer/Localizer.java",
+ "prod_sha1": "78cb243c4bc9aaeaffd6f1c76915ac20016b32e7",
+ "repository": "storm",
+ "test_path": "storm-server/src/test/java/org/apache/storm/localizer/LocalizerTest.java",
+ "test_sha1": "78cb243c4bc9aaeaffd6f1c76915ac20016b32e7",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/localizer/Localizer.java",
+ "prod_time": {
+  "$date": 1505500180000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/localizer/LocalizerTest.java",
+ "test_time": {
+  "$date": 1505500180000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 3,
+ "del_call_line": 207,
+ "del_classname_line": 2,
+ "del_condition_line": 57,
+ "del_field_line": 24,
+ "del_import_line": 41,
+ "del_packageid_line": 1,
+ "del_parameter_line": 37,
+ "del_return_line": 19
+}

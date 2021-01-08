@@ -1,0 +1,37 @@
+{
+ "prod_path": "test/org/jruby/javasupport/TestApp/lowerClass.java",
+ "prod_sha1": "f4ff889704047e30192daf3b21e05b0e814b0d28",
+ "repository": "jruby",
+ "test_path": "test/org/jruby/javasupport/TestApp/lowerClass.java",
+ "test_sha1": "c26fe1ba92acad0de01273d4711711f8e2e690ec",
+ "commit_between": 6502,
+ "prod_qual": "org/jruby/javasupport/TestApp/lowerClass.java",
+ "prod_time": {
+  "$date": 1427275778000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/javasupport/TestApp/lowerClass.java",
+ "test_time": {
+  "$date": 1427363506000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

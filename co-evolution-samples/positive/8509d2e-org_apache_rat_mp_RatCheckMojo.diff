@@ -1,0 +1,13 @@
+diff --git a/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatCheckMojo.java b/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatCheckMojo.java
+index 6f3927a7..3537cbd2 100644
+--- a/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatCheckMojo.java
++++ b/apache-rat-plugin/src/main/java/org/apache/rat/mp/RatCheckMojo.java
+@@ -105,7 +105,7 @@ public class RatCheckMojo extends AbstractRatMojo {
+         Writer fw = null;
+         try {
+             fw = new OutputStreamWriter(
+-                   new FileOutputStream(reportFile), 
++                   new FileOutputStream(reportFile),
+                    Charset.forName("UTF-8"));
+             final ClaimStatistic statistic = createReport(fw, getStyleSheet());
+             fw.close();

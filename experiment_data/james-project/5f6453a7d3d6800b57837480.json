@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/store/src/main/java/org/apache/james/mailbox/store/ImmutableMailboxMessage.java",
+ "prod_sha1": "6b28804163b86a1cb447541003ed2fe6b61f87fa",
+ "repository": "james-project",
+ "test_path": "mailbox/store/src/test/java/org/apache/james/mailbox/store/ImmutableMailboxMessageTest.java",
+ "test_sha1": "6b28804163b86a1cb447541003ed2fe6b61f87fa",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/store/ImmutableMailboxMessage.java",
+ "prod_time": {
+  "$date": 1545204669000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/store/ImmutableMailboxMessageTest.java",
+ "test_time": {
+  "$date": 1545204669000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 28,
+ "del_call_line": 28,
+ "del_classname_line": 2,
+ "del_condition_line": 0,
+ "del_field_line": 22,
+ "del_import_line": 20,
+ "del_packageid_line": 1,
+ "del_parameter_line": 33,
+ "del_return_line": 53
+}

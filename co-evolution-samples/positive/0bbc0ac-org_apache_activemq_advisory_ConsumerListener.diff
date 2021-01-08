@@ -1,0 +1,13 @@
+diff --git a/activemq-core/src/main/java/org/apache/activemq/advisory/ConsumerListener.java b/activemq-core/src/main/java/org/apache/activemq/advisory/ConsumerListener.java
+index 1ee80738e..d1f198917 100644
+--- a/activemq-core/src/main/java/org/apache/activemq/advisory/ConsumerListener.java
++++ b/activemq-core/src/main/java/org/apache/activemq/advisory/ConsumerListener.java
+@@ -19,7 +19,7 @@ package org.apache.activemq.advisory;
+ /**
+  * Listen to the changes in the number of active consumers available for a given destination.
+  * 
+- * @version $Revision$
++ * 
+  */
+ public interface ConsumerListener {
+ 

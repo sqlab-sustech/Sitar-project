@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/container/guice/blob-objectstorage-guice/src/main/java/org/apache/james/modules/objectstorage/PayloadCodecProvider.java",
+ "prod_sha1": "7d6cbe24a732b9f85a6072c3a9f381afbf61196d",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/modules/objectstorage/PayloadCodecProvider.java",
+ "prod_time": {
+  "$date": 1539615405000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/container/guice/blob-objectstorage-guice/src/test/java/org/apache/james/modules/objectstorage/PayloadCodecProviderTest.java",
+ "test_qual": "org/apache/james/modules/objectstorage/PayloadCodecProviderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

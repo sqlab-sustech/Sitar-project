@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-core/src/main/java/org/biojava/nbio/core/search/io/Hsp.java",
+ "prod_sha1": "f7b928924a6a14579dc88573aa60f97a7c9c8f59",
+ "repository": "biojava",
+ "test_path": "biojava-core/src/test/java/org/biojava/nbio/core/search/io/HspTest.java",
+ "test_sha1": "f7b928924a6a14579dc88573aa60f97a7c9c8f59",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/core/search/io/Hsp.java",
+ "prod_time": {
+  "$date": 1457575304000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/core/search/io/HspTest.java",
+ "test_time": {
+  "$date": 1457575304000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 2,
+ "add_call_line": 19,
+ "add_classname_line": 1,
+ "add_condition_line": 16,
+ "add_field_line": 21,
+ "add_import_line": 16,
+ "add_packageid_line": 1,
+ "add_parameter_line": 25,
+ "add_return_line": 35,
+ "del_annotation_line": 2,
+ "del_call_line": 19,
+ "del_classname_line": 1,
+ "del_condition_line": 16,
+ "del_field_line": 21,
+ "del_import_line": 16,
+ "del_packageid_line": 1,
+ "del_parameter_line": 25,
+ "del_return_line": 35
+}

@@ -1,0 +1,15 @@
+diff --git a/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/ParDo.java b/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/ParDo.java
+index f0ed484258..e971ab9355 100644
+--- a/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/ParDo.java
++++ b/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/ParDo.java
+@@ -1017,6 +1017,10 @@ public class ParDo {
+       return mainOutputTag;
+     }
+ 
++    public TupleTagList getSideOutputTags() {
++      return sideOutputTags;
++    }
++
+     public List<PCollectionView<?>> getSideInputs() {
+       return sideInputs;
+     }

@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/uniquevalues/UniqueValuesService.java",
+ "prod_sha1": "849df67462ecb78b9fd1690c93e969fefc407c51",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/uniquevalues/UniqueValuesServiceTest.java",
+ "test_sha1": "849df67462ecb78b9fd1690c93e969fefc407c51",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/collection/uniquevalues/UniqueValuesService.java",
+ "prod_time": {
+  "$date": 1468474666000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/collection/uniquevalues/UniqueValuesServiceTest.java",
+ "test_time": {
+  "$date": 1468474666000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 2,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

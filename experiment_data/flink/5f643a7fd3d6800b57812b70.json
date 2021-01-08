@@ -1,0 +1,37 @@
+{
+ "prod_path": "nephele/nephele-ec2cloudmanager/src/main/java/eu/stratosphere/nephele/instance/cloud/FloatingInstance.java",
+ "prod_sha1": "4aaed2fc81128babf5b55b9d6308c347d5316835",
+ "repository": "flink",
+ "test_path": "nephele/nephele-ec2cloudmanager/src/test/java/eu/stratosphere/nephele/instance/cloud/FloatingInstanceTest.java",
+ "test_sha1": "4aaed2fc81128babf5b55b9d6308c347d5316835",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/nephele/instance/cloud/FloatingInstance.java",
+ "prod_time": {
+  "$date": 1311852087000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/nephele/instance/cloud/FloatingInstanceTest.java",
+ "test_time": {
+  "$date": 1311852087000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 5,
+ "add_import_line": 4,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

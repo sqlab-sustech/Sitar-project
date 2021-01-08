@@ -1,0 +1,13 @@
+diff --git a/sis-utility/src/main/java/org/apache/sis/util/collection/TableColumn.java b/sis-utility/src/main/java/org/apache/sis/util/collection/TableColumn.java
+index 2576a8e93..15ee9d326 100644
+--- a/sis-utility/src/main/java/org/apache/sis/util/collection/TableColumn.java
++++ b/sis-utility/src/main/java/org/apache/sis/util/collection/TableColumn.java
+@@ -164,7 +164,7 @@ public class TableColumn<V> implements CheckedContainer<V> {
+         /**
+          * For cross-version compatibility.
+          */
+-        private static final long serialVersionUID = -2486202389234601560L;
++        private static final long serialVersionUID = -3460868641711391888L;
+ 
+         /**
+          * The programmatic name of the static final field holding this constant.

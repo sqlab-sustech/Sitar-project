@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/mailet/mailetcontainer-camel/src/main/java/org/apache/james/mailetcontainer/impl/matchers/And.java",
+ "prod_sha1": "12df8f9cc3f12d604dc7e82b1058f8649075536b",
+ "repository": "james-project",
+ "test_path": "server/mailet/mailetcontainer-camel/src/test/java/org/apache/james/mailetcontainer/impl/matchers/AndTest.java",
+ "test_sha1": "2a996badaf1884ab74f8ff8aef91f68558649a82",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/mailetcontainer/impl/matchers/And.java",
+ "prod_time": {
+  "$date": 1472718110000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/mailetcontainer/impl/matchers/AndTest.java",
+ "test_time": {
+  "$date": 1472713849000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 15,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 5,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 14,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 6
+}

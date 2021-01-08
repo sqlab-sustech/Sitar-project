@@ -1,0 +1,37 @@
+{
+ "prod_path": "izpack-compiler/src/main/java/com/izforge/izpack/compiler/CompilerConfig.java",
+ "prod_sha1": "018f40a9b2c6ba3ec4ad376b7b469c0d807f1495",
+ "repository": "izpack",
+ "test_path": "izpack-compiler/src/test/java/com/izforge/izpack/compiler/CompilerConfigTest.java",
+ "test_sha1": "018f40a9b2c6ba3ec4ad376b7b469c0d807f1495",
+ "commit_between": 0,
+ "prod_qual": "com/izforge/izpack/compiler/CompilerConfig.java",
+ "prod_time": {
+  "$date": 1269288833000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/izforge/izpack/compiler/CompilerConfigTest.java",
+ "test_time": {
+  "$date": 1269288833000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

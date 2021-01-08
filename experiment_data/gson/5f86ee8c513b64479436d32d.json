@@ -1,0 +1,32 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/stream/JsonReader.java",
+ "prod_sha1": "35c13173b0c509fd7088566fcc8f75473d5a3b7c",
+ "repository": "gson",
+ "prod_qual": "com/google/gson/stream/JsonReader.java",
+ "prod_time": {
+  "$date": 1344979938000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "gson/src/test/java/com/google/gson/stream/JsonReaderTest.java",
+ "test_qual": "com/google/gson/stream/JsonReaderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 8,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

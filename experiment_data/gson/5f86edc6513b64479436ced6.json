@@ -1,0 +1,37 @@
+{
+ "prod_path": "extras/src/main/java/com/google/gson/mini/MiniGson.java",
+ "prod_sha1": "c5f1df10175c254b823fc019832bf1bf7b71e929",
+ "repository": "gson",
+ "test_path": "extras/src/test/java/com/google/gson/mini/MiniGsonTest.java",
+ "test_sha1": "c5f1df10175c254b823fc019832bf1bf7b71e929",
+ "commit_between": 0,
+ "prod_qual": "com/google/gson/mini/MiniGson.java",
+ "prod_time": {
+  "$date": 1310402812000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/mini/MiniGsonTest.java",
+ "test_time": {
+  "$date": 1310402812000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 17,
+ "add_classname_line": 2,
+ "add_condition_line": 2,
+ "add_field_line": 2,
+ "add_import_line": 6,
+ "add_packageid_line": 1,
+ "add_parameter_line": 10,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

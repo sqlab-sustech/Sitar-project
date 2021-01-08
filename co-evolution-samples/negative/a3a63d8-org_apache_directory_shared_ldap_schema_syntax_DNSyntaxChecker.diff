@@ -1,0 +1,23 @@
+diff --git a/ldap/src/main/java/org/apache/directory/shared/ldap/schema/syntax/DNSyntaxChecker.java b/ldap/src/main/java/org/apache/directory/shared/ldap/schema/syntax/DNSyntaxChecker.java
+index d39b1a589..7437b884c 100644
+--- a/ldap/src/main/java/org/apache/directory/shared/ldap/schema/syntax/DNSyntaxChecker.java
++++ b/ldap/src/main/java/org/apache/directory/shared/ldap/schema/syntax/DNSyntaxChecker.java
+@@ -46,6 +46,18 @@ public class DNSyntaxChecker extends AbstractSyntaxChecker
+         super( SC_OID );
+     }
+ 
++    /**
++     * 
++     * Creates a new instance of DNSyntaxChecker.
++     * 
++     * @param the oid to associate with this new SyntaxChecker
++     *
++     */
++    protected DNSyntaxChecker( String oid )
++    {
++        super( oid );
++    }
++    
+     /* (non-Javadoc)
+      * @see org.apache.directory.shared.ldap.schema.SyntaxChecker#isValidSyntax(java.lang.Object)
+      */

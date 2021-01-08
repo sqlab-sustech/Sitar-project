@@ -1,0 +1,4 @@
+pivot CC 55fdd7c0a518ae6f4ce4263a0d71f5acb143ad44 55fdd7c0a518ae6f4ce4263a0d71f5acb143ad44 tests/src/org/apache/pivot/tests/EnumBean.java tests/src/org/apache/pivot/tests/EnumBeanTest.java
+pivot EE 14ec3b4cf604f59e7acf1c67f4ab4bf3884aefbe 14ec3b4cf604f59e7acf1c67f4ab4bf3884aefbe tests/src/org/apache/pivot/tests/EnumBean.java tests/src/org/apache/pivot/tests/EnumBeanTest.java
+pivot EE 3675a861eed2fd84a97a03cc77988ccb96fcf111 3675a861eed2fd84a97a03cc77988ccb96fcf111 tests/src/org/apache/pivot/tests/EnumBean.java tests/src/org/apache/pivot/tests/EnumBeanTest.java
+pivot EE 3de201513f8b486c6af24c2afde78cee91ee0077 3de201513f8b486c6af24c2afde78cee91ee0077 tests/src/org/apache/pivot/tests/EnumBean.java tests/src/org/apache/pivot/tests/EnumBeanTest.java

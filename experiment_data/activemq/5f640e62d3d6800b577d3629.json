@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/kaha/impl/async/DataFileAppender.java",
+ "prod_sha1": "04b3f8e49b13ac5e7a857794cc4268754a3611b8",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/kaha/impl/async/DataFileAppender.java",
+ "prod_time": {
+  "$date": 1258633552000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/kaha/impl/async/DataFileAppenderTest.java",
+ "test_qual": "org/apache/activemq/kaha/impl/async/DataFileAppenderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 2,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

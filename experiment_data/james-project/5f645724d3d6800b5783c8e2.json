@@ -1,0 +1,37 @@
+{
+ "prod_path": "server/queue/queue-file/src/main/java/org/apache/james/queue/file/FileMailQueue.java",
+ "prod_sha1": "9a6e2084040e5ca7a121c7c5fdffa7414579b7b1",
+ "repository": "james-project",
+ "test_path": "server/queue/queue-file/src/test/java/org/apache/james/queue/file/FileMailQueueTest.java",
+ "test_sha1": "c47bf36d6562c8f1328663e1f27d8a8f2737c6c4",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/queue/file/FileMailQueue.java",
+ "prod_time": {
+  "$date": 1516271830000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/james/queue/file/FileMailQueueTest.java",
+ "test_time": {
+  "$date": 1516273051000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

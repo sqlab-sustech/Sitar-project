@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/xbill/DNS/NioTcpClient.java",
+ "prod_sha1": "ecff2a794a0cb5115a290084cbd2d3eaab18c28a",
+ "repository": "dnsjava",
+ "test_path": "src/test/java/org/xbill/DNS/NioTcpClientTest.java",
+ "test_sha1": "ecff2a794a0cb5115a290084cbd2d3eaab18c28a",
+ "commit_between": 0,
+ "prod_qual": "org/xbill/DNS/NioTcpClient.java",
+ "prod_time": {
+  "$date": 1578227414000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/xbill/DNS/NioTcpClientTest.java",
+ "test_time": {
+  "$date": 1578227414000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 5,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

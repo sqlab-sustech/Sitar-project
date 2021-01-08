@@ -1,0 +1,32 @@
+{
+ "prod_path": "biojava3-alignment/src/main/java/org/biojava3/alignment/SimpleSequencePair.java",
+ "prod_sha1": "55917c0ab6073622041885e0fdaee91141717b62",
+ "repository": "biojava",
+ "prod_qual": "org/biojava3/alignment/SimpleSequencePair.java",
+ "prod_time": {
+  "$date": 1287698883000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "biojava3-alignment/src/test/java/org/biojava3/alignment/SimpleSequencePairTest.java",
+ "test_qual": "org/biojava3/alignment/SimpleSequencePairTest.java",
+ "add_annotation_line": 10,
+ "add_call_line": 22,
+ "add_classname_line": 1,
+ "add_condition_line": 8,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 13,
+ "add_return_line": 10,
+ "del_annotation_line": 8,
+ "del_call_line": 20,
+ "del_classname_line": 2,
+ "del_condition_line": 8,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 11,
+ "del_return_line": 7,
+ "test_typ": "Non"
+}

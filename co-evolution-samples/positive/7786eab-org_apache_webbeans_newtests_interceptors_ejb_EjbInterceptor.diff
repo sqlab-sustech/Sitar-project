@@ -1,0 +1,23 @@
+diff --git a/webbeans-impl/src/test/java/org/apache/webbeans/newtests/interceptors/ejb/EjbInterceptor.java b/webbeans-impl/src/test/java/org/apache/webbeans/newtests/interceptors/ejb/EjbInterceptor.java
+index 8d8c1b7b7..fc21986a1 100644
+--- a/webbeans-impl/src/test/java/org/apache/webbeans/newtests/interceptors/ejb/EjbInterceptor.java
++++ b/webbeans-impl/src/test/java/org/apache/webbeans/newtests/interceptors/ejb/EjbInterceptor.java
+@@ -18,18 +18,14 @@
+  */
+ package org.apache.webbeans.newtests.interceptors.ejb;
+ 
+-import javax.inject.Inject;
+ import javax.interceptor.AroundInvoke;
+ import javax.interceptor.InvocationContext;
+ 
+-import org.apache.webbeans.newtests.interceptors.beans.RequestScopedBean;
+ 
+ public class EjbInterceptor
+ {   
+     public static boolean CALLED = false;
+     
+-    private @Inject RequestScopedBean bean;
+-    
+     @AroundInvoke
+     public Object caller(InvocationContext context) throws Exception
+     {        

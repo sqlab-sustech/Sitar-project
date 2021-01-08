@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/testing/src/main/java/org/apache/james/utils/IMAPMessageReader.java",
+ "prod_sha1": "04b3d79de77da83e70b26e1d9eb9986c51a25cc2",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/utils/IMAPMessageReader.java",
+ "prod_time": {
+  "$date": 1520397880000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/testing/src/test/java/org/apache/james/utils/IMAPMessageReaderTest.java",
+ "test_qual": "org/apache/james/utils/IMAPMessageReaderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

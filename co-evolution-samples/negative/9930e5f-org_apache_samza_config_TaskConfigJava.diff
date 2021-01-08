@@ -1,0 +1,13 @@
+diff --git a/samza-core/src/main/java/org/apache/samza/config/TaskConfigJava.java b/samza-core/src/main/java/org/apache/samza/config/TaskConfigJava.java
+index 021d42a7..648fe589 100644
+--- a/samza-core/src/main/java/org/apache/samza/config/TaskConfigJava.java
++++ b/samza-core/src/main/java/org/apache/samza/config/TaskConfigJava.java
+@@ -112,7 +112,7 @@ public class TaskConfigJava extends MapConfig {
+     Set<SystemStream> allInputSS = new HashSet<>();
+ 
+     TaskConfig taskConfig = TaskConfig.Config2Task(this);
+-    allInputSS.addAll(JavaConversions.asJavaSet(taskConfig.getInputStreams()));
++    allInputSS.addAll(JavaConversions.setAsJavaSet(taskConfig.getInputStreams()));
+     allInputSS.addAll(getBroadcastSystemStreams());
+ 
+     return Collections.unmodifiableSet(allInputSS);

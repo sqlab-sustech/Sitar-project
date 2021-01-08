@@ -1,0 +1,4 @@
+fineract-cn-reporting EE f61acd9c411b4028540f5d58c3ae318699afab77 f61acd9c411b4028540f5d58c3ae318699afab77 api/src/test/java/io/mifos/reporting/api/v1/domain/Sample.java api/src/test/java/io/mifos/reporting/api/v1/domain/SampleTest.java
+fineract-cn-reporting EE 4396958da4fafd5843fdaa1de752b1cd992cfa5a 4396958da4fafd5843fdaa1de752b1cd992cfa5a api/src/test/java/io/mifos/reporting/api/v1/domain/Sample.java api/src/test/java/io/mifos/reporting/api/v1/domain/SampleTest.java
+fineract-cn-reporting DD 689fc6e1c97fa6dbe2246063b52bca9d7a99e3f5 689fc6e1c97fa6dbe2246063b52bca9d7a99e3f5 api/src/test/java/io/mifos/reporting/api/v1/domain/Sample.java api/src/test/java/io/mifos/reporting/api/v1/domain/SampleTest.java
+fineract-cn-reporting DD a59b90418082d0dc53e692c066495eb4ba252762 a59b90418082d0dc53e692c066495eb4ba252762 api/src/test/java/io/mifos/reporting/api/v1/domain/Sample.java api/src/test/java/io/mifos/reporting/api/v1/domain/SampleTest.java

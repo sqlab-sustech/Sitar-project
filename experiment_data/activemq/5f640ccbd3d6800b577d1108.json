@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-amqp/src/main/java/org/apache/activemq/transport/amqp/message/JMSMappingOutboundTransformer.java",
+ "prod_sha1": "d54e21b2ff563431919e8783f701c889497b2101",
+ "repository": "activemq",
+ "test_path": "activemq-amqp/src/test/java/org/apache/activemq/transport/amqp/message/JMSMappingOutboundTransformerTest.java",
+ "test_sha1": "d54e21b2ff563431919e8783f701c889497b2101",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/transport/amqp/message/JMSMappingOutboundTransformer.java",
+ "prod_time": {
+  "$date": 1469484953000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/transport/amqp/message/JMSMappingOutboundTransformerTest.java",
+ "test_time": {
+  "$date": 1469484953000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 46,
+ "add_classname_line": 0,
+ "add_condition_line": 18,
+ "add_field_line": 0,
+ "add_import_line": 11,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 1,
+ "del_call_line": 34,
+ "del_classname_line": 0,
+ "del_condition_line": 20,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

@@ -1,0 +1,11 @@
+diff --git a/sdks/java/extensions/euphoria/euphoria-core/src/main/java/cz/seznam/euphoria/core/client/graph/DAG.java b/sdks/java/extensions/euphoria/euphoria-core/src/main/java/cz/seznam/euphoria/core/client/graph/DAG.java
+index 68908b293f..43aabdf06e 100644
+--- a/sdks/java/extensions/euphoria/euphoria-core/src/main/java/cz/seznam/euphoria/core/client/graph/DAG.java
++++ b/sdks/java/extensions/euphoria/euphoria-core/src/main/java/cz/seznam/euphoria/core/client/graph/DAG.java
+@@ -1,5 +1,5 @@
+ /**
+- * Copyright 2016 Seznam a.s.
++ * Copyright 2016 Seznam.cz, a.s.
+  *
+  * Licensed under the Apache License, Version 2.0 (the "License");
+  * you may not use this file except in compliance with the License.

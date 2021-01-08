@@ -1,0 +1,45 @@
+diff --git a/jbi/deployer/src/main/java/org/apache/servicemix/jbi/deployer/artifacts/ServiceAssemblyImpl.java b/jbi/deployer/src/main/java/org/apache/servicemix/jbi/deployer/artifacts/ServiceAssemblyImpl.java
+index 3d231b1..e04fee0 100644
+--- a/jbi/deployer/src/main/java/org/apache/servicemix/jbi/deployer/artifacts/ServiceAssemblyImpl.java
++++ b/jbi/deployer/src/main/java/org/apache/servicemix/jbi/deployer/artifacts/ServiceAssemblyImpl.java
+@@ -25,23 +25,21 @@ import java.util.Map;
+ import java.util.Set;
+ import java.util.concurrent.Semaphore;
+ import java.util.concurrent.TimeUnit;
+-
+ import javax.jbi.JBIException;
+ import javax.jbi.management.LifeCycleMBean;
+ 
+-import org.apache.servicemix.jbi.deployer.Component;
+ import org.apache.servicemix.jbi.deployer.ServiceAssembly;
+ import org.apache.servicemix.jbi.deployer.ServiceUnit;
+ import org.apache.servicemix.jbi.deployer.descriptor.Connection;
+ import org.apache.servicemix.jbi.deployer.descriptor.DescriptorFactory;
+ import org.apache.servicemix.jbi.deployer.descriptor.ServiceAssemblyDesc;
+ import org.apache.servicemix.jbi.deployer.events.LifeCycleEvent;
++import org.apache.servicemix.jbi.deployer.impl.Storage;
+ import org.apache.servicemix.nmr.api.Wire;
+ import org.apache.servicemix.nmr.core.util.MapToDictionary;
+ import org.apache.servicemix.nmr.management.Nameable;
+ import org.osgi.framework.Bundle;
+ import org.osgi.framework.ServiceRegistration;
+-import org.osgi.service.prefs.Preferences;
+ 
+ /**
+  * ServiceAssembly object
+@@ -86,13 +84,13 @@ public class ServiceAssemblyImpl extends AbstractLifecycleJbiArtifact implements
+     public ServiceAssemblyImpl(Bundle bundle,
+                                ServiceAssemblyDesc serviceAssemblyDesc,
+                                List<ServiceUnitImpl> serviceUnits,
+-                               Preferences prefs,
++                               Storage storage,
+                                AssemblyReferencesListener listener,
+                                boolean autoStart) {
+         this.bundle = bundle;
+         this.serviceAssemblyDesc = serviceAssemblyDesc;
+         this.serviceUnits = serviceUnits;
+-        this.prefs = prefs;
++        this.storage = storage;
+         this.listener = listener;
+         this.runningState = loadState(autoStart ? State.Started : State.Shutdown);
+         for (ServiceUnitImpl su : serviceUnits) {

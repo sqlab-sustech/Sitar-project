@@ -1,0 +1,10 @@
+diff --git a/ambari-server/src/main/java/org/apache/ambari/server/api/predicate/operators/LessOperator.java b/ambari-server/src/main/java/org/apache/ambari/server/api/predicate/operators/LessOperator.java
+index 374e31cacb..b16e660323 100644
+--- a/ambari-server/src/main/java/org/apache/ambari/server/api/predicate/operators/LessOperator.java
++++ b/ambari-server/src/main/java/org/apache/ambari/server/api/predicate/operators/LessOperator.java
+@@ -1,4 +1,4 @@
+-/**
++/*
+  * Licensed to the Apache Software Foundation (ASF) under one
+  * or more contributor license agreements.  See the NOTICE file
+  * distributed with this work for additional information

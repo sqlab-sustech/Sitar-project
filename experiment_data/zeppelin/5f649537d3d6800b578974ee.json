@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-core/src/main/java/com/nflabs/zeppelin/zrt/ZeppelinRuntime.java",
+ "prod_sha1": "f5516068edaef12dac536e375b25b687633e2474",
+ "repository": "zeppelin",
+ "prod_qual": "com/nflabs/zeppelin/zrt/ZeppelinRuntime.java",
+ "prod_time": {
+  "$date": 1380596562000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-core/src/test/java/com/nflabs/zeppelin/zrt/ZeppelinRuntimeTest.java",
+ "test_qual": "com/nflabs/zeppelin/zrt/ZeppelinRuntimeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

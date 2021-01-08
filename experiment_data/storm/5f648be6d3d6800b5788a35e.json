@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-core/src/jvm/org/apache/storm/topology/TopologyBuilder.java",
+ "prod_sha1": "29b52e9c266b130642d99e665ff73c55dfabba13",
+ "repository": "storm",
+ "prod_qual": "jvm/org/apache/storm/topology/TopologyBuilder.java",
+ "prod_time": {
+  "$date": 1480449287000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-core/test/jvm/org/apache/storm/topology/TopologyBuilderTest.java",
+ "test_qual": "jvm/org/apache/storm/topology/TopologyBuilderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

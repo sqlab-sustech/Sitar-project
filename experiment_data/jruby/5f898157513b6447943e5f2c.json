@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/javasupport/JavaClass.java",
+ "prod_sha1": "1d6cbee7a1ffd9ae3d0ed6fe1badee8dcbef5b36",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/javasupport/JavaClass.java",
+ "prod_time": {
+  "$date": 1206226611000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "test/org/jruby/javasupport/TestJavaClass.java",
+ "test_qual": "org/jruby/javasupport/TestJavaClass.java",
+ "add_annotation_line": 0,
+ "add_call_line": 17,
+ "add_classname_line": 0,
+ "add_condition_line": 11,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 16,
+ "del_classname_line": 1,
+ "del_condition_line": 10,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

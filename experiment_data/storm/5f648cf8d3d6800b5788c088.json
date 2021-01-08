@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-server/src/main/java/org/apache/storm/scheduler/resource/User.java",
+ "prod_sha1": "06341d8de6ad5a71ec00eb1336ba86b4f02ea720",
+ "repository": "storm",
+ "prod_qual": "org/apache/storm/scheduler/resource/User.java",
+ "prod_time": {
+  "$date": 1510071530000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-server/src/test/java/org/apache/storm/scheduler/resource/TestUser.java",
+ "test_qual": "org/apache/storm/scheduler/resource/TestUser.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 3,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

@@ -1,0 +1,12 @@
+diff --git a/usage/launcher/src/main/java/brooklyn/launcher/BrooklynWebServer.java b/usage/launcher/src/main/java/brooklyn/launcher/BrooklynWebServer.java
+index 98d5160ff..d5956656d 100644
+--- a/usage/launcher/src/main/java/brooklyn/launcher/BrooklynWebServer.java
++++ b/usage/launcher/src/main/java/brooklyn/launcher/BrooklynWebServer.java
+@@ -169,6 +169,7 @@ public class BrooklynWebServer {
+      */
+     public synchronized void start() throws Exception {
+         if (server!=null) throw new IllegalStateException(""+this+" already running");
++
+         if (actualPort==-1){
+             actualPort = LocalhostMachineProvisioningLocation.obtainPort(getAddress(), httpsEnabled?httpsPort:port);
+         }

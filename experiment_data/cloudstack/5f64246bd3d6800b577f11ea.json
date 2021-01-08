@@ -1,0 +1,32 @@
+{
+ "prod_path": "plugins/hypervisors/vmware/src/com/cloud/hypervisor/vmware/resource/VmwareResource.java",
+ "prod_sha1": "0becde90bb082e469591c8aec1a42c885902eb67",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/hypervisor/vmware/resource/VmwareResource.java",
+ "prod_time": {
+  "$date": 1376349879000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "plugins/hypervisors/vmware/test/com/cloud/hypervisor/vmware/resource/VmwareResourceTest.java",
+ "test_qual": "com/cloud/hypervisor/vmware/resource/VmwareResourceTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 21,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 2,
+ "del_annotation_line": 2,
+ "del_call_line": 21,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 5,
+ "test_typ": "Non"
+}

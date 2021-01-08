@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/distributed/internal/DistributionStats.java",
+ "prod_sha1": "b21b7ef89e3f447c3ff842f62fe42c4b47022894",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/distributed/internal/DistributionStats.java",
+ "prod_time": {
+  "$date": 1560901080000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/distributed/internal/DistributionStatsTest.java",
+ "test_qual": "org/apache/geode/distributed/internal/DistributionStatsTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 35,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 14,
+ "del_annotation_line": 13,
+ "del_call_line": 6,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

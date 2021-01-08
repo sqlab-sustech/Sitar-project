@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-junit/src/main/java/org/apache/geode/test/junit/rules/ConcurrencyRule.java",
+ "prod_sha1": "b5e80b5d351b9e122f2bd2d83bc07693a18e537d",
+ "repository": "geode",
+ "test_path": "geode-junit/src/test/java/org/apache/geode/test/junit/rules/ConcurrencyRuleTest.java",
+ "test_sha1": "b5e80b5d351b9e122f2bd2d83bc07693a18e537d",
+ "commit_between": 0,
+ "prod_qual": "junit/rules/ConcurrencyRule.java",
+ "prod_time": {
+  "$date": 1534957856000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "junit/rules/ConcurrencyRuleTest.java",
+ "test_time": {
+  "$date": 1534957856000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

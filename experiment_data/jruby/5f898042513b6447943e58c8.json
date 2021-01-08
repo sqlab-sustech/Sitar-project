@@ -1,0 +1,37 @@
+{
+ "prod_path": "core/src/main/java/org/jruby/embed/jsr223/JRubyEngine.java",
+ "prod_sha1": "acfe1af4d4c1961dfd3d9770c6733a8b809949a1",
+ "repository": "jruby",
+ "test_path": "core/src/test/java/org/jruby/embed/jsr223/JRubyEngineTest.java",
+ "test_sha1": "acfe1af4d4c1961dfd3d9770c6733a8b809949a1",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/embed/jsr223/JRubyEngine.java",
+ "prod_time": {
+  "$date": 1428998910000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/embed/jsr223/JRubyEngineTest.java",
+ "test_time": {
+  "$date": 1428998910000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

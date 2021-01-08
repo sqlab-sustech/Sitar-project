@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/services/src/main/java/org/usergrid/services/AbstractService.java",
+ "prod_sha1": "50b38be6406680dfa1c7bc712ec5b5897a111f63",
+ "repository": "usergrid",
+ "test_path": "stack/services/src/test/java/org/usergrid/services/AbstractServiceTest.java",
+ "test_sha1": "50b38be6406680dfa1c7bc712ec5b5897a111f63",
+ "commit_between": 0,
+ "prod_qual": "org/usergrid/services/AbstractService.java",
+ "prod_time": {
+  "$date": 1317618239000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/usergrid/services/AbstractServiceTest.java",
+ "test_time": {
+  "$date": 1317618239000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 9,
+ "add_call_line": 237,
+ "add_classname_line": 1,
+ "add_condition_line": 92,
+ "add_field_line": 13,
+ "add_import_line": 28,
+ "add_packageid_line": 1,
+ "add_parameter_line": 138,
+ "add_return_line": 145,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

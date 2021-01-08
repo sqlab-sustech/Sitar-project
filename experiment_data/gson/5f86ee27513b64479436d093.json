@@ -1,0 +1,32 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/ParameterizedTypeHandlerMap.java",
+ "prod_sha1": "51881c7f4a60d62e0b71ff0dfef78c18bdb1005f",
+ "repository": "gson",
+ "prod_qual": "com/google/gson/ParameterizedTypeHandlerMap.java",
+ "prod_time": {
+  "$date": 1229736374000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "gson/src/test/java/com/google/gson/ParameterizedTypeHandlerMapTest.java",
+ "test_qual": "com/google/gson/ParameterizedTypeHandlerMapTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

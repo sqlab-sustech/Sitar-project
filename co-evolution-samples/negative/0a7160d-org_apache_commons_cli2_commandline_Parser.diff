@@ -1,0 +1,12 @@
+diff --git a/src/java/org/apache/commons/cli2/commandline/Parser.java b/src/java/org/apache/commons/cli2/commandline/Parser.java
+index 07ecdba..1225baa 100644
+--- a/src/java/org/apache/commons/cli2/commandline/Parser.java
++++ b/src/java/org/apache/commons/cli2/commandline/Parser.java
+@@ -114,7 +114,6 @@ public class Parser {
+      *
+      * @param arguments the command line arguments
+      * @return a valid CommandLine or null if the parse was unsuccessful
+-     * @throws IOException if an error occurs while formatting help
+      */
+     public CommandLine parseAndHelp(final String[] arguments) {
+         helpFormatter.setGroup(group);

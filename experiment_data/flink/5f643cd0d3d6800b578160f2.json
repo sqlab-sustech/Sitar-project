@@ -1,0 +1,32 @@
+{
+ "prod_path": "pact/pact-runtime/src/main/java/eu/stratosphere/pact/runtime/task/DataSourceTask.java",
+ "prod_sha1": "db283eae24e8bd6738389f602c46b2caff2c0f52",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/pact/runtime/task/DataSourceTask.java",
+ "prod_time": {
+  "$date": 1303231173000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pact/pact-runtime/src/test/java/eu/stratosphere/pact/runtime/task/DataSourceTaskTest.java",
+ "test_qual": "eu/stratosphere/pact/runtime/task/DataSourceTaskTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

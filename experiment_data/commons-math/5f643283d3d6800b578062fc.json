@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/exception/DimensionMismatchException.java",
+ "prod_sha1": "07f166332003e7f0857954ffc5bd3e85ca762f69",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/exception/DimensionMismatchException.java",
+ "prod_time": {
+  "$date": 1289399016000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/org/apache/commons/math/exception/DimensionMismatchExceptionTest.java",
+ "test_qual": "org/apache/commons/math/exception/DimensionMismatchExceptionTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

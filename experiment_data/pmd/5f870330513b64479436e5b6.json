@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/RuleSetFactory.java",
+ "prod_sha1": "20fa9a83db5fdb80a071c7c92dedd3e92ea8af04",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/RuleSetFactoryTest.java",
+ "test_sha1": "20fa9a83db5fdb80a071c7c92dedd3e92ea8af04",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/RuleSetFactory.java",
+ "prod_time": {
+  "$date": 1095282513000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/RuleSetFactoryTest.java",
+ "test_time": {
+  "$date": 1095282513000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

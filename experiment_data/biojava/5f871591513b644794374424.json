@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/symmetry/utils/SymmetryTools.java",
+ "prod_sha1": "405b005c0ccd53f0900c2f9d168fd052d18281f7",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/symmetry/utils/TestSymmetryTools.java",
+ "test_sha1": "405b005c0ccd53f0900c2f9d168fd052d18281f7",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/symmetry/utils/SymmetryTools.java",
+ "prod_time": {
+  "$date": 1546527726000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/symmetry/utils/TestSymmetryTools.java",
+ "test_time": {
+  "$date": 1546527726000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

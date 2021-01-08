@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/org/apache/cloudstack/region/gslb/GlobalLoadBalancingRulesServiceImpl.java",
+ "prod_sha1": "7b011e7ef468b51a1ba903cfac8e5a9726e34ae8",
+ "repository": "cloudstack",
+ "prod_qual": "org/apache/cloudstack/region/gslb/GlobalLoadBalancingRulesServiceImpl.java",
+ "prod_time": {
+  "$date": 1366663529000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/org/apache/cloudstack/region/gslb/GlobalLoadBalancingRulesServiceImplTest.java",
+ "test_qual": "org/apache/cloudstack/region/gslb/GlobalLoadBalancingRulesServiceImplTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

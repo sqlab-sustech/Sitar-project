@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/layout/RFC5424Layout.java",
+ "prod_sha1": "b6493d654492c3215aa1a19420994ea054f3afda",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/layout/RFC5424LayoutTest.java",
+ "test_sha1": "b6493d654492c3215aa1a19420994ea054f3afda",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/core/layout/RFC5424Layout.java",
+ "prod_time": {
+  "$date": 1378302182000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/core/layout/RFC5424LayoutTest.java",
+ "test_time": {
+  "$date": 1378302182000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 104,
+ "add_classname_line": 2,
+ "add_condition_line": 22,
+ "add_field_line": 8,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 21,
+ "add_return_line": 11,
+ "del_annotation_line": 0,
+ "del_call_line": 41,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 12,
+ "del_return_line": 4
+}

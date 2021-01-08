@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java b/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+index 3d34e966..cf51dfdd 100644
+--- a/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
++++ b/src/main/java/org/apache/commons/compress/archivers/tar/TarArchiveOutputStream.java
+@@ -677,7 +677,7 @@ private boolean handleLongName(final TarArchiveEntry entry , final String name,
+                 // of which are the link's name
+                 final TarArchiveEntry longLinkEntry = new TarArchiveEntry(TarConstants.GNU_LONGLINK, linkType);
+ 
+-                longLinkEntry.setSize(len + 1); // +1 for NUL
++                longLinkEntry.setSize(len + 1l); // +1 for NUL
+                 transferModTime(entry, longLinkEntry);
+                 putArchiveEntry(longLinkEntry);
+                 write(encodedName.array(), encodedName.arrayOffset(), len);

@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/event/event-memory/src/main/java/org/apache/james/mailbox/events/InVMEventBus.java",
+ "prod_sha1": "0707db5008367ca9963b4a939eac94b4b9b21dec",
+ "repository": "james-project",
+ "test_path": "mailbox/event/event-memory/src/test/java/org/apache/james/mailbox/events/InVMEventBusTest.java",
+ "test_sha1": "0707db5008367ca9963b4a939eac94b4b9b21dec",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/events/InVMEventBus.java",
+ "prod_time": {
+  "$date": 1547035837000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/events/InVMEventBusTest.java",
+ "test_time": {
+  "$date": 1547035837000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

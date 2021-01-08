@@ -1,0 +1,32 @@
+{
+ "prod_path": "gemfire-core/src/main/java/com/gemstone/gemfire/DataSerializer.java",
+ "prod_sha1": "3e07ec2f1114bfdb1a42b1eafd6347c913731a3a",
+ "repository": "geode",
+ "prod_qual": "com/gemstone/gemfire/DataSerializer.java",
+ "prod_time": {
+  "$date": 1444350747000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "gemfire-core/src/test/java/com/gemstone/gemfire/TestDataSerializer.java",
+ "test_qual": "com/gemstone/gemfire/TestDataSerializer.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

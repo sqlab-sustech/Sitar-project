@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/count-batcher/src/main/java/com/usergrid/count/ScheduledBatcher.java",
+ "prod_sha1": "5e4c0bd36305fcc90ef81a66031167876fbe444e",
+ "repository": "usergrid",
+ "prod_qual": "com/usergrid/count/ScheduledBatcher.java",
+ "prod_time": {
+  "$date": 1349823207000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/count-batcher/src/test/java/com/usergrid/count/ScheduledBatcherTest.java",
+ "test_qual": "com/usergrid/count/ScheduledBatcherTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

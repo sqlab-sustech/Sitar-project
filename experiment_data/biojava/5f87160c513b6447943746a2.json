@@ -1,0 +1,32 @@
+{
+ "prod_path": "alignment/src/main/java/org/biojava/bio/alignment/SubstitutionMatrix.java",
+ "prod_sha1": "e1a48e0a4bd2791d57e2a406c3b9ded07719a8b3",
+ "repository": "biojava",
+ "prod_qual": "org/biojava/bio/alignment/SubstitutionMatrix.java",
+ "prod_time": {
+  "$date": 1270648078000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "alignment/src/test/java/org/biojava/bio/alignment/SubstitutionMatrixTest.java",
+ "test_qual": "org/biojava/bio/alignment/SubstitutionMatrixTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

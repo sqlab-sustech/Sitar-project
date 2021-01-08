@@ -1,0 +1,13 @@
+diff --git a/core/sis-referencing/src/main/java/org/apache/sis/referencing/factory/sql/EPSGFactory.java b/core/sis-referencing/src/main/java/org/apache/sis/referencing/factory/sql/EPSGFactory.java
+index 19fa38a43..31fc22165 100644
+--- a/core/sis-referencing/src/main/java/org/apache/sis/referencing/factory/sql/EPSGFactory.java
++++ b/core/sis-referencing/src/main/java/org/apache/sis/referencing/factory/sql/EPSGFactory.java
+@@ -415,7 +415,7 @@ public class EPSGFactory extends ConcurrentAuthorityFactory<EPSGDataAccess> impl
+                         try {
+                             if (!tr.isTableFound()) {
+                                 install(connection);
+-                                tr.setup(connection.getMetaData());   // Set only on success.
++                                tr.setup(connection.getMetaData());         // Set only on success.
+                             }
+                         } finally {
+                             translator = tr;        // Set only after installation in order to block other threads.

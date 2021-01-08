@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/test-utils/src/main/java/org/usergrid/cassandra/CassandraResource.java",
+ "prod_sha1": "3e9fd73917abb17f6ac9a20a4d57ae8e336efa4b",
+ "repository": "usergrid",
+ "test_path": "stack/test-utils/src/test/java/org/usergrid/cassandra/CassandraResourceTest.java",
+ "test_sha1": "3e9fd73917abb17f6ac9a20a4d57ae8e336efa4b",
+ "commit_between": 0,
+ "prod_qual": "org/usergrid/cassandra/CassandraResource.java",
+ "prod_time": {
+  "$date": 1393369497000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/usergrid/cassandra/CassandraResourceTest.java",
+ "test_time": {
+  "$date": 1393369497000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 8,
+ "del_call_line": 112,
+ "del_classname_line": 1,
+ "del_condition_line": 15,
+ "del_field_line": 27,
+ "del_import_line": 16,
+ "del_packageid_line": 1,
+ "del_parameter_line": 22,
+ "del_return_line": 14
+}

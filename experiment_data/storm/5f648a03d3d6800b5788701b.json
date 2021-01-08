@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/backtype/storm/utils/ThriftTopologyUtils.java",
+ "prod_sha1": "b03ce6b28e0f16d11b769f75a069de0328637794",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/backtype/storm/utils/ThriftTopologyUtilsTest.java",
+ "test_sha1": "9cb8666963bf3d00e21e3dfaf406650d5b780721",
+ "commit_between": 1,
+ "prod_qual": "jvm/backtype/storm/utils/ThriftTopologyUtils.java",
+ "prod_time": {
+  "$date": 1447703346000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/backtype/storm/utils/ThriftTopologyUtilsTest.java",
+ "test_time": {
+  "$date": 1447769387000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 11,
+ "add_classname_line": 0,
+ "add_condition_line": 6,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 5,
+ "del_classname_line": 0,
+ "del_condition_line": 4,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1
+}

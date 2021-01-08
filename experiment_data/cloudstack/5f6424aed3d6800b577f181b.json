@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/network/security/SecurityGroupManagerImpl.java",
+ "prod_sha1": "81d01369d76ecf5e64d1786777d84e599f42cfa1",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/network/security/SecurityGroupManagerImpl.java",
+ "prod_time": {
+  "$date": 1382556713000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/network/security/SecurityGroupManagerImplTest.java",
+ "test_qual": "com/cloud/network/security/SecurityGroupManagerImplTest.java",
+ "add_annotation_line": 7,
+ "add_call_line": 248,
+ "add_classname_line": 0,
+ "add_condition_line": 37,
+ "add_field_line": 0,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 11,
+ "add_return_line": 142,
+ "del_annotation_line": 9,
+ "del_call_line": 217,
+ "del_classname_line": 2,
+ "del_condition_line": 38,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 128,
+ "test_typ": "Non"
+}

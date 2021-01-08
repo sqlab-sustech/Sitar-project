@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/distributed/LocatorLauncher.java",
+ "prod_sha1": "7b4ca48cf86e37e9453f0566833e92e0662f80bf",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/distributed/LocatorLauncher.java",
+ "prod_time": {
+  "$date": 1533659726000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/distributedTest/java/org/apache/geode/distributed/LocatorLauncherTest.java",
+ "test_qual": "org/apache/geode/distributed/LocatorLauncherTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

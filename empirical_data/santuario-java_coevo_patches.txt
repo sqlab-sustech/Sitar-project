@@ -1,0 +1,2 @@
+santuario-java DC f6c706785905a7673310be046d11d73e05903962 f6c706785905a7673310be046d11d73e05903962 src/test/java/org/apache/xml/security/test/c14n/implementations/ExclusiveC14NInterop.java src/test/java/org/apache/xml/security/test/c14n/implementations/ExclusiveC14NInteropTest.java
+santuario-java EC 2cfb43db4b133a50d09dba3024477ed2b469201c 2cfb43db4b133a50d09dba3024477ed2b469201c src/main/java/org/apache/xml/security/stax/impl/securityToken/SecurityTokenFactoryImpl.java src/test/java/org/apache/xml/security/stax/impl/securityToken/SecurityTokenFactoryImplTest.java

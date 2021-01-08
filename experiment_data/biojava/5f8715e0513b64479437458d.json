@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-structure/src/main/java/org/biojava/nbio/structure/rcsb/RCSBLigandsFactory.java",
+ "prod_sha1": "27ea76ff543eb768be928dab972fbc5f4def7c49",
+ "repository": "biojava",
+ "test_path": "biojava-structure/src/test/java/org/biojava/nbio/structure/rcsb/RCSBLigandsFactoryTest.java",
+ "test_sha1": "27ea76ff543eb768be928dab972fbc5f4def7c49",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/nbio/structure/rcsb/RCSBLigandsFactory.java",
+ "prod_time": {
+  "$date": 1597165140000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/structure/rcsb/RCSBLigandsFactoryTest.java",
+ "test_time": {
+  "$date": 1597165140000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 93,
+ "del_classname_line": 1,
+ "del_condition_line": 34,
+ "del_field_line": 3,
+ "del_import_line": 9,
+ "del_packageid_line": 1,
+ "del_parameter_line": 12,
+ "del_return_line": 19
+}

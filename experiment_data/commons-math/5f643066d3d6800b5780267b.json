@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/util/ResizableDoubleArray.java",
+ "prod_sha1": "22b8f2abbd0321153af5ba54ead5f613323820c5",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/util/ResizableDoubleArray.java",
+ "prod_time": {
+  "$date": 1187640539000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/util/ResizableDoubleArrayTest.java",
+ "test_qual": "org/apache/commons/math/util/ResizableDoubleArrayTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

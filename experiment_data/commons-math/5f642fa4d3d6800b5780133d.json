@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/stat/univariate/rank/Max.java",
+ "prod_sha1": "d3322d7d6c0cf32ed8e2cf6590bbf9795da11140",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/stat/univariate/rank/Max.java",
+ "prod_time": {
+  "$date": 1087565046000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/stat/univariate/rank/MaxTest.java",
+ "test_qual": "org/apache/commons/math/stat/univariate/rank/MaxTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/RegexpTranslator.java",
+ "prod_sha1": "768b724a7ef4942d89923756ac1c5183ac5bf24a",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/RegexpTranslator.java",
+ "prod_time": {
+  "$date": 1173639937000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "test/org/jruby/TestRegexpTranslator.java",
+ "test_qual": "org/jruby/TestRegexpTranslator.java",
+ "add_annotation_line": 0,
+ "add_call_line": 37,
+ "add_classname_line": 0,
+ "add_condition_line": 12,
+ "add_field_line": 8,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 26,
+ "del_classname_line": 1,
+ "del_condition_line": 11,
+ "del_field_line": 6,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

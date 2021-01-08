@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAO.java",
+ "prod_sha1": "5dd45223de60a668f5b931b1bf68a6ba3509b593",
+ "repository": "james-project",
+ "test_path": "mailbox/cassandra/src/test/java/org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAOTest.java",
+ "test_sha1": "5dd45223de60a668f5b931b1bf68a6ba3509b593",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAO.java",
+ "prod_time": {
+  "$date": 1476366267000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/cassandra/mail/CassandraMessageIdToImapUidDAOTest.java",
+ "test_time": {
+  "$date": 1476366267000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 40,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 6,
+ "add_import_line": 25,
+ "add_packageid_line": 1,
+ "add_parameter_line": 10,
+ "add_return_line": 36,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

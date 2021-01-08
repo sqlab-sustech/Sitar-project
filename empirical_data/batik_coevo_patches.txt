@@ -1,0 +1,2 @@
+batik EE b214b1fe00ee84502424591ee7dc31888af35435 b214b1fe00ee84502424591ee7dc31888af35435 batik-swing/src/main/java/org/apache/batik/swing/Messages.java batik-test-swing/src/main/java/org/apache/batik/swing/TestMessages.java
+batik EE 327ec5d890b50fcec3af9bc105788dc8466effc4 327ec5d890b50fcec3af9bc105788dc8466effc4 batik-util/src/main/java/org/apache/batik/util/ParsedURLData.java batik-util/src/test/java/org/apache/batik/util/ParsedURLDataTest.java

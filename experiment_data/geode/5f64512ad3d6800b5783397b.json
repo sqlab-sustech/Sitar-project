@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/management/internal/cli/functions/CliFunctionResult.java",
+ "prod_sha1": "3af0a825c828a51d2acd38fb08726c5d80f486b1",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/management/internal/cli/functions/CliFunctionResult.java",
+ "prod_time": {
+  "$date": 1527004681000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/management/internal/cli/functions/CliFunctionResultTest.java",
+ "test_qual": "org/apache/geode/management/internal/cli/functions/CliFunctionResultTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 4,
+ "del_annotation_line": 3,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 6,
+ "test_typ": "Non"
+}

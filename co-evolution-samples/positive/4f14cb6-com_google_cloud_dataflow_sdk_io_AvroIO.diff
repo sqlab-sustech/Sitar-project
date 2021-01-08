@@ -1,0 +1,11 @@
+diff --git a/sdk/src/main/java/com/google/cloud/dataflow/sdk/io/AvroIO.java b/sdk/src/main/java/com/google/cloud/dataflow/sdk/io/AvroIO.java
+index d7c2f1ef47..907ec2a9eb 100644
+--- a/sdk/src/main/java/com/google/cloud/dataflow/sdk/io/AvroIO.java
++++ b/sdk/src/main/java/com/google/cloud/dataflow/sdk/io/AvroIO.java
+@@ -1,5 +1,5 @@
+ /*
+- * Copyright (C) 2014 Google Inc.
++ * Copyright (C) 2015 Google Inc.
+  *
+  * Licensed under the Apache License, Version 2.0 (the "License"); you may not
+  * use this file except in compliance with the License. You may obtain a copy of

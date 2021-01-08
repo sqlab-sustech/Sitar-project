@@ -1,0 +1,37 @@
+{
+ "prod_path": "JodaTimeContrib/src/java/org/joda/time/contrib/hibernate/PersistentDateTime.java",
+ "prod_sha1": "4092deb533e1b77bec990fd4a7b77c7f244fde04",
+ "repository": "joda-time",
+ "test_path": "JodaTimeContrib/src/test/org/joda/time/contrib/hibernate/TestPersistentDateTime.java",
+ "test_sha1": "365e92cfbc7f9d390638b701b7a4198c34aac182",
+ "commit_between": 2,
+ "prod_qual": "org/joda/time/contrib/hibernate/PersistentDateTime.java",
+ "prod_time": {
+  "$date": 1118845581000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/joda/time/contrib/hibernate/TestPersistentDateTime.java",
+ "test_time": {
+  "$date": 1118994613000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 2,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 1,
+ "del_condition_line": 2,
+ "del_field_line": 1,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 3
+}

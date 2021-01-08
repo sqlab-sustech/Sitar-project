@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/org/jruby/ast/ZSuperNode.java",
+ "prod_sha1": "ed6bb95c6265be4d7b596b5c8ee1d8c7bdb9bf0e",
+ "repository": "jruby",
+ "test_path": "src/org/jruby/ast/TestZSuperNode.java",
+ "test_sha1": "ed6bb95c6265be4d7b596b5c8ee1d8c7bdb9bf0e",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/ast/ZSuperNode.java",
+ "prod_time": {
+  "$date": 1128273554000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/ast/TestZSuperNode.java",
+ "test_time": {
+  "$date": 1128273554000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

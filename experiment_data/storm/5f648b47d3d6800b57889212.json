@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-core/src/jvm/org/apache/storm/utils/Utils.java",
+ "prod_sha1": "c03a12a98d1486b7268be9d1221b382b3ca2303c",
+ "repository": "storm",
+ "prod_qual": "jvm/org/apache/storm/utils/Utils.java",
+ "prod_time": {
+  "$date": 1458139498000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-core/test/jvm/org/apache/storm/utils/UtilsTest.java",
+ "test_qual": "jvm/org/apache/storm/utils/UtilsTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

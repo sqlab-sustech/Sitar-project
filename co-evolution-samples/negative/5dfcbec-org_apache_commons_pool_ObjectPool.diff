@@ -1,0 +1,11 @@
+diff --git a/src/java/org/apache/commons/pool/ObjectPool.java b/src/java/org/apache/commons/pool/ObjectPool.java
+index e8857fb8..00062ccd 100644
+--- a/src/java/org/apache/commons/pool/ObjectPool.java
++++ b/src/java/org/apache/commons/pool/ObjectPool.java
+@@ -186,5 +186,6 @@ public interface ObjectPool<T> {
+      * @throws UnsupportedOperationException if this implementation does not support the operation
+      * @deprecated to be removed in pool 2.0
+      */
++    @Deprecated
+     void setFactory(PoolableObjectFactory<T> factory) throws IllegalStateException, UnsupportedOperationException;
+ }

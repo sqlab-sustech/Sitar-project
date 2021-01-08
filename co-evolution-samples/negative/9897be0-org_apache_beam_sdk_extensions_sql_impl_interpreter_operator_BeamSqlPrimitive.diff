@@ -1,0 +1,12 @@
+diff --git a/sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/impl/interpreter/operator/BeamSqlPrimitive.java b/sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/impl/interpreter/operator/BeamSqlPrimitive.java
+index 21cbc809af..7c89e956f9 100644
+--- a/sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/impl/interpreter/operator/BeamSqlPrimitive.java
++++ b/sdks/java/extensions/sql/src/main/java/org/apache/beam/sdk/extensions/sql/impl/interpreter/operator/BeamSqlPrimitive.java
+@@ -21,7 +21,6 @@ import java.math.BigDecimal;
+ import java.util.Date;
+ import java.util.GregorianCalendar;
+ import java.util.List;
+-
+ import org.apache.beam.sdk.transforms.windowing.BoundedWindow;
+ import org.apache.beam.sdk.values.BeamRecord;
+ import org.apache.calcite.sql.type.SqlTypeName;

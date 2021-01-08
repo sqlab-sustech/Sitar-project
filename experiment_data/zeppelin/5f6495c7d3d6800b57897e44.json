@@ -1,0 +1,32 @@
+{
+ "prod_path": "markdown/src/main/java/org/apache/zeppelin/markdown/Markdown.java",
+ "prod_sha1": "d64920d20b1d564faea431541a80dc876d35bd94",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/markdown/Markdown.java",
+ "prod_time": {
+  "$date": 1450997970000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "markdown/src/test/java/org/apache/zeppelin/markdown/MarkdownTest.java",
+ "test_qual": "org/apache/zeppelin/markdown/MarkdownTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

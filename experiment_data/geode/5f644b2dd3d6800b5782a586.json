@@ -1,0 +1,37 @@
+{
+ "prod_path": "extensions/geode-modules/src/main/java/org/apache/geode/modules/util/BootstrappingFunction.java",
+ "prod_sha1": "cee84bbc53c707b2ca13ca664fb3087fec1c71ed",
+ "repository": "geode",
+ "test_path": "extensions/geode-modules/src/integrationTest/java/org/apache/geode/modules/util/BootstrappingFunctionTest.java",
+ "test_sha1": "cee84bbc53c707b2ca13ca664fb3087fec1c71ed",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/modules/util/BootstrappingFunction.java",
+ "prod_time": {
+  "$date": 1555610286000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/modules/util/BootstrappingFunctionTest.java",
+ "test_time": {
+  "$date": 1555610286000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

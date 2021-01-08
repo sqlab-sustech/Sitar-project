@@ -1,0 +1,32 @@
+{
+ "prod_path": "core/src/main/java/org/apache/james/core/MaybeSender.java",
+ "prod_sha1": "4116ea8194db4c61c97e9a4b3a9fc5958ceb6bfe",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/core/MaybeSender.java",
+ "prod_time": {
+  "$date": 1544537357000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "core/src/test/java/org/apache/james/core/MaybeSenderTest.java",
+ "test_qual": "org/apache/james/core/MaybeSenderTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

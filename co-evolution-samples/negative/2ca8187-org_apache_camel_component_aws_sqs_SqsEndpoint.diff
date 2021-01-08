@@ -1,0 +1,48 @@
+diff --git a/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsEndpoint.java b/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsEndpoint.java
+index 6447d7b1af6..b48fbe608e5 100644
+--- a/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsEndpoint.java
++++ b/components/camel-aws/src/main/java/org/apache/camel/component/aws/sqs/SqsEndpoint.java
+@@ -17,6 +17,7 @@
+ package org.apache.camel.component.aws.sqs;
+ 
+ import java.util.HashMap;
++import java.util.Map.Entry;
+ 
+ import com.amazonaws.auth.AWSCredentials;
+ import com.amazonaws.auth.BasicAWSCredentials;
+@@ -27,6 +28,7 @@ import com.amazonaws.services.sqs.model.CreateQueueResult;
+ import com.amazonaws.services.sqs.model.GetQueueUrlRequest;
+ import com.amazonaws.services.sqs.model.GetQueueUrlResult;
+ import com.amazonaws.services.sqs.model.ListQueuesResult;
++import com.amazonaws.services.sqs.model.MessageAttributeValue;
+ import com.amazonaws.services.sqs.model.QueueAttributeName;
+ import com.amazonaws.services.sqs.model.SetQueueAttributesRequest;
+ 
+@@ -188,6 +190,12 @@ public class SqsEndpoint extends ScheduledPollEndpoint {
+         message.setHeader(SqsConstants.RECEIPT_HANDLE, msg.getReceiptHandle());
+         message.setHeader(SqsConstants.ATTRIBUTES, msg.getAttributes());
+         message.setHeader(SqsConstants.MESSAGE_ATTRIBUTES, msg.getMessageAttributes());
++        
++        //add all sqs message attributes as camel message headers so that knowledge of 
++        //the Sqs class MessageAttributeValue will not leak to the client
++        for (Entry<String, MessageAttributeValue> entry : msg.getMessageAttributes().entrySet()) {
++            message.setHeader(entry.getKey(), translateValue(entry.getValue()));
++        }
+         return exchange;
+     }
+ 
+@@ -231,4 +239,14 @@ public class SqsEndpoint extends ScheduledPollEndpoint {
+     public void setMaxMessagesPerPoll(int maxMessagesPerPoll) {
+         this.maxMessagesPerPoll = maxMessagesPerPoll;
+     }
++    
++    private Object translateValue(MessageAttributeValue mav) {
++        Object result = null;
++        if (mav.getStringValue() != null) {
++            result = mav.getStringValue();
++        } else if (mav.getBinaryValue() != null) {
++            result = mav.getBinaryValue();
++        }
++        return result;
++    }
+ }

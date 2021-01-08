@@ -1,0 +1,33 @@
+diff --git a/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java b/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java
+index ef2c28622f..4e209767df 100644
+--- a/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java
++++ b/hadoop-hdfs-project/hadoop-hdfs/src/main/java/org/apache/hadoop/hdfs/server/namenode/FSNamesystem.java
+@@ -1161,7 +1161,8 @@ private void checkNameNodeSafeMode(String errorMsg)
+     if (isInSafeMode()) {
+       SafeModeException se = new SafeModeException(errorMsg, safeMode);
+       if (haEnabled && haContext != null
+-          && haContext.getState().getServiceState() == HAServiceState.ACTIVE) {
++          && haContext.getState().getServiceState() == HAServiceState.ACTIVE
++          && shouldRetrySafeMode(this.safeMode)) {
+         throw new RetriableException(se);
+       } else {
+         throw se;
+@@ -1169,6 +1170,18 @@ private void checkNameNodeSafeMode(String errorMsg)
+     }
+   }
+   
++  /**
++   * We already know that the safemode is on. We will throw a RetriableException
++   * if the safemode is not manual or caused by low resource.
++   */
++  private boolean shouldRetrySafeMode(SafeModeInfo safeMode) {
++    if (safeMode == null) {
++      return false;
++    } else {
++      return !safeMode.isManual() && !safeMode.areResourcesLow();
++    }
++  }
++  
+   public static Collection<URI> getNamespaceDirs(Configuration conf) {
+     return getStorageDirs(conf, DFS_NAMENODE_NAME_DIR_KEY);
+   }

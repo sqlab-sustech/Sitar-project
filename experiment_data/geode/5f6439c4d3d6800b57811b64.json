@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/com/gemstone/gemfire/internal/offheap/FreeListManager.java",
+ "prod_sha1": "2e1075246a5c95dcd087fe497bae0df323acfdbd",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/com/gemstone/gemfire/internal/offheap/FreeListManagerTest.java",
+ "test_sha1": "2e1075246a5c95dcd087fe497bae0df323acfdbd",
+ "commit_between": 0,
+ "prod_qual": "com/gemstone/gemfire/internal/offheap/FreeListManager.java",
+ "prod_time": {
+  "$date": 1471883889000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/gemstone/gemfire/internal/offheap/FreeListManagerTest.java",
+ "test_time": {
+  "$date": 1471883889000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 41,
+ "add_classname_line": 1,
+ "add_condition_line": 17,
+ "add_field_line": 6,
+ "add_import_line": 5,
+ "add_packageid_line": 0,
+ "add_parameter_line": 15,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 22,
+ "del_classname_line": 2,
+ "del_condition_line": 11,
+ "del_field_line": 4,
+ "del_import_line": 6,
+ "del_packageid_line": 0,
+ "del_parameter_line": 11,
+ "del_return_line": 7
+}

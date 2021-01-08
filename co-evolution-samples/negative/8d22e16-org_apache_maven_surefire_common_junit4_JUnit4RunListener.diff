@@ -1,0 +1,24 @@
+diff --git a/surefire-providers/common-junit4/src/main/java/org/apache/maven/surefire/common/junit4/JUnit4RunListener.java b/surefire-providers/common-junit4/src/main/java/org/apache/maven/surefire/common/junit4/JUnit4RunListener.java
+index 023aa1ae..d3aa9a4e 100644
+--- a/surefire-providers/common-junit4/src/main/java/org/apache/maven/surefire/common/junit4/JUnit4RunListener.java
++++ b/surefire-providers/common-junit4/src/main/java/org/apache/maven/surefire/common/junit4/JUnit4RunListener.java
+@@ -33,6 +33,7 @@
+ 
+ import static org.apache.maven.surefire.common.junit4.JUnit4ProviderUtil.isFailureInsideJUnitItself;
+ import static org.apache.maven.surefire.common.junit4.JUnit4Reflector.getAnnotatedIgnoreValue;
++import static org.apache.maven.surefire.report.SimpleReportEntry.assumption;
+ import static org.apache.maven.surefire.report.SimpleReportEntry.ignored;
+ import static org.apache.maven.surefire.report.SimpleReportEntry.withException;
+ 
+@@ -126,8 +127,9 @@ public void testFailure( Failure failure )
+     @SuppressWarnings( { "UnusedDeclaration" } )
+     public void testAssumptionFailure( Failure failure )
+     {
+-        reporter.testAssumptionFailure( new SimpleReportEntry( getClassName( failure.getDescription() ) ,
+-              failure.getDescription().getDisplayName() , failure.getMessage() ) );
++        Description desc = failure.getDescription();
++        String test = getClassName( desc );
++        reporter.testAssumptionFailure( assumption( test, desc.getDisplayName(), failure.getMessage() ) );
+         failureFlag.set( true );
+     }
+ 

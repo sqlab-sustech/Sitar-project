@@ -1,0 +1,13 @@
+diff --git a/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/Top.java b/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/Top.java
+index 1f63808fc2..2e5e334b8a 100644
+--- a/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/Top.java
++++ b/sdk/src/main/java/com/google/cloud/dataflow/sdk/transforms/Top.java
+@@ -460,7 +460,7 @@ public class Top {
+           throws Exception {
+         listCoder.registerByteSizeObserver(value.asList(), observer, context);
+       }
+-    };
++    }
+   }
+ 
+   /**

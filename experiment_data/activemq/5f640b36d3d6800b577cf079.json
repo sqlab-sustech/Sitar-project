@@ -1,0 +1,37 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/thread/PooledTaskRunner.java",
+ "prod_sha1": "d8be50b617914487f3f84eeae2201ad684f1a7a4",
+ "repository": "activemq",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/thread/PooledTaskRunnerTest.java",
+ "test_sha1": "d8be50b617914487f3f84eeae2201ad684f1a7a4",
+ "commit_between": 0,
+ "prod_qual": "org/apache/activemq/thread/PooledTaskRunner.java",
+ "prod_time": {
+  "$date": 1209056627000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/activemq/thread/PooledTaskRunnerTest.java",
+ "test_time": {
+  "$date": 1209056627000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1
+}

@@ -1,0 +1,1 @@
+plc4x-build-tools CC 7a00a85d0a89cba5270545debe1190fa074a5fdd 7a00a85d0a89cba5270545debe1190fa074a5fdd plc4x-maven-plugin/src/main/java/org/apache/plc4x/plugins/codegenerator/GenerateMojo.java plc4x-maven-plugin/src/test/java/org/apache/plc4x/plugins/codegenerator/GenerateMojoTest.java

@@ -1,0 +1,12 @@
+diff --git a/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageRepository.java b/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageRepository.java
+index 2e4d5ea6..03f4da09 100644
+--- a/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageRepository.java
++++ b/rave-components/rave-mongodb/src/main/java/org/apache/rave/portal/repository/impl/MongoDbPageRepository.java
+@@ -28,6 +28,7 @@ import org.apache.rave.portal.model.impl.RegionWidgetImpl;
+ import org.apache.rave.portal.repository.MongoPageOperations;
+ import org.apache.rave.portal.repository.PageRepository;
+ import org.springframework.beans.factory.annotation.Autowired;
++import org.springframework.data.mongodb.core.MongoOperations;
+ import org.springframework.data.mongodb.core.query.Query;
+ import org.springframework.stereotype.Repository;
+ 

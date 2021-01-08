@@ -1,0 +1,37 @@
+{
+ "prod_path": "chop/amazon/src/main/java/org/apache/usergrid/chop/api/store/amazon/AmazonIpRuleManager.java",
+ "prod_sha1": "f6ef992d34e782607430646c2d3992f45f45fc52",
+ "repository": "usergrid",
+ "test_path": "chop/amazon/src/test/java/org/apache/usergrid/chop/api/store/amazon/AmazonIpRuleManagerTest.java",
+ "test_sha1": "f6ef992d34e782607430646c2d3992f45f45fc52",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/chop/api/store/amazon/AmazonIpRuleManager.java",
+ "prod_time": {
+  "$date": 1398951113000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/chop/api/store/amazon/AmazonIpRuleManagerTest.java",
+ "test_time": {
+  "$date": 1398951113000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 14,
+ "add_call_line": 68,
+ "add_classname_line": 1,
+ "add_condition_line": 15,
+ "add_field_line": 2,
+ "add_import_line": 23,
+ "add_packageid_line": 1,
+ "add_parameter_line": 19,
+ "add_return_line": 15,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/StreamArrayNode.java",
+ "prod_sha1": "b013bd86c7ea70ce097ee8aa3fb64a1ee2de650a",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/StreamArrayNodeTest.java",
+ "test_sha1": "b013bd86c7ea70ce097ee8aa3fb64a1ee2de650a",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/sopremo/StreamArrayNode.java",
+ "prod_time": {
+  "$date": 1312840844000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/sopremo/StreamArrayNodeTest.java",
+ "test_time": {
+  "$date": 1312840844000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 7,
+ "add_call_line": 7,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 33,
+ "add_return_line": 16,
+ "del_annotation_line": 7,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 17,
+ "del_return_line": 15
+}

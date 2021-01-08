@@ -1,0 +1,32 @@
+{
+ "prod_path": "engine/schema/src/com/cloud/upgrade/dao/DatabaseAccessObject.java",
+ "prod_sha1": "b2283d7a28c7b46a5d67effab3cb39952d76dc51",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/upgrade/dao/DatabaseAccessObject.java",
+ "prod_time": {
+  "$date": 1403523561000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "engine/schema/test/com/cloud/upgrade/dao/DatabaseAccessObjectTest.java",
+ "test_qual": "com/cloud/upgrade/dao/DatabaseAccessObjectTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 9,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

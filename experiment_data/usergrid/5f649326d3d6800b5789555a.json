@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/cassandra/DynamicCassandraConfig.java",
+ "prod_sha1": "726a24d07e663ca7aaf47cdc4683918a92c48e8a",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/cassandra/DynamicCassandraConfigTest.java",
+ "test_sha1": "726a24d07e663ca7aaf47cdc4683918a92c48e8a",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/persistence/collection/cassandra/DynamicCassandraConfig.java",
+ "prod_time": {
+  "$date": 1388775811000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/persistence/collection/cassandra/DynamicCassandraConfigTest.java",
+ "test_time": {
+  "$date": 1388775811000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 38,
+ "del_call_line": 88,
+ "del_classname_line": 3,
+ "del_condition_line": 5,
+ "del_field_line": 26,
+ "del_import_line": 11,
+ "del_packageid_line": 1,
+ "del_parameter_line": 41,
+ "del_return_line": 21
+}

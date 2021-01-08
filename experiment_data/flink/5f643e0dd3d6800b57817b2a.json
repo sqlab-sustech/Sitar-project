@@ -1,0 +1,32 @@
+{
+ "prod_path": "nephele/nephele-common/src/main/java/eu/stratosphere/nephele/types/StringRecord.java",
+ "prod_sha1": "c07e88f4c544342454dd16f7388283e1af532a4a",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/nephele/types/StringRecord.java",
+ "prod_time": {
+  "$date": 1313676523000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "nephele/nephele-common/src/test/java/eu/stratosphere/nephele/types/StringRecordTest.java",
+ "test_qual": "eu/stratosphere/nephele/types/StringRecordTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

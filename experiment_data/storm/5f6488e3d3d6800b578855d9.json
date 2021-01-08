@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-client/src/jvm/org/apache/storm/bolt/JoinBolt.java",
+ "prod_sha1": "e736c4b44e94723be4c1efc06e4e9d2e9bd0314a",
+ "repository": "storm",
+ "test_path": "storm-client/test/jvm/org/apache/storm/bolt/TestJoinBolt.java",
+ "test_sha1": "e736c4b44e94723be4c1efc06e4e9d2e9bd0314a",
+ "commit_between": 0,
+ "prod_qual": "jvm/org/apache/storm/bolt/JoinBolt.java",
+ "prod_time": {
+  "$date": 1537481851000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/org/apache/storm/bolt/TestJoinBolt.java",
+ "test_time": {
+  "$date": 1537481851000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 13,
+ "add_call_line": 46,
+ "add_classname_line": 2,
+ "add_condition_line": 36,
+ "add_field_line": 6,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 31,
+ "add_return_line": 22,
+ "del_annotation_line": 14,
+ "del_call_line": 35,
+ "del_classname_line": 4,
+ "del_condition_line": 12,
+ "del_field_line": 8,
+ "del_import_line": 2,
+ "del_packageid_line": 1,
+ "del_parameter_line": 30,
+ "del_return_line": 23
+}

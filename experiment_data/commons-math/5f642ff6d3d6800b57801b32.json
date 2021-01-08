@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/random/ValueServer.java",
+ "prod_sha1": "b03610041da61b1305b68654f499a65ec28a4b61",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/random/ValueServer.java",
+ "prod_time": {
+  "$date": 1090099068000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/random/ValueServerTest.java",
+ "test_qual": "org/apache/commons/math/random/ValueServerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

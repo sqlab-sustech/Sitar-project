@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/src/com/cloud/network/dao/NetworkDao.java",
+ "prod_sha1": "b55211d4da4fd755b7ddd1e240225c56b3ae82d7",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/network/dao/NetworkDao.java",
+ "prod_time": {
+  "$date": 1320694048000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/test/com/cloud/network/dao/NetworkDaoTest.java",
+ "test_qual": "com/cloud/network/dao/NetworkDaoTest.java",
+ "add_annotation_line": 2,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 13,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

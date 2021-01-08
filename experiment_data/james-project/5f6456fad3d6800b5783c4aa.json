@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/api/src/main/java/org/apache/james/mailbox/model/MailboxPath.java",
+ "prod_sha1": "8a1c4c7f66f8193804fa10ce14acc220dfa8ed98",
+ "repository": "james-project",
+ "test_path": "mailbox/api/src/test/java/org/apache/james/mailbox/model/MailboxPathTest.java",
+ "test_sha1": "f15ff20bc732d7d11e41cb7f2d9a6f4a09d3109c",
+ "commit_between": 11,
+ "prod_qual": "org/apache/james/mailbox/model/MailboxPath.java",
+ "prod_time": {
+  "$date": 1506914501000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/model/MailboxPathTest.java",
+ "test_time": {
+  "$date": 1506917687000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 8,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 3,
+ "del_annotation_line": 1,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 12,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 8
+}

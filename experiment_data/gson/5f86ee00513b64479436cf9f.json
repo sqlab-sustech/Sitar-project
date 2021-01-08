@@ -1,0 +1,37 @@
+{
+ "prod_path": "gson/src/main/java/com/google/gson/internal/LazilyParsedNumber.java",
+ "prod_sha1": "3361030766593c0b05e17dace401cce6fcdf9e24",
+ "repository": "gson",
+ "test_path": "gson/src/test/java/com/google/gson/internal/LazilyParsedNumberTest.java",
+ "test_sha1": "3361030766593c0b05e17dace401cce6fcdf9e24",
+ "commit_between": 0,
+ "prod_qual": "com/google/gson/internal/LazilyParsedNumber.java",
+ "prod_time": {
+  "$date": 1443389104000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/internal/LazilyParsedNumberTest.java",
+ "test_time": {
+  "$date": 1443389104000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 2,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

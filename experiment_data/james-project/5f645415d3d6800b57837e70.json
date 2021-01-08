@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/event/event-memory/src/main/java/org/apache/james/mailbox/events/delivery/InVmEventDelivery.java",
+ "prod_sha1": "cf996f1afce58a98b9a32bc5fc365e9112b9364f",
+ "repository": "james-project",
+ "test_path": "mailbox/event/event-memory/src/test/java/org/apache/james/mailbox/events/delivery/InVmEventDeliveryTest.java",
+ "test_sha1": "cf996f1afce58a98b9a32bc5fc365e9112b9364f",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/events/delivery/InVmEventDelivery.java",
+ "prod_time": {
+  "$date": 1547633596000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/events/delivery/InVmEventDeliveryTest.java",
+ "test_time": {
+  "$date": 1547633596000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 2
+}

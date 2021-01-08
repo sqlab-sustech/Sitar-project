@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava-core/src/main/java/org/biojava/nbio/core/sequence/io/GenbankReader.java",
+ "prod_sha1": "c77515e2db565f0737950fd496f64015c35c65ce",
+ "repository": "biojava",
+ "test_path": "biojava-core/src/test/java/org/biojava/nbio/core/sequence/io/GenbankReaderTest.java",
+ "test_sha1": "7601f17d3499d4e84fbb9119a31f8b37543b69d5",
+ "commit_between": 1,
+ "prod_qual": "org/biojava/nbio/core/sequence/io/GenbankReader.java",
+ "prod_time": {
+  "$date": 1550597433000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/nbio/core/sequence/io/GenbankReaderTest.java",
+ "test_time": {
+  "$date": 1550597836000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 7,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

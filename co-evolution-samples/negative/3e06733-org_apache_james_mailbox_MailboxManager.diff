@@ -1,0 +1,13 @@
+diff --git a/mailbox/api/src/main/java/org/apache/james/mailbox/MailboxManager.java b/mailbox/api/src/main/java/org/apache/james/mailbox/MailboxManager.java
+index 1b7afcd86..6dc133552 100644
+--- a/mailbox/api/src/main/java/org/apache/james/mailbox/MailboxManager.java
++++ b/mailbox/api/src/main/java/org/apache/james/mailbox/MailboxManager.java
+@@ -198,6 +198,8 @@ public interface MailboxManager extends RequestAware, MailboxListenerSupport {
+      */
+     List<MessageRange> copyMessages(MessageRange set, MailboxPath from, MailboxPath to, MailboxSession session) throws MailboxException;
+ 
++    List<MessageRange> copyMessages(MessageRange set, MailboxId from, MailboxId to, MailboxSession session) throws MailboxException;
++    
+     /**
+      * Move the given {@link MessageRange} from one Mailbox to the other. 
+      * 

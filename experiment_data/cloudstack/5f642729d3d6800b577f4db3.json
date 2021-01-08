@@ -1,0 +1,32 @@
+{
+ "prod_path": "plugins/network-elements/nuage-vsp/src/com/cloud/network/element/NuageVspElement.java",
+ "prod_sha1": "31a42d2b7a5a9d3dbf10dc680d7e8877ed4e40c6",
+ "repository": "cloudstack",
+ "prod_qual": "com/cloud/network/element/NuageVspElement.java",
+ "prod_time": {
+  "$date": 1412835169000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "plugins/network-elements/nuage-vsp/test/com/cloud/network/element/NuageVspElementTest.java",
+ "test_qual": "com/cloud/network/element/NuageVspElementTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/store/src/test/java/org/apache/james/mailbox/store/mail/model/ListMessageAssert.java",
+ "prod_sha1": "1ccb1eca78ae2c20d4c2b3ed9d984ec54de40b14",
+ "repository": "james-project",
+ "test_path": "mailbox/store/src/test/java/org/apache/james/mailbox/store/mail/model/ListMessageAssertTest.java",
+ "test_sha1": "1ccb1eca78ae2c20d4c2b3ed9d984ec54de40b14",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/store/mail/model/ListMessageAssert.java",
+ "prod_time": {
+  "$date": 1481095003000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/store/mail/model/ListMessageAssertTest.java",
+ "test_time": {
+  "$date": 1481095003000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 23,
+ "add_classname_line": 2,
+ "add_condition_line": 1,
+ "add_field_line": 9,
+ "add_import_line": 13,
+ "add_packageid_line": 1,
+ "add_parameter_line": 17,
+ "add_return_line": 32,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

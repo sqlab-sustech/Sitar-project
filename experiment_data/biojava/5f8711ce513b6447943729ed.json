@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-structure/src/main/java/org/biojava/bio/structure/cath/CathDomain.java",
+ "prod_sha1": "0d3b2f96fdfb337f419958b4b7acf9c53d6a4a98",
+ "repository": "biojava",
+ "test_path": "biojava3-structure/src/test/java/org/biojava/bio/structure/cath/CathDomainTest.java",
+ "test_sha1": "0d3b2f96fdfb337f419958b4b7acf9c53d6a4a98",
+ "commit_between": 0,
+ "prod_qual": "org/biojava/bio/structure/cath/CathDomain.java",
+ "prod_time": {
+  "$date": 1390936676000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava/bio/structure/cath/CathDomainTest.java",
+ "test_time": {
+  "$date": 1390936676000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 4,
+ "add_call_line": 9,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

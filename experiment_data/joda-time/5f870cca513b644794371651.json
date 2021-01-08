@@ -1,0 +1,37 @@
+{
+ "prod_path": "JodaTime/src/java/org/joda/time/DateTimeUtils.java",
+ "prod_sha1": "7eadd1a45e96f15594dcf734cb9af26e2af508fa",
+ "repository": "joda-time",
+ "test_path": "JodaTime/src/test/org/joda/time/TestDateTimeUtils.java",
+ "test_sha1": "86c8fac47af66ebccdcfd81c88a9ee08a635f10c",
+ "commit_between": 1,
+ "prod_qual": "org/joda/time/DateTimeUtils.java",
+ "prod_time": {
+  "$date": 1092696803000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/joda/time/TestDateTimeUtils.java",
+ "test_time": {
+  "$date": 1092696872000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 7,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 4
+}

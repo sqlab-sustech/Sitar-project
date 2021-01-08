@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-eclipse-pmd/src/net/sourceforge/pmd/core/ext/RuleSetsExtensionProcessor.java",
+ "prod_sha1": "67a31dfb276022a9500197f7f0a7b3ff8b7477b4",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/core/ext/RuleSetsExtensionProcessor.java",
+ "prod_time": {
+  "$date": 1120314785000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-eclipse-test/test/test/net/sourceforge/pmd/core/ext/RuleSetsExtensionProcessorTest.java",
+ "test_qual": "net/sourceforge/pmd/core/ext/RuleSetsExtensionProcessorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 8,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 3,
+ "add_import_line": 9,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

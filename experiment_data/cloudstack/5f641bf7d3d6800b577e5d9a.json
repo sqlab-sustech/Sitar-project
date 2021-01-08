@@ -1,0 +1,37 @@
+{
+ "prod_path": "plugins/alert-handlers/syslog-alerts/src/org/apache/cloudstack/syslog/AlertsSyslogAppender.java",
+ "prod_sha1": "6a7156ad9af6ca173c0b685d69d5724d91d0a401",
+ "repository": "cloudstack",
+ "test_path": "plugins/alert-handlers/syslog-alerts/test/org/apache/cloudstack/syslog/AlertsSyslogAppenderTest.java",
+ "test_sha1": "6a7156ad9af6ca173c0b685d69d5724d91d0a401",
+ "commit_between": 0,
+ "prod_qual": "org/apache/cloudstack/syslog/AlertsSyslogAppender.java",
+ "prod_time": {
+  "$date": 1362559307000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/cloudstack/syslog/AlertsSyslogAppenderTest.java",
+ "test_time": {
+  "$date": 1362559307000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 3,
+ "add_call_line": 94,
+ "add_classname_line": 1,
+ "add_condition_line": 36,
+ "add_field_line": 17,
+ "add_import_line": 12,
+ "add_packageid_line": 1,
+ "add_parameter_line": 22,
+ "add_return_line": 23,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

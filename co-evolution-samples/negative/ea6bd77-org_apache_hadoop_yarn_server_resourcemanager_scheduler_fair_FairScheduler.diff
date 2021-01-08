@@ -1,0 +1,21 @@
+diff --git a/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fair/FairScheduler.java b/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fair/FairScheduler.java
+index a852d7b924..a27a86d307 100644
+--- a/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fair/FairScheduler.java
++++ b/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/src/main/java/org/apache/hadoop/yarn/server/resourcemanager/scheduler/fair/FairScheduler.java
+@@ -1046,10 +1046,12 @@ private synchronized void attemptScheduling(FSSchedulerNode node) {
+         reservedAppSchedulable = null;
+       } else {
+         // Reservation exists; try to fulfill the reservation
+-        LOG.info("Trying to fulfill reservation for application "
+-            + reservedAppSchedulable.getApp().getApplicationAttemptId()
+-            + " on node: " + node);
+-
++        if (LOG.isDebugEnabled()) {
++          LOG.debug("Trying to fulfill reservation for application "
++              + reservedAppSchedulable.getApp().getApplicationAttemptId()
++              + " on node: " + node);
++        }
++        
+         node.getReservedAppSchedulable().assignReservedContainer(node);
+       }
+     }

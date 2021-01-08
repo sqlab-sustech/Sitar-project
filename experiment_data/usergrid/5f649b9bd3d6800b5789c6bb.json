@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/core/src/main/java/org/apache/usergrid/corepersistence/index/IndexService.java",
+ "prod_sha1": "9c9fb27ce02e12f7ee8753bcbff076c2443f689f",
+ "repository": "usergrid",
+ "test_path": "stack/core/src/test/java/org/apache/usergrid/corepersistence/index/IndexServiceTest.java",
+ "test_sha1": "9c9fb27ce02e12f7ee8753bcbff076c2443f689f",
+ "commit_between": 0,
+ "prod_qual": "org/apache/usergrid/corepersistence/index/IndexService.java",
+ "prod_time": {
+  "$date": 1432816272000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/usergrid/corepersistence/index/IndexServiceTest.java",
+ "test_time": {
+  "$date": 1432816272000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

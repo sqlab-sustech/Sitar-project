@@ -1,0 +1,1 @@
+karaf-reactive-components CC 981f9a4a47eb58e9d3cde1827f7731f7c5eaa8b8 981f9a4a47eb58e9d3cde1827f7731f7c5eaa8b8 rcomp-camel/src/main/java/org/apache/karaf/rcomp/camel/CamelComponent.java rcomp-camel/src/test/java/org/apache/karaf/rcomp/camel/CamelComponentTest.java

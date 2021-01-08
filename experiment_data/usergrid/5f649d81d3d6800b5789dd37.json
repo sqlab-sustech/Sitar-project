@@ -1,0 +1,37 @@
+{
+ "prod_path": "stack/corepersistence/queue/src/main/java/org/apache/usergrid/persistence/qakka/distributed/actors/ShardAllocator.java",
+ "prod_sha1": "5d37ed58d8649e9498e8a0fe7fe858f52762978c",
+ "repository": "usergrid",
+ "test_path": "stack/corepersistence/queue/src/test/java/org/apache/usergrid/persistence/qakka/distributed/actors/ShardAllocatorTest.java",
+ "test_sha1": "63561ee03d078f738e1dba33a26555b7cbd27064",
+ "commit_between": 2,
+ "prod_qual": "org/apache/usergrid/persistence/qakka/distributed/actors/ShardAllocator.java",
+ "prod_time": {
+  "$date": 1476121913000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_qual": "org/apache/usergrid/persistence/qakka/distributed/actors/ShardAllocatorTest.java",
+ "test_time": {
+  "$date": 1476131716000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0
+}

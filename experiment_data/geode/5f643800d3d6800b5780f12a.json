@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-junit/src/main/java/com/gemstone/gemfire/test/junit/rules/RuleList.java",
+ "prod_sha1": "5342935d301a4026b289637885e9236414feeb78",
+ "repository": "geode",
+ "test_path": "geode-junit/src/test/java/com/gemstone/gemfire/test/junit/rules/RuleListTest.java",
+ "test_sha1": "5342935d301a4026b289637885e9236414feeb78",
+ "commit_between": 0,
+ "prod_qual": "junit/rules/RuleList.java",
+ "prod_time": {
+  "$date": 1456779971000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "junit/rules/RuleListTest.java",
+ "test_time": {
+  "$date": 1456779971000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 4,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 6,
+ "add_packageid_line": 1,
+ "add_parameter_line": 6,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

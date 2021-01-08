@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/CommandLineOptions.java",
+ "prod_sha1": "d67170110de4d6187c18133b2d58f39afc3fc3e0",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/CommandLineOptionsTest.java",
+ "test_sha1": "d67170110de4d6187c18133b2d58f39afc3fc3e0",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/CommandLineOptions.java",
+ "prod_time": {
+  "$date": 1111869032000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/CommandLineOptionsTest.java",
+ "test_time": {
+  "$date": 1111869032000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 3
+}

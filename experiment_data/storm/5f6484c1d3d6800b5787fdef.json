@@ -1,0 +1,37 @@
+{
+ "prod_path": "external/storm-kafka-client/src/main/java/org/apache/storm/kafka/spout/KafkaSpoutConfig.java",
+ "prod_sha1": "782c4bf7debb2475e41e6771ef6088ebb1a2d9a9",
+ "repository": "storm",
+ "test_path": "external/storm-kafka-client/src/test/java/org/apache/storm/kafka/spout/KafkaSpoutConfigTest.java",
+ "test_sha1": "782c4bf7debb2475e41e6771ef6088ebb1a2d9a9",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/kafka/spout/KafkaSpoutConfig.java",
+ "prod_time": {
+  "$date": 1500395854000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/kafka/spout/KafkaSpoutConfigTest.java",
+ "test_time": {
+  "$date": 1500395854000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 18,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 12,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 10,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 17,
+ "del_classname_line": 0,
+ "del_condition_line": 2,
+ "del_field_line": 6,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 19,
+ "del_return_line": 15
+}

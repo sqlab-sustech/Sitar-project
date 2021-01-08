@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/stat/univariate/moment/Mean.java",
+ "prod_sha1": "3f3c1b46ed5a5200603fea876341173186381342",
+ "repository": "commons-math",
+ "prod_qual": "org/apache/commons/math/stat/univariate/moment/Mean.java",
+ "prod_time": {
+  "$date": 1088776789000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/org/apache/commons/math/stat/univariate/moment/MeanTest.java",
+ "test_qual": "org/apache/commons/math/stat/univariate/moment/MeanTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

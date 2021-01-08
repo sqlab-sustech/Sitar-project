@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-flume-ng/src/main/java/org/apache/logging/log4j/flume/appender/FlumeAppender.java",
+ "prod_sha1": "155dfc739211f3262fc089c56da939393b4ed80b",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-flume-ng/src/test/java/org/apache/logging/log4j/flume/appender/FlumeAppenderTest.java",
+ "test_sha1": "155dfc739211f3262fc089c56da939393b4ed80b",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/flume/appender/FlumeAppender.java",
+ "prod_time": {
+  "$date": 1434554476000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/flume/appender/FlumeAppenderTest.java",
+ "test_time": {
+  "$date": 1434554476000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

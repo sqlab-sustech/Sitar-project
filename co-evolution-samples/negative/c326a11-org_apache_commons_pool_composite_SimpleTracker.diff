@@ -1,0 +1,13 @@
+diff --git a/src/java/org/apache/commons/pool/composite/SimpleTracker.java b/src/java/org/apache/commons/pool/composite/SimpleTracker.java
+index 0f5b2d6c..69e8d736 100644
+--- a/src/java/org/apache/commons/pool/composite/SimpleTracker.java
++++ b/src/java/org/apache/commons/pool/composite/SimpleTracker.java
+@@ -26,7 +26,7 @@ import java.io.Serializable;
+  * @see TrackingPolicy#SIMPLE
+  * @author Sandy McArthur
+  * @version $Revision$ $Date$
+- * @since #.#
++ * @since Pool 2.0
+  */
+ final class SimpleTracker implements Tracker, Serializable {
+ 

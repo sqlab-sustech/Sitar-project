@@ -1,0 +1,24 @@
+diff --git a/maven-assembly-plugin/src/main/java/org/apache/maven/plugin/assembly/archive/phase/FileItemAssemblyPhase.java b/maven-assembly-plugin/src/main/java/org/apache/maven/plugin/assembly/archive/phase/FileItemAssemblyPhase.java
+index de63eef47..b767a019f 100644
+--- a/maven-assembly-plugin/src/main/java/org/apache/maven/plugin/assembly/archive/phase/FileItemAssemblyPhase.java
++++ b/maven-assembly-plugin/src/main/java/org/apache/maven/plugin/assembly/archive/phase/FileItemAssemblyPhase.java
+@@ -60,7 +60,7 @@ public class FileItemAssemblyPhase
+             }
+ 
+             String outputDirectory = AssemblyFormatUtils.getOutputDirectory( fileItem.getOutputDirectory(),
+-                configSource.getProject(), configSource.getFinalName(), assembly.isIncludeBaseDirectory() );
++                configSource.getProject(), configSource.getFinalName() );
+ 
+             String target;
+ 
+@@ -69,6 +69,10 @@ public class FileItemAssemblyPhase
+             {
+                 target = outputDirectory + destName;
+             }
++            else if ( outputDirectory.length() < 1 )
++            {
++                target = destName;
++            }
+             else
+             {
+                 target = outputDirectory + "/" + destName;

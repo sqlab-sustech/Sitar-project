@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-streams/src/main/java/org/apache/logging/log4j/streams/LoggerPrintWriter.java",
+ "prod_sha1": "30ef44b5ce4cc30f9c8361411616d2ed7738f2f3",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-streams/src/test/java/org/apache/logging/log4j/streams/LoggerPrintWriterTest.java",
+ "test_sha1": "30ef44b5ce4cc30f9c8361411616d2ed7738f2f3",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/streams/LoggerPrintWriter.java",
+ "prod_time": {
+  "$date": 1409667100000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/streams/LoggerPrintWriterTest.java",
+ "test_time": {
+  "$date": 1409667100000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 5,
+ "add_call_line": 25,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 31,
+ "add_return_line": 9,
+ "del_annotation_line": 10,
+ "del_call_line": 17,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 18,
+ "del_return_line": 0
+}

@@ -1,0 +1,2 @@
+usergrid-qakka CC 873f9093215052cd33111bc8462744f694ea5b36 873f9093215052cd33111bc8462744f694ea5b36 src/main/java/org/apache/usergrid/persistence/qakka/api/QueueResource.java src/test/java/org/apache/usergrid/persistence/qakka/api/QueueResourceTest.java
+usergrid-qakka EE 6dd6738c9bfbf57bea966b4a812b90db239dcfae 6dd6738c9bfbf57bea966b4a812b90db239dcfae src/main/java/org/apache/usergrid/persistence/qakka/api/QueueResource.java src/test/java/org/apache/usergrid/persistence/qakka/api/QueueResourceTest.java

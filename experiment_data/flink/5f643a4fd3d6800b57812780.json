@@ -1,0 +1,37 @@
+{
+ "prod_path": "sopremo/sopremo-relational/src/main/java/eu/stratosphere/sopremo/base/Intersection.java",
+ "prod_sha1": "a6f76e576d9631202b543960edd5630c90d8c56e",
+ "repository": "flink",
+ "test_path": "sopremo/sopremo-relational/src/test/java/eu/stratosphere/sopremo/base/IntersectionTest.java",
+ "test_sha1": "a6f76e576d9631202b543960edd5630c90d8c56e",
+ "commit_between": 0,
+ "prod_qual": "eu/stratosphere/sopremo/base/Intersection.java",
+ "prod_time": {
+  "$date": 1311484137000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "eu/stratosphere/sopremo/base/IntersectionTest.java",
+ "test_time": {
+  "$date": 1311484137000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 2,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

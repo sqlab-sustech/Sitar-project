@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/core/src/main/java/org/usergrid/persistence/query/ir/result/UnionIterator.java",
+ "prod_sha1": "0c0f20b7c04888c4de79e1fc4924ba3b2d7cc1f0",
+ "repository": "usergrid",
+ "prod_qual": "org/usergrid/persistence/query/ir/result/UnionIterator.java",
+ "prod_time": {
+  "$date": 1383351820000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/core/src/test/java/org/usergrid/persistence/query/ir/result/UnionIteratorTest.java",
+ "test_qual": "org/usergrid/persistence/query/ir/result/UnionIteratorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

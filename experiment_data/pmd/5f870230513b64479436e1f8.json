@@ -1,0 +1,37 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/rules/design/OnlyOneReturnRule.java",
+ "prod_sha1": "d4db34973f3ef563467bf2207c119b96b5a7a0a9",
+ "repository": "pmd",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/rules/design/OnlyOneReturnRuleTest.java",
+ "test_sha1": "d4db34973f3ef563467bf2207c119b96b5a7a0a9",
+ "commit_between": 0,
+ "prod_qual": "net/sourceforge/pmd/rules/design/OnlyOneReturnRule.java",
+ "prod_time": {
+  "$date": 1033051864000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "net/sourceforge/pmd/rules/design/OnlyOneReturnRuleTest.java",
+ "test_time": {
+  "$date": 1033051864000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 1,
+ "add_condition_line": 7,
+ "add_field_line": 0,
+ "add_import_line": 6,
+ "add_packageid_line": 1,
+ "add_parameter_line": 3,
+ "add_return_line": 3,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "pig/src/main/java/org/apache/zeppelin/pig/PigInterpreter.java",
+ "prod_sha1": "7691b7f09c6a2bd59f310656771d7cb7916a5a94",
+ "repository": "zeppelin",
+ "test_path": "pig/src/test/java/org/apache/zeppelin/pig/PigInterpreterTest.java",
+ "test_sha1": "7691b7f09c6a2bd59f310656771d7cb7916a5a94",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/pig/PigInterpreter.java",
+ "prod_time": {
+  "$date": 1518005718000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/pig/PigInterpreterTest.java",
+ "test_time": {
+  "$date": 1518005718000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

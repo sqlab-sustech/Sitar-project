@@ -1,0 +1,13 @@
+diff --git a/src/java/org/apache/commons/pool/impl/StackKeyedObjectPool.java b/src/java/org/apache/commons/pool/impl/StackKeyedObjectPool.java
+index 07a859c1..48e414ac 100644
+--- a/src/java/org/apache/commons/pool/impl/StackKeyedObjectPool.java
++++ b/src/java/org/apache/commons/pool/impl/StackKeyedObjectPool.java
+@@ -417,7 +417,7 @@ public class StackKeyedObjectPool<K,V> extends BaseKeyedObjectPool<K,V> implemen
+      */
+     private int getActiveCount(K key) {
+         try {
+-            return _activeCount.get(key);
++            return _activeCount.get(key).intValue();
+         } catch(NoSuchElementException e) {
+             return 0;
+         } catch(NullPointerException e) {

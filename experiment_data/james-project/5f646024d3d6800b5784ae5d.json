@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/container/guice/blob-objectstorage-guice/src/main/java/org/apache/james/modules/objectstorage/ObjectStorageBlobsDAOProvider.java",
+ "prod_sha1": "d9978da2f2699f5654cf99ed9c7d7eb71f603124",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/modules/objectstorage/ObjectStorageBlobsDAOProvider.java",
+ "prod_time": {
+  "$date": 1541674671000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/container/guice/blob-objectstorage-guice/src/test/java/org/apache/james/modules/objectstorage/ObjectStorageBlobsDAOProviderTest.java",
+ "test_qual": "org/apache/james/modules/objectstorage/ObjectStorageBlobsDAOProviderTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 9,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

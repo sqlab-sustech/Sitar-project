@@ -1,0 +1,37 @@
+{
+ "prod_path": "external/flux/flux-core/src/main/java/org/apache/storm/flux/FluxBuilder.java",
+ "prod_sha1": "e8c08927eb7227cc716a54f99d8f90d1b0c3f1f2",
+ "repository": "storm",
+ "test_path": "external/flux/flux-core/src/test/java/org/apache/storm/flux/FluxBuilderTest.java",
+ "test_sha1": "e8c08927eb7227cc716a54f99d8f90d1b0c3f1f2",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/flux/FluxBuilder.java",
+ "prod_time": {
+  "$date": 1452133001000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/flux/FluxBuilderTest.java",
+ "test_time": {
+  "$date": 1452133001000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 204,
+ "add_classname_line": 1,
+ "add_condition_line": 69,
+ "add_field_line": 1,
+ "add_import_line": 12,
+ "add_packageid_line": 1,
+ "add_parameter_line": 23,
+ "add_return_line": 21,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

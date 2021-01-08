@@ -1,0 +1,2 @@
+brooklyn-docs CC 44e812ba782f613f3df28220c82b6831b1ecc19a 44e812ba782f613f3df28220c82b6831b1ecc19a guide/java/gist_generator/GistGenerator.java guide/java/gist_generator/GistGeneratorTest.java
+brooklyn-docs CC 5676dda502edafa72b10b8dbca01e9ef0656d9f1 5676dda502edafa72b10b8dbca01e9ef0656d9f1 guide/java/gist_generator/GistGenerator.java guide/java/gist_generator/GistGeneratorTest.java

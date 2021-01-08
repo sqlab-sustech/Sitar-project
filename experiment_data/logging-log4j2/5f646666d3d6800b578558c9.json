@@ -1,0 +1,32 @@
+{
+ "prod_path": "log4j-core/src/main/java/org/apache/logging/log4j/core/appender/mom/kafka/KafkaAppender.java",
+ "prod_sha1": "78fe32c0d4643e6692bbcdc3ed754be90f647183",
+ "repository": "logging-log4j2",
+ "prod_qual": "org/apache/logging/log4j/core/appender/mom/kafka/KafkaAppender.java",
+ "prod_time": {
+  "$date": 1473269862000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "log4j-core/src/test/java/org/apache/logging/log4j/core/appender/mom/kafka/KafkaAppenderTest.java",
+ "test_qual": "org/apache/logging/log4j/core/appender/mom/kafka/KafkaAppenderTest.java",
+ "add_annotation_line": 13,
+ "add_call_line": 23,
+ "add_classname_line": 1,
+ "add_condition_line": 3,
+ "add_field_line": 1,
+ "add_import_line": 20,
+ "add_packageid_line": 1,
+ "add_parameter_line": 13,
+ "add_return_line": 7,
+ "del_annotation_line": 13,
+ "del_call_line": 23,
+ "del_classname_line": 1,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 20,
+ "del_packageid_line": 1,
+ "del_parameter_line": 13,
+ "del_return_line": 7,
+ "test_typ": "Non"
+}

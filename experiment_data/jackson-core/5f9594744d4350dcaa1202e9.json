@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/util/DefaultPrettyPrinter.java",
+ "prod_sha1": "faf688e196cb7d0655527bc5c83dfe3cd12e6f43",
+ "repository": "jackson-core",
+ "prod_qual": "com/fasterxml/jackson/core/util/DefaultPrettyPrinter.java",
+ "prod_time": {
+  "$date": 1508463608000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/util/TestDefaultPrettyPrinter.java",
+ "test_qual": "com/fasterxml/jackson/core/util/TestDefaultPrettyPrinter.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 2,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 3,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

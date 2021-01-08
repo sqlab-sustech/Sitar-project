@@ -1,0 +1,23 @@
+diff --git a/ql/src/java/org/apache/hadoop/hive/ql/metadata/Partition.java b/ql/src/java/org/apache/hadoop/hive/ql/metadata/Partition.java
+index 052aefe9d3..d0ff67e97b 100644
+--- a/ql/src/java/org/apache/hadoop/hive/ql/metadata/Partition.java
++++ b/ql/src/java/org/apache/hadoop/hive/ql/metadata/Partition.java
+@@ -525,7 +525,7 @@ public void setLocation(String location) {
+    * @throws HiveException
+    *           Thrown if we could not create the partition.
+    */
+-  public void setValues(Map<String, String> partSpec) 
++  public void setValues(Map<String, String> partSpec)
+       throws HiveException {
+     List<String> pvals = new ArrayList<String>();
+     for (FieldSchema field : table.getPartCols()) {
+@@ -584,7 +584,8 @@ public boolean isOffline(){
+    */
+   public boolean canDrop() {
+     ProtectMode mode = getProtectMode();
+-    return (!mode.noDrop && !mode.offline && !mode.readOnly);
++    ProtectMode parentMode = table.getProtectMode();
++    return (!mode.noDrop && !mode.offline && !mode.readOnly && !parentMode.noDropCascade);
+   }
+ 
+   /**

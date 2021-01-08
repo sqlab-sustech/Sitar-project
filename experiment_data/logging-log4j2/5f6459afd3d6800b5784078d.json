@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-taglib/src/main/java/org/apache/logging/log4j/taglib/NoticeTag.java",
+ "prod_sha1": "2c84e074d3c3f5ff4aba12df2c2e29a45dee2f6a",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-taglib/src/test/java/org/apache/logging/log4j/taglib/NoticeTagTest.java",
+ "test_sha1": "2c84e074d3c3f5ff4aba12df2c2e29a45dee2f6a",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/taglib/NoticeTag.java",
+ "prod_time": {
+  "$date": 1390461907000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/taglib/NoticeTagTest.java",
+ "test_time": {
+  "$date": 1390461907000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 1,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

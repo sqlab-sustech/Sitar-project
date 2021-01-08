@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd/src/net/sourceforge/pmd/ast/ASTPrimarySuffix.java",
+ "prod_sha1": "da0839d4f623d4be72bd79857b67181e706d386c",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/ast/ASTPrimarySuffix.java",
+ "prod_time": {
+  "$date": 1125693687000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd/regress/test/net/sourceforge/pmd/ast/ASTPrimarySuffixTest.java",
+ "test_qual": "net/sourceforge/pmd/ast/ASTPrimarySuffixTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

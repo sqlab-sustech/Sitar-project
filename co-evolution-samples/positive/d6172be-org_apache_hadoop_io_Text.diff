@@ -1,0 +1,44 @@
+diff --git a/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/Text.java b/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/Text.java
+index e4490f1e34..3dc507687f 100644
+--- a/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/Text.java
++++ b/hadoop-common-project/hadoop-common/src/main/java/org/apache/hadoop/io/Text.java
+@@ -288,9 +288,7 @@ public String toString() {
+   @Override
+   public void readFields(DataInput in) throws IOException {
+     int newLength = WritableUtils.readVInt(in);
+-    setCapacity(newLength, false);
+-    in.readFully(bytes, 0, newLength);
+-    length = newLength;
++    readWithKnownLength(in, newLength);
+   }
+   
+   public void readFields(DataInput in, int maxLength) throws IOException {
+@@ -302,9 +300,7 @@ public void readFields(DataInput in, int maxLength) throws IOException {
+       throw new IOException("tried to deserialize " + newLength +
+           " bytes of data, but maxLength = " + maxLength);
+     }
+-    setCapacity(newLength, false);
+-    in.readFully(bytes, 0, newLength);
+-    length = newLength;
++    readWithKnownLength(in, newLength);
+   }
+ 
+   /** Skips over one Text in the input. */
+@@ -313,6 +309,17 @@ public static void skip(DataInput in) throws IOException {
+     WritableUtils.skipFully(in, length);
+   }
+ 
++  /**
++   * Read a Text object whose length is already known.
++   * This allows creating Text from a stream which uses a different serialization
++   * format.
++   */
++  public void readWithKnownLength(DataInput in, int len) throws IOException {
++    setCapacity(len, false);
++    in.readFully(bytes, 0, len);
++    length = len;
++  }
++
+   /** serialize
+    * write this object to out
+    * length uses zero-compressed encoding

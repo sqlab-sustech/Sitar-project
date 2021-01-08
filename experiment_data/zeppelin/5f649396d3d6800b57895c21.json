@@ -1,0 +1,37 @@
+{
+ "prod_path": "elasticsearch/src/main/java/org/apache/zeppelin/elasticsearch/ElasticsearchInterpreter.java",
+ "prod_sha1": "b335caed34e2d874c2e7a2efd103042db3ea5863",
+ "repository": "zeppelin",
+ "test_path": "elasticsearch/src/test/java/org/apache/zeppelin/elasticsearch/ElasticsearchInterpreterTest.java",
+ "test_sha1": "b335caed34e2d874c2e7a2efd103042db3ea5863",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/elasticsearch/ElasticsearchInterpreter.java",
+ "prod_time": {
+  "$date": 1518264418000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/elasticsearch/ElasticsearchInterpreterTest.java",
+ "test_time": {
+  "$date": 1518264418000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 0,
+ "add_import_line": 16,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 3,
+ "del_call_line": 15,
+ "del_classname_line": 1,
+ "del_condition_line": 2,
+ "del_field_line": 1,
+ "del_import_line": 16,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 5
+}

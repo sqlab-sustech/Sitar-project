@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/store/src/main/java/org/apache/james/mailbox/store/MessageBatcher.java",
+ "prod_sha1": "0e3ffde315a977a4769d0c69a76743918da502f1",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/store/MessageBatcher.java",
+ "prod_time": {
+  "$date": 1543481895000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/store/src/test/java/org/apache/james/mailbox/store/MessageBatcherTest.java",
+ "test_qual": "org/apache/james/mailbox/store/MessageBatcherTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 5,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

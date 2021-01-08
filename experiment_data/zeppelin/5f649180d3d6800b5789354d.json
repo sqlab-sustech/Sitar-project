@@ -1,0 +1,37 @@
+{
+ "prod_path": "zeppelin-interpreter/src/main/java/org/apache/zeppelin/display/AngularObjectRegistry.java",
+ "prod_sha1": "201ce8dee7bfcdb4503ec1761cf666670138f14f",
+ "repository": "zeppelin",
+ "test_path": "zeppelin-interpreter/src/test/java/org/apache/zeppelin/display/AngularObjectRegistryTest.java",
+ "test_sha1": "201ce8dee7bfcdb4503ec1761cf666670138f14f",
+ "commit_between": 0,
+ "prod_qual": "org/apache/zeppelin/display/AngularObjectRegistry.java",
+ "prod_time": {
+  "$date": 1436131601000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/zeppelin/display/AngularObjectRegistryTest.java",
+ "test_time": {
+  "$date": 1436131601000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 22,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 3,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 11,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1
+}

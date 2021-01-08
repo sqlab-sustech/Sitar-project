@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/container/guice/guice-common/src/main/java/org/apache/james/GuiceJamesServer.java",
+ "prod_sha1": "1091636363280d7f881cb3961982f92e8b60d511",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/GuiceJamesServer.java",
+ "prod_time": {
+  "$date": 1534152092000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/container/guice/memory-guice/src/test/java/org/apache/james/GuiceJamesServerTest.java",
+ "test_qual": "org/apache/james/GuiceJamesServerTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 10,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

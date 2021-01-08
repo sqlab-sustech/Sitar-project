@@ -1,0 +1,32 @@
+{
+ "prod_path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/quota/CassandraCurrentQuotaManager.java",
+ "prod_sha1": "afe02d9d245131bd969b8ac5831dc5dc5a57085b",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/mailbox/cassandra/quota/CassandraCurrentQuotaManager.java",
+ "prod_time": {
+  "$date": 1448715211000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "mailbox/cassandra/src/test/java/org/apache/james/mailbox/cassandra/quota/CassandraCurrentQuotaManagerTest.java",
+ "test_qual": "org/apache/james/mailbox/cassandra/quota/CassandraCurrentQuotaManagerTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

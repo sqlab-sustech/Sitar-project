@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-core/src/jvm/org/apache/storm/topology/StatefulWindowedBoltExecutor.java",
+ "prod_sha1": "ca0711d99cdbd413b07ad9d89b7e52ce59c34834",
+ "repository": "storm",
+ "test_path": "storm-core/test/jvm/org/apache/storm/topology/StatefulWindowedBoltExecutorTest.java",
+ "test_sha1": "ca0711d99cdbd413b07ad9d89b7e52ce59c34834",
+ "commit_between": 0,
+ "prod_qual": "jvm/org/apache/storm/topology/StatefulWindowedBoltExecutor.java",
+ "prod_time": {
+  "$date": 1453921570000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "jvm/org/apache/storm/topology/StatefulWindowedBoltExecutorTest.java",
+ "test_time": {
+  "$date": 1453921570000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 16,
+ "add_call_line": 86,
+ "add_classname_line": 3,
+ "add_condition_line": 32,
+ "add_field_line": 14,
+ "add_import_line": 15,
+ "add_packageid_line": 1,
+ "add_parameter_line": 36,
+ "add_return_line": 44,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

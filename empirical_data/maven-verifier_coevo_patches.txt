@@ -1,0 +1,6 @@
+maven-verifier EC 3bc2cda754496334cb71d43388e55013ff14268e 3bc2cda754496334cb71d43388e55013ff14268e src/main/java/org/apache/maven/it/Verifier.java src/test/java/org/apache/maven/it/VerifierTest.java
+maven-verifier EE 6325ab34098005d756cbb12e85c637d6ec8c3392 6325ab34098005d756cbb12e85c637d6ec8c3392 src/main/java/org/apache/maven/it/Verifier.java src/test/java/org/apache/maven/it/VerifierTest.java
+maven-verifier EE 5a9a0c12bb31212d3f5ad03c41e2ad2c2d8437de 5a9a0c12bb31212d3f5ad03c41e2ad2c2d8437de src/main/java/org/apache/maven/it/Verifier.java src/test/java/org/apache/maven/it/VerifierTest.java
+maven-verifier EE dff8ccad1871bd78b3c1ada8237fcf746570aa6a dff8ccad1871bd78b3c1ada8237fcf746570aa6a src/main/java/org/apache/maven/it/Verifier.java src/test/java/org/apache/maven/it/VerifierTest.java
+maven-verifier EE 4abad611dc59a7038c5b78b30aedbb63fc720c1b 4abad611dc59a7038c5b78b30aedbb63fc720c1b src/main/java/org/apache/maven/it/Verifier.java src/test/java/org/apache/maven/it/VerifierTest.java
+maven-verifier EE 54fc9a297ffcdd7c7e3d1633bacf7958e1824c8d 54fc9a297ffcdd7c7e3d1633bacf7958e1824c8d src/main/java/org/apache/maven/it/Verifier.java src/test/java/org/apache/maven/it/VerifierTest.java

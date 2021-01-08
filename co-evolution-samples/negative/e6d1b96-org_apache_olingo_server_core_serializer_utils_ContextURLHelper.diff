@@ -1,0 +1,13 @@
+diff --git a/lib/server-core/src/main/java/org/apache/olingo/server/core/serializer/utils/ContextURLHelper.java b/lib/server-core/src/main/java/org/apache/olingo/server/core/serializer/utils/ContextURLHelper.java
+index f6c2ae39f..22a2301dc 100644
+--- a/lib/server-core/src/main/java/org/apache/olingo/server/core/serializer/utils/ContextURLHelper.java
++++ b/lib/server-core/src/main/java/org/apache/olingo/server/core/serializer/utils/ContextURLHelper.java
+@@ -38,6 +38,8 @@ import org.apache.olingo.server.api.uri.queryoption.SelectOption;
+ 
+ public final class ContextURLHelper {
+ 
++  private ContextURLHelper() { /* private ctor for helper class */ }
++
+   /**
+    * Builds a list of selected Properties for the ContextURL,
+    * taking care to preserve the order as defined in the EDM;

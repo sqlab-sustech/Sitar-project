@@ -1,0 +1,37 @@
+{
+ "prod_path": "extras/src/main/java/com/google/gson/typeadapters/UtcDateTypeAdapter.java",
+ "prod_sha1": "f0f9ce42f499a3f4eccf53ad0bc2470cfef08a6d",
+ "repository": "gson",
+ "test_path": "extras/src/test/java/com/google/gson/typeadapters/UtcDateTypeAdapterTest.java",
+ "test_sha1": "f0f9ce42f499a3f4eccf53ad0bc2470cfef08a6d",
+ "commit_between": 0,
+ "prod_qual": "com/google/gson/typeadapters/UtcDateTypeAdapter.java",
+ "prod_time": {
+  "$date": 1417768105000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/typeadapters/UtcDateTypeAdapterTest.java",
+ "test_time": {
+  "$date": 1417768105000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 2,
+ "del_call_line": 14,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 2,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1
+}

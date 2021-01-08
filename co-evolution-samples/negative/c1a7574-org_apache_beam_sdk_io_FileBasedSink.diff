@@ -1,0 +1,18 @@
+diff --git a/sdks/java/core/src/main/java/org/apache/beam/sdk/io/FileBasedSink.java b/sdks/java/core/src/main/java/org/apache/beam/sdk/io/FileBasedSink.java
+index 4e2b61c34c..d6186478f2 100644
+--- a/sdks/java/core/src/main/java/org/apache/beam/sdk/io/FileBasedSink.java
++++ b/sdks/java/core/src/main/java/org/apache/beam/sdk/io/FileBasedSink.java
+@@ -747,12 +747,10 @@ public abstract class FileBasedSink<UserT, DestinationT, OutputT>
+ 
+     @Override
+     public String toString() {
+-      String tempDirectoryStr =
+-          tempDirectory.isAccessible() ? tempDirectory.get().toString() : tempDirectory.toString();
+       return getClass().getSimpleName()
+           + "{"
+           + "tempDirectory="
+-          + tempDirectoryStr
++          + tempDirectory
+           + ", windowedWrites="
+           + windowedWrites
+           + '}';

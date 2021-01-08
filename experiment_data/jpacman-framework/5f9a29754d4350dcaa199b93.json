@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/nl/tudelft/jpacman/sprite/Sprite.java",
+ "prod_sha1": "ae0d89cd5609b1cd291663626bc56ccb9fb53d9e",
+ "repository": "jpacman-framework",
+ "test_path": "src/test/java/nl/tudelft/jpacman/sprite/SpriteTest.java",
+ "test_sha1": "698ac7d6721b21f3837a151e0a459592c3557314",
+ "commit_between": 1,
+ "prod_qual": "nl/tudelft/jpacman/sprite/Sprite.java",
+ "prod_time": {
+  "$date": 1383911662000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "nl/tudelft/jpacman/sprite/SpriteTest.java",
+ "test_time": {
+  "$date": 1383914002000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

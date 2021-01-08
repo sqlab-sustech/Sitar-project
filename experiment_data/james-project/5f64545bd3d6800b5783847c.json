@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/cassandra/src/main/java/org/apache/james/mailbox/cassandra/mail/CassandraModSeqProvider.java",
+ "prod_sha1": "e4a737e52c34c217503dee3e69cc9d0275937046",
+ "repository": "james-project",
+ "test_path": "mailbox/cassandra/src/test/java/org/apache/james/mailbox/cassandra/mail/CassandraModSeqProviderTest.java",
+ "test_sha1": "e4a737e52c34c217503dee3e69cc9d0275937046",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/cassandra/mail/CassandraModSeqProvider.java",
+ "prod_time": {
+  "$date": 1546962098000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/cassandra/mail/CassandraModSeqProviderTest.java",
+ "test_time": {
+  "$date": 1546962098000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 27,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 5,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 26,
+ "del_annotation_line": 0,
+ "del_call_line": 18,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 8,
+ "del_return_line": 18
+}

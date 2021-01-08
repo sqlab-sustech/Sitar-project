@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/commons/crypto/NativeCodeLoader.java b/src/main/java/org/apache/commons/crypto/NativeCodeLoader.java
+index ec96a4e..4d4dbcb 100644
+--- a/src/main/java/org/apache/commons/crypto/NativeCodeLoader.java
++++ b/src/main/java/org/apache/commons/crypto/NativeCodeLoader.java
+@@ -206,7 +206,7 @@ private static File extractLibraryFile(String libFolderForCurrentOS,
+                 }
+             }
+ 
+-            return new File(targetFolder, extractedLibFileName);
++            return extractedLibFile;
+         } catch (IOException e) {
+             return null;
+         } finally {

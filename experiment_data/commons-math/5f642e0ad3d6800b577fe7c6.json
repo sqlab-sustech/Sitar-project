@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/linear/ArrayRealVector.java",
+ "prod_sha1": "37b22700d9992f0a40a46d1b70fed97891565163",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/linear/ArrayRealVectorTest.java",
+ "test_sha1": "37b22700d9992f0a40a46d1b70fed97891565163",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/linear/ArrayRealVector.java",
+ "prod_time": {
+  "$date": 1314625762000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/linear/ArrayRealVectorTest.java",
+ "test_time": {
+  "$date": 1314625762000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 0,
+ "add_condition_line": 12,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 10,
+ "del_annotation_line": 9,
+ "del_call_line": 32,
+ "del_classname_line": 0,
+ "del_condition_line": 14,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 17,
+ "del_return_line": 19
+}

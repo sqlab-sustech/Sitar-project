@@ -1,0 +1,32 @@
+{
+ "prod_path": "izpack-util/src/main/java/com/izforge/izpack/util/substitutor/VariableSubstitutorImpl.java",
+ "prod_sha1": "21ea02d344ffc93a2d8179a04f3b96dd849e9c81",
+ "repository": "izpack",
+ "prod_qual": "com/izforge/izpack/util/substitutor/VariableSubstitutorImpl.java",
+ "prod_time": {
+  "$date": 1266759475000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "izpack-util/src/test/java/com/izforge/izpack/util/substitutor/VariableSubstitutorImplTest.java",
+ "test_qual": "com/izforge/izpack/util/substitutor/VariableSubstitutorImplTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 4,
+ "add_classname_line": 1,
+ "add_condition_line": 21,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 5,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 1,
+ "del_condition_line": 3,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

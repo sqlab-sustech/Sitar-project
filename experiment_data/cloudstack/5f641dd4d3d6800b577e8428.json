@@ -1,0 +1,37 @@
+{
+ "prod_path": "core/src/com/cloud/network/HAProxyConfigurator.java",
+ "prod_sha1": "8d627446813ad0f2a7e468289ff19c2184273c38",
+ "repository": "cloudstack",
+ "test_path": "core/test/com/cloud/network/HAProxyConfiguratorTest.java",
+ "test_sha1": "8d627446813ad0f2a7e468289ff19c2184273c38",
+ "commit_between": 0,
+ "prod_qual": "com/cloud/network/HAProxyConfigurator.java",
+ "prod_time": {
+  "$date": 1384961213000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/cloud/network/HAProxyConfiguratorTest.java",
+ "test_time": {
+  "$date": 1384961213000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 80,
+ "add_classname_line": 0,
+ "add_condition_line": 38,
+ "add_field_line": 5,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 1,
+ "del_annotation_line": 1,
+ "del_call_line": 63,
+ "del_classname_line": 1,
+ "del_condition_line": 28,
+ "del_field_line": 4,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 4
+}

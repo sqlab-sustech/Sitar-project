@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-doc/src/main/java/net/sourceforge/pmd/docs/RuleDocGenerator.java",
+ "prod_sha1": "6fd5d7c66b95b959d3d2b2efa37ed8c83335a75f",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/docs/RuleDocGenerator.java",
+ "prod_time": {
+  "$date": 1596027646000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-doc/src/test/java/net/sourceforge/pmd/docs/RuleDocGeneratorTest.java",
+ "test_qual": "net/sourceforge/pmd/docs/RuleDocGeneratorTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 45,
+ "add_classname_line": 0,
+ "add_condition_line": 10,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 1,
+ "del_call_line": 29,
+ "del_classname_line": 0,
+ "del_condition_line": 7,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

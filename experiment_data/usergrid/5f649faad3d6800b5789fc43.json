@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/core/src/main/java/org/apache/usergrid/persistence/Schema.java",
+ "prod_sha1": "df73ca2e9176aaad7ec00a27fe32869e3ca6bed8",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/persistence/Schema.java",
+ "prod_time": {
+  "$date": 1403025501000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/core/src/test/java/org/apache/usergrid/persistence/SchemaTest.java",
+ "test_qual": "org/apache/usergrid/persistence/SchemaTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 25,
+ "add_classname_line": 0,
+ "add_condition_line": 22,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 40,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 4,
+ "test_typ": "Non"
+}

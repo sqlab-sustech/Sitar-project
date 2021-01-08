@@ -1,0 +1,2 @@
+maven-mapping CC 64c0f715e74d4ebb82a39874d7040e453e6b31b6 64c0f715e74d4ebb82a39874d7040e453e6b31b6 src/main/java/org/apache/maven/shared/mapping/MappingUtils.java src/test/java/org/apache/maven/shared/mapping/MappingUtilsTest.java
+maven-mapping EE da04268085f8ae033dd8e8bb6b4048b2a1c055be da04268085f8ae033dd8e8bb6b4048b2a1c055be src/main/java/org/apache/maven/shared/mapping/MappingUtils.java src/test/java/org/apache/maven/shared/mapping/MappingUtilsTest.java

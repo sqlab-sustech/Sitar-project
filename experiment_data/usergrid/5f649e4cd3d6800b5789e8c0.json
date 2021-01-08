@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/core/src/main/java/org/usergrid/persistence/Query.java",
+ "prod_sha1": "e9066e0da7bca6d30d9c0444f52869546890b2f2",
+ "repository": "usergrid",
+ "prod_qual": "org/usergrid/persistence/Query.java",
+ "prod_time": {
+  "$date": 1374775766000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/core/src/test/java/org/usergrid/persistence/QueryTest.java",
+ "test_qual": "org/usergrid/persistence/QueryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 18,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 19,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 7,
+ "add_return_line": 2,
+ "del_annotation_line": 3,
+ "del_call_line": 66,
+ "del_classname_line": 0,
+ "del_condition_line": 53,
+ "del_field_line": 16,
+ "del_import_line": 3,
+ "del_packageid_line": 0,
+ "del_parameter_line": 40,
+ "del_return_line": 41,
+ "test_typ": "Non"
+}

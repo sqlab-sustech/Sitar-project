@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolator.java",
+ "prod_sha1": "dcfb76fa00a530fee6cbe4c17c51f6b9732024bc",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolatorTest.java",
+ "test_sha1": "dcfb76fa00a530fee6cbe4c17c51f6b9732024bc",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolator.java",
+ "prod_time": {
+  "$date": 1303991831000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/analysis/interpolation/UnivariateRealPeriodicInterpolatorTest.java",
+ "test_time": {
+  "$date": 1303991831000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 8,
+ "add_classname_line": 2,
+ "add_condition_line": 3,
+ "add_field_line": 4,
+ "add_import_line": 3,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/standard/src/main/java/org/apache/james/transport/mailets/MappingArgument.java",
+ "prod_sha1": "d5bddef411231bd05d17f197b5bc833d468d1e79",
+ "repository": "james-project",
+ "test_path": "mailet/standard/src/test/java/org/apache/james/transport/mailets/MappingArgumentTest.java",
+ "test_sha1": "d5bddef411231bd05d17f197b5bc833d468d1e79",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/transport/mailets/MappingArgument.java",
+ "prod_time": {
+  "$date": 1498146451000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/mailets/MappingArgumentTest.java",
+ "test_time": {
+  "$date": 1498146451000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 14,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 7,
+ "add_packageid_line": 1,
+ "add_parameter_line": 2,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

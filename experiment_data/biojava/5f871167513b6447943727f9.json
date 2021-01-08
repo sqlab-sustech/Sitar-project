@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-sequencing/src/main/java/org/biojava3/sequencing/io/fastq/fastq/Fastq.java",
+ "prod_sha1": "2a55f5eb78337cdbe779257ef551265fb9a2318f",
+ "repository": "biojava",
+ "test_path": "biojava3-sequencing/src/test/java/org/biojava3/sequencing/io/fastq/fastq/FastqTest.java",
+ "test_sha1": "2a55f5eb78337cdbe779257ef551265fb9a2318f",
+ "commit_between": 0,
+ "prod_qual": "org/biojava3/sequencing/io/fastq/fastq/Fastq.java",
+ "prod_time": {
+  "$date": 1331617052000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava3/sequencing/io/fastq/fastq/FastqTest.java",
+ "test_time": {
+  "$date": 1331617052000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 1,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

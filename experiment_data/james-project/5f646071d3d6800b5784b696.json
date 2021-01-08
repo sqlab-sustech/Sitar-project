@@ -1,0 +1,32 @@
+{
+ "prod_path": "server/blob/blob-cassandra/src/main/java/org/apache/james/blob/cassandra/CassandraBlobsDAO.java",
+ "prod_sha1": "a4875cfa96fdce5ca044e1d6e8adc683658c7b2f",
+ "repository": "james-project",
+ "prod_qual": "org/apache/james/blob/cassandra/CassandraBlobsDAO.java",
+ "prod_time": {
+  "$date": 1544190741000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "server/blob/blob-cassandra/src/test/java/org/apache/james/blob/cassandra/CassandraBlobsDAOTest.java",
+ "test_qual": "org/apache/james/blob/cassandra/CassandraBlobsDAOTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 47,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 2,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 9,
+ "add_return_line": 40,
+ "del_annotation_line": 3,
+ "del_call_line": 39,
+ "del_classname_line": 1,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 9,
+ "del_packageid_line": 0,
+ "del_parameter_line": 7,
+ "del_return_line": 28,
+ "test_typ": "Non"
+}

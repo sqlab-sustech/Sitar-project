@@ -1,0 +1,32 @@
+{
+ "prod_path": "src/org/jruby/RubyFile.java",
+ "prod_sha1": "892787ae3c41a7c4f2612ad61fa8c61b6191239e",
+ "repository": "jruby",
+ "prod_qual": "org/jruby/RubyFile.java",
+ "prod_time": {
+  "$date": 1200916738000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "src/org/jruby/RubyFileTest.java",
+ "test_qual": "org/jruby/RubyFileTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 12,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 12,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

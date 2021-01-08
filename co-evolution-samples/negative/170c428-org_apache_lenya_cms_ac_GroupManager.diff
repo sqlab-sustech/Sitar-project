@@ -1,0 +1,30 @@
+diff --git a/src/java/org/apache/lenya/cms/ac/GroupManager.java b/src/java/org/apache/lenya/cms/ac/GroupManager.java
+index f2948ebbf..93df210c1 100644
+--- a/src/java/org/apache/lenya/cms/ac/GroupManager.java
++++ b/src/java/org/apache/lenya/cms/ac/GroupManager.java
+@@ -134,22 +134,11 @@ public final class GroupManager extends ItemManager {
+     /**
+      * Get the group with the given group name.
+      *
+-     * @param groupName the name of the requested group
++     * @param groupId the id of the requested group
+      * @return a <code>Group</code> or null if there is no group with the given name
+      */
+-    public Group getGroup(String groupName) {
+-        Group group = null;
+-        Iterator iter = getGroups();
+-
+-        while (iter.hasNext()) {
+-            Group element = (Group) iter.next();
+-
+-            if (element.getName().equals(groupName)) {
+-                group = element;
+-            }
+-        }
+-
+-        return group;
++    public Group getGroup(String groupId) {
++        return (Group) getItem(groupId);
+     }
+ 
+     /**

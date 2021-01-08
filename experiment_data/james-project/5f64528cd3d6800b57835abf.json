@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/tools/indexer/src/main/java/org/apache/mailbox/tools/indexer/ReIndexerImpl.java",
+ "prod_sha1": "45d311c558affbda21282a54ae10ee84c42defc1",
+ "repository": "james-project",
+ "test_path": "mailbox/tools/indexer/src/test/java/org/apache/mailbox/tools/indexer/ReIndexerImplTest.java",
+ "test_sha1": "45d311c558affbda21282a54ae10ee84c42defc1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/mailbox/tools/indexer/ReIndexerImpl.java",
+ "prod_time": {
+  "$date": 1539341251000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/mailbox/tools/indexer/ReIndexerImplTest.java",
+ "test_time": {
+  "$date": 1539341251000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

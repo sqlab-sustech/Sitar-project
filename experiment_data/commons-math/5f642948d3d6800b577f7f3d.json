@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/fraction/BigFractionField.java",
+ "prod_sha1": "fbd46106cb7ec393b58e318efd255f9a2b89b621",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/fraction/BigFractionFieldTest.java",
+ "test_sha1": "fbd46106cb7ec393b58e318efd255f9a2b89b621",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/fraction/BigFractionField.java",
+ "prod_time": {
+  "$date": 1248108175000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/fraction/BigFractionFieldTest.java",
+ "test_time": {
+  "$date": 1248108175000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

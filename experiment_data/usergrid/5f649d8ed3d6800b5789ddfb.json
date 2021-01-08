@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/count-inserter/src/main/java/com/usergrid/count/CassandraCounterStore.java",
+ "prod_sha1": "fb7ad1a1fe009a4178797ba088d19afde2503bf1",
+ "repository": "usergrid",
+ "prod_qual": "com/usergrid/count/CassandraCounterStore.java",
+ "prod_time": {
+  "$date": 1329863810000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/count-inserter/src/test/java/com/usergrid/count/CassandraCounterStoreTest.java",
+ "test_qual": "com/usergrid/count/CassandraCounterStoreTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

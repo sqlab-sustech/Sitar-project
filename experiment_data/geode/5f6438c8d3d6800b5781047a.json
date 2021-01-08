@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-examples/replicated/src/main/java/org/apache/geode/examples/replicated/Producer.java",
+ "prod_sha1": "bd75c732aa21d4d92e78d5cd960a507039d0fd40",
+ "repository": "geode",
+ "test_path": "geode-examples/replicated/src/test/java/org/apache/geode/examples/replicated/ProducerTest.java",
+ "test_sha1": "bd75c732aa21d4d92e78d5cd960a507039d0fd40",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/examples/replicated/Producer.java",
+ "prod_time": {
+  "$date": 1465443032000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/examples/replicated/ProducerTest.java",
+ "test_time": {
+  "$date": 1465443032000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 3,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 4,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

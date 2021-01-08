@@ -1,0 +1,13 @@
+diff --git a/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java b/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java
+index 8fc83bdeb..68aeff24a 100644
+--- a/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java
++++ b/activemq-core/src/main/java/org/apache/activemq/broker/BrokerService.java
+@@ -457,7 +457,7 @@ public class BrokerService implements Service {
+             addShutdownHook();
+             getBroker().start();
+             if (isUseJmx()) {
+-            	if (!getManagementContext().isConnectorStarted()) {
++            	if (getManagementContext().isCreateConnector() && !getManagementContext().isConnectorStarted()) {
+             		// try to restart management context
+             		// typical for slaves that use the same ports as master
+             		managementContext.stop();

@@ -1,0 +1,32 @@
+{
+ "prod_path": "pmd-core/src/main/java/net/sourceforge/pmd/Report.java",
+ "prod_sha1": "621e6ac05299bd79e86fea77958ea7c61cd7b0c2",
+ "repository": "pmd",
+ "prod_qual": "net/sourceforge/pmd/Report.java",
+ "prod_time": {
+  "$date": 1596480397000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "pmd-java/src/test/java/net/sourceforge/pmd/ReportTest.java",
+ "test_qual": "net/sourceforge/pmd/ReportTest.java",
+ "add_annotation_line": 18,
+ "add_call_line": 13,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 3,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 4,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 7,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 3,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

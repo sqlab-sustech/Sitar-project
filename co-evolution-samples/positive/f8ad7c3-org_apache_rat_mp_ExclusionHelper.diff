@@ -1,0 +1,12 @@
+diff --git a/apache-rat-plugin/src/main/java/org/apache/rat/mp/ExclusionHelper.java b/apache-rat-plugin/src/main/java/org/apache/rat/mp/ExclusionHelper.java
+index b7c30d22..6d824515 100644
+--- a/apache-rat-plugin/src/main/java/org/apache/rat/mp/ExclusionHelper.java
++++ b/apache-rat-plugin/src/main/java/org/apache/rat/mp/ExclusionHelper.java
+@@ -40,6 +40,7 @@ public final class ExclusionHelper {
+                     "target/**/*", //
+                     "cobertura.ser", //
+                     "release.properties", //
++                    ".repository", // Used by Jenkins when a Maven job uses a private repository that is "Local to the workspace"
+                     "pom.xml.releaseBackup"));
+ 
+     /**

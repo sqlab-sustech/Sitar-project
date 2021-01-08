@@ -1,0 +1,32 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/SearchLoadAndWriteProcessor.java",
+ "prod_sha1": "5be709c377da09e9521d0376ae7d63cb3e8519c7",
+ "repository": "geode",
+ "prod_qual": "org/apache/geode/internal/cache/SearchLoadAndWriteProcessor.java",
+ "prod_time": {
+  "$date": 1518725483000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/SearchLoadAndWriteProcessorTest.java",
+ "test_qual": "org/apache/geode/internal/cache/SearchLoadAndWriteProcessorTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

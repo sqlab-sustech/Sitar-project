@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/apache/commons/math/dfp/DfpDec.java",
+ "prod_sha1": "85d35b0ff6762a620259cfa3e471b4edd82ce081",
+ "repository": "commons-math",
+ "test_path": "src/test/java/org/apache/commons/math/dfp/DfpDecTest.java",
+ "test_sha1": "85d35b0ff6762a620259cfa3e471b4edd82ce081",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/dfp/DfpDec.java",
+ "prod_time": {
+  "$date": 1283641161000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/dfp/DfpDecTest.java",
+ "test_time": {
+  "$date": 1283641161000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 61,
+ "add_classname_line": 1,
+ "add_condition_line": 25,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 19,
+ "add_return_line": 19,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailet/standard/src/main/java/org/apache/james/transport/matchers/RelayLimit.java",
+ "prod_sha1": "3ef4a113e0ec3e317e00835455292619fdb154b9",
+ "repository": "james-project",
+ "test_path": "mailet/standard/src/test/java/org/apache/james/transport/matchers/RelayLimitTest.java",
+ "test_sha1": "be1be8b91139de41e9130fa127af3acd8d9d5f4e",
+ "commit_between": 1,
+ "prod_qual": "org/apache/james/transport/matchers/RelayLimit.java",
+ "prod_time": {
+  "$date": 1470819049000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/transport/matchers/RelayLimitTest.java",
+ "test_time": {
+  "$date": 1470819086000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 1,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

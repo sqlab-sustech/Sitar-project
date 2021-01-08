@@ -1,0 +1,32 @@
+{
+ "prod_path": "storm-server/src/main/java/org/apache/storm/daemon/nimbus/Nimbus.java",
+ "prod_sha1": "48e23a99bf90c50f5d4864dbd449b0079ab2d5e2",
+ "repository": "storm",
+ "prod_qual": "org/apache/storm/daemon/nimbus/Nimbus.java",
+ "prod_time": {
+  "$date": 1512668163000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "storm-server/src/test/java/org/apache/storm/daemon/nimbus/NimbusTest.java",
+ "test_qual": "org/apache/storm/daemon/nimbus/NimbusTest.java",
+ "add_annotation_line": 1,
+ "add_call_line": 17,
+ "add_classname_line": 0,
+ "add_condition_line": 7,
+ "add_field_line": 3,
+ "add_import_line": 6,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 4,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

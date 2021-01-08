@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/com/fasterxml/jackson/core/io/MergedStream.java",
+ "prod_sha1": "f15531c04f87f9e4e4724772426603a909eabe2c",
+ "repository": "jackson-core",
+ "test_path": "src/test/java/com/fasterxml/jackson/core/io/TestMergedStream.java",
+ "test_sha1": "5ff8a2d9a72f0741f9465bf7f04584a3c3e8c28f",
+ "commit_between": 4,
+ "prod_qual": "com/fasterxml/jackson/core/io/MergedStream.java",
+ "prod_time": {
+  "$date": 1324623640000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/fasterxml/jackson/core/io/TestMergedStream.java",
+ "test_time": {
+  "$date": 1324705944000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 9,
+ "add_call_line": 15,
+ "add_classname_line": 2,
+ "add_condition_line": 13,
+ "add_field_line": 5,
+ "add_import_line": 1,
+ "add_packageid_line": 1,
+ "add_parameter_line": 12,
+ "add_return_line": 10,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

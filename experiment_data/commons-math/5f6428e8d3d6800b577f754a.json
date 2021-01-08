@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/java/org/apache/commons/math/ode/NordsieckTransformer.java",
+ "prod_sha1": "8de68c4404b566ff8809ff9a5d896d277d56e5cc",
+ "repository": "commons-math",
+ "test_path": "src/test/org/apache/commons/math/ode/NordsieckTransformerTest.java",
+ "test_sha1": "8de68c4404b566ff8809ff9a5d896d277d56e5cc",
+ "commit_between": 0,
+ "prod_qual": "org/apache/commons/math/ode/NordsieckTransformer.java",
+ "prod_time": {
+  "$date": 1243807881000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/commons/math/ode/NordsieckTransformerTest.java",
+ "test_time": {
+  "$date": 1243807881000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 13,
+ "del_classname_line": 1,
+ "del_condition_line": 4,
+ "del_field_line": 3,
+ "del_import_line": 10,
+ "del_packageid_line": 1,
+ "del_parameter_line": 7,
+ "del_return_line": 5
+}

@@ -1,0 +1,37 @@
+{
+ "prod_path": "kahadb/src/main/java/org/apache/kahadb/index/HashIndex.java",
+ "prod_sha1": "456a2ba5cf570b4b6d61893c54bbb1b58b677405",
+ "repository": "activemq",
+ "test_path": "kahadb/src/test/java/org/apache/kahadb/index/HashIndexTest.java",
+ "test_sha1": "456a2ba5cf570b4b6d61893c54bbb1b58b677405",
+ "commit_between": 0,
+ "prod_qual": "org/apache/kahadb/index/HashIndex.java",
+ "prod_time": {
+  "$date": 1227291590000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/kahadb/index/HashIndexTest.java",
+ "test_time": {
+  "$date": 1227291590000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 83,
+ "add_classname_line": 3,
+ "add_condition_line": 21,
+ "add_field_line": 26,
+ "add_import_line": 14,
+ "add_packageid_line": 1,
+ "add_parameter_line": 42,
+ "add_return_line": 24,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

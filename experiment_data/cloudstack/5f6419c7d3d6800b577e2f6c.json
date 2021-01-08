@@ -1,0 +1,37 @@
+{
+ "prod_path": "thirdparty/apache-log4j-extras-1.0/src/main/java/org/apache/log4j/LogSF.java",
+ "prod_sha1": "22d5eac400cdc951bfbcebdcb237464aa3de00fb",
+ "repository": "cloudstack",
+ "test_path": "thirdparty/apache-log4j-extras-1.0/src/test/java/org/apache/log4j/TestLogSF.java",
+ "test_sha1": "22d5eac400cdc951bfbcebdcb237464aa3de00fb",
+ "commit_between": 0,
+ "prod_qual": "org/apache/log4j/LogSF.java",
+ "prod_time": {
+  "$date": 1308676521000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/log4j/TestLogSF.java",
+ "test_time": {
+  "$date": 1308676521000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 231,
+ "del_classname_line": 1,
+ "del_condition_line": 93,
+ "del_field_line": 2,
+ "del_import_line": 2,
+ "del_packageid_line": 1,
+ "del_parameter_line": 304,
+ "del_return_line": 25
+}

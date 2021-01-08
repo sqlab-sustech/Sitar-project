@@ -1,0 +1,13 @@
+diff --git a/archiva-base/archiva-repository-layer/src/main/java/org/apache/maven/archiva/repository/content/FilenameParser.java b/archiva-base/archiva-repository-layer/src/main/java/org/apache/maven/archiva/repository/content/FilenameParser.java
+index 3778e5ed2..173716523 100644
+--- a/archiva-base/archiva-repository-layer/src/main/java/org/apache/maven/archiva/repository/content/FilenameParser.java
++++ b/archiva-base/archiva-repository-layer/src/main/java/org/apache/maven/archiva/repository/content/FilenameParser.java
+@@ -40,7 +40,7 @@
+ 
+     private static final Pattern mavenPluginPattern = Pattern.compile( "(maven-.*-plugin)|(.*-maven-plugin)" );
+ 
+-    private static final Pattern extensionPattern = Pattern.compile( "(.tar.gz$)|(.tar.bz2$)|(.[a-z0-9]{1,4}$)",
++    private static final Pattern extensionPattern = Pattern.compile( "(.tar.gz$)|(.tar.bz2$)|(.[a-z0-9]*$)",
+                                                                      Pattern.CASE_INSENSITIVE );
+ 
+     private static final Pattern section = Pattern.compile( "([^-]*)" );

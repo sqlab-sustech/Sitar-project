@@ -1,0 +1,37 @@
+{
+ "prod_path": "biojava3-protmod/src/main/java/org/biojava3/protmod/parser/AttachmentParser.java",
+ "prod_sha1": "4037f77f549be321bd7227a23f4ee4fc6cf0104c",
+ "repository": "biojava",
+ "test_path": "biojava3-protmod/src/test/java/org/biojava3/protmod/parser/AttachmentParserTest.java",
+ "test_sha1": "4037f77f549be321bd7227a23f4ee4fc6cf0104c",
+ "commit_between": 0,
+ "prod_qual": "org/biojava3/protmod/parser/AttachmentParser.java",
+ "prod_time": {
+  "$date": 1276543394000
+ },
+ "prod_typ": "DELETE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/biojava3/protmod/parser/AttachmentParserTest.java",
+ "test_time": {
+  "$date": 1276543394000
+ },
+ "test_typ": "DELETE",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 0,
+ "del_annotation_line": 1,
+ "del_call_line": 33,
+ "del_classname_line": 1,
+ "del_condition_line": 21,
+ "del_field_line": 1,
+ "del_import_line": 22,
+ "del_packageid_line": 1,
+ "del_parameter_line": 4,
+ "del_return_line": 2
+}

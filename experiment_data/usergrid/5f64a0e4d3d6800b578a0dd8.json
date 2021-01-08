@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/services/src/main/java/org/apache/usergrid/services/notifications/apns/APNsNotification.java",
+ "prod_sha1": "1efd176325a147c82077c694bccda5af917fa23b",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/services/notifications/apns/APNsNotification.java",
+ "prod_time": {
+  "$date": 1441925048000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/services/src/main/java/org/apache/usergrid/services/notifications/apns/TestAPNsNotification.java",
+ "test_qual": "org/apache/usergrid/services/notifications/apns/TestAPNsNotification.java",
+ "add_annotation_line": 0,
+ "add_call_line": 1,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 0,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

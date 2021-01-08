@@ -1,0 +1,13 @@
+diff --git a/src/main/java/org/apache/joshua/ui/tree_visualizer/tree/Tree.java b/src/main/java/org/apache/joshua/ui/tree_visualizer/tree/Tree.java
+index 409e30a1..9eb586ec 100644
+--- a/src/main/java/org/apache/joshua/ui/tree_visualizer/tree/Tree.java
++++ b/src/main/java/org/apache/joshua/ui/tree_visualizer/tree/Tree.java
+@@ -16,7 +16,7 @@
+  * specific language governing permissions and limitations
+  * under the License.
+  */
+-package joshua.ui.tree_visualizer.tree;
++package org.apache.joshua.ui.tree_visualizer.tree;
+ 
+ import java.util.Stack;
+ import java.util.regex.Pattern;

@@ -1,0 +1,37 @@
+{
+ "prod_path": "core/src/main/java/org/jruby/exceptions/RaiseException.java",
+ "prod_sha1": "ccecbe80140d3fcf9ae7f496167a22a24f8f9127",
+ "repository": "jruby",
+ "test_path": "core/src/test/java/org/jruby/exceptions/TestRaiseException.java",
+ "test_sha1": "ccecbe80140d3fcf9ae7f496167a22a24f8f9127",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/exceptions/RaiseException.java",
+ "prod_time": {
+  "$date": 1591845060000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/exceptions/TestRaiseException.java",
+ "test_time": {
+  "$date": 1591845060000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 1,
+ "add_call_line": 11,
+ "add_classname_line": 0,
+ "add_condition_line": 2,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 6,
+ "add_return_line": 6,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

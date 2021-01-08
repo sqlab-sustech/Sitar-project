@@ -1,0 +1,37 @@
+{
+ "prod_path": "storm-webapp/src/main/java/org/apache/storm/daemon/logviewer/utils/ResourceAuthorizer.java",
+ "prod_sha1": "ad5ea39facc10dc2b9d07c4d12c0be0208dca00e",
+ "repository": "storm",
+ "test_path": "storm-webapp/src/test/java/org/apache/storm/daemon/logviewer/utils/ResourceAuthorizerTest.java",
+ "test_sha1": "ad5ea39facc10dc2b9d07c4d12c0be0208dca00e",
+ "commit_between": 0,
+ "prod_qual": "org/apache/storm/daemon/logviewer/utils/ResourceAuthorizer.java",
+ "prod_time": {
+  "$date": 1500911261000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/storm/daemon/logviewer/utils/ResourceAuthorizerTest.java",
+ "test_time": {
+  "$date": 1500911261000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 22,
+ "add_classname_line": 2,
+ "add_condition_line": 4,
+ "add_field_line": 4,
+ "add_import_line": 18,
+ "add_packageid_line": 1,
+ "add_parameter_line": 9,
+ "add_return_line": 14,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

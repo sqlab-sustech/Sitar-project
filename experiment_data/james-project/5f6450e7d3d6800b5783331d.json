@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/plugin/quota-search-elasticsearch/src/main/java/org/apache/james/quota/search/elasticsearch/QuotaQueryConverter.java",
+ "prod_sha1": "dd95f7c5567cecc99ca38b62238881811fb49d48",
+ "repository": "james-project",
+ "test_path": "mailbox/plugin/quota-search-elasticsearch/src/test/java/org/apache/james/quota/search/elasticsearch/QuotaQueryConverterTest.java",
+ "test_sha1": "dd95f7c5567cecc99ca38b62238881811fb49d48",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/quota/search/elasticsearch/QuotaQueryConverter.java",
+ "prod_time": {
+  "$date": 1527092221000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/quota/search/elasticsearch/QuotaQueryConverterTest.java",
+ "test_time": {
+  "$date": 1527092221000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 19,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 20,
+ "add_packageid_line": 1,
+ "add_parameter_line": 8,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

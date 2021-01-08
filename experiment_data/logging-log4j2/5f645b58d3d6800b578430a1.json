@@ -1,0 +1,37 @@
+{
+ "prod_path": "log4j-jms/src/main/java/org/apache/logging/log4j/jms/appender/JmsAppender.java",
+ "prod_sha1": "810720e0b151e0537042ac92fa9091958fd6c9f6",
+ "repository": "logging-log4j2",
+ "test_path": "log4j-jms/src/test/java/org/apache/logging/log4j/jms/appender/JmsAppenderTest.java",
+ "test_sha1": "810720e0b151e0537042ac92fa9091958fd6c9f6",
+ "commit_between": 0,
+ "prod_qual": "org/apache/logging/log4j/jms/appender/JmsAppender.java",
+ "prod_time": {
+  "$date": 1409979492000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/logging/log4j/jms/appender/JmsAppenderTest.java",
+ "test_time": {
+  "$date": 1409979492000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 19,
+ "add_call_line": 11,
+ "add_classname_line": 2,
+ "add_condition_line": 0,
+ "add_field_line": 15,
+ "add_import_line": 17,
+ "add_packageid_line": 1,
+ "add_parameter_line": 19,
+ "add_return_line": 16,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

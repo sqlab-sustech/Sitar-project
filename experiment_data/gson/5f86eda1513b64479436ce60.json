@@ -1,0 +1,37 @@
+{
+ "prod_path": "wsf/src/main/java/com/google/gson/wsf/inject/CallPathProvider.java",
+ "prod_sha1": "40b6ddb591ff7b8d15d1cf8fb766e13ad46ff360",
+ "repository": "gson",
+ "test_path": "wsf/src/test/java/com/google/gson/wsf/inject/CallPathProviderTest.java",
+ "test_sha1": "40b6ddb591ff7b8d15d1cf8fb766e13ad46ff360",
+ "commit_between": 0,
+ "prod_qual": "com/google/gson/wsf/inject/CallPathProvider.java",
+ "prod_time": {
+  "$date": 1288748604000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/google/gson/wsf/inject/CallPathProviderTest.java",
+ "test_time": {
+  "$date": 1288748604000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 6,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 1,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 3,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 1,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

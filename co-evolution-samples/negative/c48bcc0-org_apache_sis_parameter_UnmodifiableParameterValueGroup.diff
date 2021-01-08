@@ -1,0 +1,22 @@
+diff --git a/core/sis-referencing/src/main/java/org/apache/sis/parameter/UnmodifiableParameterValueGroup.java b/core/sis-referencing/src/main/java/org/apache/sis/parameter/UnmodifiableParameterValueGroup.java
+index ac16d179f..598d6e071 100644
+--- a/core/sis-referencing/src/main/java/org/apache/sis/parameter/UnmodifiableParameterValueGroup.java
++++ b/core/sis-referencing/src/main/java/org/apache/sis/parameter/UnmodifiableParameterValueGroup.java
+@@ -181,6 +181,17 @@ final class UnmodifiableParameterValueGroup extends Parameters implements Lenien
+         throw new UnsupportedOperationException(Errors.format(Errors.Keys.UnmodifiableObject_1, ParameterValueGroup.class));
+     }
+ 
++    /**
++     * Returns a modifiable copy of this parameter value group.
++     */
++    @Override
++    @SuppressWarnings("CloneDoesntCallSuperClone")
++    public Parameters clone() {
++        final DefaultParameterValueGroup copy = new DefaultParameterValueGroup(descriptor);
++        Parameters.copy(this, copy);
++        return copy;
++    }
++
+     /**
+      * Compares the specified object with this parameter for equality.
+      * The strictness level is controlled by the second argument:

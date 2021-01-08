@@ -1,0 +1,32 @@
+{
+ "prod_path": "zeppelin-server/src/main/java/org/apache/zeppelin/realm/LdapRealm.java",
+ "prod_sha1": "1caa6aa2fffbf0b2b549dffa5b3b88d2d63da5ad",
+ "repository": "zeppelin",
+ "prod_qual": "org/apache/zeppelin/realm/LdapRealm.java",
+ "prod_time": {
+  "$date": 1528960568000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "zeppelin-server/src/test/java/org/apache/zeppelin/realm/LdapRealmTest.java",
+ "test_qual": "org/apache/zeppelin/realm/LdapRealmTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 31,
+ "add_classname_line": 0,
+ "add_condition_line": 9,
+ "add_field_line": 3,
+ "add_import_line": 25,
+ "add_packageid_line": 0,
+ "add_parameter_line": 12,
+ "add_return_line": 4,
+ "del_annotation_line": 1,
+ "del_call_line": 13,
+ "del_classname_line": 0,
+ "del_condition_line": 3,
+ "del_field_line": 1,
+ "del_import_line": 23,
+ "del_packageid_line": 0,
+ "del_parameter_line": 2,
+ "del_return_line": 2,
+ "test_typ": "Non"
+}

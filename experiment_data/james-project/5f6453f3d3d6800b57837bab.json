@@ -1,0 +1,37 @@
+{
+ "prod_path": "mailbox/event/event-rabbitmq/src/main/java/org/apache/james/mailbox/events/RabbitMQEventBus.java",
+ "prod_sha1": "1f390f4f3f69db1c073b5e018b25cdf52acb3647",
+ "repository": "james-project",
+ "test_path": "mailbox/event/event-rabbitmq/src/test/java/org/apache/james/mailbox/events/RabbitMQEventBusTest.java",
+ "test_sha1": "1f390f4f3f69db1c073b5e018b25cdf52acb3647",
+ "commit_between": 0,
+ "prod_qual": "org/apache/james/mailbox/events/RabbitMQEventBus.java",
+ "prod_time": {
+  "$date": 1547539125000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/james/mailbox/events/RabbitMQEventBusTest.java",
+ "test_time": {
+  "$date": 1547539125000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 0,
+ "add_classname_line": 0,
+ "add_condition_line": 0,
+ "add_field_line": 1,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 0,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}

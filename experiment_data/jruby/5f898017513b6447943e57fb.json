@@ -1,0 +1,37 @@
+{
+ "prod_path": "ext/openssl/src/main/java/org/jruby/ext/openssl/Cipher.java",
+ "prod_sha1": "f7c59d69f4ce4a01e1bf9cc6f262ddd2dd328a2a",
+ "repository": "jruby",
+ "test_path": "ext/openssl/src/test/java/org/jruby/ext/openssl/CipherTest.java",
+ "test_sha1": "f7c59d69f4ce4a01e1bf9cc6f262ddd2dd328a2a",
+ "commit_between": 0,
+ "prod_qual": "org/jruby/ext/openssl/Cipher.java",
+ "prod_time": {
+  "$date": 1397577825000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jruby/ext/openssl/CipherTest.java",
+ "test_time": {
+  "$date": 1397577825000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 1,
+ "add_call_line": 11,
+ "add_classname_line": 0,
+ "add_condition_line": 8,
+ "add_field_line": 2,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 3,
+ "del_annotation_line": 1,
+ "del_call_line": 10,
+ "del_classname_line": 1,
+ "del_condition_line": 8,
+ "del_field_line": 2,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 3
+}

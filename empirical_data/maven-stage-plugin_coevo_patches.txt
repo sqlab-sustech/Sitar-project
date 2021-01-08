@@ -1,0 +1,4 @@
+maven-stage-plugin CC 22cd7febefcfb89ecd56535bf58d8c6b41838831 22cd7febefcfb89ecd56535bf58d8c6b41838831 src/main/java/org/apache/maven/plugins/stage/RepositoryCopier.java src/test/java/org/apache/maven/plugins/stage/RepositoryCopierTest.java
+maven-stage-plugin EE 8e27e549296f362c2fe577162ac98365e7938564 8e27e549296f362c2fe577162ac98365e7938564 src/main/java/org/apache/maven/plugins/stage/RepositoryCopier.java src/test/java/org/apache/maven/plugins/stage/RepositoryCopierTest.java
+maven-stage-plugin DD 7a50252759f44d12141873bb4f3748506a2c296f 7a50252759f44d12141873bb4f3748506a2c296f src/main/java/org/apache/maven/plugins/stage/RepositoryCopier.java src/test/java/org/apache/maven/plugins/stage/RepositoryCopierTest.java
+maven-stage-plugin CC 478181b5c3728d59e3ab619dfa8249a487de53b0 478181b5c3728d59e3ab619dfa8249a487de53b0 src/main/java/org/apache/maven/plugins/stage/RepositoryCopier.java src/test/java/org/apache/maven/plugins/stage/RepositoryCopierTest.java

@@ -1,0 +1,37 @@
+{
+ "prod_path": "geode-core/src/main/java/org/apache/geode/internal/cache/EntryEventImpl.java",
+ "prod_sha1": "efd011750538ac2400cef8381765b8e0ddc921a1",
+ "repository": "geode",
+ "test_path": "geode-core/src/test/java/org/apache/geode/internal/cache/EntryEventImplTest.java",
+ "test_sha1": "efd011750538ac2400cef8381765b8e0ddc921a1",
+ "commit_between": 0,
+ "prod_qual": "org/apache/geode/internal/cache/EntryEventImpl.java",
+ "prod_time": {
+  "$date": 1474315152000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/apache/geode/internal/cache/EntryEventImplTest.java",
+ "test_time": {
+  "$date": 1474315152000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 29,
+ "add_classname_line": 0,
+ "add_condition_line": 19,
+ "add_field_line": 0,
+ "add_import_line": 0,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 9,
+ "del_annotation_line": 2,
+ "del_call_line": 9,
+ "del_classname_line": 0,
+ "del_condition_line": 6,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 4
+}

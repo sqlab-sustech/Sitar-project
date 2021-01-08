@@ -1,0 +1,2 @@
+fineract-cn-mobile CC 04c36ecf30dd82d67065fd7ce5df872c9915be02 b3d39410830c8eab20f4a7fc7b84d88b45cb7a0a app/src/commonTest/java/com/mifos/apache/fineract/FakeJsonName.java app/src/commonTest/java/com/mifos/apache/fineract/FakeJsonName.java
+fineract-cn-mobile CC 04c36ecf30dd82d67065fd7ce5df872c9915be02 b3d39410830c8eab20f4a7fc7b84d88b45cb7a0a app/src/commonTest/java/com/mifos/apache/fineract/FakeRemoteDataSource.java app/src/commonTest/java/com/mifos/apache/fineract/FakeRemoteDataSource.java

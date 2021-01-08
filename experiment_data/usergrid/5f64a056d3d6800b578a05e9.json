@@ -1,0 +1,32 @@
+{
+ "prod_path": "stack/corepersistence/collection/src/main/java/org/apache/usergrid/persistence/collection/serialization/impl/MvccEntitySerializationStrategyV3Impl.java",
+ "prod_sha1": "d2371f99b4b64dda52e9ff7991e0f6144859779e",
+ "repository": "usergrid",
+ "prod_qual": "org/apache/usergrid/persistence/collection/serialization/impl/MvccEntitySerializationStrategyV3Impl.java",
+ "prod_time": {
+  "$date": 1424387066000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "stack/corepersistence/collection/src/test/java/org/apache/usergrid/persistence/collection/serialization/impl/MvccEntitySerializationStrategyV3ImplTest.java",
+ "test_qual": "org/apache/usergrid/persistence/collection/serialization/impl/MvccEntitySerializationStrategyV3ImplTest.java",
+ "add_annotation_line": 11,
+ "add_call_line": 164,
+ "add_classname_line": 4,
+ "add_condition_line": 12,
+ "add_field_line": 15,
+ "add_import_line": 50,
+ "add_packageid_line": 0,
+ "add_parameter_line": 28,
+ "add_return_line": 53,
+ "del_annotation_line": 3,
+ "del_call_line": 24,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 20,
+ "del_packageid_line": 0,
+ "del_parameter_line": 6,
+ "del_return_line": 6,
+ "test_typ": "Non"
+}

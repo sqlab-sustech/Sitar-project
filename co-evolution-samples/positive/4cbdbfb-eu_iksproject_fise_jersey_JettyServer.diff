@@ -1,0 +1,11 @@
+diff --git a/fise/jersey/src/main/java/eu/iksproject/fise/jersey/JettyServer.java b/fise/jersey/src/main/java/eu/iksproject/fise/jersey/JettyServer.java
+index 6d306bc0b..8315cd7b4 100644
+--- a/fise/jersey/src/main/java/eu/iksproject/fise/jersey/JettyServer.java
++++ b/fise/jersey/src/main/java/eu/iksproject/fise/jersey/JettyServer.java
+@@ -91,4 +91,4 @@ public class JettyServer {
+         server.stop();
+     }
+ 
+-}
+\ No newline at end of file
++}

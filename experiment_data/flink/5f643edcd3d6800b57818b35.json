@@ -1,0 +1,32 @@
+{
+ "prod_path": "sopremo/sopremo-common/src/main/java/eu/stratosphere/sopremo/Operator.java",
+ "prod_sha1": "0f4e6d87e3b5166de713d48bae529220602b3544",
+ "repository": "flink",
+ "prod_qual": "eu/stratosphere/sopremo/Operator.java",
+ "prod_time": {
+  "$date": 1315848118000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "sopremo/sopremo-common/src/test/java/eu/stratosphere/sopremo/OperatorTest.java",
+ "test_qual": "eu/stratosphere/sopremo/OperatorTest.java",
+ "add_annotation_line": 8,
+ "add_call_line": 13,
+ "add_classname_line": 1,
+ "add_condition_line": 2,
+ "add_field_line": 1,
+ "add_import_line": 7,
+ "add_packageid_line": 0,
+ "add_parameter_line": 8,
+ "add_return_line": 8,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 1,
+ "test_typ": "Non"
+}

@@ -1,0 +1,32 @@
+{
+ "prod_path": "izpack-core/src/main/java/com/izforge/izpack/merge/panel/PanelMerge.java",
+ "prod_sha1": "36846c3ea356c9e1fbf16d46d5850777456d9b5b",
+ "repository": "izpack",
+ "prod_qual": "com/izforge/izpack/merge/panel/PanelMerge.java",
+ "prod_time": {
+  "$date": 1266409288000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "izpack-panel/src/test/java/com/izforge/izpack/merge/panel/PanelMergeTest.java",
+ "test_qual": "com/izforge/izpack/merge/panel/PanelMergeTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 9,
+ "add_classname_line": 0,
+ "add_condition_line": 3,
+ "add_field_line": 2,
+ "add_import_line": 2,
+ "add_packageid_line": 0,
+ "add_parameter_line": 3,
+ "add_return_line": 4,
+ "del_annotation_line": 0,
+ "del_call_line": 1,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 2,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 3,
+ "test_typ": "Non"
+}

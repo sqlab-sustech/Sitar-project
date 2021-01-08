@@ -1,0 +1,73 @@
+diff --git a/maven-plugins/maven-eclipse-plugin/src/main/java/org/apache/maven/plugin/eclipse/EclipsePlugin.java b/maven-plugins/maven-eclipse-plugin/src/main/java/org/apache/maven/plugin/eclipse/EclipsePlugin.java
+index 2d02de97f..5479eeaf8 100644
+--- a/maven-plugins/maven-eclipse-plugin/src/main/java/org/apache/maven/plugin/eclipse/EclipsePlugin.java
++++ b/maven-plugins/maven-eclipse-plugin/src/main/java/org/apache/maven/plugin/eclipse/EclipsePlugin.java
+@@ -29,7 +29,7 @@
+  *
+  * @goal eclipse
+  * @requiresDependencyResolution test
+- * @executePhase generate-sources
++ * @execute phase="generate-sources"
+  *
+  * @author <a href="mailto:trygvis@inamo.no">Trygve Laugst&oslash;l</a>
+  * @version $Id$
+@@ -66,6 +66,11 @@
+      */
+     private List reactorProjects;
+ 
++    /**
++     * @parameter expression="${eclipse.workspace}"
++     */
++    private File outputDir;
++
+     public EclipsePlugin()
+     {
+         eclipseWriter = new EclipseWriter();
+@@ -88,6 +93,7 @@ public void execute()
+         {
+             throw new MojoExecutionException( "There must be a POM in the current working directory for the Eclipse plugin to work." );
+         }
++
+         if ( "pom".equals( project.getPackaging() ) )
+         {
+             getLog().info( "Don't generate Eclipse project for pom project" );
+@@ -95,17 +101,38 @@ public void execute()
+             return;
+         }
+ 
++        if ( outputDir == null )
++        {
++            outputDir = project.getFile().getParentFile();
++        }
++        else
++        {
++            if ( !outputDir.isDirectory() )
++            {
++                throw new MojoExecutionException( "Not a directory: '" + outputDir + "'" );
++            }
++
++            outputDir = new File( outputDir, project.getArtifactId() );
++
++            if ( !outputDir.isDirectory() && !outputDir.mkdir() )
++            {
++                throw new MojoExecutionException( "Can't create directory '" + outputDir + "'" );
++            }
++        }
++
+         try
+         {
+             eclipseWriter.setLocalRepositoryFile( new File ( localRepository.getBasedir() ) );
+ 
++            eclipseWriter.setLog( getLog() );
++
+             if ( executedProject == null )
+             {
+                 // backwards compat with alpha-2 only
+                 executedProject = project;
+             }
+ 
+-            eclipseWriter.write( project, executedProject, reactorProjects );
++            eclipseWriter.write( outputDir, project, executedProject, reactorProjects );
+         }
+         catch ( EclipsePluginException e )
+         {

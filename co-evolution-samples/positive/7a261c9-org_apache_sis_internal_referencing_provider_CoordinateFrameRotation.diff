@@ -1,0 +1,14 @@
+diff --git a/core/sis-referencing/src/main/java/org/apache/sis/internal/referencing/provider/CoordinateFrameRotation.java b/core/sis-referencing/src/main/java/org/apache/sis/internal/referencing/provider/CoordinateFrameRotation.java
+index d5db6524c..c56dde66a 100644
+--- a/core/sis-referencing/src/main/java/org/apache/sis/internal/referencing/provider/CoordinateFrameRotation.java
++++ b/core/sis-referencing/src/main/java/org/apache/sis/internal/referencing/provider/CoordinateFrameRotation.java
+@@ -26,8 +26,8 @@ import org.opengis.parameter.ParameterDescriptorGroup;
+  * except that the rotation angles have the opposite sign.
+  *
+  * @author  Martin Desruisseaux (IRD, Geomatys)
+- * @since   0.7
+  * @version 0.7
++ * @since   0.7
+  * @module
+  */
+ @XmlTransient

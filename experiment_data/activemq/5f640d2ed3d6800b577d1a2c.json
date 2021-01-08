@@ -1,0 +1,32 @@
+{
+ "prod_path": "activemq-core/src/main/java/org/apache/activemq/ActiveMQConnectionFactory.java",
+ "prod_sha1": "7f0e13571f8547f1f079dbc4cfc3bba42f646e9e",
+ "repository": "activemq",
+ "prod_qual": "org/apache/activemq/ActiveMQConnectionFactory.java",
+ "prod_time": {
+  "$date": 1151777304000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "NEGATIVE",
+ "test_path": "activemq-core/src/test/java/org/apache/activemq/ActiveMQConnectionFactoryTest.java",
+ "test_qual": "org/apache/activemq/ActiveMQConnectionFactoryTest.java",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 0,
+ "add_condition_line": 4,
+ "add_field_line": 0,
+ "add_import_line": 1,
+ "add_packageid_line": 0,
+ "add_parameter_line": 2,
+ "add_return_line": 1,
+ "del_annotation_line": 0,
+ "del_call_line": 2,
+ "del_classname_line": 0,
+ "del_condition_line": 1,
+ "del_field_line": 0,
+ "del_import_line": 4,
+ "del_packageid_line": 0,
+ "del_parameter_line": 1,
+ "del_return_line": 0,
+ "test_typ": "Non"
+}

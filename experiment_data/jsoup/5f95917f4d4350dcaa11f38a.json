@@ -1,0 +1,37 @@
+{
+ "prod_path": "src/main/java/org/jsoup/parser/Parser.java",
+ "prod_sha1": "2f0a7bf507020d98b3bdbf0a93bb1c753dd90268",
+ "repository": "jsoup",
+ "test_path": "src/test/java/org/jsoup/parser/ParserTest.java",
+ "test_sha1": "2f0a7bf507020d98b3bdbf0a93bb1c753dd90268",
+ "commit_between": 0,
+ "prod_qual": "org/jsoup/parser/Parser.java",
+ "prod_time": {
+  "$date": 1261890065000
+ },
+ "prod_typ": "EDIT",
+ "sample_type": "POSITIVE",
+ "test_qual": "org/jsoup/parser/ParserTest.java",
+ "test_time": {
+  "$date": 1261890065000
+ },
+ "test_typ": "EDIT",
+ "add_annotation_line": 0,
+ "add_call_line": 108,
+ "add_classname_line": 0,
+ "add_condition_line": 38,
+ "add_field_line": 7,
+ "add_import_line": 3,
+ "add_packageid_line": 0,
+ "add_parameter_line": 16,
+ "add_return_line": 13,
+ "del_annotation_line": 0,
+ "del_call_line": 20,
+ "del_classname_line": 0,
+ "del_condition_line": 5,
+ "del_field_line": 4,
+ "del_import_line": 1,
+ "del_packageid_line": 0,
+ "del_parameter_line": 4,
+ "del_return_line": 1
+}

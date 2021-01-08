@@ -1,0 +1,37 @@
+{
+ "prod_path": "systest/jboss-test/src/main/java/com/panacya/platform/service/bus/client/ClientArgs.java",
+ "prod_sha1": "40a7d3b6ac35d2ecb34e85fc3403d2e48e33874e",
+ "repository": "activemq",
+ "test_path": "systest/jboss-test/src/test/java/com/panacya/platform/service/bus/client/ClientArgsTest.java",
+ "test_sha1": "40a7d3b6ac35d2ecb34e85fc3403d2e48e33874e",
+ "commit_between": 0,
+ "prod_qual": "com/panacya/platform/service/bus/client/ClientArgs.java",
+ "prod_time": {
+  "$date": 1134410039000
+ },
+ "prod_typ": "CREATE",
+ "sample_type": "POSITIVE",
+ "test_qual": "com/panacya/platform/service/bus/client/ClientArgsTest.java",
+ "test_time": {
+  "$date": 1134410039000
+ },
+ "test_typ": "CREATE",
+ "add_annotation_line": 0,
+ "add_call_line": 10,
+ "add_classname_line": 1,
+ "add_condition_line": 1,
+ "add_field_line": 4,
+ "add_import_line": 0,
+ "add_packageid_line": 1,
+ "add_parameter_line": 9,
+ "add_return_line": 5,
+ "del_annotation_line": 0,
+ "del_call_line": 0,
+ "del_classname_line": 0,
+ "del_condition_line": 0,
+ "del_field_line": 0,
+ "del_import_line": 0,
+ "del_packageid_line": 0,
+ "del_parameter_line": 0,
+ "del_return_line": 0
+}
